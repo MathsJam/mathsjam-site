@@ -1,0 +1,56 @@
+@media screen and (max-width:768px) {
+    html {
+        font-size: 16px;
+    }
+    .everything {
+        flex-direction: column;
+    }
+    nav#sidebar {
+        padding-bottom: 0.5rem;
+        background-color: #454748;
+    }
+    nav#sidebar h1 {
+        font-size: 1.5em;
+    }
+
+    #sidebar > ul a {
+        display: inline-block;
+        padding: 0.2em 0.5em;
+        margin: 0.1em 0;
+    }
+
+    header {
+        font-size: 2rem;
+    }
+
+    li.hiatus a::after {
+        margin-left: 0.5em;
+    }
+
+    .city-list li a {
+        white-space: nowrap;
+    }
+
+    .city-list li:not(.hiatus) a {
+        font-size: 1.5rem;
+    }
+
+    #sidebar > ul > li {
+        display: block;
+    }
+
+    #sidebar ul li ul {
+        display: none;
+    }
+
+    #sidebar ul li ul.submenu.open {
+        display: flex;
+        margin-left: 0.3em;
+        margin-right: 0.3em;
+        flex-wrap: wrap;
+    }
+    #sidebar .submenu li {
+        display: inline-block;
+        flex: 1 1 50%;
+    }
+}

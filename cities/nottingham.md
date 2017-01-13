@@ -1,0 +1,17 @@
+---
+layout: city                                           
+city_name: Nottingham                                                               
+jam_name: Nottingham MathsJam
+email: nottingham@mathsjam.com
+organiser:
+    name: John and Kathryn
+    email: nottingham@mathsjam.com
+location:
+    group: england
+    pub_name: "the Crafty Crow"
+    description: " opposite the gate to Nottingham castle"
+    url: http://www.craftycrownotts.co.uk/
+    lon: -1.153845300000057
+    lat: 52.9511504
+hiatus: False
+---
