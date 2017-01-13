@@ -9,7 +9,7 @@ organiser:
 location:
     group: england
     pub_name: "Port Street Beer House"
-    description: " (NOTE NEW VENUE FOR 2016) which is on Port Street, in the city centre not far from Piccadilly Station"
+    description: " which is on Port Street, in the city centre not far from Piccadilly Station. We'll try to find a table downstairs but if not we'll be on the first floor."
     url: http://www.portstreetbeerhouse.co.uk/
     lon: -2.2319106
     lat: 53.4820663
