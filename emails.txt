@@ -1,0 +1,2 @@
+{% for city in site.cities %}{% if loop.index0>0 %},{% endif %}{{city.email}}{%
+endfor %}
