@@ -1,8 +1,10 @@
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1150px) {
     html {
         font-size: 20px;
     }
+}
 
+@media screen and (min-width: 768px) {
     nav#sidebar {
         flex: 0 0 17em;
         border-right: 0.5rem solid;
