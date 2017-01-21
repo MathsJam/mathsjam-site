@@ -1,4 +1,8 @@
 @media screen and (min-width: 768px) {
+    html {
+        font-size: 20px;
+    }
+
     nav#sidebar {
         flex: 0 0 17em;
         border-right: 0.5rem solid;
@@ -27,21 +31,21 @@
     body.home #sidebar {
         border-right-color: hsla(200, 2%, 28%,0.8);
     }
-body.about #sidebar {
-    border-right-color: hsla(185, 57%, 52%,0.8);
-}
-body.news #sidebar {
-    border-right-color: hsla(79, 91%, 39%,0.8);
-}
-body.city #sidebar, body.find-a-jam #sidebar {
-    border-right-color: hsla(197, 78%, 52%,0.8);
-}
-body.resources #sidebar {
-    border-right-color: hsla(189, 100%, 39%,0.8);
-}
-body.gathering #sidebar {
-    border-right-color: hsla(78, 74%, 55%,0.8);
-}
+    body.about #sidebar {
+        border-right-color: hsla(185, 57%, 52%,0.8);
+    }
+    body.news #sidebar {
+        border-right-color: hsla(79, 91%, 39%,0.8);
+    }
+    body.city #sidebar, body.find-a-jam #sidebar {
+        border-right-color: hsla(197, 78%, 52%,0.8);
+    }
+    body.resources #sidebar {
+        border-right-color: hsla(189, 100%, 39%,0.8);
+    }
+    body.gathering #sidebar {
+        border-right-color: hsla(78, 74%, 55%,0.8);
+    }
 
     header {
         font-size: 3rem;
