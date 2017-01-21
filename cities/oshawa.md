@@ -1,6 +1,6 @@
 ---
-layout: city                                           
-city_name: Oshawa                                                               
+layout: city
+city_name: Oshawa, ON
 jam_name: Oshawa MathsJam
 email: oshawa@mathsjam.com
 organiser:

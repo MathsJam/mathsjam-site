@@ -1,11 +1,11 @@
 ---
-layout: city                                           
-city_name: Houston                                                               
-jam_name: Houston MathsJam
-email: houston@mathsjam.com
+layout: city
+city_name: Houston, TX
+jam_name: Houston MathJam
+email: houston@math-jam.com
 organiser:
     name: Bon
-    email: houston@mathsjam.com
+    email: houston@math-jam.com
 location:
     group: north-america
     pub_name: "The Red Lion"

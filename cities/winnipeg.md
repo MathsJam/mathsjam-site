@@ -1,6 +1,6 @@
 ---
-layout: city                                           
-city_name: Winnipeg                                                               
+layout: city
+city_name: Winnipeg, MB
 jam_name: Winnipeg MathsJam
 email: winnipeg@mathsjam.com
 organiser:

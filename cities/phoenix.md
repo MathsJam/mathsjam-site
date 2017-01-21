@@ -1,11 +1,11 @@
 ---
-layout: city                                           
-city_name: Phoenix                                                               
-jam_name: Phoenix MathsJam
-email: phoenix@mathsjam.com
+layout: city
+city_name: Phoenix, AZ
+jam_name: Phoenix MathJam
+email: phoenix@math-jam.com
 organiser:
     name: Derek
-    email: phoenix@mathsjam.com
+    email: phoenix@math-jam.com
 location:
     group: north-america
     pub_name: "Spokes"

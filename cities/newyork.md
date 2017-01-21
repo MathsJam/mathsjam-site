@@ -1,11 +1,11 @@
 ---
-layout: city                                           
-city_name: New York                                                               
-jam_name: New York MathsJam
-email: newyork@mathsjam.com
+layout: city
+city_name: New York, NY
+jam_name: New York MathJam
+email: newyork@math-jam.com
 organiser:
     name: Evan
-    email: newyork@mathsjam.com
+    email: newyork@math-jam.com
 location:
     group: north-america
     pub_name: "?"

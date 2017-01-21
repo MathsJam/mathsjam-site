@@ -1,11 +1,11 @@
 ---
-layout: city                                           
-city_name: Washington                                                               
-jam_name: Washington MathsJam
-email: washington@mathsjam.com
+layout: city
+city_name: Washington, DC
+jam_name: Washington MathJam
+email: washington@math-jam.com
 organiser:
     name: Edward
-    email: washington@mathsjam.com
+    email: washington@math-jam.com
 location:
     group: north-america
     pub_name: "?"

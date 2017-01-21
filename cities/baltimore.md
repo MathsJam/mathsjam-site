@@ -1,11 +1,11 @@
 ---
-layout: city                                           
-city_name: Baltimore                                                               
-jam_name: Baltimore MathsJam
-email: baltimore@mathsjam.com
+layout: city
+city_name: Baltimore, MD
+jam_name: Baltimore MathJam
+email: baltimore@math-jam.com
 organiser:
     name: Adam
-    email: baltimore@mathsjam.com
+    email: baltimore@math-jam.com
 location:
     group: north-america
     pub_name: "?"

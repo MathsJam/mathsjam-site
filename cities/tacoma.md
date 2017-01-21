@@ -1,8 +1,8 @@
 ---
-layout: city                                           
-city_name: Tacoma                                                               
-jam_name: Tacoma MathsJam
-email: tacoma@mathsjam.com
+layout: city
+city_name: Tacoma, WA
+jam_name: Tacoma MathJam
+email: tacoma@math-jam.com
 organiser:
     name: Mark
     email: tacoma@math-jam.com

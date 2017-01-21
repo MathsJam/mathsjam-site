@@ -1,11 +1,11 @@
 ---
-layout: city                                           
-city_name: Baton Rouge                                                               
-jam_name: Baton Rouge MathsJam
-email: batonrouge@mathsjam.com
+layout: city
+city_name: Baton Rouge, LA
+jam_name: Baton Rouge MathJam
+email: batonrouge@math-jam.com
 organiser:
     name: Mike
-    email: batonrouge@mathsjam.com
+    email: batonrouge@math-jam.com
 location:
     group: north-america
     pub_name: "Brew Bachers"

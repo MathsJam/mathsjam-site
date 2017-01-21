@@ -1,8 +1,8 @@
 ---
-layout: city                                           
-city_name: San Antonio                                                               
-jam_name: San Antonio MathsJam
-email: sanantonio@mathsjam.com
+layout: city
+city_name: San Antonio, TX
+jam_name: San Antonio MathJam
+email: sanantonio@math-jam.com
 organiser:
     name: Asa
     email: sanantonio@math-jam.com

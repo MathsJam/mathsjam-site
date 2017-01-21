@@ -1,8 +1,8 @@
 ---
-layout: city                                           
-city_name: Chicago                                                               
-jam_name: Chicago MathsJam
-email: chicago@mathsjam.com
+layout: city
+city_name: Chicago, MI
+jam_name: Chicago MathJam
+email: chicago@math-jam.com
 organiser:
     name: John
     email: chicago@math-jam.com
