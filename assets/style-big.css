@@ -39,7 +39,7 @@ body.city #sidebar, body.find-a-jam #sidebar {
 body.resources #sidebar {
     border-right-color: hsla(189, 100%, 39%,0.8);
 }
-body.conference #sidebar {
+body.gathering #sidebar {
     border-right-color: hsla(78, 74%, 55%,0.8);
 }
 

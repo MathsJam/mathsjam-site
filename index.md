@@ -27,4 +27,4 @@ Please note, the information on this website is not guaranteed to be correct - t
 
 If there isn't an event in your area, and you'd like there to be one, please email [**katie@mathsjam.com**](katie@mathsjam.com) for details of how you can set one up!
 
-MathsJam also runs an **annual conference** which takes place every November. More information about the conferences can be found [on the conference pages]({{site.url}}conference).
+MathsJam also runs an **annual gathering** which takes place every November. More information about the gatherings can be found [on the gathering pages]({{site.url}}gathering).

@@ -124,14 +124,14 @@ body.find-a-jam header, body.find-a-jam header h1, #sidebar li.find-a-jam {
 body.resources header, body.resources header h1, #sidebar li.resources {
     background-color: #00a8c6;
 }
-body.conference header, body.conference header h1, #sidebar li.conference {
+body.gathering header, body.gathering header h1, #sidebar li.gathering {
     background-color: #aee239;
     color: black;
 }
 #sidebar li.twitter {
     background-color: #0084b4;
 }
-#sidebar li.conference a {
+#sidebar li.gathering a {
     color: black;
 }
 
