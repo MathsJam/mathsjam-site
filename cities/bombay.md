@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Bombay                                                               
+city_name: Bombay (Mumbai)
 jam_name: Bombay MathsJam
 email: bombay@mathsjam.com
 organiser:
