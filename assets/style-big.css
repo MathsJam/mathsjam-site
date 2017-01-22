@@ -11,7 +11,7 @@
         max-width: 30%;
         min-width: 16em;
     }
-    nav#sidebar h1,h2,h3,h4,h5,h6 {
+    nav#sidebar h1,nav#sidebar h2, nav#sidebar h3, nav#sidebar h4, nav#sidebar h5, nav#sidebar h6 {
         font-size: 3em;
     }
 

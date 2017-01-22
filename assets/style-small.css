@@ -12,6 +12,11 @@
     nav#sidebar h1 {
         font-size: 1.5em;
     }
+    
+    #sidebar > ul > li > a {
+        display: block;
+        margin: 0;
+    }
 
     #sidebar > ul a {
         display: inline-block;
@@ -48,9 +53,14 @@
         margin-left: 0.3em;
         margin-right: 0.3em;
         flex-wrap: wrap;
+        padding-bottom: 0.2em;
     }
     #sidebar .submenu li {
         display: inline-block;
         flex: 1 1 50%;
+    }
+
+    blockquote {
+        margin: 1rem 0;
     }
 }
