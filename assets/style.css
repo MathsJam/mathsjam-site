@@ -18,7 +18,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Rokkitt',serif;
+    font-family: 'Fjalla One',serif;
 }
 header h1, #sidebar h1 {
     font-weight: normal;
@@ -51,7 +51,7 @@ header h1, #sidebar h1 {
 #sidebar > ul a {
     text-decoration: none;
     color: white;
-    font-family: 'Rokkitt',serif;
+    font-family: 'Fjalla One',serif;
     font-size: 1.2rem;
 }
 
@@ -203,7 +203,7 @@ ul.city-list {
 }
 
 .city-list li a {
-    font-family: 'Rokkitt',serif;
+    font-family: 'Fjalla One',serif;
     color: white;
     text-decoration: none;
     display: block;
