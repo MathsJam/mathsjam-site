@@ -6,7 +6,7 @@ body {
     margin: 0;
     min-height: 100vh;
     display: flex;
-    font-family: 'Neuton', serif;
+    font-family: 'Merriweather', serif;
     background: hsl(0,0%,97%);
 }
 

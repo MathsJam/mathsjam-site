@@ -4,7 +4,7 @@
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     nav#sidebar {
         flex: 0 0 17em;
         border-right: 0.5rem solid;
