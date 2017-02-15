@@ -7,6 +7,10 @@ MathsJams are gatherings for like-minded mathematically inclined people with an 
 
 Inspired by the [Gathering For Gardner](http://www.guardian.co.uk/science/2008/may/31/maths.science) events, MathsJam is a chance to share, discuss, solve or be confounded by a vast array of mathematical puzzles in a friendly, informal and inspirational atmosphere. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that are surprising, unexpected, elegant, neat, cool, or whatever just intrigues you.
 
+Some writeups of the conference:
+[MathsJam Conference 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278), by Peter Rowlett for MSOR Connections
+[A Non-mathematician at the MathsJam Weekend, November 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)by Rachael Wright
+
 ##The Team 
  
 The MathsJam team is headed by Colin Wright, with some advisers to assist.
