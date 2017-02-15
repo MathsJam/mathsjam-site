@@ -18,7 +18,10 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Fjalla One',serif;
+    font-family: 'Fjalla One',sans-serif;
+}
+button {
+    font-family: 'Fjalla One',sans-serif;
 }
 header h1, #sidebar h1 {
     font-weight: normal;
@@ -286,4 +289,40 @@ blockquote > cite {
     text-align: right;
     display: block;
     font-weight: bold;
+}
+.link-bar {
+	text-align: center;
+	font-family: 'Fjalla One',sans-serif;
+}
+
+.link-bar ul {
+	display: flex;
+	list-style: none;
+	padding: 0;
+	margin: 1rem auto;
+	justify-content: center;
+	font-size: 0.9rem;
+}
+
+.link-bar li {
+	display: inline-block;
+	padding: 0.5rem 0.75rem;
+	background: #454748;
+	color: white;
+}
+
+.link-bar li:first-child {
+	border-radius: 0.2rem 0 0 0.2rem;
+}
+.link-bar li:last-child {
+	border-radius: 0 0.2rem 0.2rem 0;
+}
+
+.link-bar li ~ li {
+	margin-left: 0.2em;
+}
+
+.link-bar a {
+	color: white;
+	text-decoration: none;
 }
