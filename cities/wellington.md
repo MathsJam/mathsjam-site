@@ -3,6 +3,7 @@ layout: city
 city_name: Wellington                                                               
 jam_name: Wellington MathsJam
 email: wellington@mathsjam.com
+twitter: WLGMathsJam
 organiser:
     name: Todd Rangiwhetu
     email: wellington@mathsjam.com

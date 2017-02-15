@@ -3,6 +3,7 @@ layout: city
 city_name: East Dorset                                                               
 jam_name: East Dorset MathsJam
 email: eastdorset@mathsjam.com
+twitter: EastDorMathsJam
 organiser:
     name: Jo
     email: eastdorset@mathsjam.com

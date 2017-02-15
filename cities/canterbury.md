@@ -3,6 +3,7 @@ layout: city
 city_name: Canterbury                                                               
 jam_name: Canterbury MathsJam
 email: canterbury@mathsjam.com
+twitter: CANMathsJam
 organiser:
     name: Sam and Claire
     email: canterbury@mathsjam.com

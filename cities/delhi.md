@@ -3,6 +3,7 @@ layout: city
 city_name: Delhi                                                               
 jam_name: Delhi MathsJam
 email: delhi@mathsjam.com
+twitter: DELMathsJam
 organiser:
     name: Sanchit
     email: delhi@mathsjam.com

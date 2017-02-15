@@ -3,6 +3,7 @@ layout: city
 city_name: Sheffield                                                               
 jam_name: Sheffield MathsJam
 email: sheffield@mathsjam.com
+twitter: SHFMathsJam
 organiser:
     name: Tanya
     email: sheffield@mathsjam.com

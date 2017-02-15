@@ -3,6 +3,7 @@ layout: city
 city_name: Reading                                                               
 jam_name: Reading MathsJam
 email: reading@mathsjam.com
+twitter: MathsJamRDG
 organiser:
     name: Netty, Tom and Mike
     email: reading@mathsjam.com

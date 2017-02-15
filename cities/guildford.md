@@ -3,6 +3,7 @@ layout: city
 city_name: Guildford                                                               
 jam_name: Guildford MathsJam
 email: guildford@mathsjam.com
+twitter: MathsJamGLD
 organiser:
     name: Alistair and Lynda
     email: guildford@mathsjam.com

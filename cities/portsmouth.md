@@ -3,6 +3,7 @@ layout: city
 city_name: Portsmouth                                                               
 jam_name: Portsmouth MathsJam
 email: portsmouth@mathsjam.com
+twitter: MathsJamPOR
 organiser:
     name: Caroline
     email: portsmouth@mathsjam.com

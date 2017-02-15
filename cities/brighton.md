@@ -3,6 +3,7 @@ layout: city
 city_name: Brighton                                                               
 jam_name: Brighton MathsJam
 email: brighton@mathsjam.com
+twitter: BTNMathsJam
 organiser:
     name: Andrew Jeffrey
     email: brighton@mathsjam.com

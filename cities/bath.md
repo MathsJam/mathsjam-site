@@ -3,6 +3,7 @@ layout: city
 city_name: Bath                                                               
 jam_name: Bath MathsJam
 email: bath@mathsjam.com
+twitter: BathMathsJam
 organiser:
     name: Ben
     email: bath@mathsjam.com

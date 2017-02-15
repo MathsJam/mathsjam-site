@@ -3,6 +3,7 @@ layout: city
 city_name: London                                                               
 jam_name: London MathsJam
 email: london@mathsjam.com
+twitter: LONMathsJam
 organiser:
     name: James and Martin
     email: london@mathsjam.com

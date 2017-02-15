@@ -3,6 +3,7 @@ layout: city
 city_name: Nottingham                                                               
 jam_name: Nottingham MathsJam
 email: nottingham@mathsjam.com
+twitter: NOTMathsJam
 organiser:
     name: John and Kathryn
     email: nottingham@mathsjam.com

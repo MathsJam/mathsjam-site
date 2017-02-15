@@ -3,6 +3,7 @@ layout: city
 city_name: Leeds                                                               
 jam_name: Leeds MathsJam
 email: leeds@mathsjam.com
+twitter: LeedsMathsJam
 organiser:
     name: Dave and Hannah
     email: leeds@mathsjam.com

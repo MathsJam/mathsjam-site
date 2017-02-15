@@ -3,6 +3,7 @@ layout: city
 city_name: Manchester                                                               
 jam_name: Manchester MathsJam
 email: manchester@mathsjam.com
+twitter: MCRMathsJam
 organiser:
     name: Katie Steckles
     email: manchester@mathsjam.com

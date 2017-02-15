@@ -3,6 +3,7 @@ layout: city
 city_name: Lund                                                               
 jam_name: Lund MathsJam
 email: lund@mathsjam.com
+twitter: MalmoMathsJam
 organiser:
     name: Jeremy and Hampus
     email: lund@mathsjam.com

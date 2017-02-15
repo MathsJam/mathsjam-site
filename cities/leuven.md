@@ -3,6 +3,7 @@ layout: city
 city_name: Leuven                                                               
 jam_name: Leuven MathsJam
 email: leuven@mathsjam.com
+twitter: MathsJamLeuven
 organiser:
     name: Joke and Mattijs
     email: leuven@mathsjam.com

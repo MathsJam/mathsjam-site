@@ -3,6 +3,7 @@ layout: city
 city_name: Winnipeg, MB
 jam_name: Winnipeg MathsJam
 email: winnipeg@mathsjam.com
+twitter: WPGMathsJam
 organiser:
     name: Sherri
     email: winnipeg@mathsjam.com

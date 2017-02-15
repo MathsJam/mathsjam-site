@@ -3,6 +3,7 @@ layout: city
 city_name: Auckland                                                               
 jam_name: Auckland MathsJam
 email: auckland@mathsjam.com
+twitter: AKLMathsJam
 organiser:
     name: Nicolette
     email: auckland@mathsjam.com

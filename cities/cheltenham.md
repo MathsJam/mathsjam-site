@@ -3,6 +3,7 @@ layout: city
 city_name: Cheltenham                                                               
 jam_name: Cheltenham MathsJam
 email: cheltenham@mathsjam.com
+twitter: CNMMathsJam
 organiser:
     name: Martin
     email: cheltenham@mathsjam.com

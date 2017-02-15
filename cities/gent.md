@@ -3,6 +3,7 @@ layout: city
 city_name: Ghent                                                               
 jam_name: Ghent MathsJam
 email: gent@mathsjam.com
+twitter: MathsJamGent
 organiser:
     name: Lieven
     email: gent@mathsjam.com

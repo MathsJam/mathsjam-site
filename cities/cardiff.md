@@ -3,6 +3,7 @@ layout: city
 city_name: Cardiff                                                               
 jam_name: Cardiff MathsJam
 email: cardiff@mathsjam.com
+twitter: CardiffMathsJam
 organiser:
     name: Elizabeth
     email: cardiff@mathsjam.com
