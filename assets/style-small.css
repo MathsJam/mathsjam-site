@@ -3,7 +3,7 @@
         font-size: 16px;
     }
     .everything {
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
     nav#sidebar {
         padding-bottom: 0.5rem;

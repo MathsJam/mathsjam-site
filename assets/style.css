@@ -98,10 +98,10 @@ header h1 {
 }
 
 body header {
-    background-image: url('images/newcastleheadpic.jpg');
-    background-size: cover;
-    background-position-y: 50%;
-    background-blend-mode: soft-light;
+    background-image: url('images/papy_1.svg');
+    background-position-x: 25%;
+	background-size: 40%;
+    background-blend-mode: screen;
 }
 
 body.home header, #sidebar li.home {
@@ -336,4 +336,10 @@ blockquote > cite {
 .link-bar a {
 	color: white;
 	text-decoration: none;
+}
+.link-bar .nav-icon {
+	width: 2em;
+	vertical-align: middle;
+	fill: white;
+	margin-right: 0.1em;
 }
