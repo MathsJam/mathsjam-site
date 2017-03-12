@@ -8,10 +8,10 @@ organiser:
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Fabulas"
-    description: ", Cal&ccedil;ada Nova de S&atilde;o Francisco 14"
-    url: http://www.fabulas.pt/
-    lon: -9.14006
-    lat: 38.710241
+    pub_name: "Arte final café"
+    description: ""
+    url: https://goo.gl/maps/LuRTPugHHio
+    lat: 38.7091469
+    lon: -9.1344288
 hiatus: False
 ---

@@ -8,10 +8,10 @@ organiser:
     email: swansea@mathsjam.com
 location:
     group: rest-of-uk
-    pub_name: "The Potters Wheel"
-    description: ", on Kingsway"
-    url: https://www.jdwetherspoon.com/pubs/all-pubs/wales/swansea/the-potters-wheel-swansea
-    lon: -3.94946
-    lat: 51.6192085
+    pub_name: "The Mill"
+    description: ", on Brynymor Road"
+    url: https://www.facebook.com/themillswansea1/?rf=161133143903687
+    lon: -3.9612769
+    lat: 51.6163083
 hiatus: False
 ---

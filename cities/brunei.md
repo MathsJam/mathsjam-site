@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Brunei                                                               
+city_name: Brunei
 jam_name: Brunei MathsJam
 email: brunei@mathsjam.com
 organiser:

@@ -3,6 +3,7 @@ layout: city
 city_name: Oslo                                                               
 jam_name: Oslo MathsJam
 email: oslo@mathsjam.com
+facebook: https://www.facebook.com/MathsJamOslo
 organiser:
     name: Tjerand
     email: oslo@mathsjam.com
