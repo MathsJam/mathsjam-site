@@ -9,7 +9,7 @@ organiser:
 location:
     group: north-america
     pub_name: "Bar Louie"
-    description: " on La Cantera Parkway"
+    description: " on La Cantera Parkway. Parking lot 11C has the most spaces at the shortest distance."
     url: http://www.barlouie.com/locations/states/texas/la-cantera
     lon: -98.61096169999996
     lat: 29.5932771

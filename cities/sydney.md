@@ -8,7 +8,7 @@ organiser:
     email: sydney@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Caf&eacute; Gioa"
+    pub_name: "Café Gioa"
     description: ", on Norton Street Leichhardt"
     url: http://www.gioiacafe.com/
     lon: 151.15671470000007

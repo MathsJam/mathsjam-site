@@ -13,5 +13,5 @@ location:
     url: http://www.moorhenpub.co.uk/
     lon: -0.277881
     lat: 52.5324612
-hiatus: False
+hiatus: True
 ---

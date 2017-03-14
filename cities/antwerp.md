@@ -3,6 +3,7 @@ layout: city
 city_name: Antwerp                                                               
 jam_name: Antwerp MathsJam
 email: antwerp@mathsjam.com
+facebook: https://www.facebook.com/mathsjamantwerpen
 organiser:
     name: Rudi
     email: antwerp@mathsjam.com

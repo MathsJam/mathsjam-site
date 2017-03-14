@@ -4,6 +4,7 @@ city_name: Cardiff
 jam_name: Cardiff MathsJam
 email: cardiff@mathsjam.com
 twitter: CardiffMathsJam
+blog: http://cardiffmathsjam.tumblr.com/
 organiser:
     name: Elizabeth
     email: cardiff@mathsjam.com

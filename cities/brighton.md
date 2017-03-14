@@ -5,7 +5,7 @@ jam_name: Brighton MathsJam
 email: brighton@mathsjam.com
 twitter: BTNMathsJam
 organiser:
-    name: Andrew Jeffrey
+    name: Adam Atkinson
     email: brighton@mathsjam.com
 location:
     group: england

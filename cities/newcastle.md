@@ -11,7 +11,7 @@ location:
     pub_name: "The Charles Grey"
     description: " on Grey Street, near Grey's Monument and Monument Metro station"
     url: http://www.pubsnewcastle.co.uk/TheCharlesGrey.html
-    lon: -1.612807
-    lat: 54.9768867
+    lon: -1.6150183
+    lat: 54.9738537
 hiatus: False
 ---
