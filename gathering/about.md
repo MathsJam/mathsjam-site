@@ -11,7 +11,7 @@ Some writeups of the gathering:
 
 [MathsJam Conference 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278), by Peter Rowlett for MSOR Connections
 
-[A Non-mathematician at the MathsJam Weekend, November 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)by Rachael Wright
+[A Non-mathematician at the MathsJam Weekend, November 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514), by Rachael Wright
 
 ##The Team 
  
@@ -31,12 +31,14 @@ Matt Parker
 <img src="/images/MattParker.jpg" hspace="10" width="100px" align="right">
  
 Possibly the only person to hold the prestigious title of London Mathematical Society Popular Lecturer while simultaneously having a sold-out comedy show at the Edinburgh Festival Fringe, Matt is always keen to mix his two passions of mathematics and stand-up. Originally a maths teacher from Australia, Matt now lives in London and works both as a stand-up comedian and a maths communicator. This involves spreading his love of maths via books, radio programmes, TV shows, newspapers, school visits, live comedy shows and occasionally harassing people in the street. Matt is also the Public Engagement in Mathematics Fellow at Queen Mary University of London.
+
 [Matt's website](http://www.standupmaths.com)
 
 Katie Steckles
 <img src="/images/Katie.jpg" hspace="10" width="100px" align="right">
 
 Katie Steckles is a mathematician based in Manchester, who gives talks and workshops on different areas of maths. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio, at music festivals, as part of theatre shows and on the internet. She enjoys doing puzzles, solving the Rubik's cube and baking things shaped like maths.
+
 [Katie's website](http:/www.katiesteckles.co.uk)
 
 Rob Eastaway</h2> 
@@ -45,4 +47,5 @@ Rob Eastaway</h2>
 Rob Eastaway is an author who is active in the popularisation of mathematics. He has a degree in Engineering and Management Science from the University of Cambridge, and was made President of the UK Mathematical Association for 2007/2008. He is also a former puzzle-writer for the New Scientist Magazine. Rob is the director of Maths Inspiration, a national programme of maths lectures for teenagers which involves some of the UK's leading maths speakers.
 
 [Rob's website](http://www.robeastaway.com/)
+
 [Maths Inspiration website](http://www.mathsinspiration.com)
