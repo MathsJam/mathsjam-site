@@ -43,7 +43,7 @@ header h1, #sidebar h1 {
 
 #sidebar {
     box-sizing: border-box;
-    background-color: #454748;
+    background-color: #C62748;
 }
 #sidebar h1, #sidebar h2, #sidebar h3, #sidebar h4, #sidebar h5, #sidebar h6 {
     margin: 0;
@@ -53,7 +53,7 @@ header h1, #sidebar h1 {
 
 #sidebar > ul a {
     text-decoration: none;
-    color: white;
+    color: #fefad7;
     font-family: 'Fjalla One',serif;
     font-size: 1.2rem;
 }
@@ -88,7 +88,7 @@ header {
     margin: 0em 0 1rem 0em;
     background: #b36c35;
     padding-top: 10rem;
-    color: white;
+    color: hsl(46, 96%, 8%);
 }
 header h1.jam-name {
     font-size: 1.5em;
@@ -98,24 +98,19 @@ header h1 {
 }
 
 body header {
-    background-image: url('images/papy_1.svg');
+    background-image: url('https://photos-3.dropbox.com/t/2/AAB5tMAUu9KaFnW7OQPJMMb7gWl2Nb6rzIK1SYrlocpeFw/12/14337736/png/32x32/3/1489539600/0/2/papy_5.png/EOLE1AoY-ZwbIAcoBw/IDkavgFSOdGaSAtlG5M9CKjCP-xg8HgFcyxcsK5t9Uc?dl=0&size=2048x1536&size_mode=3');
     background-position-x: 25%;
-	background-size: 40%;
+    background-size: 40%;
     background-blend-mode: screen;
 }
 
 body.home header, #sidebar li.home {
-    background-color: #454748;
 }
 body.home header h1 {
-    background: linear-gradient(
-        hsla(200, 2%, 28%,0),
-        hsla(200, 2%, 28%,0.8) 2rem,
-        hsla(200, 2%, 28%,1)
-    );
+    background: linear-gradient(         hsla(54, 95%, 92%,0),         hsla(54, 95%, 92%,0.8) 2rem,         hsla(54, 95%, 92%,1)     );
 }
 body.about header, #sidebar li.about {
-    background-color: #40c0cb;
+    background-color: #3c6b48;
 }
 body.about header h1 {
     background: linear-gradient(
@@ -125,7 +120,7 @@ body.about header h1 {
     );
 }
 body.news header, #sidebar li.news {
-    background-color: #83bc09;
+    background-color: #fad127;
 }
 body.news header h1 {
     background: linear-gradient(
@@ -145,7 +140,7 @@ body.city header h1 {
     );
 }
 body.find-a-jam header, #sidebar li.find-a-jam {
-    background-color: #26ade4;
+    background-color: #083a7b;
 }
 body.find-a-jam header h1 {
     background: linear-gradient(
@@ -165,7 +160,7 @@ body.resources header h1 {
     );
 }
 body.gathering header, #sidebar li.gathering {
-    background-color: #aee239;
+    background-color: #fad127;
     color: black;
 }
 body.gathering header h1 {
@@ -179,7 +174,7 @@ body.gathering header h1 {
     background-color: #0084b4;
 }
 #sidebar li.gathering a {
-    color: black;
+    color: hsl(54, 95%, 8%);
 }
 #sidebar li.gathering a .nav-icon {
 	fill: black;
@@ -343,3 +338,4 @@ blockquote > cite {
 	fill: white;
 	margin-right: 0.1em;
 }
+
