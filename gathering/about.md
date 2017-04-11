@@ -7,6 +7,11 @@ MathsJams are gatherings for like-minded mathematically inclined people with an 
 
 Inspired by the [Gathering For Gardner](http://www.guardian.co.uk/science/2008/may/31/maths.science) events, MathsJam is a chance to share, discuss, solve or be confounded by a vast array of mathematical puzzles in a friendly, informal and inspirational atmosphere. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that are surprising, unexpected, elegant, neat, cool, or whatever just intrigues you.
 
+<b>Students</b>: By looking at problems, puzzles, games and other challenges you can gain a wealth of techniques and materials for approaching problems, both real-world and in your studies.
+<b>Teachers</b>: You'll get a vast selection of stimulating starters to stretch and challenge even the most demanding students, an awareness of how to encourage the most able students to enrich their learning of mathematics, and a variety of techniques to lead students to develop their thinking skills and to question and work with others collaboratively to solve mathematical problems.
+<b>Professionals</b>: Puzzles and games form a microcosm in which we can explore problem-solving techniques and analytical styles.
+<b>Everyone else</b>: It should be a fun, stimulating event that let you connect, or re-connect, with your love of maths!
+
 Some writeups of the gathering:
 
 [MathsJam Conference 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278), by Peter Rowlett for MSOR Connections
