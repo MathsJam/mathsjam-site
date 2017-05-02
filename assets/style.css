@@ -31,7 +31,6 @@ header h1, #sidebar h1 {
     flex: 3 1 15em;
 }
 .content-block {
-    max-width: 800px;
     margin: 1em auto;
 }
 
