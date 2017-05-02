@@ -95,28 +95,33 @@ header h1.jam-name {
 }
 header h1 {
     padding-top: 2rem;
+	color: #fefad7;
 }
 
 body header {
-    background-image: url('https://photos-3.dropbox.com/t/2/AAB5tMAUu9KaFnW7OQPJMMb7gWl2Nb6rzIK1SYrlocpeFw/12/14337736/png/32x32/3/1489539600/0/2/papy_5.png/EOLE1AoY-ZwbIAcoBw/IDkavgFSOdGaSAtlG5M9CKjCP-xg8HgFcyxcsK5t9Uc?dl=0&size=2048x1536&size_mode=3');
-    background-position-x: 25%;
-    background-size: 40%;
+    background-image: url('images/papy.svg');
+    background-position: 65% 50%;
+    background-size: 130%;
     background-blend-mode: screen;
 }
 
-body.home header, #sidebar li.home {
+body.home header {
 }
 body.home header h1 {
-    background: linear-gradient(         hsla(54, 95%, 92%,0),         hsla(54, 95%, 92%,0.8) 2rem,         hsla(54, 95%, 92%,1)     );
+    background: linear-gradient(
+		hsla(26,54%,45%,0),
+		hsla(26,54%,45%,0.8) 2rem,
+		hsla(26,54%,45%,1)
+	);
 }
 body.about header, #sidebar li.about {
     background-color: #3c6b48;
 }
 body.about header h1 {
     background: linear-gradient(
-        hsla(185, 57%, 52%,0),
-        hsla(185, 57%, 52%,0.8) 2rem,
-        hsla(185, 57%, 52%,1)
+        hsla(135,28%,33%,0),
+        hsla(135,28%,33%,0.8) 2rem,
+        hsla(135,28%,33%,1)
     );
 }
 body.news header, #sidebar li.news {
@@ -144,9 +149,9 @@ body.find-a-jam header, #sidebar li.find-a-jam {
 }
 body.find-a-jam header h1 {
     background: linear-gradient(
-        hsla(197, 78%, 52%,0),
-        hsla(197, 78%, 52%,0.8) 2rem,
-        hsla(197, 78%, 52%,1)
+        hsla(214,88%,26%,0),
+        hsla(214,88%,26%,0.8) 2rem,
+        hsla(214,88%,26%,1)
     );
 }
 body.resources header, #sidebar li.resources {
@@ -164,6 +169,7 @@ body.gathering header, #sidebar li.gathering {
     color: black;
 }
 body.gathering header h1 {
+	color: hsl(54, 95%, 8%);
     background: linear-gradient(
         hsla(78, 74%, 55%,0),
         hsla(78, 74%, 55%,0.8) 2rem,
