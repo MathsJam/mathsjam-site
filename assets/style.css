@@ -348,3 +348,6 @@ body.gathering .team-pic {
 	float: right;
 	margin: 0 0 1rem 1rem;
 }
+body.gathering .programme-table td:first-child {
+	padding-right: 1em;
+}
