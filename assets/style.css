@@ -338,4 +338,8 @@ blockquote > cite {
 	fill: white;
 	margin-right: 0.1em;
 }
-
+body.gathering .team-pic {
+	width: 100px;
+	float: right;
+	margin: 0 0 1rem 1rem;
+}
