@@ -7,6 +7,38 @@ MathsJams are gatherings for like-minded mathematically inclined people with an 
 
 Inspired by the [Gathering For Gardner](http://www.guardian.co.uk/science/2008/may/31/maths.science) events, MathsJam is a chance to share, discuss, solve or be confounded by a vast array of mathematical puzzles in a friendly, informal and inspirational atmosphere. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that are surprising, unexpected, elegant, neat, cool, or whatever just intrigues you.
 
+From Colin Wright:
+
+> Shortly before Easter I was privileged to attend the Gathering For Gardner, an event that celebrates the continuing life and work of Martin Gardner. The gathering brings together people with an interest in magic, puzzles, recreational maths, and the connection between them.
+> 
+> Everyone at the Gathering is amazingly generous, sharing tricks, problems, puzzles, and I learned so much, it was fantastic.
+> 
+> The week after Easter I was at the British Congress for Maths Education (BCME) and over lunch we were swapping puzzles and problems. David Bedford said, "Why don't we have a Gathering in the UK?"
+> 
+> I replied "Indeed - why don't we organise one." and so the MathsJam was born.
+> 
+> James and Matt were handy, so over coffee we tried to work out why it couldn't work, and failed. We thought about what would have to be done, and how we would have to do it, and it seemed like it could work.
+> 
+> And it should be fun.
+> 
+> And so it started. We're just a bunch of friends, interested in maths, wanting to share what we know, and in return be entertained and intrigued by others who share our love of fun in maths.
+> 
+> We're not professional events organisers, and we're not intending this to be a formal "training" or "educational" conference or event. It's just a gathering of people who share in enthusiasm for recreational maths.
+
+We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that are surprising, unexpected, elegant, neat, cool, or whatever just intrigues you.
+
+Can you give the question in 2 minutes, but have people scratching their head for days? No doubt someone will find the answer quickly, but if a few are puzzled, then it's a good one.
+
+So here are some examples - don't expect them all to have clear answers, or even to be well-defined!
+
+**What proportion of numbers don't have the digit 9?**
+
+**If a bacterium divides in two with probability p and dies the rest of the time, starting with one bacterium, what is the probability that the population dies out entirely?**
+
+**In how many ways can you dissect a square into congruent pieces that all touch the centre point?**
+
+## Why you should come to the MathsJam Gathering
+
 **Students**: By looking at problems, puzzles, games and other challenges you can gain a wealth of techniques and materials for approaching problems, both real-world and in your studies.
 
 **Teachers**: You'll get a vast selection of stimulating starters to stretch and challenge even the most demanding students, an awareness of how to encourage the most able students to enrich their learning of mathematics, and a variety of techniques to lead students to develop their thinking skills and to question and work with others collaboratively to solve mathematical problems.
