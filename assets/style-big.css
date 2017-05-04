@@ -48,7 +48,7 @@
     }
 
     .city-list > li {
-        max-width: 15em;
+        max-width: 16em;
     }
 
     .city-list li:not(.hiatus) a {
