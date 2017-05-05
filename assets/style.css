@@ -100,18 +100,19 @@ header h1 {
 body header {
     background-image: url('images/papy.svg');
     background-position: 65% 50%;
-    background-size: 130%;
+    background-size: 130vw;
     background-blend-mode: screen;
 }
 
-body.home header {
-}
 body.home header h1 {
     background: linear-gradient(
 		hsla(26,54%,45%,0),
 		hsla(26,54%,45%,0.8) 2rem,
 		hsla(26,54%,45%,1)
 	);
+}
+body.about header {
+    background-position: 5% 15%;
 }
 body.about header, #sidebar li.about {
     background-color: #3c6b48;
@@ -122,6 +123,9 @@ body.about header h1 {
         hsla(135,28%,33%,0.8) 2rem,
         hsla(135,28%,33%,1)
     );
+}
+body.news header {
+    background-position: 75% 80%;
 }
 body.news header, #sidebar li.news {
     background-color: #fad127;
@@ -134,6 +138,7 @@ body.news header h1 {
     );
 }
 body.city header {
+    background-position: 5% 85%;
     background-color: #26ade4;
 }
 body.city header h1 {
@@ -142,6 +147,9 @@ body.city header h1 {
         hsla(197, 78%, 52%,0.8) 2rem,
         hsla(197, 78%, 52%,1)
     );
+}
+body.find-a-jam header {
+    background-position: 65% 30%;
 }
 body.find-a-jam header, #sidebar li.find-a-jam {
     background-color: #083a7b;
@@ -153,6 +161,9 @@ body.find-a-jam header h1 {
         hsla(214,88%,26%,1)
     );
 }
+body.resources header {
+    background-position: 15% 50%;
+}
 body.resources header, #sidebar li.resources {
     background-color: #00a8c6;
 }
@@ -162,6 +173,9 @@ body.resources header h1 {
         hsla(189, 100%, 39%,0.8) 2rem,
         hsla(189, 100%, 39%,1)
     );
+}
+body.gathering header {
+    background-position: 5% 40%;
 }
 body.gathering header, #sidebar li.gathering {
     background-color: #fad127;

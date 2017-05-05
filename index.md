@@ -21,8 +21,14 @@ We meet on the second to last Tuesday of every month, from 7pm in the evening, i
 For more details of local events, choose your region from the menu, or visit the [find a jam]({{site.url}}find-a-jam) page. 
 
 <div id="next-jam" class="content-block">
-    <p>The next MathsJam evening is <span class="date">{{next_jam_date()}}</span> in</p>
-    <ol class="cities">{% for city in site.cities %}{% if not city|on_hiatus %}<li><a href="{{site.url}}{{city.url}}">{{city.city_name}}</a></li>{% if not loop.last %}{% if loop.index == loop.length-1 %} and {% else %}, {% endif %}{% endif %}{% endif %}{% endfor %}</ol>.
+    <p>The next MathsJam evening is:</p>
+    {% for date,cities in group_cities_by_jam_date(site.cities) %}
+    <p>
+        <strong>{{date|show_date}}</strong>
+        in 
+        <span class="cities">{% for city in cities %}<span><a href="{{site.url}}{{city.url}}">{{city.city_name}}</a></span>{% if not loop.last %}{% if loop.index == loop.length-1 %} and {% else %}, {% endif %}{% endif %}{% endfor %}</span>.
+    </p>
+    {% endfor %}
 </div>
 
 
