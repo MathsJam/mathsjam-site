@@ -8,7 +8,7 @@ organiser:
     email: stockholm@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Blecktornskällaren "
+    pub_name: "Blecktornskällaren"
     description: ", at Ringvaägen 147"
     url: http://blecktornskallaren.kvartersmenyn.se
     lon: 18.0822025

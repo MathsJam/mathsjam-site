@@ -4,14 +4,14 @@ city_name: Melbourne
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
 organiser:
-    name: ?
-    email: ?
+    name: Julia
+    email: melbourne@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "?"
-    description: "?"
-    url: ?
-    lon: 144.963127
-    lat: -37.8041099
-hiatus: True
+    pub_name: "Captain Melville bar"
+    description: ", on Franklin Street and near to Central Station"
+    url: http://www.captainmelville.com.au/
+    lon: 144.9595196
+    lat: -37.8077339
+hiatus: False
 ---

@@ -3,6 +3,7 @@ layout: city
 city_name: Lincoln                                                               
 jam_name: Lincoln MathsJam
 email: lincoln@mathsjam.com
+twitter: MathsJamLincoln
 organiser:
     name: Lee
     email: lincoln@mathsjam.com

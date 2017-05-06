@@ -13,5 +13,5 @@ location:
     url: http://www.orzobruno.it/
     lat: 43.7177141
     lon: 10.4010575
-hiatus: True
+hiatus: False
 ---

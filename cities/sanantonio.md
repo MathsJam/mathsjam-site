@@ -13,5 +13,5 @@ location:
     url: http://www.barlouie.com/locations/states/texas/la-cantera
     lon: -98.61096169999996
     lat: 29.5932771
-hiatus: False
+hiatus: True
 ---

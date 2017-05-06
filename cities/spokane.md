@@ -8,7 +8,7 @@ organiser:
     email: spokane@math-jam.com
 location:
     group: north-america
-    pub_name: "Bellbether Brewing Co"
+    pub_name: "Bellwether Brewing Co"
     description: ", near Monroe and Knox"
     url: http://www.bellwetherbrewing.net/
     lon: -117.4293111

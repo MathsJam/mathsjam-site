@@ -14,5 +14,5 @@ location:
     url: https://www.facebook.com/realistforeningen
     lon: 10.723297300000013
     lat: 59.9401246
-hiatus: False
+hiatus: True
 ---

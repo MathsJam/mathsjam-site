@@ -1,0 +1,18 @@
+---
+layout: city                                           
+city_name: Kingston upon Thames
+jam_name: MathsJam Kingston
+email: kingston@mathsjam.com
+organiser:
+    name: Daniel
+    email: kingston@mathsjam.com
+location:
+    group: england
+    pub_name: "the Cornerstone pub"
+    description: " in the Rotunda opposite Kingston Station"
+    url: https://www.hungryhorse.co.uk/locations/cornerstone
+    lon: -0.3020113
+    lat: 51.4119319
+hiatus: False
+---
+

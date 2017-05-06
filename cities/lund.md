@@ -16,3 +16,10 @@ location:
     lat: 55.7072811
 hiatus: False
 ---
+
+The location alternates every month:
+
+* Even-numbered months: [Bishop Arms](http://www.bishopsarms.com/Malmo___Savoy) on Norra Vallgatan, in Malmö
+* Odd-numbered months: [John Bull Pub](http://www.theoldbull.se/) on Bantorget (near the Grand Hotel), in Lund
+
+Example: December MathsJam (month 12) is in Malmö, and January MathsJam (month 1) is in Lund. Check the [Twitter account](https://twitter.com/MalmoMathsJam) to be sure!
