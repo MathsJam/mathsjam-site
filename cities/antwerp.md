@@ -12,7 +12,7 @@ location:
     pub_name: "Agora"
     description: ", Grote Kauwenberg 2"
     url: http://www.goudengids.be/agora-caffee-antwerpen-2000/
-    lon: 0
-    lat: 0
+    lon: 4.4180825
+    lat: 51.2248121
 hiatus: False
 ---
