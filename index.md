@@ -3,17 +3,6 @@ layout: default
 title: MathsJam
 body_class: home
 ---
-<style>
-#next-jam .cities {
-    list-style: none;
-    padding: 0;
-    display: inline;
-}
-#next-jam .cities > li {
-    display: inline;
-}
-</style>
-
 **MathsJam** is a monthly opportunity for like-minded self-confessed maths enthusiasts to get together in a pub and share stuff they like. Puzzles, games, problems, or just anything they think is cool or interesting.
 
 We meet on the second to last Tuesday of every month, from 7pm in the evening, in locations around the world.

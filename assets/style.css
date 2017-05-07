@@ -365,3 +365,14 @@ body.gathering .team-pic {
 body.gathering .programme-table td:first-child {
 	padding-right: 1em;
 }
+
+body.home #next-jam .cities {
+    list-style: none;
+    padding: 0;
+    display: inline;
+}
+body.home #next-jam .cities > li {
+    display: inline;
+}
+
+
