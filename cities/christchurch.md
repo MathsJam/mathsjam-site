@@ -16,5 +16,5 @@ location:
 hiatus: False
 hiatus_months:
     - 2017-05
-jam_date_rule: third tuesday
+jam_date_rule: third Tuesday
 ---

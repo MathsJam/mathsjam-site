@@ -15,5 +15,5 @@ location:
     lat: 19.1361941
     lon: 72.8310403
 hiatus: False
-jam_date_rule: fourth saturday
+jam_date_rule: fourth Saturday
 ---
