@@ -3,6 +3,7 @@ layout: city
 city_name: Christchurch, NZ                                                           
 jam_name: MathsJam Christchurch
 email: christchurch@mathsjam.com
+twitter: ChchMathsJam
 organiser:
     name: Rata
     email: christchurch@mathsjam.com
