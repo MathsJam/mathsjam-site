@@ -3,6 +3,7 @@ layout: city
 city_name: Kingston upon Thames
 jam_name: MathsJam Kingston
 email: kingston@mathsjam.com
+twitter: KingMathsJam
 organiser:
     name: Daniel
     email: kingston@mathsjam.com
