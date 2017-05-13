@@ -1,4 +1,7 @@
-MathsJam Gathering Details
+---
+layout: gathering
+title: MathsJam Gathering Programme
+---
 
 The MathsJam gathering takes place on a weekend in November, at Yarnfield Park, near Stone, Staffordshire. Sessions take place on Saturday afternoon and evening, when we have an informal conference dinner, and then continue on Sunday morning, finishing in the afternoon. Some delegates arrive earlier and stay longer afterwards. Each session will consist of 5 minute talks, interspersed with breaks for tea, coffee, discussion and networking. And playing with things.
 
@@ -8,19 +11,20 @@ Full details, and pricing, will be made available once registration opens, altho
 
 We also run several additional events during the weekend, which attendees can choose to participate in.
 
-##Tables of Stuff
+## Tables of Stuff
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
-##MathsJam Baking Competition
+## MathsJam Baking Competition
 Anyone attending the conference is welcome to enter our now-annual baking competition. Entry to the competition is free (strictly, it'll cost you one cake).
 
 The cakes are judged by a randomly selected panel from the conference, and there are prizes for best cake, best presentation, and best maths. Any cake not required for judging purposes will be distributed among the MathsJam conference attendees.
 
-##MathsJam Competition Competition
+## MathsJam Competition Competition
 We also run an annual competition competition, to which attendees are invited to submit a competition in the form of an A5 photocopied sheet, in enough quantity for everyone to have a go, with a minimum font size of 18pt and a box for people to submit their entries. Any type of competition is permitted as long as it can be judged by the setter (or a winner randomly chosen from the correct entries), and a prize with a market value of less than one pound must be provided.
 
 The competitions will be judged by a randomly selected panel from the conference, and there will be three prizes - best competition, popular vote winner (most entries) and best attempt at circumvention of the rules while still strictly sticking to the rules. The rules, in full, will be available on this website in advance of the weekend.
 
-##Saturday Evening entertainment
+## Saturday Evening entertainment
 Attendees will be able to submit entries for a table (or other area) for the Saturday evening entertainment. A section of the conference room tables will each contain an activity, and the person proposing the activity must bring instructions, equipment and materials for attendees to learn a new thing, make something or do something fun. Proposals can range from 'Let's play game X' through to 'I will teach you how to Y'. The person proposing the activity must also be prepared to stay at their table for the whole of a pre-specified hour of the evening (timing TBC, but starting after dinner), although activities may continue afterwards. People running tables will also get a one-minute talk slot during the day in a special lightning session to explain/advertise their activity.
+
 Activities which were successful last year included a MathsJam Jam (a singalong with rewritten mathematical words to popular songs) and the MathsJam Only Connect Quiz. It is anticipated that both will run again, and details will be posted here.
