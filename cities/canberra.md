@@ -11,7 +11,7 @@ location:
     pub_name: "Olim's Bar"
     description: " in the Mercure Hotel on Limestone Avenue"
     url: http://www.mercurecanberra.com.au/dining/olims-bar-bistro/
-    lon: -35.275945
-    lat: 149.142478
+    lon: 149.142478
+    lat: -35.275945
 hiatus: False
 ---
