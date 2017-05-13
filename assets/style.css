@@ -178,15 +178,15 @@ body.gathering header {
     background-position: 5% 40%;
 }
 body.gathering header, #sidebar li.gathering {
-    background-color: #fad127;
+    background-color: hsl(54, 95%, 57%);
     color: black;
 }
 body.gathering header h1 {
 	color: hsl(54, 95%, 8%);
     background: linear-gradient(
-        hsla(78, 74%, 55%,0),
-        hsla(78, 74%, 55%,0.8) 2rem,
-        hsla(78, 74%, 55%,1)
+        hsla(54, 74%, 55%,0),
+        hsla(54, 74%, 55%,0.8) 2rem,
+        hsla(54, 74%, 55%,1)
     );
 }
 #sidebar li.twitter {
