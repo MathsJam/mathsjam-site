@@ -1,4 +1,4 @@
-# [The MathsJam website](https://www.checkmyworking.com/misc/new-mathsjam/)
+# [The MathsJam website](https://mathsjam.com)
 
 This repository contains the source files to generate the MathsJam website.
 
