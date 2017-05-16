@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: ""
-    description: "The usual pub is under renovation in March, so please contact the address below for details of the new venue."
+    description: "We're currently in the process of choosing a new venue, so please contact the address above for details of the venue until it's confirmed."
     url: ?
     lon: -1.091392
     lat: 50.7955633
