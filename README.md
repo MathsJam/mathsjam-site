@@ -38,6 +38,7 @@ location:
     lat: 50.0000000
 hiatus: False (change to True if the Jam is not currently running)
 jam_date_rule: second-last tuesday
+start_time: 7pm in the evening
 ---
 ```
 
