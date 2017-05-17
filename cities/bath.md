@@ -12,7 +12,7 @@ location:
     pub_name: "Hall and Woodhouse"
     description: ", on Old King Street"
     url: http://hall-woodhousebath.co.uk/
-    lon: -2.357432600000038
-    lat: 51.3839511
+    lon: -2.362606
+    lat: 51.383856
 hiatus: False
 ---
