@@ -9,9 +9,9 @@ organiser:
 location:
     group: north-america
     pub_name: "Brew Bachers"
-    description: ", on Government St (note, the venue has changed!)"
+    description: ", on Government St"
     url: http://brewbachersgrill.com/
     lon: -91.13289989999998
     lat: 30.444307
-hiatus: False
+hiatus: True
 ---
