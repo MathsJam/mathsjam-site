@@ -14,5 +14,6 @@ location:
     lat: 43.5439109
     lon: -80.2525496
 hiatus: False
+jam_date_rule: second last Thursday
 start_time: 7.30pm in the evening
 ---
