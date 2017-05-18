@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Guelph
+city_name: Guelph, ON
 jam_name: MathJam Guelph
 email: guelph@mathsjam.com
 organiser:
@@ -14,4 +14,5 @@ location:
     lat: 43.5439109
     lon: -80.2525496
 hiatus: False
+start_time: 7.30pm in the evening
 ---
