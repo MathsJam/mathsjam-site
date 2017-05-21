@@ -79,7 +79,7 @@ Possibly the only person to hold the prestigious title of London Mathematical So
 
 Katie Steckles is a mathematician based in Manchester, who gives talks and workshops on different areas of maths. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio, at music festivals, as part of theatre shows and on the internet. She enjoys doing puzzles, solving the Rubik's cube and baking things shaped like maths.
 
-[Katie's website](http:/www.katiesteckles.co.uk)
+[Katie's website](http://www.katiesteckles.co.uk)
 
 ### Rob Eastaway
 <img src="Rob.jpg" class="team-pic">
