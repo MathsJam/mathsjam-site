@@ -44,6 +44,10 @@ start_time: 7pm in the evening
 
 All the data from this file will be used to create the page for the Jam, and all other references to the city throughout the site.
 
+If your Jam doesn't meet on the second-last Tuesday of the month, you can add a line for 'jam_date_rule' and follow the convention of 'first/second/third/fourth(-last) Weekday', e.g. fourth Thursday, third-last Saturday. If you can't work out how to word it, do your best and we can fix it before merging.
+
+If you need to put your MathsJam on hiatus for a single month, this is also possible.
+
 ## Responsible people
 
 * Christian Lawson-Perfect ([@christianp](http://github.com/christianp))
