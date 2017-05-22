@@ -5,7 +5,7 @@ jam_name: Leuven MathsJam
 email: leuven@mathsjam.com
 twitter: MathsJamLeuven
 organiser:
-    name: Joke and Mattijs
+    name: the organiser
     email: leuven@mathsjam.com
 location:
     group: rest-of-world
@@ -14,5 +14,5 @@ location:
     url: http://domusleuven.be/en/
     lon: 4.703020199999969
     lat: 50.8786368
-hiatus: False
+hiatus: True
 ---
