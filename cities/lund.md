@@ -14,7 +14,7 @@ location:
     url: http://www.theoldbull.se/
     lon: 13.189011
     lat: 55.7072811
-hiatus: False
+hiatus: True
 ---
 
 The location alternates every month:
