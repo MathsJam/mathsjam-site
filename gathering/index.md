@@ -2,7 +2,7 @@
 layout: gathering
 ---
 
-The last MathsJam gathering took place on **12<sup>th</sup>-13<sup>th</sup> November 2016**. The 2017 gathering will be on **11<sup>th</sup>-12<sup>th</sup> November**, and when booking opens, which will be soon, details will be added here.
+The last MathsJam gathering took place on **12<sup>th</sup>-13<sup>th</sup> November 2016**. The 2017 gathering will be on **11<sup>th</sup>-12<sup>th</sup> November**, and when booking opens details will be added here.
 
 The talk listings and abstracts for 2016 talks can be found on [the talks page]({{site.url}}/gathering/archive/2016), and we'll update that page with slides shortly. Talks from past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
 
