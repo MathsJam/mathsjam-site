@@ -2,13 +2,13 @@
 layout: gathering
 ---
 
-Regsitration for the 2017 gathering has opened!  It will be held on **11<sup>th</sup>-12<sup>th</sup> November**, and we are returning to our home for the past few years:
+Registration for the 2017 gathering has opened!  It will be held on **11<sup>th</sup>-12<sup>th</sup> November**, and we are returning to our home for the past few years:
 
-* Yarnfield Park
-* Yarnfield
-* Stone
-* Staffordshire
-* ST15 0NL
+> Yarnfield Park  
+> Yarnfield  
+> Stone  
+> Staffordshire  
+> ST15 0NL  
 
 Prices are £165.00 for a single delegate, or £250.00 for two delegate sharing a room.  Twin rooms are available.  The full package includes accommodation, all sessions, and all meals.  There is also a **10% DISCOUNT** for early-bird payments, and a further 10% discount for the unwaged. There are some additional bursaries available - email for more information.
 
