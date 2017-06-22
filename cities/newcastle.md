@@ -13,5 +13,5 @@ location:
     url: http://www.pubsnewcastle.co.uk/TheCharlesGrey.html
     lon: -1.6150183
     lat: 54.9738537
-hiatus: False
+hiatus: True
 ---
