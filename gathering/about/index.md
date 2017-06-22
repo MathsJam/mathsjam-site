@@ -51,7 +51,7 @@ Some writeups of the gathering:
 
 [MathsJam Conference 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278), by Peter Rowlett for MSOR Connections
 
-[A Non-mathematician at the MathsJam Weekend, November 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514), by Rachael Wright
+[A Non-mathematician at the MathsJam Weekend, November 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514), by Rachel Wright
 
 ##The Team 
  
