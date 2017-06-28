@@ -14,5 +14,5 @@ location:
     url: http://www.goudengids.be/agora-caffee-antwerpen-2000/
     lon: 4.4180825
     lat: 51.2248121
-hiatus: True
+hiatus: False
 ---
