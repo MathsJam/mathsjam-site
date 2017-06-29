@@ -37,6 +37,9 @@ location:
     lon: 1.00000000 (get the lat and long from google maps)
     lat: 50.0000000
 hiatus: False (change to True if the Jam is not currently running)
+hiatus_months: (add this field if the Jam doesn't run for one or two months)
+    - 2016-01
+    - 2016-02
 jam_date_rule: second-last tuesday
 start_time: 7pm in the evening
 ---
