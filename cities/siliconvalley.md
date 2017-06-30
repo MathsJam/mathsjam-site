@@ -9,10 +9,11 @@ organiser:
     email: siliconvalley@math-jam.com
 location:
     group: north-america
-    pub_name: "a venue TBC"
-    description: " - will add details shortly"
-    url: 
-    lon: 37.4024713
-    lat: -122.3219823
+    pub_name: "Haberdasher"
+    description: " in San Jose"
+    url: http://www.haberdashersj.com
+    lon: 37.3299002
+    lat: -121.886546
 hiatus: False
+start_time: 6pm in the evening
 ---
