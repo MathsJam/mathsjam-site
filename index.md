@@ -4,7 +4,7 @@ title: MathsJam
 body_class: home
 ---
 
-<h1>Registration for the [MathsJam Annual Gathering]({{site.url}}/gathering) is now open!</h1>
+<h1>Registration for the <a href="http://www.mathsjam.com/gathering">MathsJam Annual Gathering</a> is now open!</h1>
 
 **MathsJam** is a monthly opportunity for like-minded self-confessed maths enthusiasts to get together in a pub and share stuff they like. Puzzles, games, problems, or just anything they think is cool or interesting.
 
