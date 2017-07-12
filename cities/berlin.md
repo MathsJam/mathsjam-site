@@ -8,7 +8,7 @@ organiser:
     email: berlin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "St. Oberholtz (second floor)"
+    pub_name: "St. Oberholz (second floor)"
     description: ", on Rosenthaler Str"
     url: http://sanktoberholz.de/
     lon: 13.401931
