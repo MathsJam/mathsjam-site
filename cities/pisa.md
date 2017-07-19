@@ -4,7 +4,7 @@ city_name: Pisa
 jam_name: MathsJam Pisa
 email: pisa@mathsjam.com
 organiser:
-    name: Adam
+    name: Agnese and Sebastiano
     email: pisa@mathsjam.com
 location:
     group: rest-of-world
@@ -14,4 +14,6 @@ location:
     lat: 43.7177141
     lon: 10.4010575
 hiatus: False
+hiatus_months:
+    - 2016-08
 ---
