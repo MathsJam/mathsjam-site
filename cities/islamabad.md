@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Islamabad, Pakistan
+city_name: Islamabad
 jam_name: Islamabad MathsJam
 email: islamabad@mathsjam.com
 organiser:
