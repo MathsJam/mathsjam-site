@@ -10,7 +10,7 @@ location:
     group: england
     pub_name: "The White Lionb"
     description: " on St Albans Road"
-    url: http://www.yepub.website
+    url: https://www.facebook.com/pages/White-Lion/139276052784012
     lon: -0.4002896
     lat: 51.6634603
 hiatus: False
