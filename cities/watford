@@ -1,0 +1,19 @@
+---
+layout: city                                           
+city_name: Watford
+jam_name: Watford MathsJam
+email: watford@mathsjam.com
+organiser:
+    name: Caroline
+    email: watford@mathsjam.com
+location:
+    group: england
+    pub_name: "The White Lionb"
+    description: " on St Albans Road"
+    url: http://www.yepub.website
+    lon: -0.4002896
+    lat: 51.6634603
+hiatus: False
+jam_date_rule: second-last tuesday
+start_time: 7pm until 9pm (when the pub quiz starts)
+---
