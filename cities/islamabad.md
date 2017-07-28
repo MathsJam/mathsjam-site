@@ -11,8 +11,8 @@ location:
     pub_name: "Coffee Lucio"
     description: " in Chenab Center on Jinnah Avenue, Blue Area"
     url: https://www.facebook.com/CoffeeLucio/
-    lon: 33.710419
-    lat: 73.0557653
+    lon: 73.0557653
+    lat: 33.710419
 hiatus: False 
 jam_date_rule: second-last tuesday
 start_time: 7pm in the evening
