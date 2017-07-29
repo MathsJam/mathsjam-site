@@ -14,6 +14,6 @@ location:
     lon: -0.4002896
     lat: 51.6634603
 hiatus: False
-jam_date_rule: second-last tuesday
-start_time: 7pm until 9pm when the pub quiz starts
+jam_date_rule: second-to-last Tuesday
+start_time: 7pm in the evening
 ---
