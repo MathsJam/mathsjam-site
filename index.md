@@ -8,7 +8,7 @@ body_class: home
 
 **MathsJam** is a monthly opportunity for like-minded self-confessed maths enthusiasts to get together in a pub and share stuff they like. Puzzles, games, problems, or just anything they think is cool or interesting.
 
-We meet on the second to last Tuesday of every month, from 7pm in the evening, in locations around the world.
+We meet on the second-to-last Tuesday of every month, from 7pm in the evening, in locations around the world.
 
 For more details of local events, choose your region from the menu, or visit the [find a jam]({{site.url}}/find-a-jam) page. 
 
