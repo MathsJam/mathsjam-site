@@ -9,10 +9,10 @@ organiser:
     email: portsmouth@mathsjam.com
 location:
     group: england
-    pub_name: "Brewhouse & Kitchen - Portsmouth, 26 Guildhall Walk PP1 2DD"
-    description: "Historic Tudor-style inn reborn as a stylish, colourful brewpub with an extensive dawn-to-dark menu."
-    url: www.brewhouseandkitchen.com/venue/portsmouth/
-    lon: -1.091392
-    lat: 50.7955633
+    pub_name: "Brewhouse & Kitchen"
+    description: " on Guildhall Walk"
+    url: http://www.brewhouseandkitchen.com/venue/portsmouth/
+    lon: -1.0932647
+    lat: 50.7962884
 hiatus: False
 ---
