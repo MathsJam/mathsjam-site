@@ -5,7 +5,7 @@ jam_name: Portsmouth MathsJam
 email: portsmouth@mathsjam.com
 twitter: MathsJamPOR
 organiser:
-    name: Caroline
+    name: Caroline 
     email: portsmouth@mathsjam.com
 location:
     group: england
