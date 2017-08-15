@@ -14,5 +14,5 @@ location:
     url: http://www.thecastleinncambridge.com
     lon: 0.113438
     lat: 52.2153518
-hiatus: True
+hiatus: False
 ---
