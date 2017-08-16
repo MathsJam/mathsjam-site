@@ -3,6 +3,7 @@ layout: city
 city_name: Watford
 jam_name: Watford MathsJam
 email: watford@mathsjam.com
+twitter: WatfordMathsJam
 organiser:
     name: Caroline
     email: watford@mathsjam.com
