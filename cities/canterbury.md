@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "The Jolly Sailor"
-    description: ", on Northgate. In August 2017, we'll be running a special one-off Pub Quiz Jam, with mathsy prizes."
+    description: ", on Northgate. In August 2017, we'll be running a special one-off Pub Quiz Jam, with mathsy prizes"
     url: http://www.nicholsonspubs.co.uk/restaurants/southeast/theoldbuttermarketcanterbury/findus
     lon: 1.081282099999953
     lat: 51.2789884
