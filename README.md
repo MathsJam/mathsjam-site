@@ -26,6 +26,7 @@ city_name: CityName
 jam_name: CityName MathsJam
 email: cityname@mathsjam.com
 twitter: CityNameMathsJam
+facebook: https://www.facebook.com/groups/000000000000/
 organiser:
     name: Organiser's name
     email: cityname@mathsjam.com

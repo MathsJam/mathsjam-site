@@ -350,6 +350,7 @@ blockquote > cite {
 .link-bar a {
 	color: white;
 	text-decoration: none;
+	line-height: 2em;
 }
 .link-bar .nav-icon {
 	width: 2em;
