@@ -14,8 +14,10 @@ location:
     url: https://www.nicholsonspubs.co.uk/restaurants/southeast/theoldbuttermarketcanterbury
     lon: 1.0812821
     lat: 51.2789884
-hiatus: True
+hiatus: False
 start_time: 7.30pm in the evening
 changed_dates:
     - 2017-09-26
+hiatus_months:
+    - 2017-08
 ---
