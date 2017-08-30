@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "The Jolly Sailor"
-    description: ", 75 Northgate. We are taking August off due to holidays and illness. We'll be back in September 2017, running a special one-off Pub Quiz Jam, with mathsy prizes."
+    description: ", 75 Northgate. In September 2017 we're running a special one-off Pub Quiz Jam, with mathsy prizes."
     url: https://www.facebook.com/thejollysailorcanterbury/
     lon: 1.083419
     lat: 51.282428
