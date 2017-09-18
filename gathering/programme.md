@@ -27,4 +27,11 @@ The competitions will be judged by a randomly selected panel from the conference
 ## Saturday Evening entertainment
 Attendees will be able to submit entries for a table (or other area) for the Saturday evening entertainment. A section of the conference room tables will each contain an activity, and the person proposing the activity must bring instructions, equipment and materials for attendees to learn a new thing, make something or do something fun. Proposals can range from 'Let's play game X' through to 'I will teach you how to Y'. The person proposing the activity must also be prepared to stay at their table for the whole of a pre-specified hour of the evening (timing TBC, but starting after dinner), although activities may continue afterwards. People running tables will also get a one-minute talk slot during the day in a special lightning session to explain/advertise their activity.
 
-Activities which were successful last year included a MathsJam Jam (a singalong with rewritten mathematical words to popular songs) and the MathsJam Only Connect Quiz. It is anticipated that both will run again, and details will be posted here.
+## MathsJamJam
+
+On the Saturday evening we will be having a singalong where we will be singing popular songs that have been rewritten with mathematical lyrics. You are welcome to join in by submitting your mathematical version of a song or just coming along and joining in with the singing.  You’re also welcome to bring your own guitar/ukelele/grand piano/triangle and join in by playing too. 
+
+If you are interested in having your words to a popular song sung please can you email them to [Tom Button](tomabutton@gmail.com) (preferably at least a week beforehand so we can work out a vague approximation of the chords!).
+
+The songs will be posted to [this shared Google Doc](https://drive.google.com/open?id=0B3ig4H4dsKRVbklFZDZXY0NweVk), where you can also see the songs from last year too.
+
