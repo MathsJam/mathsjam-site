@@ -7,7 +7,7 @@ The MathsJam gathering takes place on a weekend in November, at Yarnfield Park, 
 
 The nearest train station is Stone, which is a ten minute taxi ride from the venue, and is serviced by local trains from Stoke-on-Trent and Stafford. We usually run a system of lifts from the station for conference attendees, for those travelling by train. If driving, the venue is roughly fifteen minutes from the M6 - use Junction 14 when coming from the South, and Junction 15 when coming from the North. Other routes are possible.
 
-The full price remains unchanged from last year, &pound;165 (single)/ &pound;250 (double) with 10% discounts for early booking and the unwaged. Single day registration is also be available.  Early-bird with close on or about September 27th - all registered delegates will receive an email in advance.
+The full price remains unchanged from last year, &pound;165 (single)/ &pound;250 (double) with a 10% discount for early booking, 10% discount for the unwaged, and 20% for both. Single day registration is also be available.  Early-bird will close on or about September 27th - all registered delegates will receive an email in advance.
 
 We also run several additional events during the weekend, which attendees can choose to participate in.
 
