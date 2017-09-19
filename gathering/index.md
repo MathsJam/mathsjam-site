@@ -10,7 +10,9 @@ Registration for the 2017 gathering has opened!  It will be held on **11<sup>th<
 > Staffordshire  
 > ST15 0NL  
 
-Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation, all sessions, and all meals.  There is also a **10% DISCOUNT** for early-bird payments, which will close in in the week commencing September 25<sup>th</sup>, and a further 10% discount for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
+Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  There is also a **10% DISCOUNT** for early-bird payments, which will close in the week commencing September 25<sup>th</sup>, and a further 10% discount for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
+
+Rooms are also available for the Friday night and Sunday night. The rate is £60 for single occupancy, £70 for double occupancy.  Mention MathsJam when you book and you can make sure you get the same room throughout your stay. Please note there is no food available at the venue on Sunday night.
 
 But the first thing to do is to [register/sign up for the mailing list](http://www.solipsys.co.uk/MathsJamRegister.html).  If you want to know more, try the links on the left, or read on!
 
