@@ -10,7 +10,7 @@ location:
     group: rest-of-world
     pub_name: "Café Matte"
     description: ", Kräftriket 5"
-    url: 
+    url: http://www.foodspotting.com/places/699964-caf-matte-stockholm
     lon: 18.05391
     lat: 59.35833
 hiatus: False
