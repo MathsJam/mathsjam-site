@@ -9,7 +9,7 @@ organiser:
     email: winnipeg@mathsjam.com
 location:
     group: north-america
-    pub_name: "Brazen Hall Kitchen & Brewery"
+    pub_name: "Brazen Hall Kitchen and Brewery"
     description: ", on Pembina Hwy"
     url: http://brazenhall.ca/
     lon: -97.1512061
