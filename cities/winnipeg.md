@@ -12,7 +12,7 @@ location:
     pub_name: "Brazen Hall Kitchen & Brewery"
     description: ", on Pembina Hwy"
     url: http://brazenhall.ca/
-    lon: -97.1517459
-    lat: 49.8235971
+    lon: -97.1512061
+    lat: 49.8573869
 hiatus: False
 ---
