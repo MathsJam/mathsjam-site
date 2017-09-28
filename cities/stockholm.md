@@ -8,10 +8,10 @@ organiser:
     email: stockholm@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Blecktornskällaren"
-    description: ", at Ringvaägen 147"
-    url: http://blecktornskallaren.kvartersmenyn.se
-    lon: 18.0822025
-    lat: 59.3091604
+    pub_name: "Café Matte"
+    description: ", Kräftriket 5"
+    url: http://www.foodspotting.com/places/699964-caf-matte-stockholm
+    lon: 18.05391
+    lat: 59.35833
 hiatus: False
 ---
