@@ -11,7 +11,7 @@ organiser:
 location:
     group: england
     pub_name: "The Jolly Sailor"
-    description: ", 75 Northgate
+    description: ", 75 Northgate"
     url: https://www.facebook.com/thejollysailorcanterbury/
     lon: 1.083505
     lat: 51.282213
