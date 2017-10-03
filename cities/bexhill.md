@@ -2,10 +2,10 @@
 layout: city                                           
 city_name: Bexhill                                                                
 jam_name: Bexhill MathsJam
-email: behxill@mathsjam.com
+email: bexhill@mathsjam.com
 organiser:
     name: Simon
-    email: behxill@mathsjam.com
+    email: bexhill@mathsjam.com
 location:
     group: england
     pub_name: "Traffers Bar"
