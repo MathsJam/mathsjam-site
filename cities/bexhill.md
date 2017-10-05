@@ -3,6 +3,7 @@ layout: city
 city_name: Bexhill                                                                
 jam_name: Bexhill MathsJam
 email: bexhill@mathsjam.com
+twitter: BexhillMathsjam
 organiser:
     name: Simon
     email: bexhill@mathsjam.com
