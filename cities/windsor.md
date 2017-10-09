@@ -3,6 +3,7 @@ layout: city
 city_name: Windsor, ON
 jam_name: Windsor MathJam
 email: windsor@math-jam.com
+twitter: WindsorMathJam
 organiser:
     name: Reg
     email: windsor@math-jam.com
