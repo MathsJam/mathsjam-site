@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Marbella                                                               
+city_name: Marbella, Spain                                                           
 jam_name: Marbella MathsJam
 email: marbella@mathsjam.com
 twitter: MarbellaMaths
