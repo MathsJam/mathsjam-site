@@ -29,6 +29,8 @@ The program includes:
 
 For more information, use the links to the left to find out about the format, see talk titles and testimonials from previous events, or register your interest. Registering will add you to the mailing list, to be kept up-to-date with any news. Registration is free and commits you to nothing.
 
+The [MathsJam Gathering Code of Conduct can be found here](https://mathsjam.com/gathering/MJGCoC.pdf).
+
 ### A NOTE FROM COLIN WRIGHT
 
 This is effectively a private party being organised by me. I promise I'll treat you fairly, and ask that you do the same. I promise that if you send me money then either the event will run and you'll have a place, or I'll give you your money back.
