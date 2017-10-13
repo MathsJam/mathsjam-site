@@ -45,6 +45,9 @@ The full price of the conference remains unchanged from last year, &pound;165 (s
 
 Rooms are also available to book for the Friday night and Sunday night. The rate is £50 for single occupancy, £55 for double occupancy (note that these have changed) including breakfast. Rooms must be booked directly with the venue, but mention MathsJam when you book and you can make sure you get the same room throughout your stay. The kitchens are not usually open on a Sunday night, but there will, at a minimum, be soup and sandwiches available from the bar.
 
+## Volunteering to help
+There are various aspects of the weekend for which volunteer help is needed and appreciated - offering lifts to/from the station, fetching coffee for the speakers in the breaks so they can stay and take questions, tweeting from the @MathsJam account, updating the website with new talks through GitHub, wrangling the tech, running the competitions and MCing the sessions. If you're interested in volunteering, add your details to the appropriate part of the collaborative document (you should have been emailed the link if you're registered) or email [volunteer@mathsjam.com](mailto:volunteer@mathsjam.com).
+
 We also run several additional events during the weekend, which attendees can choose to participate in.
 
 ## Tables of Stuff
