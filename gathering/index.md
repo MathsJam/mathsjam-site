@@ -10,15 +10,13 @@ Registration for the 2017 gathering has opened!  It will be held on **11<sup>th<
 > Staffordshire  
 > ST15 0NL  
 
-Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  There is also a **10% DISCOUNT** for early-bird payments, which will close in the week commencing September 25<sup>th</sup>, and a further 10% discount for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
-
-Rooms are also available for the Friday night and Sunday night. The rate is £50 for single occupancy, £55 for double occupancy (note that these have changed) including breakfast.  Mention MathsJam when you book and you can make sure you get the same room throughout your stay. The kitchens are not usually open on a Sunday night, but there will, at a minimum, be soup and sandwiches available from the bar.
+Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  Early-bird discount has now closed, but a 10% discount is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
 
 But the first thing to do is to [register/sign up for the mailing list](http://www.solipsys.co.uk/MathsJamRegister.html).  If you want to know more, try the links on the left, or read on!
 
 The last MathsJam gathering took place on **12<sup>th</sup>-13<sup>th</sup> November 2016**. 
 
-The talk listings and abstracts for 2016 talks can be found on [the talks page]({{site.url}}/gathering/archive/2016), and we'll update that page with slides shortly. Talks from past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
+The talk listings and abstracts for 2016 talks can be found on [the talks page]({{site.url}}/gathering/archive/2016), and talks from all past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
 
 MathsJams are a chance for anyone to join the fun. We have people of all ages, backgrounds, education and ability. All you need is an interest in and enthusiasm for maths of all types.
 
@@ -29,7 +27,7 @@ The program includes:
 * Generous tea/coffee breaks
 * Time to talk
 
-For more information, use the links above to find out about the format, see talk titles and testimonials from previous events, or register your interest. Registering will add you to the mailing list, to be kept up-to-date with any news. Registration is free and commits you to nothing.
+For more information, use the links to the left to find out about the format, see talk titles and testimonials from previous events, or register your interest. Registering will add you to the mailing list, to be kept up-to-date with any news. Registration is free and commits you to nothing.
 
 ### A NOTE FROM COLIN WRIGHT
 
