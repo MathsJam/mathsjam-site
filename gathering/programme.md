@@ -3,8 +3,7 @@ layout: gathering
 title: MathsJam Gathering Programme
 ---
 
-Timings
-
+## Timings
 Timings from the 2016 gathering were as follows. If the 2017 timings differ from this, we will update here as soon as possible.
 
 Saturday
@@ -35,8 +34,7 @@ Sunday
 
 If you would like to submit a talk for the conference (please note - you must register to attend the conference before submitting a talk)  you can use the [talk submission form here](http://www.solipsys.co.uk/MathsJamTalkOffer.html). Please note, talks will be strictly limited to five minutes. Projectors will be available if you wish to bring Powerpoint/Keynote/Beamer/PDF/Google slides (we suggest only a few slides if you want to keep to time!) and can be presented from your own laptop or we can provide one - please bring your slides on a USB drive (ideally named with your name, not just 'MathsJam slides'!) if you wish to use ours.
 
-More Information
-
+## More Information
 The MathsJam gathering takes place on a weekend in November, at Yarnfield Park, near Stone, Staffordshire. Sessions take place on Saturday afternoon and evening, when we have an informal conference dinner, and then continue on Sunday morning, finishing in the afternoon. Some delegates arrive earlier and stay longer afterwards. Each session will consist of 5 minute talks, interspersed with breaks for tea, coffee, discussion and networking. And playing with things.
 
 The nearest train station is Stone, which is a ten minute taxi ride from the venue, and is serviced by local trains from Stoke-on-Trent and Stafford. We usually run a system of lifts from the station for conference attendees, for those travelling by train. If driving, the venue is roughly fifteen minutes from the M6 - use Junction 14 when coming from the South, and Junction 15 when coming from the North. Other routes are possible.
