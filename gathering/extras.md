@@ -44,9 +44,11 @@ Attendees will be able to [submit entries for a table](http://bit.ly/mathsjam-ta
 The person proposing the activity must also be prepared to stay at their table for the whole of a pre-specified hour of the evening (starting after dinner), although activities may continue afterwards. People running tables will also get a one-minute talk slot during the day in a special lightning session to explain/advertise their activity. The submission form is at [bit.ly/mathsjam-tables](http://bit.ly/mathsjam-tables).
 
 ## MathsJamJam
-
 On the Saturday evening we will be having a singalong where we will be singing popular songs that have been rewritten with mathematical lyrics. You are welcome to join in by submitting your mathematical version of a song or just coming along and joining in with the singing.  You're also welcome to bring your own guitar/ukelele/grand piano/triangle and join in by playing too. 
 
 If you are interested in having your words to a popular song sung please can you email them to [Tom Button](mailto:tomabutton@gmail.com) (preferably at least a week beforehand so we can work out a vague approximation of the chords!).
 
 The songs will be posted to [this shared Google Doc](https://drive.google.com/open?id=0B3ig4H4dsKRVbklFZDZXY0NweVk), where you can also see the songs from last year too.
+
+## MathsJam Only Connect
+Last year we successfully ran a quiz along the lines of BBC TV quiz Only Connect, themed around maths. Katie and Paul are prepared to write one again if there is sufficient interest. This will take place in a separate room, and at a different time to the other evening events. Anyone is welcome to come and watch, and we will find some way to select two teams of three to participate (those who didn't play last time will be given priority).
