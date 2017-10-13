@@ -3,18 +3,46 @@ We also run several additional events during the weekend, which attendees can ch
 ## Tables of Stuff
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
-## MathsJam Baking Competition
-Anyone attending the conference is welcome to enter our now-annual baking competition. Entry to the competition is free (strictly, it'll cost you one cake).
+Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
 
-The cakes are judged by a randomly selected panel from the conference, and there are prizes for best cake, best presentation, and best maths. Any cake not required for judging purposes will be distributed among the MathsJam conference attendees.
+## MathsJam Baking Competition
+Our now-annual maths baking competition will continue to test your baking skills. There'll be a cake contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake). The rules are:
+
+- You must bake a mathematically interesting cake, and bring it with you to the conference. (Please also bring a knife to cut your cake; we'll provide serving plates.)
+- The judging will be in three categories: best cake, best presentation, and best maths.
+- The first will reward a well-baked, delicious item; the second will reward the cake which has been decorated the most beautifully and looks most like what it's supposed to be; and the third will reward the most ingenious mathematical theming to the cake.
+
+As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
+
+Any cake not required for judging purposes will be distributed among the MathsJam conference attendees. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:katie@mathsjam.com).
+
 
 ## MathsJam Competition Competition
-We also run an annual competition competition, to which attendees are invited to submit a competition in the form of an A5 photocopied sheet, in enough quantity for everyone to have a go, with a minimum font size of 18pt and a box for people to submit their entries. Any type of competition is permitted as long as it can be judged by the setter (or a winner randomly chosen from the correct entries), and a prize with a market value of less than one pound must be provided.
+We also run an annual competition competition, to which attendees are invited to submit a competition, which the other attendees can enter.
 
-The competitions will be judged by a randomly selected panel from the conference, and there will be three prizes - best competition, popular vote winner (most entries) and best attempt at circumvention of the rules while still strictly sticking to the rules. The rules, in full, will be available on this website in advance of the weekend.
+Entries to the Competition Competition must be in the form of an A5 photocopied sheet, single-sided and printed in black and white.
+
+- Minimum font size for all text on the sheet must be 18pt
+- The sheet must contain space for the competition entrants to write their answer(s) and their name
+- A sealed container must be provided with a slot for completed entries, clearly labelled with the competition it's for
+- Any type of competition is permitted as long as it can be judged by the setter (or a winner randomly chosen from the correct entries)
+- Each competition must provide a prize, but that prize must be worth less than £1 on the open market.
+
+Competitions must be placed on the competition competition table by the Saturday lunchtime, and be available for people to enter until the Sunday morning coffee break, when judging will occur. Entrants must provide 100 copies of their competition sheet (if you don't have access to a photocopier, we can help to arrange this - contact [compcomp@mathsjam.com](mailto:compcomp@mathsjam.com)), and a box as described above for entries.
+
+As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous. Entries to the individual competitions within the competition competition should not be anonymous, and you should include space for entrants to write their name.
+
+There will be three prizes for the competition competition:
+- best competition, as chosen by the judges;
+- popular vote winner ('people's choice'): awarded to the competition which receives the most (genuine) entries; and
+- best attempt at circumvention of the rules while still strictly sticking to the rules.
+
+The judging panel will be chosen randomly from non-competition-entering MathsJam attendees.
 
 ## Saturday Evening entertainment
-Attendees will be able to [submit entries for a table](http://bit.ly/mathsjam-tables) (or other area) for the Saturday evening entertainment. A section of the conference room tables will each contain an activity, and the person proposing the activity must bring instructions, equipment and materials for attendees to learn a new thing, make something or do something fun. Proposals can range from 'Let's play game X' through to 'I will teach you how to Y'. The person proposing the activity must also be prepared to stay at their table for the whole of a pre-specified hour of the evening (starting after dinner), although activities may continue afterwards. People running tables will also get a one-minute talk slot during the day in a special lightning session to explain/advertise their activity. The submission form is at [bit.ly/mathsjam-tables](http://bit.ly/mathsjam-tables).
+Attendees will be able to [submit entries for a table](http://bit.ly/mathsjam-tables) (or other area) for the Saturday evening entertainment. A section of the conference room tables will each contain an activity, and the person proposing the activity must bring instructions, equipment and materials for attendees to learn a new thing, make something or do something fun. Proposals can range from 'Let's play game X' through to 'I will teach you how to Y'.
+
+The person proposing the activity must also be prepared to stay at their table for the whole of a pre-specified hour of the evening (starting after dinner), although activities may continue afterwards. People running tables will also get a one-minute talk slot during the day in a special lightning session to explain/advertise their activity. The submission form is at [bit.ly/mathsjam-tables](http://bit.ly/mathsjam-tables).
 
 ## MathsJamJam
 
