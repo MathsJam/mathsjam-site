@@ -45,7 +45,7 @@ The person proposing the activity must also be prepared to stay at their table f
 
 ## MathsJamJam
 
-On the Saturday evening we will be having a singalong where we will be singing popular songs that have been rewritten with mathematical lyrics. You are welcome to join in by submitting your mathematical version of a song or just coming along and joining in with the singing.  You’re also welcome to bring your own guitar/ukelele/grand piano/triangle and join in by playing too. 
+On the Saturday evening we will be having a singalong where we will be singing popular songs that have been rewritten with mathematical lyrics. You are welcome to join in by submitting your mathematical version of a song or just coming along and joining in with the singing.  You're also welcome to bring your own guitar/ukelele/grand piano/triangle and join in by playing too. 
 
 If you are interested in having your words to a popular song sung please can you email them to [Tom Button](mailto:tomabutton@gmail.com) (preferably at least a week beforehand so we can work out a vague approximation of the chords!).
 
