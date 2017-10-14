@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Wellington                                                               
+city_name: Wellington, NZ                                                              
 jam_name: Wellington MathsJam
 email: wellington@mathsjam.com
 twitter: WLGMathsJam
