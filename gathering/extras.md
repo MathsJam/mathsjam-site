@@ -36,6 +36,7 @@ Competitions must be placed on the competition competition table by the Saturday
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous. Entries to the individual competitions within the competition competition should not be anonymous, and you should include space for entrants to write their name.
 
 There will be three prizes for the competition competition:
+
 - best competition, as chosen by the judges;
 - popular vote winner ('people's choice'): awarded to the competition which receives the most (genuine) entries; and
 - best attempt at circumvention of the rules while still strictly sticking to the rules.
