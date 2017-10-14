@@ -7,6 +7,7 @@ title: MathsJam Gathering Programme
 Timings from the 2016 gathering were as follows. If the 2017 timings differ from this, we will update here as soon as possible.
 
 Saturday
+
 - 11:00  Registration
 - 12:30  Lunch
 - 14:00  Session 1a  (7 talks)
@@ -21,6 +22,7 @@ Saturday
 - 20:00  Evening activities
 
 Sunday
+
 - 07:30  Breakfast
 - 08:50  Session 2a (7 talks)
 - 09:37  Break
