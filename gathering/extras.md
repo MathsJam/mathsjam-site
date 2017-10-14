@@ -1,6 +1,6 @@
 ---
 layout: gathering
-title: MathsJam Gathering Extras
+title: Extras
 ---
 We also run several additional events during the weekend, which attendees can choose to participate in.
 
