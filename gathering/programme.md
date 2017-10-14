@@ -1,6 +1,6 @@
 ---
 layout: gathering
-title: MathsJam Gathering Programme
+title: Programme
 ---
 
 ## Timings
