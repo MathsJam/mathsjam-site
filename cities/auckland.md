@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Auckland                                                               
+city_name: Auckland, NZ                                                               
 jam_name: Auckland MathsJam
 email: auckland@mathsjam.com
 twitter: AKLMathsJam
