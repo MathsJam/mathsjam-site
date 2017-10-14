@@ -1,3 +1,7 @@
+---
+layout: gathering
+title: MathsJam Gathering Extras
+---
 We also run several additional events during the weekend, which attendees can choose to participate in.
 
 ## Tables of Stuff
