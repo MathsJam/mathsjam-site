@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Prince George, BC
+city_name: Prince George BC
 jam_name: MathJam Prince George
 email: princegeorge@math-jam.com
 organiser:
