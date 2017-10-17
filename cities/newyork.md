@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: New York, NY
+city_name: New York NY
 jam_name: New York MathJam
 email: newyork@math-jam.com
 organiser:
