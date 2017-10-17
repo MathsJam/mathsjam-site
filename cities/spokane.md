@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: Spokane, WA
+city_name: Spokane WA
 jam_name: MathJam Spokane
 email: spokane@math-jam.com
 organiser:
