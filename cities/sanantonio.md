@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: San Antonio, TX
+city_name: San Antonio TX
 jam_name: San Antonio MathJam
 email: sanantonio@math-jam.com
 organiser:
