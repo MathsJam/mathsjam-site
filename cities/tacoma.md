@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: Tacoma, WA
+city_name: Tacoma WA
 jam_name: Tacoma MathJam
 email: tacoma@math-jam.com
 twitter: TACMathsJam
