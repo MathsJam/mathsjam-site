@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: Houston, TX
+city_name: Houston TX
 jam_name: Houston MathJam
 email: houston@math-jam.com
 organiser:
