@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Berlin, Germany                                                          
+city_name: Berlin Germany                                                          
 jam_name: Berlin MathsJam
 email: berlin@mathsjam.com
 organiser:
