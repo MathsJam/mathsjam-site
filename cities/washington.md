@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: Washington, DC
+city_name: Washington DC
 jam_name: Washington MathJam
 email: washington@math-jam.com
 organiser:
