@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Marbella Spain                                                           
+city_name: Marbella Spain                                                               
 jam_name: Marbella MathsJam
 email: marbella@mathsjam.com
 twitter: MarbellaMaths
@@ -10,10 +10,10 @@ organiser:
     email: marbella@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "a location TBC"
-    description: ""
-    url: 
-    lon: -5.0050844
-    lat: 36.500769
+    pub_name: "SmallWorld Cafe"
+    description: ", Istan"
+    url: http://www.smallworldcafe.com/
+    lon: -4.9424786
+    lat: 36.5043479
 hiatus: False
 ---
