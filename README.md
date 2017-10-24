@@ -44,7 +44,7 @@ hiatus_months: (add this field if the Jam doesn't run for one or two months)
 changed_dates: (add this field if the Jam is running on a different day one month - give the date the Jam will happen)
     - 2015-03-23
     - 2016-09-28
-jam_date_rule: second-last tuesday
+jam_date_rule: second-last Tuesday
 start_time: 7pm in the evening
 ---
 ```
