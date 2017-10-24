@@ -10,15 +10,15 @@ At the back of the room, we place two tables - one is for things you're happy fo
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
 
 ## MathsJam Baking Competition
-Our now-annual maths baking competition will continue to test your baking skills. There'll be a cake contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake). The rules are:
+Our now-annual maths baking competition will continue to test your baking skills. There'll be a cake/baked good/confection contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake or equivalent). The rules are:
 
-- You must bake a mathematically interesting cake, and bring it with you to the gathering. (Please also bring a knife to cut your cake; we'll provide serving plates.)
-- The judging will be in three categories: best cake, best presentation, and best maths.
-- The first will reward a well-baked, delicious item; the second will reward the cake which has been decorated the most beautifully and looks most like what it's supposed to be; and the third will reward the most ingenious mathematical theming to the cake.
+- You must bake/otherwise create a mathematically interesting cake/baked good/confection, and bring it with you to the gathering. (Please also bring a knife to cut it into portions; we'll provide serving plates.)
+- The judging will be in three categories: best flavour, best presentation, and best maths.
+- The first will reward a well-made, delicious item; the second will reward the item which has been decorated the most beautifully and looks most like what it's supposed to be; and the third will reward the most ingenious mathematical theming.
 
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
 
-Any cake not required for judging purposes will be distributed among the MathsJam gathering attendees. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:katie@mathsjam.com).
+Any food not required for judging purposes will be distributed among the MathsJam gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:katie@mathsjam.com).
 
 ## MathsJam Competition Competition
 We also run an annual competition competition, to which attendees are invited to submit a competition, which the other attendees can enter.
