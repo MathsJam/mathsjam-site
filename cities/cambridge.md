@@ -12,7 +12,7 @@ location:
     pub_name: "The Castle Inn"
     description: " on Castle Hill"
     url: http://www.thecastleinncambridge.com
-    lon: 0.113438
-    lat: 52.2153518
+    lon: 0.1136
+    lat: 52.2119
 hiatus: False
 ---
