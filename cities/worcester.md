@@ -3,6 +3,7 @@ layout: city
 city_name: Worcester                                                               
 jam_name: Worcester MathsJam
 email: worcester@mathsjam.com
+twitter: WorcsMathsJam
 organiser:
     name: Andy
     email: worcester@mathsjam.com
