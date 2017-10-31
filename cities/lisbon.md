@@ -8,11 +8,11 @@ organiser:
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Arte final café"
-    description: ""
-    url: https://goo.gl/maps/LuRTPugHHio
-    lat: 38.7091469
-    lon: -9.1344288
+    pub_name: "Má Língua"
+    description: "just off Rua da Graça"
+    url: https://www.zomato.com/grande-lisboa/m%C3%A1-l%C3%ADngua-gra%C3%A7a-lisboa
+    lat: 38.7193269
+    lon: -9.1322466
 hiatus: False
 jam_date_rule: second-last Wednesday
 ---
