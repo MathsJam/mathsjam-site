@@ -9,7 +9,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "Má Língua"
-    description: "just off Rua da Graça"
+    description: " just off Rua da Graça"
     url: https://www.zomato.com/grande-lisboa/m%C3%A1-l%C3%ADngua-gra%C3%A7a-lisboa
     lat: 38.7193269
     lon: -9.1322466
