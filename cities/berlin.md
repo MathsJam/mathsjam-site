@@ -4,7 +4,7 @@ city_name: Berlin Germany
 jam_name: Berlin MathsJam
 email: berlin@mathsjam.com
 organiser:
-    name: Stefania
+    name: David
     email: berlin@mathsjam.com
 location:
     group: rest-of-world
