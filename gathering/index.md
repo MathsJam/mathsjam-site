@@ -2,7 +2,7 @@
 layout: gathering
 ---
 
-Registration for the 2017 gathering has opened!  It will be held on **11<sup>th</sup>-12<sup>th</sup> November**, and we are returning to our home for the past few years:
+The 2017 gathering will be held on **11<sup>th</sup>-12<sup>th</sup> November**, and we are returning to our home for the past few years:
 
 > Yarnfield Park  
 > Yarnfield  
@@ -12,11 +12,7 @@ Registration for the 2017 gathering has opened!  It will be held on **11<sup>th<
 
 Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  Early-bird discount has now closed, but a 10% discount is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
 
-But the first thing to do is to [register/sign up for the mailing list](http://www.solipsys.co.uk/MathsJamRegister.html).  If you want to know more, try the links on the left, or read on!
-
-The last MathsJam gathering took place on **12<sup>th</sup>-13<sup>th</sup> November 2016**. 
-
-The talk listings and abstracts for 2016 talks can be found on [the talks page]({{site.url}}/gathering/archive/2016), and talks from all past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
+The talk listings and abstracts for 2017 talks will shortly be listed on the talks page, and talks from all past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
 
 MathsJams are a chance for anyone to join the fun. We have people of all ages, backgrounds, education and ability. All you need is an interest in and enthusiasm for maths of all types.
 
