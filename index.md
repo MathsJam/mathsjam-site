@@ -4,8 +4,6 @@ title: MathsJam
 body_class: home
 ---
 
-<h1>Registration for the <u><a href="http://www.mathsjam.com/gathering">MathsJam Annual Gathering</a></u> is now open!</h1>
-
 **MathsJam** is a monthly opportunity for like-minded self-confessed maths enthusiasts to get together in a pub and share stuff they like. Puzzles, games, problems, or just anything they think is cool or interesting.
 
 We meet on the second-to-last Tuesday of every month, from 7pm in the evening, in locations around the world.
