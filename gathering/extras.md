@@ -54,6 +54,3 @@ On the Saturday evening we will be having a singalong where we will be singing p
 If you are interested in having your words to a popular song sung please can you email them to [Tom Button](mailto:tomabutton@gmail.com) (preferably at least a week beforehand so we can work out a vague approximation of the chords!).
 
 The songs will be posted to [this shared Google Doc](https://drive.google.com/open?id=0B3ig4H4dsKRVbklFZDZXY0NweVk), where you can also see the songs from last year too.
-
-## MathsJam Only Connect
-Last year we successfully ran a quiz along the lines of BBC TV quiz Only Connect, themed around maths. Katie and Paul are prepared to write one again if there is sufficient interest. This will take place in a separate room, and at a different time to the other evening events. Anyone is welcome to come and watch, and we will find some way to select two teams of three to participate (those who didn't play last time will be given priority).
