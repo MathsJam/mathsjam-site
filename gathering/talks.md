@@ -5,7 +5,7 @@ title: Talks
 
 ## Talk Schedule for the 2017 Gathering
 
-This list is subject to some small changes, but check here for the most up-to-date version.
+This list is subject to some small changes, but keep checking here for the most up-to-date version.
 
 ### Saturday
 #### Session 1a: 14:00 - 14:47
