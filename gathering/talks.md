@@ -34,8 +34,7 @@ This list is subject to some small changes, but keep checking here for the most 
 - Alex Burlton: Bags of Palindromes
 - Alexander Bolton: Winning the Chalkdust Coin Game
 - Vincent Van Pelt: Thank you
-- Various: Elevator pitches - Part I
-- Various: Elevator pitches - Part II
+- Saturday night table activities: 1 minute intros
 
 #### Session 1d: 17:30 - 18:17
 
