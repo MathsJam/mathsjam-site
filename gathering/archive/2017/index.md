@@ -6,12 +6,12 @@ title: MathsJam Gathering 2017
 This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description and slides where we have them.
 
 
-### Saturday
-#### Session 1a: 14:00 - 14:47
+## Saturday
+### Session 1a: 14:00 - 14:47
 
-- Colin Wright, Matt Parker and Katie Steckles: Welcome to the MathsJam Gathering
+#### Colin Wright, Matt Parker and Katie Steckles: Welcome to the MathsJam Gathering
 
-### Tom Button: All about the base (no trebles)
+#### Tom Button: All about the base (no trebles)
 Tom did a talk, and this is where we'll put some text describing the content of Tom's talk.
 
 - [Someone's slides (PPT)]({{site.url}}/assets/talks/2017/SomebodySomething-Talktitle.ppt)
@@ -19,12 +19,12 @@ Tom did a talk, and this is where we'll put some text describing the content of 
 - [A link to a wikipedia page](http://en.wiki.org/thing)
 
 
-### Matt Peperell: Logical deducation games
-- Alison Kiddle: Alison talks crap
-- TD Dang: The maths in Mean Girls
-- Noel-Ann Bradshaw: Digesting the indigestible
+#### Matt Peperell: Logical deducation games
+#### Alison Kiddle: Alison talks crap
+#### TD Dang: The maths in Mean Girls
+#### Noel-Ann Bradshaw: Digesting the indigestible
 
-#### Session 1b: 15:10 - 15:57
+### Session 1b: 15:10 - 15:57
 
 - Zoe Griffiths: A discourse on e
 - Phil Chaffe: Maths Jammin' - Writing a song for the Maths Jam Jam
