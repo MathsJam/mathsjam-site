@@ -3,10 +3,12 @@ layout: gathering
 title: Talks
 ---
 
-## List of talks for the 2017 Gathering
+## Talk Schedule for the 2017 Gathering
 
-Saturday
-Session 1a: 14:00 - 14:47
+This list is subject to some small changes, but check here for the most up-to-date version.
+
+### Saturday
+#### Session 1a: 14:00 - 14:47
 
 - Colin Wright, Matt Parker and Katie Steckles: Welcome to the MathsJam Gathering
 - Tom Button: All about the base (no trebles)
@@ -15,7 +17,7 @@ Session 1a: 14:00 - 14:47
 - TD Dang: The maths in Mean Girls
 - Noel-Ann Bradshaw: Digesting the indigestible
 
-Session 1b: 15:10 - 15:57
+#### Session 1b: 15:10 - 15:57
 
 - Zoe Griffiths: A discourse on e
 - Phil Chaffe: Maths Jammin' - Writing a song for the Maths Jam Jam
@@ -25,7 +27,7 @@ Session 1b: 15:10 - 15:57
 - Adam Townsend: Stop! (or, using maths to pass your driving test)
 - Elizabeth and Zeke: rat with an e
 
-Session 1c: 16:20 - 17:07
+#### Session 1c: 16:20 - 17:07
 
 - Rob Eastaway: Thinking Outside the Outside of the Box
 - Rachel Wright: In A Spin
@@ -35,7 +37,7 @@ Session 1c: 16:20 - 17:07
 - Various: Elevator pitches - Part I
 - Various: Elevator pitches - Part II
 
-Session 1d: 17:30 - 18:17
+#### Session 1d: 17:30 - 18:17
 
 - Dan Hagon: Double Negation and the Excluded Middle
 - Ben Pace: Building Successful Intellectual Communities
@@ -45,7 +47,8 @@ Session 1d: 17:30 - 18:17
 - David Mitchell: The Thereom of Trythagoras (Pythagoras is for Squares)
 - Dave Gale: Catchphrase and Coffee
 
-Session 2a: 08:50 - 09:37
+### Sunday
+#### Session 2a: 08:50 - 09:37
 
 - Joel Haddley: Angle Trisection
 - Katie Steckles: Sheeran Numbers
@@ -55,7 +58,7 @@ Session 2a: 08:50 - 09:37
 - Peter Rowlett: Fermi problems
 - Kathryn Taylor: Adventures in modular origami
 
-Session 2b: 10:00 - 10:47
+#### Session 2b: 10:00 - 10:47
 
 - Marcin Konowalczyk: Unrolling the rolling shutter
 - Miles Gould: How Mountaineering is like Mathematics
@@ -64,7 +67,7 @@ Session 2b: 10:00 - 10:47
 - Nicholas Korpelainen: A production line may need an arbitrarily large number of machines
 - Robert Woolley: Making board games fit - Numbers & Space
 
-Session 2c: 11:15 - 11:48
+#### Session 2c: 11:15 - 11:48
 
 - Glen Whitney: Who is a topologist?
 - Sue de Pomerai: The life and times of Ada Lovelace
@@ -73,7 +76,7 @@ Session 2c: 11:15 - 11:48
 - Geoff Morley: Irrational Bases
 - Adam Atkinson: Mathematics and Art: A Real-World Problem
 
-Session 2d: 12:06 - 12:39
+#### Session 2d: 12:06 - 12:39
 
 - Elaine Smith & Lynda Goldenberg: Multiplication: Magic or Madness
 - Robert W. Vallin: Maverick Solitaire and Three-Card Poker
