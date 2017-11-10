@@ -1,0 +1,196 @@
+Douglas Buchanan
+Lowering the Tone
+Presentation of two conundrums for delegates to mull over.
+
+Tom Button
+All about the base (no trebles)
+How introducing a change of base and some new terminology can make the proof of an interesting result a bit more straightforward.
+
+Zoe Griffiths
+A discourse on e 
+That would be telling! 
+
+Pedro Freitas
+A programmed deck
+Can you program a deck of cards to solve a linear system?
+
+Matthew Scroggs
+Big Ben Strikes Again
+As seen in an episode of the excellent Captain Scarlet and the Mysterons, it is possible to hear Big Ben strike thirteen. I will explain how this is possible and show you a recording we made of it happening.
+
+robert woolley
+Making board games fit - Numbers & Space
+I like making travel board game sets and decks which involves making a game fit a specific number of cards or a certain space. Going to have a quick talk about the paths those design decisions took.
+
+Marcin Konowalczyk
+Unrolling the rolling shutter
+I will talk about the recently famed rolling-shutter effect and my futile yet, hopefully, entertaining attempts at recovering the original (undistorted) video. 
+
+David Mitchell
+The Thereom of Trythagoras (Pythagoras is for Squares)
+Pythagoras is commonly associated with triangles, but PYTHAGOREAN TRIPLES of integers (a,b;c), such that  a^2 + b^2 = c^2, link SQUARES which we can represent geometrically as set out on the sides of a right-angles triangle. Pythagorean triples such as (3,4;5) can be found by multiplying together complex integers which are the coordinates of points on the unit square lattice set out on the Argand Diagram. If instead of the square lattice we set out the unit triangular (isometric) lattice on the Argand Diagram, we can find TRYTHAGOREAN TRIPLES (a,b;c), such that a^2 + ab + b^2 = c^2, by multiplying together complex numbers that are the coordinates of points on the triangular lattice.  Trythagorean triples such as (3,5;7) link the areas of EQUILATERAL TRIANGLES. The geometrical representation of these triples differs elegantly from the Pythagorean case.
+
+ken mckelvie
+a little ado about 'nothing'
+Here the word 'nothing' is used to refer to the digit '0'. Examples of apparent patterns or the absence of patterns of the incidence of 'nothing' in decimal expansions of well-recognised constants will be explored. Nothing more to add! 
+
+Philipp Reinhard
+From a tweet to Langnaus 4th problem in < 5min
+How steep is the rabbit hole. The goal is to find three numbers in an arithmetic sequence that multiply to a prime. Tweaking the setting of this riddle puts you next to the Goldbach and the Twin Prime conjectures.
+
+Alison Clarke
+Stupid Units
+Mathematicians are obviously sensible people who use proper metric SI units for everything. People in other fields haven't quite got the message. I will discuss what units other fields use, what makes them stupid and why perhaps they might be useful after all.
+
+Belgin Seymenoglu
+Donald in Mathmagic Land
+Made by Disney and released in 1959, Donald in Mathmagic Land is an educational movie featuring the famous cartoon duck who learns there is “a lot more to mathematics than two-times-two”. In this talk, I will give a brief introduction of the movie. You can also look forward to some photos from the film itself!
+
+Will Kirkby
+Life Beyond Binary
+A brief exploration of cellular automata beyond the classical two-state rules.
+
+Kathryn Taylor
+Adventures in modular origami
+
+
+Nicholas Korpelainen
+A production line may need an arbitrarily large number of machines
+Consider a simple straight production line of machines acting in order, from left to right. Define constraints for the production line by specifying for each pair of machine types whether the two types of machines should appear alternately or not. Maybe one machine creates folds for an envelope, and it must always act alternately with another machine that secures the folds with glue, for example. On the other hand, a different machine, one that paints each side of the paper, should not act alternately with either of the previous machine types!
+
+Katie Steckles
+Sheeran Numbers
+I have discovered a new category of numbers, which I will attempt to define.
+
+Rob eastaway
+Thinking Outside the Outside of the Box
+Once you've managed to think outside the box, how can you be sure you aren't trapped in another box?  And just how far outside the box can you go? And can you get back inside?
+
+Alexander Bolton
+Winning the Chalkdust Coin Game
+In a game where the outcomes are win or lose (or draw) and the margin of victory is irrelevant, your best strategy is to maximise the probability that you win, rather than maximising your expected score. A new example of a game of this type will be presented and the optimum strategy will be shown. Implications to general games (and life) will be discussed.
+
+Sue de Pomerai
+The life and times of Ada Lovelace, enchantress of numbers
+Who was Ada Lovelace and why do we have a day celebrating her every October? Ada came from an unlikely background, wealthy, artistic and troubled. She didn’t publish any new mathematical or scientific theories but her contribution to early programming was crucial to future developments.
+
+Glen Whitney
+Who is a topologist?
+This is only an application to give a talk if my application to have a table Saturday night is accepted, which application I have not yet submitted because so far as I know there is not yet any means of doing so. But this also explains why I checked "only sunday".
+
+Robert Low
+Why knot?
+We all know it's hard to tie a knot in an unknotted piece of string without letting go of an end, but how do we know whether it's actually impossible in principle or just so complicated we can't do it in practice? 
+
+Samuel Ball
+Fake It Till You Make It
+(Alternate title: Avant-garde tweet poetry) - how can we use statistics and probability to generate (hopefully!) convincing tweets from a user's history?
+
+Miles Gould
+How Mountaineering is like Mathematics
+Last year, a friend and I made the first ascents of some mountains in the former Soviet republic of Kyrgyzstan. The process was in many ways like that of doing mathematical research. I'll talk about some of the similarities.
+
+Alex Burlton
+Bags of Palindromes
+An introduction to a fun little combinatorial problem involving palindromes. Given a randomly chosen bag of letters, what's the probability that you can arrange them to form a palindrome? What happens as the size of the bag, or alphabet, are increased toward infinity?
+
+Alison Kiddle
+Alison talks crap
+A silly conversation about toilet paper led to an even sillier survey, which led to a MathsJam talk in which Alison presents data you never knew you needed to know. May contain TMI.
+
+Robert W. Vallin
+Maverick Solitaire and Three-Card Poker
+We apply the idea of Maverick Solitaire to a casino game and show how many cards are needed to secure winning hands in the Pairs Plus game. 
+
+Matt Peperell
+Logical deducation games
+One family of games I like to play have secret rules created by some players that must be deduced through play by the game participants. I'll introduce a couple of these games and host evening an session for people to try them out.
+
+Andrew Russell
+Diabolo as a picture
+Looking at the link between diabolo magic knot tricks and a picture hung between 2 pegs falling when one peg is removed.
+
+Adam Townsend
+Stop! (or, using maths to pass your driving test)
+How long does it take to stop if you're travelling at 70mph? Well, not very long if you crash into a wall I suppose, but otherwise quite a long way. The Highway Code will tell you that your stopping distance is 96 metres. But where does it get that from? Is there an easy way to remember this? Is it even right?!
+
+Rachel Wright
+In A Spin
+Confused by an explanation....
+
+Elizabeth and Zeke
+rat with an e
+A particular tangent line to an exponential graph and some resulting ooOOOooh.
+
+Dave Gale
+Catchphrase and Coffee
+A crusade against misnamed shapes and how strong is my coffee?
+
+Dan Hagon
+Double Negation and the Excluded Middle
+In this talk I want to briefly introduce you to constructive mathematics, explain how it differs from other formalism and why it's a useful framework for doing mathematics in the computer age. You may even discover something new about proof by contradiction!
+
+TD Dang
+The maths in Mean Girls
+In the film 'Mean Girls' there's lots of maths. Surprisingly for the film, the maths is all correct. I talk about some of it in this article I wrote. 
+
+Vincent Van Pelt
+Thank you, Mrs Holcombe
+fun with homophones and some maths too
+
+Phil Chaffe
+Maths Jammin' - Writing a song for the Maths Jam Jam
+2016 saw the first year of the MathsJam Jam - songs written about maths by Maths Jammers for Maths Jammers. This short talk looks at five rules (in five minutes) for writing a MathsJam jam.
+
+Elaine Smith & Lynda Goldenberg
+Multiplication: Magic or Madness
+A brief historical look at a few aspects of multiplication!
+
+Colin Wright
+Welcome, and introduction
+Setting the scene
+
+Angela Brett
+Mathematical poetry
+Mathematics can be used both as a subject of poetry and a way to find poetry that already exists. I will present mathematical poetry I wrote, and some unintentional mathematical haiku found by the Haiku Detector software I wrote.
+
+Wendy Foad
+Context vs content
+Some thoughts on how the context in which we encounter things can affect the way our brain chooses to approach them.
+
+Oliver Masters
+The Fibonacci Matrix
+Fibonacci numbers and a simple 2*2 integer matrix don't have any obvious link, until someone points it out to you.  In this talk I'll give a quick explanation of how the Fibonacci Q-matrix works, and a few of its surprising applications, such as computing the nth Fibonacci number in O(log n) time in a way you might not have seen before.
+
+Noel-Ann Bradshaw
+Digesting the indigestible
+A fun (I hope) look at how data is presented to a non-mathematical user.  Is there a role for mathematicians to help to improve this?
+
+Matthew and John Bibby (replace earlier offering)
+Boring log and geometrical tables
+No abstract
+
+Joel Haddley
+Angle Trisection
+Why does some people read 'it is impossible to trisect an angle' as a challenge?
+
+Geoff Morley
+Irrational Bases
+Which positional numeration systems with an irrational base allow every integer to be written in a finite form? How can we define and find a number's canonical representation?
+
+Ben Pace
+Building Successful Intellectual Communities
+I'm currently designing an online forum for a particular academic community, and I'll talk briefly about what maths I'm using to design the site. This includes the PageRank algorithm as karma-allocation and also the formal notion of common knowledge being necessary for intellectual progress.
+
+Adam Atkinson
+Mathematics and Art: A Real-World Problem
+A conversation between a sculptor and an artist was recounted to me. It contains / becomes a real-world interdisciplinary problem involving maths, art, and some other things.
+
+Peter Rowlett
+Fermi problems
+Fermi problems seek a fast, rough estimate of a piece of information that initially seems impossible to estimate. I'd talk about Fermi problems, how I've used them with students of mathematical modelling and a particular method for approaching them.
+
+Tony Mann
+The mathematics of competition
+An amusing mathematical example which casts light on the effectiveness of competition between suppliers in making life better for consumers.
+
