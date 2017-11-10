@@ -12,14 +12,14 @@ This is a list of talks given at the 2017 MathsJam Weekend, along with a brief d
 #### Colin Wright, Matt Parker and Katie Steckles: Welcome to the MathsJam Gathering
 
 #### Tom Button: All about the base (no trebles)
-Tom did a talk, and this is where we'll put some text describing the content of Tom's talk.
+How introducing a change of base and some new terminology can make the proof of an interesting result a bit more straightforward.
 
 - [Someone's slides (PPT)]({{site.url}}/assets/talks/2017/SomebodySomething-Talktitle.ppt)
 - [Someone's slides (PDF)]({{site.url}}/assets/talks/2017/SomebodySomething-Talktitle.pdf)
 - [A link to a wikipedia page](http://en.wiki.org/thing)
 
-
 #### Matt Peperell: Logical deducation games
+
 #### Alison Kiddle: Alison talks crap
 #### TD Dang: The maths in Mean Girls
 #### Noel-Ann Bradshaw: Digesting the indigestible
