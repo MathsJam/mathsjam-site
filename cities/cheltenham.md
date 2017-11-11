@@ -11,8 +11,8 @@ location:
     group: england
     pub_name: "Norwood Arms"
     description: ", on Leckhampton Road"
-    url: http://gkpubs.co.uk/pubs-in-cheltenham/norwood-arms-pub/
-    lon: -2.080933
-    lat: 51.89044830000001
+    url: http://www.norwoodarms-cheltenham.co.uk/
+    lon: -2.0807666
+    lat: 51.8871567
 hiatus: False
 ---
