@@ -45,13 +45,34 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 
 ### Session 1b: 15:10 - 15:57
 
-- Zoe Griffiths: A discourse on e
-- Phil Chaffe: Maths Jammin' - Writing a song for the Maths Jam Jam
-- Matthew Scroggs: Big Ben Strikes Again
-- Andrew Russell: Diabolo as a picture
-- Angela Brett: Mathematical poetry
-- Adam Townsend: Stop! (or, using maths to pass your driving test)
-- Elizabeth and Zeke: rat with an e
+#### Zoe Griffiths: A discourse on e
+
+[Zoe](https://twitter.com/zoelgriffiths) impresively recites from memory a humerous poem she wrote about the [base of the natural logarithm](https://en.wikipedia.org/wiki/E_(mathematical_constant)) which told of the life of e.
+
+#### Phil Chaffe: Maths Jammin' - Writing a song for the Maths Jam Jam
+
+[Phil](https://twitter.com/philsmaths) gives us five tips on how to write a MathsJam song, in attempt to increase the number of entries for next year. So go on and give it a go!
+
+#### Matthew Scroggs: Big Ben Strikes Again
+
+[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlett](https://en.wikipedia.org/wiki/Captain_Scarlett) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a ~~bomb~~ civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
+
+#### Andrew Russell: Diabolo as a picture
+
+After deciding that Diablo knots are too complicated to understand, Andrew shows us how every balloon animal should be a [semi-Eulerian](http://mathonline.wikidot.com/eulerian-graphs-and-semi-eulerian-graphs#toc3) graph, but sometimes isn't.
+
+#### Angela Brett: Mathematical poetry
+
+[Angela](angelastic.com) recites a poem about how progress is made by standing on the shoulders of not only giants but a lot of shorter people too, and then shows us some Haiku that she discovered in mathematical texts using her own [Haiku detector](https://spondeesoftware.wordpress.com/apps/haiku-detector) software.
+
+#### Adam Townsend: Stop! (or, using maths to pass your driving test)
+
+[Adam](adamtounsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
+
+#### Elizabeth and Zeke: rat with an e
+
+[Elizabeth (and Zeke)](https://twitter.com/RealityMinus3) talk (well, Zeke didn't talk) about tangent lines, what we should call them, and some flashes of intuition about what logarithms mean from a student with a different perspective.
+
 
 #### Session 1c: 16:20 - 17:07
 
