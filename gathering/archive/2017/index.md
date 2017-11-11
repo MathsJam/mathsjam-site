@@ -12,17 +12,36 @@ This is a list of talks given at the 2017 MathsJam Weekend, along with a brief d
 #### Colin Wright, Matt Parker and Katie Steckles: Welcome to the MathsJam Gathering
 
 #### Tom Button: All about the base (no trebles)
+
+You might have heard that the square of a prime number (p>3) is always one more than a multiple of 24. [Tom](http://twitter.com/tombutton) introduced the words threven, thover and thrunder for numbers of the form 3n, 3n + 1 and 3n - 1 respectively, and moved into dozenal, and suddenly the proof was easy.
+
+<!--
 How introducing a change of base and some new terminology can make the proof of an interesting result a bit more straightforward.
 
 - [Someone's slides (PPT)]({{site.url}}/assets/talks/2017/SomebodySomething-Talktitle.ppt)
 - [Someone's slides (PDF)]({{site.url}}/assets/talks/2017/SomebodySomething-Talktitle.pdf)
 - [A link to a wikipedia page](http://en.wiki.org/thing)
+-->
 
 #### Matt Peperell: Logical deducation games
 
+Logical deduction games are those like [Penultima](https://boardgamegeek.com/boardgame/118656/penultima) where players have to deduce to rules by being told when they've broken them.
+
+[Matt](http://twitter.com/mattpep) showed us a few of them, including Zendo, Mao and [Eleusis](https://en.wikipedia.org/wiki/Eleusis_%28card_game%29) which you can play with an incomplete deck of cards. 
+
 #### Alison Kiddle: Alison talks crap
+
+Having seen the classic "Andrex paper: 22.2p per 100sht" tweet, Alison has gathered data about how the statistic differs depending on how you expand the abbreviaton "sht" and how healthy you are, and presented her findings to us. She also delivers a fine array of puns which for various reasons will not be reproduced here.
+
 #### TD Dang: The maths in Mean Girls
+
+[TD](twitter.com/televisionduck) has watched _Mean Girls_ which features a maths competition in the finale. She's put a lot of thought into not only how to approach the questions in it, but also how the wrong answers might have been arrived at.
+
 #### Noel-Ann Bradshaw: Digesting the indigestible
+
+Noel-Ann has also got a talk about data and how to present it. (There is no literal digestion in this data talk.) A highlight was her taking apart the commonly held idea that the y-axis must always include zero to stop a graph being misleading by showing examples where thta clearly makes no sense.
+
+
 
 ### Session 1b: 15:10 - 15:57
 
