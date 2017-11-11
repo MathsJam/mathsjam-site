@@ -5,7 +5,6 @@ title: MathsJam Gathering 2017
 	
 This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description and slides where we have them.
 
-
 ## Saturday
 ### Session 1a: 14:00 - 14:47
 
@@ -45,7 +44,7 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 
 #### Zoe Griffiths: A discourse on e
 
-[Zoe](https://twitter.com/zoelgriffiths) impresively recites from memory a humerous poem she wrote about the [base of the natural logarithm](https://en.wikipedia.org/wiki/E_(mathematical_constant)) which told of the life of e.
+[Zoe](https://twitter.com/zoelgriffiths) impresively recites from memory a humorous poem she wrote about the [base of the natural logarithm](https://en.wikipedia.org/wiki/E_(mathematical_constant)) which told of the life of e.
 
 #### Phil Chaffe: Maths Jammin' - Writing a song for the Maths Jam Jam
 
@@ -137,10 +136,15 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 [Dave](https://twitter.com/reflectivemaths) presents some confusing coffee scales, and his increasingly formal correspondence with ITV over a misnamed quadrilateral in _Catchphrase_.
 
 ### Sunday
-#### Session 2a: 08:50 - 09:37
+### Session 2a: 08:50 - 09:37
 
-- Joel Haddley: Angle Trisection
-- Katie Steckles: Sheeran Numbers
+#### Joel Haddley: Angle Trisection
+
+Words
+
+#### Katie Steckles: Sheeran Numbers
+
+
 - Ken McKelvie: A little ado about 'nothing'
 - Tony Mann: The mathematics of competition
 - Will Kirkby: Life Beyond Binary
