@@ -67,7 +67,7 @@ After deciding that Diablo knots are too complicated to understand, Andrew shows
 
 #### Adam Townsend: Stop! (or, using maths to pass your driving test)
 
-[Adam](adamtounsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
+[Adam](adamtownsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
 
 #### Elizabeth and Zeke: rat with an e
 
