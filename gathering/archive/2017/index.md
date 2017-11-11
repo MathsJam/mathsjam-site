@@ -84,15 +84,41 @@ After deciding that Diablo knots are too complicated to understand, Andrew shows
 - Various: Elevator pitches - Part I
 - Various: Elevator pitches - Part II
 
-#### Session 1d: 17:30 - 18:17
+### Session 1d: 17:30 - 18:17
 
-- Dan Hagon: Double Negation and the Excluded Middle
-- Ben Pace: Building Successful Intellectual Communities
-- Alison Clarke: Stupid Units
-- Belgin Seymenoglu: Donald in Mathmagic Land
-- Douglas Buchanan: Lowering the Tone
-- David Mitchell: The Thereom of Trythagoras (Pythagoras is for Squares)
-- Dave Gale: Catchphrase and Coffee
+#### Dan Hagon: Double Negation and the Excluded Middle
+
+[Dan](https://twitter.com/axiomsofchoice) talks about how asserting something is not the same as asserting the double negation of that thing, and how this can affect proofs by contradiction.
+
+#### Ben Pace: Building Successful Intellectual Communities
+
+Ben talks about the maths behind the PageRank algorithm, and how it can be applied towards trustworthiness scoring on social sharing sites.
+
+#### Alison Clarke: Stupid Units
+
+[Alison](https://twitter.com/aaclarke4) vents some frustration about numerous unit systems that make very little sense, and tells us a bit about how they came to be. Why is an acre not a square?
+
+#### Belgin Seymenoglu: Donald in Mathmagic Land
+
+[Belgin](https://twitter.com/smokyfurby) shows us where some mathematical concepts from _Donald in Mathmagic Land_ appear in the real world.
+
+#### Douglas Buchanan: Lowering the Tone
+
+[Douglas](https://twitter.com/dcbeagle1) gives us a puzzle and a pun:
+
+"You are given 4 values. Using only the four simple operators, make 24. The four values are 3, 3, 8, and 8."
+
+"I have fifteen parrots in a cage with three perches. When I clap, six parrots land at the bottom, five in the middle, and four at the top. How many do I own?"
+
+<small>*(six, the others are on higher perches)*</small>
+
+#### David Mitchell: The Thereom of Trythagoras (Pythagoras is for Squares)
+
+David shows us a fascinating explanation of how you can multiply squares and triangles on the complex plane to find pythagorean triples and more.
+
+#### Dave Gale: Catchphrase and Coffee
+
+[Dave](https://twitter.com/reflectivemaths) presents some confusing coffee scales, and his increasingly formal correspondence with ITV over a misnamed quadrilateral in _Catchphrase_.
 
 ### Sunday
 #### Session 2a: 08:50 - 09:37
