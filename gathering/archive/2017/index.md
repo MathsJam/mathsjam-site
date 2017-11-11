@@ -39,9 +39,7 @@ Having seen the classic "Andrex paper: 22.2p per 100sht" tweet, Alison has gathe
 
 #### Noel-Ann Bradshaw: Digesting the indigestible
 
-Noel-Ann has also got a talk about data and how to present it. (There is no literal digestion in this data talk.) A highlight was her taking apart the commonly held idea that the y-axis must always include zero to stop a graph being misleading by showing examples where thta clearly makes no sense.
-
-
+Noel-Ann has also got a talk about data and how to present it. (There is no literal digestion in this data talk.) A highlight was her taking apart the commonly held idea that the y-axis must always include zero to stop a graph being misleading, by showing examples where that clearly makes no sense.
 
 ### Session 1b: 15:10 - 15:57
 
@@ -73,16 +71,34 @@ After deciding that Diablo knots are too complicated to understand, Andrew shows
 
 [Elizabeth (and Zeke)](https://twitter.com/RealityMinus3) talk (well, Zeke didn't talk) about tangent lines, what we should call them, and some flashes of intuition about what logarithms mean from a student with a different perspective.
 
+### Session 1c: 16:20 - 17:07
 
-#### Session 1c: 16:20 - 17:07
+#### Rob Eastaway: Thinking Outside the Outside of the Box
 
-- Rob Eastaway: Thinking Outside the Outside of the Box
-- Rachel Wright: In A Spin
-- Alex Burlton: Bags of Palindromes
-- Alexander Bolton: Winning the Chalkdust Coin Game
-- Vincent Van Pelt: Thank you
-- Various: Elevator pitches - Part I
-- Various: Elevator pitches - Part II
+Rob presents some twists on an old classic puzzle - given a 3 by 3 square of dots, can you connect them all using four straight lines without taking your pen off the paper? He's extended it to 4 by 4 versions, and shows that there are plenty of possible solutions - some of which require thinking up to 133% outside the box...
+
+[Rob's tweet from earlier in the day](https://twitter.com/robeastaway/status/929297289746812929)
+
+#### Rachel Wright: In A Spin
+
+Rachel is interested in yarn, and showed us how the way spinning machines produce it - and an interesting topological puzzle it presented.
+
+[Rachel's textile art](http://rachelwright.com/)
+[Rachel's book on yarn manufacture](https://books.google.co.uk/books/about/Fancy_Yarns.html?id=wFy3zyvjMNUC&redir_esc=y)
+
+#### Alex Burlton: Bags of Palindromes
+
+A palindromic number is one whose digits read the same backwards as forwards. Given a random collection of numbers, what's the probability you can arrange them into a palindrome, and how does this change as the number of possible digits changes?
+
+#### Alexander Bolton: Winning the Chalkdust Coin Game
+
+Alex describes a strategy for winning a game that involves flipping a number of coins, and using the number of heads and tails to determine your score.
+
+[Alex's article about the game for Chalkdust Magazine](http://chalkdustmagazine.com/blog/winning-chalkdust-coin-game/)
+
+#### Vincent Van Pelt: Thank you, Mrs Holcombe
+
+Vincent has been investigating homophones - words which sound the same as each other. He's found quite an impressive list (the best one was 'Grothendieck K-Theory' which sounds like 'Growth and decay theory'.
 
 ### Session 1d: 17:30 - 18:17
 
