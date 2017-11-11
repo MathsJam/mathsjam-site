@@ -68,7 +68,7 @@ This list is subject to some small changes, but keep checking here for the most 
 
 #### Session 2c: 11:15 - 11:48
 
-- Glen Whitney: Who is a topologist?
+- Glen Whitney: The Hole Truth
 - Sue de Pomerai: The life and times of Ada Lovelace
 - Pedro Freitas: A programmed deck
 - Matthew and John Bibby: Boring log and geometrical tables
