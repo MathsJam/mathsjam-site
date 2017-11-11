@@ -33,7 +33,7 @@ This list is subject to some small changes, but keep checking here for the most 
 - Rachel Wright: In A Spin
 - Alex Burlton: Bags of Palindromes
 - Alexander Bolton: Winning the Chalkdust Coin Game
-- Vincent Van Pelt: Thank you
+- Vincent Van Pelt: Thank you, Mrs Holcombe
 - Saturday night table activities: 1 minute intros
 
 #### Session 1d: 17:30 - 18:17
