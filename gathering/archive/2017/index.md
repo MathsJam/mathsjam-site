@@ -52,7 +52,7 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 
 #### Matthew Scroggs: Big Ben Strikes Again
 
-[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlett](https://en.wikipedia.org/wiki/Captain_Scarlett) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a ~~bomb~~ civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
+[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlet](https://en.wikipedia.org/wiki/Captain_Scarlett) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a ~~bomb~~ civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
 
 #### Andrew Russell: Diabolo as a picture
 
@@ -135,44 +135,62 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 
 [Dave](https://twitter.com/reflectivemaths) presents some confusing coffee scales, and his increasingly formal correspondence with ITV over a misnamed quadrilateral in _Catchphrase_.
 
-### Sunday
+## Sunday
 ### Session 2a: 08:50 - 09:37
 
 #### Joel Haddley: Angle Trisection
 
-Words
+[Joel](https://twitter.com/joelhaddley) shows us how to trisect angles in an infinite number of steps, although isn't sure if you can do this in a finite amount of time.
 
 #### Katie Steckles: Sheeran Numbers
 
+[Katie](https://twitter.com/stecks) makes 22262 different numbers using number one albums as numbers and Ed Sheeran albums as operators.
 
-- Ken McKelvie: A little ado about 'nothing'
-- Tony Mann: The mathematics of competition
-- Will Kirkby: Life Beyond Binary
-- Peter Rowlett: Fermi problems
-- Kathryn Taylor: Adventures in modular origami
+#### Ken McKelvie: A little ado about 'nothing'
 
-#### Session 2b: 10:00 - 10:47
+Ken talks about where 0 appears in lots of numbers.
 
-- Marcin Konowalczyk: Unrolling the rolling shutter
-- Miles Gould: How Mountaineering is like Mathematics
-- Samuel Ball: Fake It Till You Make It
-- Wendy Foad: Context vs content
-- Nicholas Korpelainen: A production line may need an arbitrarily large number of machines
-- Robert Woolley: Making board games fit - Numbers & Space
+#### Tony Mann: The mathematics of competition
 
-#### Session 2c: 11:15 - 11:48
+[Tony](https://twitter.com/Tony_Mann) finds yet another meaning of competition, and explains how having more ice cream vendors doesn't mean you have to walk less far to get an ice cream: or how two competition competitions in competitions should place themselves to each maximise the number of competitions entered in their competition competition.
 
-- Glen Whitney: Who is a topologist?
-- Sue de Pomerai: The life and times of Ada Lovelace
-- Pedro Freitas: A programmed deck
-- Matthew and John Bibby: Boring log and geometrical tables
-- Geoff Morley: Irrational Bases
-- Adam Atkinson: Mathematics and Art: A Real-World Problem
+#### Will Kirkby: Life beyond binary
 
-#### Session 2d: 12:06 - 12:39
+[Will](https://twitter.com/WillKirkby) uses a trinary celluar automaton to sort binary numbers, then asks if you can use a (n+1)-ary celluar automaton to sort n-ary numbers, then shows us lots of excellent other cellular automata.
 
-- Elaine Smith & Lynda Goldenberg: Multiplication: Magic or Madness
-- Robert W. Vallin: Maverick Solitaire and Three-Card Poker
-- Robert Low: Why knot?
-- Philipp Reinhard: From a tweet to Langnaus 4th problem in < 5min
-- Oliver Masters: The Fibonacci Matrix
+#### Peter Rowlett: Fermi problems
+
+(Peter)[https://twitter.com/peterrowlett] uses Fermi problems to justify the definition and use of the approximate geometric mean.
+
+#### Kathryn Taylor: Adventures in modular origami
+
+Kathryn uses the visualiser to show us some incredible incredible origami shapes built from Sonobe modules.
+
+### Session 2b: 10:00 - 10:47
+
+#### Marcin Konowalczyk: Unrolling the rolling shutter
+
+Write something here
+
+#### Miles Gould: How Mountaineering is like Mathematics
+#### Samuel Ball: Fake It Till You Make It
+#### Wendy Foad: Context vs content
+#### Nicholas Korpelainen: A production line may need an arbitrarily large number of machines
+#### Robert Woolley: Making board games fit - Numbers & Space
+
+### Session 2c: 11:15 - 11:48
+
+#### Glen Whitney: Who is a topologist?
+#### Sue de Pomerai: The life and times of Ada Lovelace
+#### Pedro Freitas: A programmed deck
+#### Matthew and John Bibby: Boring log and geometrical tables
+#### Geoff Morley: Irrational Bases
+#### Adam Atkinson: Mathematics and Art: A Real-World Problem
+
+### Session 2d: 12:06 - 12:39
+
+#### Elaine Smith & Lynda Goldenberg: Multiplication: Magic or Madness
+#### Robert W. Vallin: Maverick Solitaire and Three-Card Poker
+#### Robert Low: Why knot?
+#### Philipp Reinhard: From a tweet to Langnaus 4th problem in < 5min
+#### Oliver Masters: The Fibonacci Matrix
