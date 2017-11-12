@@ -170,13 +170,29 @@ Kathryn uses the visualiser to show us some incredible incredible origami shapes
 
 #### Marcin Konowalczyk: Unrolling the rolling shutter
 
-Write something here
+Marcin talks about the [rolling shuter effect](https://www.youtube.com/watch?v=dNVtMmLlnoE) which he's [implemented in Python](https://github.com/MarcinKonowalczyk/rollingshutterpy), and attempts to reverse-enginner while teaching himself neural networks.
 
 #### Miles Gould: How Mountaineering is like Mathematics
+
+Tips on how to find, finance, accomplish and document a new project, whether in maths research or climbing big hills.
+
 #### Samuel Ball: Fake It Till You Make It
+
+Creating new tweets from old ones using Markov chains, with the Twitter account of Donald Trump as a dataset
+
 #### Wendy Foad: Context vs content
+
+Wendy talks about the importance of having a familiar context in problem solving, and the skills people have that they only use in one specific circumstance.
+
 #### Nicholas Korpelainen: A production line may need an arbitrarily large number of machines
+
+If you're running a production line, you could denote each machine by a letter A, B, C and list the order the machines occur along the line. If you want a given pair of machines to alternate (so as you go along the line, A doesn't occur twice without a B in between) you can create puzzles around how to arrange them.
+
+For example, if A must alternate with B and A with C, but not necessarily B with C, you could loop the sequence A, B, C, A, C, B and this would satisfy both. You can draw a graph of the machines, with an edge joining pairs that are required to alternate. Nicholas shows that with more complex graphs (with the example of [crown graphs](https://en.wikipedia.org/wiki/Crown_graph), the number of machines you need in your sequence can be arbitrarily large!
+
 #### Robert Woolley: Making board games fit - Numbers & Space
+
+Rob has constructed a portable set of board game equipment that can be used to play a large variety of different games.
 
 ### Session 2c: 11:15 - 11:48
 
