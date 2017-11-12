@@ -17,3 +17,5 @@ Here are photographs of all the cakes from this year's MathsJam Gathering Bakeof
 [![Enigma Machine Cake](https://mathsjam.com/gathering/archive/2017/cakes/cake10.jpg)](https://mathsjam.com/gathering/archive/2017/cakes/cake10_lg.jpg)
 [![Enigma Machine Cake](https://mathsjam.com/gathering/archive/2017/cakes/cake11.jpg)](https://mathsjam.com/gathering/archive/2017/cakes/cake11_lg.jpg)
 [![Enigma Machine Cake](https://mathsjam.com/gathering/archive/2017/cakes/cake12.jpg)](https://mathsjam.com/gathering/archive/2017/cakes/cake12_lg.jpg)
+
+Photographs by Tom [(@teakayb)](http://twitter.com/teakayb).
