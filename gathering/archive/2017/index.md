@@ -52,7 +52,7 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 
 #### Matthew Scroggs: Big Ben Strikes Again
 
-[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlet](https://en.wikipedia.org/wiki/Captain_Scarlett) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a ~~bomb~~ civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
+[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlet](https://en.wikipedia.org/wiki/Captain_Scarlet_and_the_Mysterons) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a ~~bomb~~ civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
 
 #### Andrew Russell: Diabolo as a picture
 
