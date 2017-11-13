@@ -160,7 +160,7 @@ Ken talks about where 0 appears in lots of numbers.
 
 #### Peter Rowlett: Fermi problems
 
-(Peter)[https://twitter.com/peterrowlett] uses Fermi problems to justify the definition and use of the approximate geometric mean.
+[Peter](https://twitter.com/peterrowlett) uses Fermi problems to justify the definition and use of the approximate geometric mean.
 
 #### Kathryn Taylor: Adventures in modular origami
 
