@@ -10,10 +10,10 @@ organiser:
 location:
     group: england
     pub_name: "the Druid's Head"
-    description: " in the Rotunda opposite Kingston-upon-Thames Station"
+    description: ", on Market Place"
     url: http://www.druidshead-kingston.co.uk/
-    lon: -0.3066049
-    lat: 51.4092345
+    lon: -0.3064667
+    lat: 51.4092546
 hiatus: False
 hiatus_months:
     - 2017-08
