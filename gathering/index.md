@@ -2,7 +2,7 @@
 layout: gathering
 ---
 
-The 2017 gathering will be held on **11<sup>th</sup>-12<sup>th</sup> November**, and we are returning to our home for the past few years:
+The 2017 gathering was held on **11<sup>th</sup>-12<sup>th</sup> November**, and we returned to our home for the past few years:
 
 > Yarnfield Park  
 > Yarnfield  
@@ -10,7 +10,7 @@ The 2017 gathering will be held on **11<sup>th</sup>-12<sup>th</sup> November**,
 > Staffordshire  
 > ST15 0NL  
 
-Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  Early-bird discount has now closed, but a 10% discount is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
+<!--Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  Early-bird discount has now closed, but a 10% discount is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.-->
 
 The talk listings and abstracts for 2017 talks will shortly be listed on the talks page, and talks from all past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
 
@@ -23,7 +23,7 @@ The program includes:
 * Generous tea/coffee breaks
 * Time to talk
 
-For more information, use the links to the left to find out about the format, see talk titles and testimonials from previous events, or register your interest. Registering will add you to the mailing list, to be kept up-to-date with any news. Registration is free and commits you to nothing.
+For more information, use the links to the left to find out about the format, see talk titles and testimonials from previous events, or register your interest for future events. Registering will add you to the mailing list, to be kept up-to-date with any news. Registration is free and commits you to nothing.
 
 The [MathsJam Gathering Code of Conduct can be found here](https://mathsjam.com/gathering/MJGCoC.pdf).
 
