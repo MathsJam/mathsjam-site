@@ -3,7 +3,7 @@ layout: gathering
 title: MathsJam Gathering 2017
 ---
 	
-This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description and slides where we have them.
+This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description and slides where we have them. There's also a [Cake page here]({{site.url}}/gathering/archive/2017/cake) with the photos of cakes entered in the cake competition.
 
 ## Saturday
 ### Session 1a: 14:00 - 14:47
