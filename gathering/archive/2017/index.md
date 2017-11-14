@@ -158,9 +158,9 @@ Ken talks about where 0 appears in lots of numbers.
 
 [Will](https://twitter.com/WillKirkby) uses a trinary celluar automaton to sort binary numbers, then asks if you can use a (n+1)-ary celluar automaton to sort n-ary numbers, then shows us lots of excellent other cellular automata.
 
-#### Peter Rowlett: Fermi problems
+#### Peter Rowlett: Fermi problems for teaching mathematical modelling
 
-[Peter](https://twitter.com/peterrowlett) uses Fermi problems to justify the definition and use of the approximate geometric mean.
+[Peter](https://twitter.com/peterrowlett) uses Fermi problems he uses in teaching mathematical modelling. He also shares his favourite method for answering them, which is the *approximate geometric mean*, [as described in this blog post](http://connor-johnson.com/2016/10/02/approximation-and-the-geometric-mean/).
 
 #### Kathryn Taylor: Adventures in modular origami
 
