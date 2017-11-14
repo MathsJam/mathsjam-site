@@ -197,16 +197,47 @@ Rob has constructed a portable set of board game equipment that can be used to p
 ### Session 2c: 11:15 - 11:48
 
 #### Glen Whitney: Who is a topologist?
+
+Glen reveals the results of his 'hole poll': 4 was the most popular response - perhaps, says Glen, this answer came about with 'proof by t-shirt' which says that because we have 4 things sticking out a t-shirt (similar to Glen's shape) it therefore has 4 holes. Glen then uses Euler's formula...amd finds it has -4 holes! But with the help of some children's modelling putty, he concludes it actually has 3 holes and ends on a better topology joke than the mug/torus joke.
+
 #### Sue de Pomerai: The life and times of Ada Lovelace
+
+Sue starts by showing us a 'small selection' of Lord Byron's lovers - including his own half sister - who knew! Sue continues to tell us about Ada's work with Babbage: noteably her translation of Babbage's paper about the difference engine where she brought out the Bernoulli Numbers, and made his paper less 'seriously wrong' and more 'beautiful'. 
+
 #### Pedro Freitas: A programmed deck
+
+Pedro demonstrates a magic card trick - which involved him ordering the deck such that he could determine two integers an audience member was thinking of from their sum and difference. One to try at home!
+
 #### Matthew and John Bibby: Boring log and geometrical tables
+
+Matt and John Bibby make some visual log puns, show us items they have crafted together (including a truncated triangular based pyramid seat) and draw mathematical anologies between between the boring process of trees and the licking and melting of sticks of rock and candles, respectively.
+
 #### Geoff Morley: Irrational Bases
+
+Geoff asks questions about irrational bases such as: 'What is 3 in base 2.6180339887....? He also asks questions and draws links between, amoungst others: Pisot numbers, negatives bases, and Ito-Sadahiro (-Beta)-expansions. 
+
 #### Adam Atkinson: Mathematics and Art: A Real-World Problem
+
+Adam Adkinson tells us a 'real world maths story', which he defines as a conversation that 'occurs between two people who are not mathematicans'. A friend wants to install a scultpture on a mountain near Catania in Sicily, and Adam amuses us with the difficulties that his friend my incur. Noteably, Adam calculates that to be seen at a decent size from the airport, it would need to be atleast 200m tall, and Adam also conjectures it might have some competition from mother nature (the mountain in question is infact Etna - the most active volano in Europe).
 
 ### Session 2d: 12:06 - 12:39
 
 #### Elaine Smith & Lynda Goldenberg: Multiplication: Magic or Madness
+
+Elaine gives us a whistle stop tour of different multiplication methods; including a refelction on column method versus Gelosia method that drew on her experiences in the classroom. Elaine explains that suprisingly, the English word jelousy is derived from the word Gelosia! 
+
 #### Robert W. Vallin: Maverick Solitaire and Three-Card Poker
+
+Robert discusses a couple of card games: Maverick Solitaire and Three-Card Poker. Robert tells us that by usisng a computer simulation it can be shown that a 'pat hand' can be made in Maverick Soilitaire a high proportion of the time. However, he conlcudes by asking us what percentage of the time we can get a stright flush in Three-Card Poker. 
+
 #### Robert Low: Why knot?
+
+Rob explores knots and tells us: all manipulations can be carried out as a sequences of three Reidemesiter (who wrote a great book in German) moves and demontrates how the colouring of different sections of the knot links to the solutions. He also makes a joke about chalkdust. 
+
 #### Philipp Reinhard: From a tweet to Langnaus 4th problem in < 5min
+
+Philipp spotted a riddle tweeted recently by one @ColinMathmo that asked can you find 'three integers in an arithmetic progression whose product is prime?'. He worked out that this seemingly impossible problem boiled down to 'How many of n^2 + 1 are prime?'. This Philipp tells us is a famously unsolved problem. 
+
 #### Oliver Masters: The Fibonacci Matrix
+
+Oliver shows three applications of the 'Fibonacci Matrix', including a suprising link between the Fibonacci Matrix and The Golden Ratio! He also does some impressive speed proving on stage.
