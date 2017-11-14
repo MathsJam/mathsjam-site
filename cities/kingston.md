@@ -12,8 +12,8 @@ location:
     pub_name: "the Druid's Head"
     description: ", on Market Place"
     url: http://www.druidshead-kingston.co.uk/
-    lon: -0.3064667
-    lat: 51.4092546
+    lon: -0.306518
+    lat: 51.4092554
 hiatus: False
 hiatus_months:
     - 2017-08
