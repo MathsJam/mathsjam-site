@@ -9,13 +9,15 @@ organiser:
     email: kingston@mathsjam.com
 location:
     group: england
-    pub_name: "the Cornerstone pub"
+    pub_name: "the Druid's Head"
     description: " in the Rotunda opposite Kingston-upon-Thames Station"
-    url: https://www.hungryhorse.co.uk/locations/cornerstone
-    lon: -0.3020113
-    lat: 51.4119319
+    url: http://www.druidshead-kingston.co.uk/
+    lon: -0.3066049
+    lat: 51.4092345
 hiatus: False
 hiatus_months:
     - 2017-08
+changed_dates:
+    - 2019-11-22
 ---
 
