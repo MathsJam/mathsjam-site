@@ -52,7 +52,7 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 
 #### Matthew Scroggs: Big Ben Strikes Again
 
-[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlet](https://en.wikipedia.org/wiki/Captain_Scarlett) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a ~~bomb~~ civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
+[Matt](http://mscroggs.co.uk/) ([Twitter](https://twitter.com/mscroggs)) explains how in the [Captain Scarlet](https://en.wikipedia.org/wiki/Captain_Scarlett) episode "Big Ben Strikes Again", Captain Blue used real maths to calculate the location of a <del>bomb</del> civil device by correlating the rings of Big Ben he heard on Radio 4 with the rings he could hear from the clock itself.
 
 #### Andrew Russell: Diabolo as a picture
 
@@ -60,11 +60,11 @@ After deciding that Diablo knots are too complicated to understand, Andrew shows
 
 #### Angela Brett: Mathematical poetry
 
-[Angela](angelastic.com) recites a poem about how progress is made by standing on the shoulders of not only giants but a lot of shorter people too, and then shows us some Haiku that she discovered in mathematical texts using her own [Haiku detector](https://spondeesoftware.wordpress.com/apps/haiku-detector) software.
+[Angela](https://angelastic.com) recites a poem about how progress is made by standing on the shoulders of not only giants but a lot of shorter people too, and then shows us some Haiku that she discovered in mathematical texts using her own [Haiku detector](https://spondeesoftware.wordpress.com/apps/haiku-detector) software.
 
 #### Adam Townsend: Stop! (or, using maths to pass your driving test)
 
-[Adam](adamtownsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
+[Adam](https://adamtownsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
 
 #### Elizabeth and Zeke: rat with an e
 
