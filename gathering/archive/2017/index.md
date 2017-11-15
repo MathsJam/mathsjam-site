@@ -84,7 +84,7 @@ Rob presents some twists on an old classic puzzle - given a 3 by 3 square of dot
 
 Rachel is interested in yarn, and showed us how the way spinning machines produce it - and an interesting topological puzzle it presented.
 
-[Rachel's textile art](http://rachelwright.com/)
+[Rachel's textile art](http://www.blog.virtuosewadventures.co.uk)
 [Rachel's book on yarn manufacture](https://books.google.co.uk/books/about/Fancy_Yarns.html?id=wFy3zyvjMNUC&redir_esc=y)
 
 #### Alex Burlton: Bags of Palindromes
