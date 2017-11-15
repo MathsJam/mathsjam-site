@@ -220,7 +220,7 @@ Geoff asks questions about irrational bases such as: 'What is 3 in base 2.618033
 
 #### Adam Atkinson: Mathematics and Art: A Real-World Problem
 
-Adam Adkinson tells us a 'real world maths story', which he defines as a conversation that 'occurs between two people who are not mathematicans'. A friend wants to install a scultpture on a mountain near Catania in Sicily, and Adam amuses us with the difficulties that his friend my incur. Noteably, Adam calculates that to be seen at a decent size from the airport, it would need to be atleast 200m tall, and Adam also conjectures it might have some competition from mother nature (the mountain in question is infact Etna - the most active volano in Europe).
+Adam Atkinson tells us a 'real world maths story', which he defines as a conversation that 'occurs between two people who are not mathematicans'. A sculptor wants to install a sculpture on a mountain near Catania in Sicily, and Adam amuses us with the difficulties that he my incur. Notably, Adam calculates that to be seen at a decent size from the airport, it would need to be at least 200m tall, and Adam also conjectures it might have some competition from mother nature (the mountain in question is in fact Etna - (one of?) the most active volcano in Europe).
 
 ### Session 2d: 12:06 - 12:39
 
