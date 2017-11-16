@@ -20,7 +20,7 @@ You might have heard that the square of a prime number (p>3) is always one more 
 
 #### Matt Peperell: Logical deducation games
 
-Logical deduction games are those like [Penultima](https://boardgamegeek.com/boardgame/118656/penultima) where players have to deduce to rules by being told when they've broken them.
+Logical deduction games are those like [Penultima](https://boardgamegeek.com/boardgame/118656/penultima), where players have to deduce the rules by being told when they've broken them.
 
 [Matt](http://twitter.com/mattpep) showed us a few of them, including Zendo, Mao and [Eleusis](https://en.wikipedia.org/wiki/Eleusis_%28card_game%29) which you can play with an incomplete deck of cards. 
 
@@ -38,9 +38,11 @@ Having seen the classic "Andrex paper: 22.2p per 100sht" tweet, Alison has gathe
 
 [TD](twitter.com/televisionduck) has watched _Mean Girls_ which features a maths competition in the finale. She's put a lot of thought into not only how to approach the questions in it, but also how the wrong answers might have been arrived at.
 
+- [All the math scenes in Mean Girls, on YouTube](https://www.youtube.com/watch?v=QIMSC-RWvF8)
+
 #### Noel-Ann Bradshaw: Digesting the indigestible
 
-Noel-Ann has also got a talk about data and how to present it. (There is no literal digestion in this data talk.) A highlight was her taking apart the commonly held idea that the y-axis must always include zero to stop a graph being misleading, by showing examples where that clearly makes no sense.
+Noel-Ann talked about different ways of presenting data. A highlight was her taking apart the commonly held idea that the y-axis must always include zero to stop a graph being misleading, by showing examples where that clearly makes no sense.
 
 - [Noel-Ann's slides (PPTX)]({{site.url}}/assets/talks/2017/NoelAnn-Digestingtheindigestible.pptx)
 - [Noel-Ann's slides (PDF)]({{site.url}}/assets/talks/2017/NoelAnn-Digestingtheindigestible.pdf)
@@ -50,6 +52,8 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 #### Zoe Griffiths: A discourse on e
 
 [Zoe](https://twitter.com/zoelgriffiths) impresively recites from memory a humorous poem she wrote about the [base of the natural logarithm](https://en.wikipedia.org/wiki/E_(mathematical_constant)) which told of the life of e.
+
+- [Episode 50 of Wrong, But Useful Podcast in which Zoe's poem features](http://www.flyingcoloursmaths.co.uk/wrong-useful-episode-50/)
 
 #### Phil Chaffe: Maths Jammin' - Writing a song for the Maths Jam Jam
 
@@ -66,7 +70,7 @@ Noel-Ann has also got a talk about data and how to present it. (There is no lite
 
 Andrew shows us how every balloon animal should be a [semi-Eulerian](http://mathonline.wikidot.com/eulerian-graphs-and-semi-eulerian-graphs#toc3) graph, but shows us an example of one that isn't, inviting us to work out how he's done it...
 
-- [A tweet containing a photo of Andrew's balloon animal]()
+- [A tweet containing a photo of Andrew's balloon animal](https://twitter.com/peterrowlett/status/929634148687450112)
 
 #### Angela Brett: Mathematical poetry
 
@@ -77,7 +81,7 @@ Andrew shows us how every balloon animal should be a [semi-Eulerian](http://math
 
 #### Adam Townsend: Stop! (or, using maths to pass your driving test)
 
-[Adam](https://adamtownsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
+[Adam](https://adamtownsend.com) ([Twitter](https://twitter.com/pecnut)) avoids memorising stopping distances for his driving test by deriving and learning the equation instead, with justification from mechanics. Turns out the units you choose have a big impact on how memorable the formula is. Also, British people seem to believe that they have much faster reactions than citizens of any other country.
 
 #### Elizabeth and Zeke: rat with an e
 
@@ -181,7 +185,7 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 
 #### Katie Steckles: Sheeran Numbers
 
-[Katie](https://twitter.com/stecks) makes 22262 different numbers using number one albums as numbers and Ed Sheeran albums as operators, with a few constraints.
+[Katie](https://twitter.com/stecks) makes 22262 different numbers using Number One albums as numbers and Ed Sheeran albums as operators, with a few constraints.
 
 - [Katie's Python code on GitHub](http://www.github.com/katiesteckles/sheerannumbers)
 - [Katie's slides (PDF)]({{site.url}}/assets/talks/2017/KatieSteckles-Sheerannumbers.pdf)
@@ -195,7 +199,7 @@ Ken talks about where 0 appears in lots of numbers.
 
 #### Tony Mann: The mathematics of competition
 
-[Tony](https://twitter.com/Tony_Mann) finds yet another meaning of competition, and explains how having more ice cream vendors doesn't mean you have to walk less far to get an ice cream: or how two competition competitions in competitions should place themselves to each maximise the number of competitions entered in their competition competition.
+[Tony](https://twitter.com/Tony_Mann) finds yet another meaning of competition, and explains how having more ice cream vendors doesn't mean you have to walk less far to get an ice cream.
 
 - [Tony's slides (PPTX)]({{site.url}}/assets/talks/2017/TonyMann-Mathematicsandcompetition.pptx)
 - [Tony's slides (PDF)]({{site.url}}/assets/talks/2017/TonyMann-Mathematicsandcompetition.pdf)
@@ -214,7 +218,7 @@ Ken talks about where 0 appears in lots of numbers.
 
 #### Kathryn Taylor: Adventures in modular origami
 
-Kathryn uses the visualiser to show us some incredible incredible origami shapes built from Sonobe modules.
+Kathryn uses the visualiser to show us some incredible incredible origami shapes built from Sonobe modules - including one she's just invented and can't work out what it's called (it turns out it was a double stellated tetrahedron).
 
 ### Session 2b: 10:00 - 10:47
 
@@ -230,7 +234,7 @@ Tips on how to find, finance, accomplish and document a new project, whether in 
 
 - [Miles' slides (PDF)]({{site.url}}/assets/talks/2017/MilesGould-Mountainclimbing.pdf)
 - [Transcript of Miles' Talk (PDF)]({{site.url}}/assets/talks/2017/MilesGould-Transcript.pdf)
-- [Miles' talk on YouTube](https://www.youtube.com/watch?v=0bv6VovSmQ4)
+- [Miles' talk as a video on YouTube](https://www.youtube.com/watch?v=0bv6VovSmQ4)
 
 #### Samuel Ball: Fake It Till You Make It
 
@@ -271,7 +275,7 @@ Glen reveals the results of his 'hole poll': he made some objects after dinner l
 
 #### Sue de Pomerai: The life and times of Ada Lovelace
 
-Sue starts by showing us a 'small selection' of Lord Byron's lovers - including his own half sister - who knew! Sue continues to tell us about Ada's work with Babbage: noteably her translation of Babbage's paper about the difference engine where she brought out the Bernoulli Numbers, and made his paper less 'seriously wrong' and more 'beautiful'. 
+Fully dressed as Ada Lovelace (good effort!) Sue tells us about the life and work of Ada Loveace, including her work with Charles Babbage: noteably her translation of Babbage's paper about the difference engine where she brought out the Bernoulli Numbers, and made his paper less 'seriously wrong' and more 'beautiful'. 
 
 - [Sue's slides (PPT)]({{site.url}}/assets/talks/2017/SuedePom-Adalovelace.ppt)
 - [Sue's slides (PDF)]({{site.url}}/assets/talks/2017/SuedePom-Adalovelace.pdf)
@@ -282,7 +286,7 @@ Pedro demonstrates a magic card trick - which involved him ordering the deck suc
 
 #### Matthew and John Bibby: Geometric tables and boring logs
 
-Matt and John Bibby, whose title was a clever joke show us items they have crafted together (including a truncated triangular based pyramid seat) and discuss how different mathematical patterns can be seen while boring a log to obtain a wooden bowl.
+Matt and John Bibby, whose title was a clever joke, show us items they have crafted together (including a truncated triangular based pyramid seat) and discuss how different mathematical patterns can be seen while boring a log to obtain a wooden bowl.
 
 - [John and Matthew's slides (PPTX)]({{site.url}}/assets/talks/2017/Bibby-Geometrictablesandboringlogs.pptx)
 - [John and Matthew's slides (PDF)]({{site.url}}/assets/talks/2017/Bibby-Geometrictablesandboringlogs.pdf)
@@ -295,7 +299,7 @@ Geoff asks questions about irrational bases such as: 'What is 3 in base 2.618033
 
 #### Adam Atkinson: Mathematics and Art: A Real-World Problem
 
-Adam Atkinson tells us a 'real world maths story', which he defines as a conversation that 'occurs between two people who are not mathematicans'. A sculptor wants to install a sculpture on a mountain near Catania in Sicily, and Adam amuses us with the difficulties that he my incur. Notably, Adam calculates that to be seen at a decent size from the airport, it would need to be at least 200m tall, and Adam also conjectures it might have some competition from mother nature (the mountain in question is in fact Etna - (one of?) the most active volcano in Europe).
+Adam Atkinson tells us a 'real world maths story', which he defines as a conversation that 'occurs between two people who are not mathematicans'. A sculptor wants to install a sculpture on a mountain near Catania in Sicily, and Adam amuses us with the difficulties that he may incur. Notably, Adam calculates that to be seen at a decent size from the airport, it would need to be at least 200m tall, and Adam also conjectures it might have some competition from mother nature (the mountain in question is in fact Etna - one of the most active volcanoes in Europe).
 
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2017/AdamAtkinson-Mathematicsandart.pdf)
 
@@ -303,26 +307,26 @@ Adam Atkinson tells us a 'real world maths story', which he defines as a convers
 
 #### Elaine Smith & Lynda Goldenberg: Multiplication: Magic or Madness
 
-Elaine gives us a whistle stop tour of different multiplication methods; including a refelction on column method versus Gelosia method that drew on her experiences in the classroom. Elaine explains that suprisingly, the English word jelousy is derived from the word Gelosia!
+Elaine gives us a whistle-stop tour of different multiplication methods; including a refelction on the column method versus the Gelosia method, that draws on her experiences in the classroom.
 
 - [Elaine's slides (PPTX)]({{site.url}}/assets/talks/2017/ElaineSmith-Multiplicationmagicormadness.pptx)
 - [Elaine's slides (PDF)]({{site.url}}/assets/talks/2017/ElaineSmith-Multiplicationmagicormadness.pdf)
 
 #### Robert W. Vallin: Maverick Solitaire and Three-Card Poker
 
-Robert discusses a couple of card games: Maverick Solitaire and Three-Card Poker. Robert tells us that by usisng a computer simulation it can be shown that a 'pat hand' can be made in Maverick Soilitaire a high proportion of the time. However, he conlcudes by asking us what percentage of the time we can get a stright flush in Three-Card Poker. 
+Robert discusses a couple of card games: Maverick Solitaire and Three-Card Poker. Robert tells us that by using a computer simulation it can be shown that a 'pat hand' can be made in Maverick Soilitaire a high proportion of the time. However, he conlcudes by asking us what percentage of the time we can get a straight flush in Three-Card Poker.
 
 - [Robert's slides (PDF)]({{site.url}}/assets/talks/2017/RobertVallin-Mavericksolitaire.pdf)
 
 #### Robert Low: Why knot?
 
-Rob explores knots and tells us: all manipulations can be carried out as a sequences of three Reidemesiter (who wrote a great book in German) moves and demontrates how the colouring of different sections of the knot links to the solutions. He also makes a joke about chalkdust. 
+Rob explores mathematical knots, and explains how all manipulations can be carried out as a sequence of three [Reidemeister moves](http://mathworld.wolfram.com/ReidemeisterMoves.html), and demontrates how the colouring of different sections of the knot links to the solutions.
 
 - [Rob's slides (PDF)]({{site.url}}/assets/talks/2017/RobLow-Whyknot.pdf)
 
 #### Philipp Reinhard: From a tweet to Langnaus 4th problem in < 5min
 
-Philipp spotted a riddle tweeted recently by one @ColinMathmo that asked can you find 'three integers in an arithmetic progression whose product is prime?'. He worked out that this seemingly impossible problem boiled down to 'How many of n^2 + 1 are prime?'. This Philipp tells us is a famously unsolved problem. 
+Philipp spotted a riddle tweeted recently by one [@ColintheMathmo](http://www.twitter.com/colinthemathmo), which asked can you find 'three integers in an arithmetic progression whose product is prime?'. He worked out that, when rephrased in the complex integers, this seemingly impossible puzzle boils down to 'How many numbers of the form n² + 1 are prime?'. This, Philipp tells us, is a famously [unsolved problem](https://en.wikipedia.org/wiki/Landau%27s_problems). 
 
 - [Philipp's slides (PPTX)]({{site.url}}/assets/talks/2017/PhilippReinhard-TwitterpuzzletoLandauproblem.pptx)
 - [Philipp's slides (PDF)]({{site.url}}/assets/talks/2017/PhilippReinhard-TwitterpuzzletoLandauproblem.pdf)
