@@ -204,6 +204,8 @@ Ken talks about where 0 appears in lots of numbers.
 
 [Will](https://twitter.com/WillKirkby) uses a trinary celluar automaton to sort binary numbers, then asks if you can use a (n+1)-ary celluar automaton to sort n-ary numbers, then finishes with some beautiful cellular automata with probabalistic values between 0 and 1!
 
+[Will's talk on YouTube](https://www.youtube.com/watch?v=OQFrJYXeQJA)
+
 #### Peter Rowlett: Fermi problems for teaching mathematical modelling
 
 [Peter](https://twitter.com/peterrowlett) uses Fermi problems he uses in teaching mathematical modelling. He also shares his favourite method for answering them, which is the *approximate geometric mean*, [as described in this blog post](http://connor-johnson.com/2016/10/02/approximation-and-the-geometric-mean/).
@@ -224,7 +226,7 @@ Tips on how to find, finance, accomplish and document a new project, whether in 
 
 - [Miles' slides (PDF)]({{site.url}}/assets/talks/2017/MilesGould-Mountainclimbing.pdf)
 - [Transcript of Miles' Talk (PDF)]({{site.url}}/assets/talks/2017/MilesGould-Transcript.pdf)
-- [Miles' talk on YouTube]()
+- [Miles' talk on YouTube](https://www.youtube.com/watch?v=0bv6VovSmQ4)
 
 #### Samuel Ball: Fake It Till You Make It
 
