@@ -106,6 +106,7 @@ Rachel is interested in yarn, and showed us how the way spinning machines produc
 
 A palindromic number is one whose digits read the same backwards as forwards. Given a random collection of numbers, what's the probability you can arrange them into a palindrome, and how does this change as the number of possible digits changes?
 
+- [Alex's talk as an Arxiv paper](https://arxiv.org/abs/1604.02327)
 - [Alex's slides (PPTX)]({{site.url}}/assets/talks/2017/AlexBurton-Bagsofpalindromes.pptx)
 - [Alex's slides (PDF)]({{site.url}}/assets/talks/2017/AlexBurton-Bagsofpalindromes.pdf)
 
@@ -189,9 +190,8 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 
 Ken talks about where 0 appears in lots of numbers.
 
-- [Ken's slides (PPT)]({{site.url}}/assets/talks/2017/KenMckelvie-Muchadoaboutnothing.ppt)
-- [Ken's slides (PDF)]({{site.url}}/assets/talks/2017/KenMckelvie-Muchadoaboutnothing.pdf)
-
+- [Ken's slides (PPT)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.ppt)
+- [Ken's slides (PDF)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.pdf)
 
 #### Tony Mann: The mathematics of competition
 
@@ -204,7 +204,9 @@ Ken talks about where 0 appears in lots of numbers.
 
 [Will](https://twitter.com/WillKirkby) uses a trinary celluar automaton to sort binary numbers, then asks if you can use a (n+1)-ary celluar automaton to sort n-ary numbers, then finishes with some beautiful cellular automata with probabalistic values between 0 and 1!
 
-[Will's talk on YouTube](https://www.youtube.com/watch?v=OQFrJYXeQJA)
+- [Will's slides (Keynote)]({{site.url}}/assets/talks/2017/WillKirkby-LifeBeyondBinary.key)
+- [Will's slides (PDF)]({{site.url}}/assets/talks/2017/WillKirkby-LifeBeyondBinary.pdf)
+- [Will's talk on YouTube](https://www.youtube.com/watch?v=OQFrJYXeQJA)
 
 #### Peter Rowlett: Fermi problems for teaching mathematical modelling
 
@@ -219,6 +221,8 @@ Kathryn uses the visualiser to show us some incredible incredible origami shapes
 #### Marcin Konowalczyk: Unrolling the rolling shutter
 
 Marcin talks about the [rolling shuter effect](https://www.youtube.com/watch?v=dNVtMmLlnoE) which he's [implemented in Python](https://github.com/MarcinKonowalczyk/rollingshutterpy), and attempts to reverse-enginner while teaching himself neural networks.
+
+- [Marcin's slides and videos (ZIP file, 100+MB)]({{site.url}}/assets/talks/2017/MarcinKonowalczyk-Rollingshutter.zip)
 
 #### Miles Gould: How Mountaineering is like Mathematics
 
