@@ -3,6 +3,7 @@ layout: city
 city_name: Sydney                                                               
 jam_name: Sydney MathsJam
 email: sydney@mathsjam.com
+twitter: SYDMathsJam
 organiser:
     name: Belinda
     email: sydney@mathsjam.com
