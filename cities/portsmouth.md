@@ -17,4 +17,5 @@ location:
 hiatus: False
 hiatus_months:
     - 2017-10
+    - 2017-11
 ---
