@@ -45,6 +45,7 @@ changed_dates: (add this field if the Jam is running on a different day one mont
     - 2015-03-23
     - 2016-09-28
 jam_date_rule: second-last Tuesday
+december_jam_date_rule: third-last Tuesday
 start_time: 7pm in the evening
 ---
 ```
@@ -52,6 +53,8 @@ start_time: 7pm in the evening
 All the data from this file will be used to create the page for the Jam, and all other references to the city throughout the site.
 
 If your Jam doesn't meet on the second-last Tuesday of the month, you can add a line for 'jam_date_rule' and follow the convention of 'first/second/third/fourth(-last) Weekday', e.g. fourth Thursday, third-last Saturday. If you can't work out how to word it, do your best and we can fix it before merging.
+
+Most Jams run on a different date in December to avoid Christmas, so there's a separate `december_jam_date_rule` line, with a default of 'third-last Tuesday'.
 
 If you need to put your MathsJam on hiatus for a single month, this is also possible - add the 'hiatus_months' field, and then on successive lines add the months for which you won't be meeting, in the format YYYY-MM, as in the example above. This will automatically add a note to the site and remove it again afterwards. A similar procedure is available using the 'changed_dates' field for if your MathsJam is running on a different date for one particular month.
 
