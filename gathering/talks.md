@@ -12,7 +12,7 @@ This list is subject to some small changes, but keep checking here for the most 
 
 - Colin Wright, Matt Parker and Katie Steckles: Welcome to the MathsJam Gathering
 - Tom Button: All about the base (no trebles)
-- Matt Peperell: Logical deducation games
+- Matt Peperell: Logical deduction games
 - Alison Kiddle: Alison talks crap
 - TD Dang: The maths in Mean Girls
 - Noel-Ann Bradshaw: Digesting the indigestible
