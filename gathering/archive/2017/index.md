@@ -173,7 +173,6 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 David shows us a fascinating explanation of how you can multiply squares and triangles on the complex plane to find pythagorean triples and more.
 
 - [Dave's slides (PPTX)]({{site.url}}/assets/talks/2017/DaveMitchell-Trithagoras.pptx)
-- [Dave's slides (PDF)]({{site.url}}/assets/talks/2017/DaveMitchell-Trithagoras.pdf)
 
 #### Dave Gale: Catchphrase and Coffee
 
