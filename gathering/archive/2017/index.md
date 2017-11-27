@@ -271,7 +271,9 @@ Rob has constructed a portable set of board game equipment that can be used to p
 
 Glen reveals the results of his 'hole poll': he made some objects after dinner last night, one of which was shaped like a t-shirt (a hole at the bottom, one at the top, and two on the sides, all of which meet in the middle), and asked people to suggest how many holes it's actually got.
 
-4 was the most popular response - perhaps, says Glen, this answer came about with 'proof by t-shirt' which says that because we have 4 things sticking out a t-shirt (similar to Glen's shape) it therefore has 4 holes. Glen then uses Euler's formula...amd finds it has -4 holes! But with the help of some children's modelling putty, he concludes it actually has 3 holes and ends on a topology joke about steering wheels and t-shirts.
+4 was the most popular response - perhaps, says Glen, this answer came about with 'proof by t-shirt' which says that because we have 4 things sticking out a t-shirt (similar to Glen's shape) it therefore has 4 holes.
+
+Glen then uses Euler's formula, which suggests by analogy to the simply connected and toroidal cases that the object should have only three holes!  With the help of some children's modelling putty, he concludes it actually does have only 3 holes and ends on a topology joke about steering wheels and t-shirts.
 
 - [Glen's slides (PDF)]({{site.url}}/assets/talks/2017/GlenWhitney-Theholetruth.pdf)
 
