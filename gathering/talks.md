@@ -43,7 +43,7 @@ This list is subject to some small changes, but keep checking here for the most 
 - Alison Clarke: Stupid Units
 - Belgin Seymenoglu: Donald in Mathmagic Land
 - Douglas Buchanan: Lowering the Tone
-- David Mitchell: The Thereom of Trythagoras (Pythagoras is for Squares)
+- David Mitchell: The Theorem of Trythagoras (Pythagoras is for Squares)
 - Dave Gale: Catchphrase and Coffee
 
 ### Sunday
