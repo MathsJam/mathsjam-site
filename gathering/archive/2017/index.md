@@ -18,7 +18,7 @@ You might have heard that the square of a prime number (p>3) is always one more 
 
 - [Tom's slides (PDF)]({{site.url}}/assets/talks/2017/TomButton-Allaboutbase.pdf)
 
-#### Matt Peperell: Logical deducation games
+#### Matt Peperell: Logical deduction games
 
 Logical deduction games are those like [Penultima](https://boardgamegeek.com/boardgame/118656/penultima), where players have to deduce the rules by being told when they've broken them.
 
@@ -167,7 +167,7 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 
 <small>*(six, the others are on higher perches)*</small>
 
-#### David Mitchell: The Thereom of Trithagoras (Pythagoras is for Squares)
+#### David Mitchell: The Theorem of Trithagoras (Pythagoras is for Squares)
 
 David shows us a fascinating explanation of how you can multiply squares and triangles on the complex plane to find pythagorean triples and more.
 
