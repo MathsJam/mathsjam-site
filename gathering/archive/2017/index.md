@@ -29,7 +29,8 @@ Logical deduction games are those like [Penultima](https://boardgamegeek.com/boa
 
 #### Alison Kiddle: Alison talks crap
 
-![Photo by Elizabeth @Realityminus3]({{site.url}}/assets/talks/2017/tp.jpg)
+![Price tag for toilet roll, reading "22.2p per 100sht"]({{site.url}}/assets/talks/2017/tp.jpg)  
+<small>Photo by Elizabeth @Realityminus3</small>
 
 Having seen the photo above, Alison wondered if the implied assumption about the number of 'sht's per 'sht' was accurate. She has gathered data about how the statistic differs depending on how you expand the abbreviaton 'sht' and how healthy you are, and presented her findings to us. She also delivers a fine array of puns which for various reasons will not be reproduced here.
 
