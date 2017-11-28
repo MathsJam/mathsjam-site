@@ -178,6 +178,8 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 
 [Dave](https://twitter.com/reflectivemaths) presents some confusing coffee strength scales, and his increasingly formal correspondence with ITV over a misnamed quadrilateral in _Catchphrase_.
 
+- [Dave's slides (Google Slides)](https://docs.google.com/presentation/d/1U17CpzGesZ9GYxgjuiys_n2izlFRgK6cKiXe9Jvl9xE/edit#slide=id.p)
+
 ## Sunday
 ### Session 2a: 08:50 - 09:37
 
@@ -244,6 +246,7 @@ Creating new tweets from old ones using Markov chains, with the Twitter account 
 
 - [Sam's slides (PPTX)]({{site.url}}/assets/talks/2017/SamBall-Fakeittillyoumakeit.pptx)
 - [Sam's slides (PDF)]({{site.url}}/assets/talks/2017/SamBall-Fakeittillyoumakeit.pdf)
+- [Video of Sam's talk](https://www.youtube.com/watch?v=xvJ9C7L1UoA)
 
 #### Wendy Foad: Context vs content
 
@@ -287,6 +290,9 @@ Fully dressed as Ada Lovelace (good effort!) Sue tells us about the life and wor
 #### Pedro Freitas: A programmed deck
 
 Pedro demonstrates a magic card trick - which involved him ordering the deck such that he could determine two integers an audience member was thinking of from their sum and difference. One to try at home!
+
+- [Some slides Pedro has made explaining the trick (PPTX)]({{site.url}}/assets/talks/2017/PedroFreitas-AProgrammedDeck.pptx)
+- [Some slides Pedro has made explaining the trick (PDF)]({{site.url}}/assets/talks/2017/PedroFreitas-AProgrammedDeck.pdf)
 
 #### Matthew and John Bibby: Geometric tables and boring logs
 
