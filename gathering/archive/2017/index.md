@@ -220,6 +220,8 @@ Ken talks about where 0 appears in lots of numbers.
 
 [Peter](https://twitter.com/peterrowlett) uses Fermi problems he uses in teaching mathematical modelling. He also shares his favourite method for answering them, which is the *approximate geometric mean*, [as described in this blog post](http://connor-johnson.com/2016/10/02/approximation-and-the-geometric-mean/).
 
+- [Peter's slides (PDF)]({{site.url}}/assets/talks/2017/PeterRowlett-FermiProblems.pdf)
+
 #### Kathryn Taylor: Adventures in modular origami
 
 Kathryn uses the visualiser to show us some incredible incredible origami shapes built from Sonobe modules - including one she's just invented and can't work out what it's called (it turns out it was a double stellated tetrahedron).
