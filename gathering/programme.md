@@ -2,9 +2,10 @@
 layout: gathering
 title: Programme
 ---
+Below are the details from the 2017 event. For future years, check back here in the run-up to the Gathering for up-to-date timings.
 
 ## Timings
-There will be eight sessions across the weekend, starting at 2pm on the Saturday and running until lunchtime on the Sunday. There will be breaks for coffee and lunch, and [activities on the Saturday evening]({{site.url}}/gathering/extras).  A full list of talks, including timings, can be found on the [Talks page]({{site.url}}/gathering/talks).
+There will be eight sessions across the weekend, starting at 2pm on the Saturday and running until lunchtime on the Sunday. There will be breaks for coffee and lunch, and [activities on the Saturday evening]({{site.url}}/gathering/extras).
  
 Please note, talks will be strictly limited to five minutes. Projectors will be available if you wish to bring Powerpoint/Keynote/Beamer/PDF/Google slides (we suggest only a few slides if you want to keep to time!) and can be presented from your own laptop or we can provide one - please bring your slides on a USB drive (ideally named with your name, not just 'MathsJam slides'!) if you wish to use ours.
 
