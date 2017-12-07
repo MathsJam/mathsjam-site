@@ -13,7 +13,7 @@ location:
     url: http://www.spokesonsouthern.com/
     lon: -111.9142888
     lat: 33.3940957
-changed_dates: (add this field if the Jam is running on a different day one month - give the date the Jam will happen)
-    2017-12-19
+changed_dates:
+    - 2017-12-19
 hiatus: False
 ---
