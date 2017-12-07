@@ -4,7 +4,7 @@ city_name: Bristol
 jam_name: Bristol MathsJam
 email: bristol@mathsjam.com
 organiser:
-    name: Sheila
+    name: Shaila
     email: bristol@mathsjam.com
 location:
     group: england
