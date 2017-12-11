@@ -14,5 +14,7 @@ location:
     url: http://www.whiteswanleeds.co.uk/
     lon: -1.543147
     lat: 53.80219420000001
+changed_dates:
+- 2017-12-19
 hiatus: False
 ---
