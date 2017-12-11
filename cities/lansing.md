@@ -13,5 +13,7 @@ location:
     url: http://www.harperpsbrewpub.com
     lon: -84.4828174
     lat: 42.7362578
+hiatus-months:
+    - 2017-12
 hiatus: False
 ---
