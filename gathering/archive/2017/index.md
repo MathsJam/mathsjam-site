@@ -155,7 +155,7 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 
 [Belgin](https://twitter.com/smokyfurby) shows us where some mathematical concepts from Disney's _Donald in Mathmagic Land_ appear in the real world.
 
-- [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017BelginSeymenoglu-Mathemagicland.pptx)
+- [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pptx)
 - [Belgin's slides (PDF)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pdf)
 
 #### Douglas Buchanan: Lowering the Tone
