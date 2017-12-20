@@ -1,6 +1,7 @@
 ---
 layout: city                                           
 city_name: Guelph ON
+local_jam_type: MathJam
 jam_name: MathJam Guelph
 email: guelph@mathsjam.com
 organiser:

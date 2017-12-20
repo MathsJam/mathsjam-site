@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Phoenix AZ
+local_jam_type: MathJam
 jam_name: Phoenix MathJam
 email: phoenix@math-jam.com
 organiser:
