@@ -3,7 +3,6 @@ layout: city
 city_name: Greenwich                                                               
 jam_name: Greenwich MathsJam
 email: greenwich@mathsjam.com
-twitter: GREMathsJam
 organiser:
     name: Tony
     email: greenwich@mathsjam.com
