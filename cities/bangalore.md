@@ -14,4 +14,5 @@ location:
     lon: 77.5931213
     lat: 12.9827336
 hiatus: False
+jam_date_rule: second Saturday
 ---
