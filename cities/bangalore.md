@@ -3,7 +3,6 @@ layout: city
 city_name: Bangalore                                                               
 jam_name: Bangalore MathsJam
 email: bangalore@mathsjam.com
-twitter: GREMathsJAm
 organiser:
     name: Nilesh
     email: bangalore@mathsjam.com
