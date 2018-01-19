@@ -13,5 +13,5 @@ location:
     url: http://goodbeercentral.sbcbar.com/
     lon: 153.0166858
     lat: -27.4745987
-hiatus: False
+hiatus: True
 ---

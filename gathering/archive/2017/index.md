@@ -24,7 +24,7 @@ Logical deduction games are those like [Penultima](https://boardgamegeek.com/boa
 
 [Matt](http://twitter.com/mattpep) showed us a few of them, including Zendo, Mao and [Eleusis](https://en.wikipedia.org/wiki/Eleusis_%28card_game%29) which you can play with an incomplete deck of cards. 
 
-- [Matt's slides (PPT)]({{site.url}}/assets/talks/2017/MattPeperell-Logicaldeduction.ppt)
+- [Matt's slides (PPT)]({{site.url}}/assets/talks/2017/MattPeperell-Logicaldeduction.pptx)
 - [Matt's slides (PDF)]({{site.url}}/assets/talks/2017/MattPeperell-Logicaldeduction.pdf)
 
 #### Alison Kiddle: Alison talks crap
@@ -34,7 +34,7 @@ Logical deduction games are those like [Penultima](https://boardgamegeek.com/boa
 
 Having seen the photo above, Alison wondered if the implied assumption about the number of 'sht's per 'sht' was accurate. She has gathered data about how the statistic differs depending on how you expand the abbreviaton 'sht' and how healthy you are, and presented her findings to us. She also delivers a fine array of puns which for various reasons will not be reproduced here.
 
-- [Alison's slides (PPT)]({{site.url}}/assets/talks/2017/AlisonKiddle-Alisontalkscrap.ppt)
+- [Alison's slides (PPT)]({{site.url}}/assets/talks/2017/AlisonKiddle-Alisontalkscrap.pptx)
 - [Alison's slides (PDF)]({{site.url}}/assets/talks/2017/AlisonKiddle-Alisontalkscrap.pdf)
 
 #### TD Dang: The maths in Mean Girls
@@ -155,7 +155,7 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 
 [Belgin](https://twitter.com/smokyfurby) shows us where some mathematical concepts from Disney's _Donald in Mathmagic Land_ appear in the real world.
 
-- [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017BelginSeymenoglu-Mathemagicland.pptx)
+- [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pptx)
 - [Belgin's slides (PDF)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pdf)
 
 #### Douglas Buchanan: Lowering the Tone
@@ -198,7 +198,7 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 
 Ken talks about where 0 appears in lots of numbers.
 
-- [Ken's slides (PPT)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.ppt)
+- [Ken's slides (PPT)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.pptx)
 - [Ken's slides (PDF)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.pdf)
 
 #### Tony Mann: The mathematics of competition

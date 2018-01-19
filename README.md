@@ -23,6 +23,7 @@ Create a file `cities/cityname.md`, following this template:
 ---
 layout: city                                           
 city_name: CityName
+local_jam_type: MathsJam (for jams in the US this is "MathJam")
 jam_name: CityName MathsJam
 email: cityname@mathsjam.com
 twitter: CityNameMathsJam

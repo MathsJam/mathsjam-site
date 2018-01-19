@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Chicago IL
+local_jam_type: MathJam
 jam_name: Chicago MathJam
 email: chicago@math-jam.com
 organiser:

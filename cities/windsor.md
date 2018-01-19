@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Windsor, ON
+local_jam_type: MathJam
 jam_name: Windsor MathJam
 email: windsor@math-jam.com
 twitter: WindsorMathJam

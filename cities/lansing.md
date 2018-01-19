@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Lansing MI
+local_jam_type: MathJam
 jam_name: Lansing MathJam
 email: lansing@math-jam.com
 organiser:

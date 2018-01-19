@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Baltimore MD
+local_jam_type: MathJam
 jam_name: Baltimore MathJam
 email: baltimore@math-jam.com
 organiser:

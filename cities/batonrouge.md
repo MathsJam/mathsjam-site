@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Baton Rouge LA
+local_jam_type: MathJam
 jam_name: Baton Rouge MathJam
 email: batonrouge@math-jam.com
 organiser:
