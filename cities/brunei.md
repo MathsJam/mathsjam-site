@@ -4,7 +4,7 @@ city_name: Brunei
 jam_name: Brunei MathsJam
 email: brunei@mathsjam.com
 organiser:
-    name: Phil and Janis
+    name: Phil & Janis
     email: brunei@mathsjam.com
 location:
     group: rest-of-world
