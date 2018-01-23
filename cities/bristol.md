@@ -3,6 +3,7 @@ layout: city
 city_name: Bristol                                                               
 jam_name: Bristol MathsJam
 email: bristol@mathsjam.com
+twitter: BristolMathsJam
 organiser:
     name: Shaila
     email: bristol@mathsjam.com
