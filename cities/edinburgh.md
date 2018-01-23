@@ -16,5 +16,5 @@ location:
     lat: 55.9502658
 hiatus: False
 hiatus_months:
-    - 2017-08
+    - 2018-01
 ---
