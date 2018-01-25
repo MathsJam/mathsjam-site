@@ -9,7 +9,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "Nobiro"
-    description: " which is on Faber Dr"
+    description: " which is on Faber Drive"
     url: https://www.nobiro.sg/
     lon: 103.7562698
     lat: 1.3203892
