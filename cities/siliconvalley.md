@@ -4,7 +4,7 @@ city_name: Silicon Valley
 local_jam_type: MathJam
 jam_name: Silicon Valley MathsJam
 email: siliconvalley@math-jam.com
-twitter: MathJamSV
+twitter: SVMathJam
 organiser:
     name: Rachel
     email: siliconvalley@math-jam.com
