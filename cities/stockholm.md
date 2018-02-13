@@ -13,6 +13,6 @@ location:
     url: http://www.foodspotting.com/places/699964-caf-matte-stockholm
     lon: 18.05391
     lat: 59.35833
-start time: "6pm"
+start time: 6pm
 hiatus: False
 ---
