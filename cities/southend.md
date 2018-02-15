@@ -3,6 +3,7 @@ layout: city
 city_name: Southend-on-Sea                                                               
 jam_name: Southend-on-Sea MathsJam
 email: southend@mathsjam.com
+twitter: SthendMathsJam
 organiser:
     name: Joe
     email: southend@mathsjam.com
