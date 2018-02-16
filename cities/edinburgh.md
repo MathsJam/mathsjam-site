@@ -14,7 +14,7 @@ location:
     url: http://spooncafe.co.uk/
     lon: -3.185893
     lat: 55.9502658
-hiatus: False
+hiatus: True
 hiatus_months:
     - 2018-01
 ---
