@@ -2,11 +2,11 @@
 layout: city                                           
 city_name: Perth                                                               
 jam_name: Perth MathsJam
-email: perth@mathsjam.com
+email: matt@mathsjam.com
 twitter: standupmaths
 organiser:
     name: Matt Parker
-    email: perth@mathsjam.com
+    email: matt@mathsjam.com
 location:
     group: rest-of-world
     pub_name: The Flying Scotsman
