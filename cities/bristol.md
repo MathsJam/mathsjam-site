@@ -9,9 +9,9 @@ organiser:
     email: bristol@mathsjam.com
 location:
     group: england
-    pub_name: "No1 Harbourside,"
+    pub_name: "Watershed Cafe,"
     description: " which is on Canon's Road"
-    url: http://www.no1harbourside.co.uk/
-    lon: -2.6002552
-    lat: 51.4521366
+    url: https://www.watershed.co.uk/cafe-bar
+    lon: -2.5981378
+    lat: 51.4517792
 ---
