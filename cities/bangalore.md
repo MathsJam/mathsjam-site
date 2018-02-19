@@ -3,13 +3,14 @@ layout: city
 city_name: Bangalore                                                               
 jam_name: Bangalore MathsJam
 email: bangalore@mathsjam.com
+twitter: MathsJamBLR
 organiser:
     name: Nilesh
     email: bangalore@mathsjam.com
 location:
     group: rest-of-world
     pub_name: "Indira Gandhi Musical Fountain Park"
-    description: ", on Raj Bhawan Road opposite Jawaharlal Nehru Planetarium. See the event page for links to our Telegram group and Twitter profile to stay updated."
+    description: ", on Raj Bhawan Road opposite Jawaharlal Nehru Planetarium. See the event page (link above) for details of our Telegram group to stay updated"
     url: https://www.eventbrite.com/e/mathsjam-bangalore-tickets-43283228301
     lon: 77.5931213
     lat: 12.9827336
