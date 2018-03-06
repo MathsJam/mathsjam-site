@@ -10,7 +10,8 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "Indira Gandhi Musical Fountain Park"
-    description: ", on Raj Bhawan Road opposite Jawaharlal Nehru Planetarium. Join our Telegram group at https://t.me/joinchat/AUlN1BJkGiCuuOR-MbfwXQ to stay updated about date and venue"
+    url: https://t.me/joinchat/AUlN1BJkGiCuuOR-MbfwXQ
+    description: ", on Raj Bhawan Road opposite Jawaharlal Nehru Planetarium. Join our Telegram group (link above) to stay updated about date and venue"
     lon: 77.5931213
     lat: 12.9827336
 hiatus: False
