@@ -5,7 +5,7 @@ jam_name: East Dorset MathsJam
 email: eastdorset@mathsjam.com
 twitter: EastDorMathsJam
 organiser:
-    name: Jo
+    name: Barney
     email: eastdorset@mathsjam.com
 location:
     group: england
