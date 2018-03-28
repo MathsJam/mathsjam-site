@@ -9,9 +9,9 @@ organiser:
     email: winnipeg@mathsjam.com
 location:
     group: north-america
-    pub_name: "Brazen Hall Kitchen and Brewery"
-    description: ", on Pembina Hwy"
-    url: http://brazenhall.ca/
+    pub_name: "Indulge Bistro & Wine Bar"
+    description: ", on Kenaston"
+    url: https://www.agorafinefoods.ca/
     lon: -97.1512061
     lat: 49.8573869
 hiatus: False
