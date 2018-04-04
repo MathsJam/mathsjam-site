@@ -7,7 +7,7 @@ organiser:
     name: Yuliya
     email: ottowa@math-jam.com
 location:
-    group: rest-of-world
+    group: north-america
     pub_name: "Trio Bistro & Lounge"
     description: " on Richmond Road"
     url: http://triowestboro.com/
