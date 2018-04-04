@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Ottowa                                                               
+city_name: Ottowa, ON                                                               
 jam_name: Ottowa MathJam
 email: ottowa@math-jam.com
 organiser:
