@@ -11,7 +11,7 @@ location:
     pub_name: "Bagni Municipali della Casa del Quartiere di San Salvario"
     description: ", at Via Oddino Morgari 14"
     url: http://www.bagnimunicipali.org/
-    lon: 7.6778411
-    lat: 45.0541439
+    lon: 7.6778733
+    lat: 45.0541671
 hiatus: False
 ---
