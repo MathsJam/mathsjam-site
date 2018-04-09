@@ -1,11 +1,11 @@
 ---
 layout: city                                           
-city_name: Ottowa, ON                                                               
-jam_name: Ottowa MathJam
-email: ottowa@math-jam.com
+city_name: Ottawa, ON                                                               
+jam_name: Ottawa MathJam
+email: ottawa@math-jam.com
 organiser:
     name: Yuliya
-    email: ottowa@math-jam.com
+    email: ottawa@math-jam.com
 location:
     group: north-america
     pub_name: "Trio Bistro & Lounge"
