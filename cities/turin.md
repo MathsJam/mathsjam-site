@@ -1,7 +1,7 @@
 ---
 layout: city                                           
-city_name: T&ugrave;rin, Italy                                                          
-jam_name: T&ugrave;rin MathsJam
+city_name: Turin, Italy                                                          
+jam_name: Turin MathsJam
 email: turin@mathsjam.com
 organiser:
     name: Stefania
