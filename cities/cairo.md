@@ -10,7 +10,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "The ACE Maadi Club"
-    description: ", just off Victoria Square. Please email to confirm you're coming, where possible."
+    description: ", just off Victoria Square. Please email to confirm you're coming, where possible"
     lon: 31.2707681
     lat: 29.9597918
 hiatus: False
