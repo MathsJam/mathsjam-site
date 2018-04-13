@@ -3,6 +3,7 @@ layout: city
 city_name: Turin, Italy                                                          
 jam_name: Turin MathsJam
 email: turin@mathsjam.com
+twitter: TRNMathsJam
 organiser:
     name: Stefania
     email: turin@mathsjam.com
