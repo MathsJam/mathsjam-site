@@ -10,7 +10,7 @@ location:
     group: rest-of-world
     pub_name: "The Grosvenor Hotel"
     description: ", on Cains Terrace near the station"
-    url: http://www.thegrosvenor.co.nz
+    url: http://thegrosvenor.co.nz/restaurant-bar/
     lon: 171.2545668
     lat: -44.3959473
 hiatus: False
