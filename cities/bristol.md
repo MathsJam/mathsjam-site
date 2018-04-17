@@ -9,9 +9,9 @@ organiser:
     email: bristol@mathsjam.com
 location:
     group: england
-    pub_name: "Watershed Cafe,"
-    description: " which is on Canon's Road"
-    url: https://www.watershed.co.uk/cafe-bar
+    pub_name: "The Ship Inn,"
+    description: " which is on Lower Park Row"
+    url: https://www.facebook.com/ShipInnatBristol
     lon: -2.5981378
     lat: 51.4517792
 ---
