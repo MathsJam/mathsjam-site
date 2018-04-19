@@ -15,6 +15,6 @@ location:
     url: http://www.haberdashersj.com
     lon: 37.3299002
     lat: -121.886546
-hiatus: False
+hiatus: True
 start_time: 6pm in the evening
 ---
