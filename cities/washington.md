@@ -10,7 +10,7 @@ organiser:
 location:
     group: north-america
     pub_name: "Spider Kelly's"
-    description: "on Wilson Boulevard, in Arlington"
+    description: " on Wilson Boulevard, in Arlington"
     url: http://www.spiderkellys.com/
     lon: -77.0964991
     lat: 38.8865434
