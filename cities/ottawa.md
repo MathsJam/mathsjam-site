@@ -3,6 +3,7 @@ layout: city
 city_name: Ottawa, ON                                                               
 jam_name: Ottawa MathJam
 email: ottawa@math-jam.com
+twitter: OttawaMathsJam
 organiser:
     name: Yuliya
     email: ottawa@math-jam.com
