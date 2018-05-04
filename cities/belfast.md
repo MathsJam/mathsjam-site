@@ -3,7 +3,7 @@ layout: city
 city_name: Belfast                                                               
 jam_name: Belfast MathsJam
 email: belfast@mathsjam.com
-Twitter: BelfastMathsJam
+twitter: BelfastMathsJam
 organiser:
     name: Leo
     email: belfast@mathsjam.com
