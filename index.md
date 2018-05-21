@@ -29,4 +29,5 @@ If there isn't an event in your area, and you'd like there to be one, please ema
 MathsJam also runs an **annual gathering** which takes place every November. More information about the gatherings can be found [on the gathering pages]({{site.url}}/gathering).
 
 **Privacy Policy**
+
 Each individual local MathsJam runs a small mailing list to remind attendees about each month's Jam. If you email the address given on the city's individual page, you can be added to the list. You'll get an email around once a month, reminding you about the Jam and possibly including details of other relevant local events the organiser thinks you might be interested in. Your name and email address will be stored securely, and if you wish to be removed at any time you can reply to the email and request this. Your data will not be shared with any other organisation or used for any other purpose.
