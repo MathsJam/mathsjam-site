@@ -9,7 +9,7 @@ organiser:
     email: bangalore@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Koramangala"
+    pub_name: "Koramangala (exact location TBC)"
     url: https://t.me/joinchat/AUlN1BJkGiCuuOR-MbfwXQ
     description: ". Join our Telegram group (click "Location" above) to stay updated about date and venue"
     lon: 77.6302894
