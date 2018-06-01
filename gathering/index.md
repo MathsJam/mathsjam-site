@@ -2,7 +2,10 @@
 layout: gathering
 ---
 
-The 2017 gathering was held on **11<sup>th</sup>-12<sup>th</sup> November**, and we returned to our home for the past few years:
+The MathsJam Annual Gathering returns in 2018 on the weekend of
+**17<sup>th</sup>-18<sup>th</sup> November**.  We will again be
+having talks, fun, games, puzzles, and conversation, and once
+again we will return to our home for the past few years:
 
 > Yarnfield Park  
 > Yarnfield  
@@ -10,7 +13,9 @@ The 2017 gathering was held on **11<sup>th</sup>-12<sup>th</sup> November**, and
 > Staffordshire  
 > ST15 0NL  
 
-<!--Prices are £165.00 for a single delegate, or £250.00 for two delegates sharing a room.  Twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.  Early-bird discount has now closed, but a 10% discount is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.-->
+Prices have been held at £165.00 for a single delegate, or £250.00 for two delegates sharing a room - twin rooms are available.  The full package includes accommodation on Saturday night, all sessions, and all meals from lunch on Saturday to lunch on Sunday.
+There is a 10% early-bird discount for those who pay before the (as yet unannounced but likely to be early September) deadline, and a further discount of 10% of the full price is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.
+<!--Early-bird discount has now closed, but a 10% discount is available for the unwaged. There are also day rates if you can only come for one day, and there are some additional bursaries available - email for more information.-->
 
 The talk slides and descriptions from 2017 talks, along with talks from all past gatherings are collated in [the archive]({{site.url}}/gathering/archive).
 
