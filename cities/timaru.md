@@ -3,6 +3,7 @@ layout: city
 city_name: Timaru, NZ                                                          
 jam_name: Timaru MathsJam
 email: timaru@mathsjam.com
+facebook: https://www.facebook.com/timarumathsjam
 organiser:
     name: Mark
     email: timaru@mathsjam.com
