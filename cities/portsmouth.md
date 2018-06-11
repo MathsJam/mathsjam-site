@@ -21,4 +21,5 @@ hiatus_months:
     - 2017-12
 changed_dates:
     - 2017-12-12
+    - 2018-06-12
 ---
