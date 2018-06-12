@@ -13,8 +13,8 @@ location:
     pub_name: "the Sentinel Brewhouse"
     description: ", on Shoreham Street. Sheffield MathsJam is looking for a new organiser, and if you're interested in helping, please contact the address below"
     url: http://www.sentinelbrewing.co/
-    lon: -1.4702663
-    lat: 53.3744552
+    lon: -1.482253
+    lat: 53.379500
 hiatus: False
 hiatus_months:
     - 2017-07
