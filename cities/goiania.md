@@ -1,7 +1,7 @@
 ---
 layout: city                                           
-city_name: Goiania, Brazil                                                           
-jam_name: Goiania MathsJam
+city_name: Goi&acirc;nia, Brazil                                                           
+jam_name: Goi&acirc;nia MathsJam
 email: goiania@mathsjam.com
 jam_date_rule: second-last Saturday
 organiser:
