@@ -12,7 +12,7 @@ location:
     pub_name: "Bulls Hamburgueria"
     description: ", on Avenida T-10"
     url: https://www.instagram.com/bullshamburgueriagoiania/
-    lon: -16.7068879
-    lat: -49.2698586
+    lon: -49.2698586
+    lat: -16.7068879
 hiatus: False
 ---
