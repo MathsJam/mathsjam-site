@@ -11,7 +11,7 @@ organiser:
 location:
     group: england
     pub_name: "the Sentinel Brewhouse"
-    description: ", on Victoria Street."
+    description: ", on Victoria Street"
     url: http://www.beerinthebath.co.uk/
     lon: -1.4702663
     lat: 53.3744552
