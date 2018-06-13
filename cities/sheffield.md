@@ -13,8 +13,8 @@ location:
     pub_name: "the Bath Hotel"
     description: ", on Victoria Street"
     url: http://www.beerinthebath.co.uk/
-    lon: -1.482253
-    lat: 53.379500
+    lon: -1.4822782
+    lat: 53.3791863
 hiatus: False
 hiatus_months:
     - 2017-07
