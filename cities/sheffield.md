@@ -6,11 +6,11 @@ email: sheffield@mathsjam.com
 twitter: SHFMathsJam
 facebook: https://www.facebook.com/Sheffield-Mathsjam-1095095843847847/
 organiser:
-    name: Tanya
+    name: Paul
     email: sheffield@mathsjam.com
 location:
     group: england
-    pub_name: "the Sentinel Brewhouse"
+    pub_name: "the Bath Hotel"
     description: ", on Victoria Street"
     url: http://www.beerinthebath.co.uk/
     lon: -1.482253
