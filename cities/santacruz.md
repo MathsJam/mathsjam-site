@@ -12,7 +12,7 @@ location:
     pub_name: "Hindquarter Bar and Grille"
     description: "on Soquel Avenue"
     url: https://www.thehindquarter.com/
-    lon: -122.0212127
-    lat: 36.9744013
+    lon: -122.0211949
+    lat: 36.9743638
 hiatus: False
 ---
