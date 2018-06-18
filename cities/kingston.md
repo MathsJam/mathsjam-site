@@ -24,5 +24,5 @@ changed_dates:
     - 2018-04-18
     - 2018-05-23
     - 2018-06-20
-jam_date_rule: second-last Wednesday
+jam_date_rule: second-to-last Wednesday
 ---
