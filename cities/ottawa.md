@@ -9,10 +9,10 @@ organiser:
     email: ottawa@math-jam.com
 location:
     group: north-america
-    pub_name: "Trio Bistro & Lounge"
-    description: " on Richmond Road"
-    url: http://triowestboro.com/
-    lon: -75.7526042
-    lat: 45.3928445
+    pub_name: "ClockTower Brew Pub"
+    description: " on Richmond Road in Westboro"
+    url: http://clocktower.ca/
+    lon: -75.757608
+    lat: 45.3899166
 hiatus: False
 ---
