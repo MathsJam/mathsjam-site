@@ -5,7 +5,7 @@ local_jam_type: MathJam
 jam_name: Washington MathJam
 email: washington@math-jam.com
 organiser:
-    name: Ted
+    name: the organiser
     email: washington@math-jam.com
 location:
     group: north-america
@@ -14,5 +14,5 @@ location:
     url: http://www.spiderkellys.com/
     lon: -77.0964991
     lat: 38.8865434
-hiatus: False
+hiatus: True
 ---
