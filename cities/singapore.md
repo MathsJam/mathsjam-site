@@ -14,5 +14,5 @@ location:
     url: https://www.nobiro.sg/
     lon: 103.7562698
     lat: 1.3203892
-hiatus: False
+hiatus: True
 ---
