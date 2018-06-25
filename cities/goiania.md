@@ -3,6 +3,7 @@ layout: city
 city_name: Goi&acirc;nia, Brazil                                                           
 jam_name: Goi&acirc;nia MathsJam
 email: goiania@mathsjam.com
+twitter: GoianiaMathsJam
 jam_date_rule: second-to-last Saturday
 organiser:
     name: Daniel
