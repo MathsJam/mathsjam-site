@@ -9,11 +9,11 @@ organiser:
     email: timaru@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Grosvenor Hotel"
-    description: ", on Cains Terrace near the station"
-    url: http://thegrosvenor.co.nz/restaurant-bar/
-    lon: 171.2545668
-    lat: -44.3959473
+    pub_name: "The Queens Hotel"
+    description: "2 Barnard St, Timaru (Opp. Police Station)"
+    url: https://www.facebook.com/The-Queens-Hotel-795817163808454/
+    lon: 171.2546
+    lat: -44.4002
 hiatus: False
 hiatus_months:
     - 2018-04
