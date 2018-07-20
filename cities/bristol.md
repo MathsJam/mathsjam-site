@@ -15,3 +15,5 @@ location:
     lon: -2.5989234
     lat: 51.4557028
 ---
+
+There will be a one-off extra Bristol MathsJam on the 7th of August 2018.
