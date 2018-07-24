@@ -12,9 +12,10 @@ location:
     pub_name: "Spoon Cafe Bistro"
     description: " which is on Nicholson Street"
     url: http://spooncafe.co.uk/
-    lon: -3.185893
-    lat: 55.9502658
-hiatus: True
+    lon: -3.1863485
+    lat: 55.9471007
+hiatus: False
 hiatus_months:
     - 2018-01
+    - 2018-07
 ---
