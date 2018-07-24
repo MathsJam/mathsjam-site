@@ -4,7 +4,7 @@ city_name: Birmingham
 jam_name: Birmingham MathsJam
 email: birmingham@mathsjam.com
 organiser:
-    name: the organiser
+    name: Calum
     email: birmingham@mathsjam.com
 location:
     group: england
@@ -13,5 +13,7 @@ location:
     url: http://www.oldjointstock.co.uk/find-us
     lon: -1.8999826
     lat: 52.4807992
-hiatus: True
+hiatus: False
+hiatus_months:
+    - 2018-07
 ---
