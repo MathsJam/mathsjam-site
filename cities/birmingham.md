@@ -3,6 +3,7 @@ layout: city
 city_name: Birmingham                                                               
 jam_name: Birmingham MathsJam
 email: birmingham@mathsjam.com
+twitter: BrumMathsJam
 organiser:
     name: Calum
     email: birmingham@mathsjam.com
