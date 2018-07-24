@@ -11,7 +11,7 @@ location:
     group: rest-of-uk
     pub_name: "Spoon Cafe Bistro"
     description: " which is on Nicholson Street"
-    url: http://spooncafe.co.uk/
+    url: https://spoonedinburgh.co.uk/
     lon: -3.1863485
     lat: 55.9471007
 hiatus: False
