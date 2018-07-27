@@ -19,5 +19,6 @@ hiatus: False
 hiatus_months:
     - 2017-08
     - 2018-01
+    - 2018-08
 start_time: 7:30pm
 ---
