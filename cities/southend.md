@@ -5,7 +5,7 @@ jam_name: Southend-on-Sea MathsJam
 email: southend@mathsjam.com
 twitter: SOSMathsJam
 organiser:
-    name: Joe
+    name: the organiser
     email: southend@mathsjam.com
 location:
     group: england
@@ -14,5 +14,5 @@ location:
     url: https://www.jdwetherspoon.com/pubs/all-pubs/england/essex/the-elms-leighonsea
     lon: 0.6568115
     lat: 51.5477086
-hiatus: False
+hiatus: True
 ---
