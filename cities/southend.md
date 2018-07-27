@@ -5,7 +5,7 @@ jam_name: Southend-on-Sea MathsJam
 email: southend@mathsjam.com
 twitter: SOSMathsJam
 organiser:
-    name: Joe
+    name: the organiser
     email: southend@mathsjam.com
 location:
     group: england
