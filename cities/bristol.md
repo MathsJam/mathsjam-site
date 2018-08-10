@@ -9,7 +9,7 @@ organiser:
     email: bristol@mathsjam.com
 location:
     group: england
-    pub_name: "Bristol Yard"
+    pub_name: "The Bristol Yard"
     description: " which is on Colston Street"
     url: https://www.thebristolyard.co.uk/
     lon: -2.5969375
