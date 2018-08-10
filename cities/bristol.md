@@ -9,11 +9,9 @@ organiser:
     email: bristol@mathsjam.com
 location:
     group: england
-    pub_name: "The Ship Inn,"
-    description: " which is on Lower Park Row"
-    url: https://www.facebook.com/ShipInnatBristol
-    lon: -2.5989234
-    lat: 51.4557028
+    pub_name: "Bristol Yard,"
+    description: " which is on Colston Street"
+    url: https://www.thebristolyard.co.uk/
+    lon: -2.5971648
+    lat: 51.4570509
 ---
-
-There will be a one-off extra Bristol MathsJam on the 7th of August 2018.
