@@ -17,4 +17,5 @@ location:
 hiatus: False
 changed_dates:
     - 2017-12-19
+start_time: 7.30pm in the evening
 ---
