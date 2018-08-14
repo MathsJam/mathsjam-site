@@ -9,11 +9,11 @@ organiser:
     email: turin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Bagni Municipali della Casa del Quartiere di San Salvario"
-    description: ", at Via Oddino Morgari 14"
+    pub_name: "Jumping Jester"
+    description: ", at Via G. Mazzini, 2"
     url: http://www.bagnimunicipali.org/
-    lon: 7.6783148
-    lat: 45.0541213
+    lon: 7.6816719
+    lat: 45.063721
 hiatus: False
 changed_dates:
     - 2018-07-26
