@@ -16,5 +16,7 @@ location:
     lon: 1.083505
     lat: 51.282213
 hiatus: False
+changed_dates: 
+    - 2018-09-25
 start_time: 7.30pm in the evening
 ---
