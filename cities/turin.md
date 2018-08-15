@@ -11,7 +11,7 @@ location:
     group: rest-of-world
     pub_name: "Jumping Jester"
     description: ", at Via G. Mazzini, 2"
-    url: http://www.bagnimunicipali.org/
+    url: https://www.facebook.com/JUMPINGJESTERPUB
     lon: 7.6816719
     lat: 45.063721
 hiatus: False
