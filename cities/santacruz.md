@@ -4,6 +4,7 @@ city_name: Santa Cruz CA
 local_jam_type: MathJam
 jam_name: Santa Cruz MathJam
 email: santacruz@math-jam.com
+twitter: CruzMaths
 organiser:
     name: Sumita
     email: santacruz@math-jam.com
