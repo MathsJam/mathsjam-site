@@ -4,6 +4,7 @@ city_name: Seattle WA
 local_jam_type: MathJam
 jam_name: Seattle MathJam
 email: seattle@math-jam.com
+twitter: jam_math
 organiser:
     name: Ben
     email: seattle@math-jam.com
