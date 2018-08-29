@@ -3,6 +3,7 @@ layout: city
 city_name: Berlin, Germany                                                          
 jam_name: Berlin MathsJam
 email: berlin@mathsjam.com
+twitter: BerlinMathsJam
 organiser:
     name: David
     email: berlin@mathsjam.com
