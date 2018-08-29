@@ -4,6 +4,7 @@ city_name: Pavia, Italy
 jam_name: Pavia MathsJam
 email: pavia@mathsjam.com
 facebook: https://www.facebook.com/PaviaMathsJam
+twitter: PaviaMathsJam
 organiser:
     name: Daniele
     email: pavia@mathsjam.com
@@ -17,4 +18,5 @@ location:
 hiatus: False
 hiatus_months:
     - 2018-08
+start_time: 8.30pm
 ---
