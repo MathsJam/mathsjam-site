@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Turin, Italy                                                          
+city_name: Turin                                                         
 jam_name: Turin MathsJam
 email: turin@mathsjam.com
 twitter: TRNMathsJam
