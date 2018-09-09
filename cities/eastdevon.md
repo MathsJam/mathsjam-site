@@ -3,6 +3,7 @@ layout: city
 city_name: East Devon                                                               
 jam_name: East Devon MathsJam
 email: eastdevon@mathsjam.com
+twitter: eastdevonmj
 organiser:
     name: Cathy
     email: eastdevon@mathsjam.com
