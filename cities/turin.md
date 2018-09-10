@@ -9,11 +9,11 @@ organiser:
     email: turin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Jumping Jester"
-    description: ", at Via G. Mazzini, 2"
-    url: https://www.facebook.com/JUMPINGJESTERPUB
-    lon: 7.6816719
-    lat: 45.063721
+    pub_name: "Casa del Quartiere di San Salvario"
+    description: ", at Via Oddino Morgari, 14"
+    url: http://www.casadelquartiere.it/
+    lon: 7.6781976
+    lat: 45.0541234
 hiatus: False
 changed_dates:
     - 2018-07-26
