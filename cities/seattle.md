@@ -17,5 +17,6 @@ location:
     lat: 47.6759379
 hiatus: False
 changed_dates:
+    - 2018-08-28
     - 2018-09-25
 ---
