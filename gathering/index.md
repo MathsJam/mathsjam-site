@@ -2,7 +2,7 @@
 layout: gathering
 ---
 
-# [Click here to go to the MathsJam Gathering website](https://www.solipsys.co.uk/cgi-bin/MJ_Wiki.py)
+# [Click here for the MathsJam Gathering website](https://www.solipsys.co.uk/cgi-bin/MJ_Wiki.py)
 
 The MathsJam Annual Gathering returns in 2018 on the weekend of
 **17<sup>th</sup>-18<sup>th</sup> November**.  
