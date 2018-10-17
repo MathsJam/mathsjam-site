@@ -14,5 +14,6 @@ location:
     lat: 38.7190684
     lon: -9.131154
 hiatus: False
+hiatus_months: 2018-10
 jam_date_rule: second-last Wednesday
 ---
