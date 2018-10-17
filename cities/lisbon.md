@@ -9,7 +9,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "Má Língua"
-    description: " just off the Rua da Graça"
+    description: " just off the Rua da Graça. In October, we'll be having a special Celebration of Mind event at the National Museum Of Natural History and Science, on Monday 22nd October from 5.30pm-8.30pm - contact the organisers for details"
     url: https://www.zomato.com/grande-lisboa/m%C3%A1-l%C3%ADngua-gra%C3%A7a-lisboa
     lat: 38.7190684
     lon: -9.131154
