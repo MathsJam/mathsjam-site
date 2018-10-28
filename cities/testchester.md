@@ -14,5 +14,7 @@ location:
     url: http://www.bbc.co.uk/
     lon: 4.40246430000002
     lat: 51.2194475
+changed_dates:
+    - 2018-10-28
 hiatus: False
 ---
