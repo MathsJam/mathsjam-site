@@ -5,7 +5,7 @@ jam_name: Belfast MathsJam
 email: belfast@mathsjam.com
 twitter: BelfastMathsJam
 organiser:
-    name: Leo
+    name: the organiser
     email: belfast@mathsjam.com
 location:
     group: rest-of-uk
@@ -14,5 +14,5 @@ location:
     url: http://www.parlourbar.co.uk/
     lon: -5.9379404
     lat: 54.5843797
-hiatus: False
+hiatus: True
 ---
