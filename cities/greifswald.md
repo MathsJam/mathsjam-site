@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Greifswald, Germany                                                               
+city_name: Greifswald                                                      
 jam_name: Greifswald MathsJam
 email: greifswald@mathsjam.com
 organiser:
