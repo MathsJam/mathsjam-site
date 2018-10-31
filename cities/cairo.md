@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Cairo, Egypt                                                               
+city_name: Cairo                                                              
 jam_name: Cairo MathsJam
 email: cairo@mathsjam.com
 twitter: CairoMathsJam
