@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Perth                                                               
+city_name: Perth
 jam_name: Perth MathsJam
 email: perth@mathsjam.com
 twitter: standupmaths
