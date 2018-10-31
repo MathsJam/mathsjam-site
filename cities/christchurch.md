@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Christchurch                                                     
+city_name: Christchurch
 jam_name: Christchurch MathsJam
 email: christchurch@mathsjam.com
 twitter: ChchMathsJam
