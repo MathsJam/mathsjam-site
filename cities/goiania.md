@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Goi&acirc;nia, Brazil                                                           
+city_name: Goi&acirc;nia                                                           
 jam_name: Goi&acirc;nia MathsJam
 email: goiania@mathsjam.com
 twitter: GoianiaMathsJam
