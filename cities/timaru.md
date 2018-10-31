@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Timaru, NZ                                                          
+city_name: Timaru                                                          
 jam_name: Timaru MathsJam
 email: timaru@mathsjam.com
 facebook: https://www.facebook.com/timarumathsjam
