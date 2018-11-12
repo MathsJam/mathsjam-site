@@ -3,6 +3,7 @@ layout: city
 city_name: Greifswald                                                      
 jam_name: Greifswald MathsJam
 email: greifswald@mathsjam.com
+twitter: GMathsjam
 organiser:
     name: Lilla
     email: greifswald@mathsjam.com
