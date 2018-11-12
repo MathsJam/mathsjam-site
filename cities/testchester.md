@@ -3,7 +3,7 @@ layout: city
 city_name: Testchester                                                               
 jam_name: Testchester MathsJam
 email: test@mathsjam.com
-twitter: McrMathsJam
+twitter: stecks
 organiser:
     name: Tess Ter
     email: test@mathsjam.com
