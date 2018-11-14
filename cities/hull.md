@@ -11,8 +11,8 @@ location:
     pub_name: "ATOM Brewing Co"
     description: ", formerly the Corn Exchange, on North Church Side"
     url: https://www.facebook.com/atombarhull/about/
-    lon: -0.333732
-    lat: 53.7419598
+    lon: -0.3335355
+    lat: 53.7419491
 hiatus: False
 start_time: 7:30pm onwards
 ---
