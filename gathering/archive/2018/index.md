@@ -5,7 +5,7 @@ title: MathsJam Gathering 2018
 	
 This is a list of talks given at the 2018 MathsJam Weekend, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There's also a [Cake page here]({{site.url}}/gathering/archive/2018/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
+There will also be a [Cake page here]({{site.url}}/gathering/archive/2018/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
 
 ## SATURDAY
 
@@ -13,35 +13,60 @@ There's also a [Cake page here]({{site.url}}/gathering/archive/2018/cake) with t
 
 #### Phil Harvey : Initialistic Determinism
 
-How you can improve your chance of success in life.
+Phil has noticed a corellation between your surname initial being in the first part of the alphabet, and your chances of success in life, and shows some graphs indicating there might be something to the theory.
+
+- [Phil's slides (PPT)]({{site.url}}/assets/talks/2018/PhilHarvey-InitialisticDeterminism.pptx)
+- [Phil's slides (PDF)]({{site.url}}/assets/talks/2018/PhilHarvey-InitialisticDeterminism.pdf)
 
 #### Alison Kiddle : Pastamathics
 
-Spaghetti on toast is everybody's favourite quick and easy tea, but have you ever stopped to analyse the maths on your plate?
+Spaghetti on toast is everybody's favourite quick and easy tea, but have you ever stopped to analyse the maths on your plate? Alison has analysed the distribution of digits in the average tin of spaghetti numbers, and created a geogebra implementation of the process of making fusilli pasta.
+
+- [Alison's slides (PPT)]({{site.url}}/assets/talks/2018/AlisonKiddle-Pastamathics.pptx)
+- [Alison's slides (PDF)]({{site.url}}/assets/talks/2018/AlisonKiddle-Pastamathics.pdf)
+- [Alison's Geogebra](https://www.geogebra.org/m/fu8m43ds)
 
 #### Mick de Pomerai : Mass of a Black Hole
 
-Short history of ideas on orbits & gravity to introduce maths needed to calculate the mass of Sagittarius A* from Keck telescope data (animation) - available on internet. Essentially potted math history with added arithmetic (data to take away)!
+Mick presents a short history of ideas on orbits & gravity, to introduce the maths needed to calculate the mass of Sagittarius A* from Keck telescope data (which is given out as a handout).
+
+- [Mick's slides (PPT)]({{site.url}}/assets/talks/2018/MickdePomerai-MassofaBlackHole.pptx)
+- [Mick's slides (PDF)]({{site.url}}/assets/talks/2018/MickdePomerai-MassofaBlackHole.pdf)
+- [Mick's handout (PDF)]({{site.url}}/assets/talks/2018/MickdePomerai-Handout.pdf)
 
 #### Hugh Hunt : Chain on a Cone
 
-A thin light chain with a heavy pendant is displayed in a jeweller's shop hanging on a smooth conical stand. What is the cone angle above which the chain will slip off the stand under the weight of the pendant down the slope?
+A thin light chain with a heavy pendant is displayed in a jeweller's shop hanging on a smooth conical stand. What is the cone angle above which the chain will slip off the stand under the weight of the pendant down the slope? Hugh demonstrates some nice physical models, and shows that the line the chain makes on the surface is actually a straight line if you cut and open the cone.
 
 #### Claire Cohen : How Lucky is the Bonus Ball
 
-A brief look at the numbers people chose during a "bonus ball" competition, patterns in the numbers chosen and possible reasons for this.
+Claire has been running a workplace Bonus Ball raffle at work, and has studied the data - what kind of numbers are commonly picked, what are people's reasons for choosing them, and how do they compare to the actual results of the bonus ball draw.
+
+- [Claire's slides (PPT)]({{site.url}}/assets/talks/2018/ClaireCohen-HowLuckyistheBonusBall.pptx)
+- [Claire's slides (PDF)]({{site.url}}/assets/talks/2018/AlisonKiddle-HowLuckyistheBonusBall.pdf)
 
 #### Laurence O'Toole : Guessing With Lies - A Magic Trick
 
-A twist on an old Christmas cracker trick. With lying. For science!
+You may be familiar with the classic Christmas cracker trick where your volunteer picks a number, and tells you which of the cards you show contains their number. Laurence presents a twist on this, in which one of your answers has to be a lie. How does it work?
+
+- [Laurence's slides (PPT)]({{site.url}}/assets/talks/2018/LaurenceOToole-GuessingWithLies.pptx)
+- [Laurence's slides (PDF)]({{site.url}}/assets/talks/2018/LaurenceOToole-GuessiesngWithLi.pdf)
 
 #### Adam Townsend : The coin distribution problem revisited
 
-Why do self-checkout machines give the worst change? Are they better in other countries? Using real price data from the ONS, we ask: would getting rid of the penny fix this problem, or is there a better, more ridiculous solution? (Yes)
+Why do self-checkout machines give the worst change? Are they better in other countries? Using real price data from the ONS, Adam asks: would getting rid of the penny fix this problem, or is there a better, more ridiculous solution? (Of course there is, and Adam's worked out which coin we'd need to add).
+
+- [Adam's slides (PPT)]({{site.url}}/assets/talks/2018/AdamTownsend-TheCoinDistributionProblem.pptx)
+- [Adam's slides (PDF)]({{site.url}}/assets/talks/2018/AdamTownsend-TheCoinDistributionProblem.pdf)
+- [Adam's working out on GitHub](https://github.com/Pecnut/coins-required)
 
 #### Martin Harris : Pleasing Pictorial Proofs and Ptolemy's Ptheorem
 
-A short discussion on the usefulness of pictorial proofs, and a new one for Ptolemy's Theorem of Cyclic Quadrilaterals.
+Martin shares some examples of pictorial proofs, and has come up with a new one for Ptolemy's Theorem of Cyclic Quadrilaterals.
+
+- [Martin's slides (PPT)]({{site.url}}/assets/talks/2018/MartinHarris-PleasingPictorialProofs.pptx)
+- [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinHarris-PleaseingPictorialProofs.pdf)
+- [Martin's proof on Desmos](https://www.desmos.com/calculator/6ebufxblaa)
 
 ### SESSION 1b : 15:10
 
