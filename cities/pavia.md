@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Pavia, Italy                                                               
+city_name: Pavia                                                               
 jam_name: Pavia MathsJam
 email: pavia@mathsjam.com
 facebook: https://www.facebook.com/PaviaMathsJam

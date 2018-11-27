@@ -4,7 +4,7 @@ city_name: Swansea
 jam_name: Swansea MathsJam
 email: swansea@mathsjam.com
 organiser:
-    name: Ashley
+    name: Moral
     email: swansea@mathsjam.com
 location:
     group: rest-of-uk

@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Turin, Italy                                                          
+city_name: Turin                                                         
 jam_name: Turin MathsJam
 email: turin@mathsjam.com
 twitter: TRNMathsJam
@@ -16,5 +16,5 @@ location:
     lat: 45.0541234
 hiatus: False
 changed_dates:
-    - 2018-11-13
+    - 2018-12-13
 ---
