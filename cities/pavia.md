@@ -19,4 +19,5 @@ hiatus: False
 hiatus_months:
     - 2018-08
 start_time: 8.30pm
+changed_dates: 2018-12-13
 ---
