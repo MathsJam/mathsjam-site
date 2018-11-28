@@ -3,6 +3,7 @@ layout: city
 city_name: Melbourne                                                               
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
+twitter: MelbMathsJam
 organiser:
     name: Julia
     email: melbourne@mathsjam.com

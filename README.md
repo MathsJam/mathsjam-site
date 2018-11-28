@@ -5,7 +5,7 @@ This repository contains the source files to generate the MathsJam website.
 ## Changing something
 
 * You need a GitHub account to edit the site. If you don't have one, [sign up](https://github.com/join) first - it's free!
-* Find the file you want to edit, and click the `Edit this file` button (it's a little pencil icon). The files for individual Jams are in the [`cities`](https://github.com/MathsJam/mathsjam-site/tree/master/cities) folder. Alternatively, each page on the site has an "edit this page" link at the bottom; clicking this will take you to the corresponding GitHub page.
+* Find the file you want to edit, and click the `Edit this file` button (it's a little pencil icon in the top right). The files for individual Jams are in the [`cities`](https://github.com/MathsJam/mathsjam-site/tree/master/cities) folder. Alternatively, each page on the site has an "edit this page" link at the bottom; clicking this will take you to the corresponding GitHub page.
 * Make your changes, then describe what you've done in the text field at the bottom and click "Propose file change".
 * This will allow you to create a *pull request*, which one of the admins has to approve. They might request further changes or make their own edits. When the pull request is approved, the change will be published to the site.
 
@@ -23,6 +23,7 @@ Create a file `cities/cityname.md`, following this template:
 ---
 layout: city                                           
 city_name: CityName
+local_jam_type: MathsJam (for jams in the US this is "MathJam")
 jam_name: CityName MathsJam
 email: cityname@mathsjam.com
 twitter: CityNameMathsJam

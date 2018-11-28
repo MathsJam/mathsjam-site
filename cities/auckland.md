@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Auckland NZ                                                               
+city_name: Auckland                                                               
 jam_name: Auckland MathsJam
 email: auckland@mathsjam.com
 twitter: AKLMathsJam
@@ -15,4 +15,7 @@ location:
     lon: 174.766449
     lat: -36.842656
 hiatus: False
+hiatus_months:
+    - 2018-06
+    - 2018-08
 ---

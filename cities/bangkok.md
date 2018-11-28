@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Bangkok Thailand                                                               
+city_name: Bangkok                                                              
 jam_name: Bangkok MathsJam
 email: bangkok@mathsjam.com
 organiser:

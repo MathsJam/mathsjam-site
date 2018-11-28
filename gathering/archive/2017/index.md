@@ -3,7 +3,7 @@ layout: gathering
 title: MathsJam Gathering 2017
 ---
 	
-This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description, and links to slides will be added shortly. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
+This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
 There's also a [Cake page here]({{site.url}}/gathering/archive/2017/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2017]({{site.url}}/assets/talks/2017/MathsJamJam-Songbook-2017.pdf).
 
@@ -18,22 +18,23 @@ You might have heard that the square of a prime number (p>3) is always one more 
 
 - [Tom's slides (PDF)]({{site.url}}/assets/talks/2017/TomButton-Allaboutbase.pdf)
 
-#### Matt Peperell: Logical deducation games
+#### Matt Peperell: Logical deduction games
 
 Logical deduction games are those like [Penultima](https://boardgamegeek.com/boardgame/118656/penultima), where players have to deduce the rules by being told when they've broken them.
 
 [Matt](http://twitter.com/mattpep) showed us a few of them, including Zendo, Mao and [Eleusis](https://en.wikipedia.org/wiki/Eleusis_%28card_game%29) which you can play with an incomplete deck of cards. 
 
-- [Matt's slides (PPT)]({{site.url}}/assets/talks/2017/MattPeperell-Logicaldeduction.ppt)
+- [Matt's slides (PPT)]({{site.url}}/assets/talks/2017/MattPeperell-Logicaldeduction.pptx)
 - [Matt's slides (PDF)]({{site.url}}/assets/talks/2017/MattPeperell-Logicaldeduction.pdf)
 
 #### Alison Kiddle: Alison talks crap
 
-![Photo by Elizabeth @Realityminus3]({{site.url}}/assets/talks/2017/tp.jpg)
+![Price tag for toilet roll, reading "22.2p per 100sht"]({{site.url}}/assets/talks/2017/tp.jpg)  
+<small>Photo by Elizabeth @Realityminus3</small>
 
 Having seen the photo above, Alison wondered if the implied assumption about the number of 'sht's per 'sht' was accurate. She has gathered data about how the statistic differs depending on how you expand the abbreviaton 'sht' and how healthy you are, and presented her findings to us. She also delivers a fine array of puns which for various reasons will not be reproduced here.
 
-- [Alison's slides (PPT)]({{site.url}}/assets/talks/2017/AlisonKiddle-Alisontalkscrap.ppt)
+- [Alison's slides (PPT)]({{site.url}}/assets/talks/2017/AlisonKiddle-Alisontalkscrap.pptx)
 - [Alison's slides (PDF)]({{site.url}}/assets/talks/2017/AlisonKiddle-Alisontalkscrap.pdf)
 
 #### TD Dang: The maths in Mean Girls
@@ -154,7 +155,7 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 
 [Belgin](https://twitter.com/smokyfurby) shows us where some mathematical concepts from Disney's _Donald in Mathmagic Land_ appear in the real world.
 
-- [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017BelginSeymenoglu-Mathemagicland.pptx)
+- [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pptx)
 - [Belgin's slides (PDF)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pdf)
 
 #### Douglas Buchanan: Lowering the Tone
@@ -167,16 +168,17 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 
 <small>*(six, the others are on higher perches)*</small>
 
-#### David Mitchell: The Thereom of Trithagoras (Pythagoras is for Squares)
+#### David Mitchell: The Theorem of Trithagoras (Pythagoras is for Squares)
 
 David shows us a fascinating explanation of how you can multiply squares and triangles on the complex plane to find pythagorean triples and more.
 
 - [Dave's slides (PPTX)]({{site.url}}/assets/talks/2017/DaveMitchell-Trithagoras.pptx)
-- [Dave's slides (PDF)]({{site.url}}/assets/talks/2017/DaveMitchell-Trithagoras.pdf)
 
 #### Dave Gale: Catchphrase and Coffee
 
 [Dave](https://twitter.com/reflectivemaths) presents some confusing coffee strength scales, and his increasingly formal correspondence with ITV over a misnamed quadrilateral in _Catchphrase_.
+
+- [Dave's slides (Google Slides)](https://docs.google.com/presentation/d/1U17CpzGesZ9GYxgjuiys_n2izlFRgK6cKiXe9Jvl9xE/edit#slide=id.p)
 
 ## Sunday
 ### Session 2a: 08:50 - 09:37
@@ -196,7 +198,7 @@ David shows us a fascinating explanation of how you can multiply squares and tri
 
 Ken talks about where 0 appears in lots of numbers.
 
-- [Ken's slides (PPT)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.ppt)
+- [Ken's slides (PPT)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.pptx)
 - [Ken's slides (PDF)]({{site.url}}/assets/talks/2017/KenMckelvie-Alittleadoaboutnothing.pdf)
 
 #### Tony Mann: The mathematics of competition
@@ -218,6 +220,8 @@ Ken talks about where 0 appears in lots of numbers.
 
 [Peter](https://twitter.com/peterrowlett) uses Fermi problems he uses in teaching mathematical modelling. He also shares his favourite method for answering them, which is the *approximate geometric mean*, [as described in this blog post](http://connor-johnson.com/2016/10/02/approximation-and-the-geometric-mean/).
 
+- [Peter's slides (PDF)]({{site.url}}/assets/talks/2017/PeterRowlett-FermiProblems.pdf)
+
 #### Kathryn Taylor: Adventures in modular origami
 
 Kathryn uses the visualiser to show us some incredible incredible origami shapes built from Sonobe modules - including one she's just invented and can't work out what it's called (it turns out it was a double stellated tetrahedron).
@@ -226,7 +230,7 @@ Kathryn uses the visualiser to show us some incredible incredible origami shapes
 
 #### Marcin Konowalczyk: Unrolling the rolling shutter
 
-Marcin talks about the [rolling shuter effect](https://www.youtube.com/watch?v=dNVtMmLlnoE) which he's [implemented in Python](https://github.com/MarcinKonowalczyk/rollingshutterpy), and attempts to reverse-enginner while teaching himself neural networks.
+Marcin talks about the [rolling shutter effect](https://www.youtube.com/watch?v=dNVtMmLlnoE) which he's [implemented in Python](https://github.com/MarcinKonowalczyk/rollingshutterpy), and attempts to reverse-enginner while teaching himself neural networks.
 
 - [Marcin's slides and videos (ZIP file, 100+MB)]({{site.url}}/assets/talks/2017/MarcinKonowalczyk-Rollingshutter.zip)
 
@@ -244,6 +248,7 @@ Creating new tweets from old ones using Markov chains, with the Twitter account 
 
 - [Sam's slides (PPTX)]({{site.url}}/assets/talks/2017/SamBall-Fakeittillyoumakeit.pptx)
 - [Sam's slides (PDF)]({{site.url}}/assets/talks/2017/SamBall-Fakeittillyoumakeit.pdf)
+- [Video of Sam's talk](https://www.youtube.com/watch?v=xvJ9C7L1UoA)
 
 #### Wendy Foad: Context vs content
 
@@ -271,7 +276,9 @@ Rob has constructed a portable set of board game equipment that can be used to p
 
 Glen reveals the results of his 'hole poll': he made some objects after dinner last night, one of which was shaped like a t-shirt (a hole at the bottom, one at the top, and two on the sides, all of which meet in the middle), and asked people to suggest how many holes it's actually got.
 
-4 was the most popular response - perhaps, says Glen, this answer came about with 'proof by t-shirt' which says that because we have 4 things sticking out a t-shirt (similar to Glen's shape) it therefore has 4 holes. Glen then uses Euler's formula...amd finds it has -4 holes! But with the help of some children's modelling putty, he concludes it actually has 3 holes and ends on a topology joke about steering wheels and t-shirts.
+4 was the most popular response - perhaps, says Glen, this answer came about with 'proof by t-shirt' which says that because we have 4 things sticking out a t-shirt (similar to Glen's shape) it therefore has 4 holes.
+
+Glen then uses Euler's formula, which suggests by analogy to the simply connected and toroidal cases that the object should have only three holes!  With the help of some children's modelling putty, he concludes it actually does have only 3 holes and ends on a topology joke about steering wheels and t-shirts.
 
 - [Glen's slides (PDF)]({{site.url}}/assets/talks/2017/GlenWhitney-Theholetruth.pdf)
 
@@ -285,6 +292,9 @@ Fully dressed as Ada Lovelace (good effort!) Sue tells us about the life and wor
 #### Pedro Freitas: A programmed deck
 
 Pedro demonstrates a magic card trick - which involved him ordering the deck such that he could determine two integers an audience member was thinking of from their sum and difference. One to try at home!
+
+- [Some slides Pedro has made explaining the trick (PPTX)]({{site.url}}/assets/talks/2017/PedroFreitas-AProgrammedDeck.pptx)
+- [Some slides Pedro has made explaining the trick (PDF)]({{site.url}}/assets/talks/2017/PedroFreitas-AProgrammedDeck.pdf)
 
 #### Matthew and John Bibby: Geometric tables and boring logs
 
@@ -326,7 +336,7 @@ Rob explores mathematical knots, and explains how all manipulations can be carri
 
 - [Rob's slides (PDF)]({{site.url}}/assets/talks/2017/RobLow-Whyknot.pdf)
 
-#### Philipp Reinhard: From a tweet to Langnaus 4th problem in < 5min
+#### Philipp Reinhard: From a tweet to Landau's 4th problem in < 5min
 
 Philipp spotted a riddle tweeted recently by one [@ColintheMathmo](http://www.twitter.com/colinthemathmo), which asked can you find 'three integers in an arithmetic progression whose product is prime?'. He worked out that, when rephrased in the complex integers, this seemingly impossible puzzle boils down to 'How many numbers of the form n² + 1 are prime?'. This, Philipp tells us, is a famously [unsolved problem](https://en.wikipedia.org/wiki/Landau%27s_problems). 
 

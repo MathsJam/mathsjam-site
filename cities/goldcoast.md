@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Gold Coast AUS                                                               
+city_name: Gold Coast                                                             
 jam_name: Gold Coast MathsJam
 email: goldcoast@mathsjam.com
 organiser:

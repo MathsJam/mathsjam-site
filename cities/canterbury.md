@@ -10,11 +10,15 @@ organiser:
     email: canterbury@mathsjam.com
 location:
     group: england
-    pub_name: "The Jolly Sailor"
-    description: ", 75 Northgate"
-    url: https://www.facebook.com/thejollysailorcanterbury/
-    lon: 1.083505
-    lat: 51.282213
+    pub_name: "The Foundry"
+    description: ", 77 Stour Street (just off the High Street)"
+    url: https://www.thefoundrycanterbury.co.uk/
+    lon: 1.078210
+    lat: 51.278785
 hiatus: False
+hiatus_months:
+    - 2018-09
+changed_dates: 
+    - 2018-09-25
 start_time: 7.30pm in the evening
 ---

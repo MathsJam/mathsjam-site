@@ -1,6 +1,7 @@
 ---
 layout: city
 city_name: Windsor, ON
+local_jam_type: MathJam
 jam_name: Windsor MathJam
 email: windsor@math-jam.com
 twitter: WindsorMathJam
@@ -9,11 +10,13 @@ organiser:
     email: windsor@math-jam.com
 location:
     group: north-america
-    pub_name: "The Dominion House"
-    description: ", on Sandwich St"
-    url: http://thedominionhouse.ca
-    lon: -83.0751433
-    lat: 42.3034237
+    pub_name: "The Barrel House"
+    description: ", at Sandwich and Mill"
+    url: https://www.facebook.com/barrelhousedraughtco/
+    lon: -83.0753000
+    lat: 42.3020000
 hiatus: False
-start_time: 8pm in the evening
+changed_dates:
+    - 2017-12-19
+start_time: 7pm in the evening
 ---

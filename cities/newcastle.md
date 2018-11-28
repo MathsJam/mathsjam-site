@@ -9,11 +9,11 @@ organiser:
     email: newcastle@mathsjam.com
 location:
     group: england
-    pub_name: "The Charles Grey"
-    description: " on Grey Street, near Grey's Monument and Monument Metro station"
-    url: http://www.pubsnewcastle.co.uk/TheCharlesGrey.html
-    lon: -1.6150183
-    lat: 54.9738537
+    pub_name: "Tilleys Bar"
+    description: " on Westgate Road"
+    url: http://www.theheadofsteam.co.uk/bars/tilleysbar
+    lon: -1.6206474
+    lat: 54.9704764
 hiatus: False
 hiatus_months:
     - 2017-08

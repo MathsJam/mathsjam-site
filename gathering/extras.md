@@ -2,7 +2,7 @@
 layout: gathering
 title: Extras
 ---
-We also run several additional events during the weekend, which attendees can choose to participate in.
+The events descibed below were run as part of the 2017 gathering. For future years, check back here in the run-up to the conference for details of which events will be going ahead.
 
 ## Tables of Stuff
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.

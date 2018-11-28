@@ -15,4 +15,5 @@ location:
     lon: -2.362606
     lat: 51.383856
 hiatus: False
+start_time: 7:30pm onwards
 ---

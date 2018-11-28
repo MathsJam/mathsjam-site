@@ -10,12 +10,15 @@ organiser:
     email: cardiff@mathsjam.com
 location:
     group: rest-of-uk
-    pub_name: "Y Mochyn Du"
+    pub_name: "Brewhouse & Kitchen / Bragdy a Chegin"
     description: " which is on Sophia Close"
-    url: http://www.ymochyndu.com/
+    url: http://www.brewhouseandkitchen.com/venue/cardiff/
     lon: -3.191378
     lat: 51.484968
 hiatus: False
 hiatus_months:
     - 2017-08
+    - 2018-01
+    - 2018-08
+start_time: 7:30pm
 ---

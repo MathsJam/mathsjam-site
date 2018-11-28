@@ -17,4 +17,6 @@ location:
 hiatus: False
 changed_dates:
     - 2018-12-18
+hiatus_months:
+    - 2017-12
 ---
