@@ -15,4 +15,6 @@ location:
     lon: -1.153845300000057
     lat: 52.9511504
 hiatus: False
+changed_dates:
+    - 2018-12-18
 ---
