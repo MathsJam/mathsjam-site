@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "Hall and Woodhouse"
-    description: ", on Old King Street"
+    description: ", on Old King Street. There will be an additional Joint Jam in December, meeting on 18th in the Bristol Yard, Bristol, in partnership with Bristol MathsJam."
     url: http://hall-woodhousebath.co.uk/
     lon: -2.362606
     lat: 51.383856
