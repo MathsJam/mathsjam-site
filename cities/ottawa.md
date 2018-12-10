@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Ottawa, ON                                                               
+city_name: Ottawa ON                                                               
 jam_name: Ottawa MathJam
 email: ottawa@math-jam.com
 twitter: OttawaMathsJam
