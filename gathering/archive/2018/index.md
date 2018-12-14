@@ -5,7 +5,7 @@ title: MathsJam Gathering 2018
 	
 This is a list of talks given at the 2018 MathsJam Weekend, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There will also be a [Cake page here]({{site.url}}/gathering/archive/2018/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
+There is also a [Cake page here]({{site.url}}/gathering/archive/2018/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
 
 ## SATURDAY
 
@@ -22,8 +22,6 @@ Phil has noticed a corellation between your surname initial being in the first p
 
 Spaghetti on toast is everybody's favourite quick and easy tea, but have you ever stopped to analyse the maths on your plate? Alison has analysed the distribution of digits in the average tin of spaghetti numbers, and created a geogebra implementation of the process of making fusilli pasta.
 
-- [Alison's slides (PPT)]({{site.url}}/assets/talks/2018/AlisonKiddle-Pastamathics.pptx)
-- [Alison's slides (PDF)]({{site.url}}/assets/talks/2018/AlisonKiddle-Pastamathics.pdf)
 - [Alison's Geogebra](https://www.geogebra.org/m/fu8m43ds)
 
 #### Mick de Pomerai : Mass of a Black Hole
@@ -32,7 +30,6 @@ Mick presents a short history of ideas on orbits & gravity, to introduce the mat
 
 - [Mick's slides (PPT)]({{site.url}}/assets/talks/2018/MickdePomerai-MassofaBlackHole.pptx)
 - [Mick's slides (PDF)]({{site.url}}/assets/talks/2018/MickdePomerai-MassofaBlackHole.pdf)
-- [Mick's handout (PDF)]({{site.url}}/assets/talks/2018/MickdePomerai-Handout.pdf)
 
 #### Hugh Hunt : Chain on a Cone
 
@@ -43,14 +40,13 @@ A thin light chain with a heavy pendant is displayed in a jeweller's shop hangin
 Claire has been running a workplace Bonus Ball raffle at work, and has studied the data - what kind of numbers are commonly picked, what are people's reasons for choosing them, and how do they compare to the actual results of the bonus ball draw.
 
 - [Claire's slides (PPT)]({{site.url}}/assets/talks/2018/ClaireCohen-HowLuckyistheBonusBall.pptx)
-- [Claire's slides (PDF)]({{site.url}}/assets/talks/2018/AlisonKiddle-HowLuckyistheBonusBall.pdf)
+- [Claire's slides (PDF)]({{site.url}}/assets/talks/2018/ClaireCohen-HowLuckyistheBonusBall.pdf)
 
 #### Laurence O'Toole : Guessing With Lies - A Magic Trick
 
 You may be familiar with the classic Christmas cracker trick where your volunteer picks a number, and tells you which of the cards you show contains their number. Laurence presents a twist on this, in which one of your answers has to be a lie. How does it work?
 
-- [Laurence's slides (PPT)]({{site.url}}/assets/talks/2018/LaurenceOToole-GuessingWithLies.pptx)
-- [Laurence's slides (PDF)]({{site.url}}/assets/talks/2018/LaurenceOToole-GuessiesngWithLi.pdf)
+- [Laurence's slides (PDF)]({{site.url}}/assets/talks/2018/LaurenceOToole-GuessingWithLies.pdf)
 
 #### Adam Townsend : The coin distribution problem revisited
 
