@@ -15,8 +15,8 @@ location:
     lon: 77.632254
     lat: 12.930837
 hiatus: False
-jam_date_rule: third Saturday
-start_time: 4:30 PM
+jam_date_rule: first Sunday
+start_time: 11:00 AM
 changed_dates:
     - 2018-01-20
     - 2018-03-17
