@@ -255,3 +255,48 @@ Addition, subtraction and negative numbers in binary computing
 #### Sam Hartburn : Battle of the slinkies: paper vs plastic
 
 Can an origami slinky outperform a cheap plastic one? Probably not, but I'll give it a try anyway. 
+
+
+
+Things we have:
+Adam Atkinson PDF + 2 videos
+Adam Townsend PDF PPTX
+Alaric Stephen PDF PPTX
+Alex Burton PDF PPTX
+Alison Eves PDF PPTX
+Alistair Bird PDF
+Andrew MacDonald PDF
+Barney M-T  PDF PPTX
+Ben Sparks  PDF PPTX GGB 
+Callum Mulligan PDF PPTX
+Claire Cohen PDF PPTX
+Colin Beveridge PDF PPTX
+Eleanor Doman PDF PPTX
+Francisco Picado PDF
+Jo Morgan PDF PPTX
+Katie Steckles YouTube video https://www.youtube.com/watch?v=wN9f-k9oRts
+Kevin Houston PDF
+Laurence OToole PDF
+Martin Chlond PDF PPTX
+Martin Harris PDF PPTX
+Michael Gibson PDF PPTX
+Mick De Pom PDF PPTX
+Mike Frost PDF PPTX
+Pat Ashforth PDF PPTX
+Pedro Freitas PDF PPTX
+Peter Rowlett PDF
+Phil Harvey PDF PPTX
+Rachel Wright PDF PPTX
+Rob Low PDF
+Sam Hartburn PDF PPTX
+Samuel Hansen PDF
+Stefania Delprete PDF
+Steve Plummer PDF PPTX
+Stuart Eves PDF PPT
+Sydney Weaver PDF
+Tarim PDF
+Tiago Hirth PDF
+Tim Chadwick PDF PPTX
+Tom Reddington PDF PPTX
+Tung Ken Lan PDF
+Will Kirkby PDF PPTX https://www.shadertoy.com/view/llBSWh
