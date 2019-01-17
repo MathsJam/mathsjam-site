@@ -4,6 +4,7 @@ city_name: San Francisco CA
 local_jam_type: MathJam
 jam_name: San Francisco MathJam
 email: sanfrancisco@math-jam.com
+twitter: SFMathsJam
 organiser:
     name: Isaac
     email: sanfrancisco@math-jam.com
