@@ -9,10 +9,10 @@ organiser:
     email: winnipeg@mathsjam.com
 location:
     group: north-america
-    pub_name: "Indulge Bistro & Wine Bar"
-    description: ", on Kenaston"
-    url: https://www.agorafinefoods.ca/
-    lon: -97.1934432
-    lat: 49.8188407
+    pub_name: "Tony Roma's"
+    description: ", 1500 Pembina Hwy"
+    url: https://tonyromas.com/location/pembina/
+    lon: -97.149884
+    lat: 49.835410
 hiatus: False
 ---
