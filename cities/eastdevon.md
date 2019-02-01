@@ -13,7 +13,7 @@ location:
     description: ", in Whimple"
     url: https://www.facebook.com/thenewfountaininn/
     lon: -3.357183
-    lat: 50.7653346,
+    lat: 50.7653346
 hiatus: False
 hiatus_months:
     - 2018-12
