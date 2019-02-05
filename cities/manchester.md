@@ -9,10 +9,10 @@ organiser:
     email: manchester@mathsjam.com
 location:
     group: england
-    pub_name: "The Crown and Anchor"
-    description: " on Hilton Street, in the city centre near to Piccadilly Station"
-    url: http://www.crownandanchormanchester.co.uk/
-    lon: -2.2323006
-    lat: 53.4819179
+    pub_name: "Pie & Ale"
+    description: " in The Hive on Farady Street"
+    url: https://www.pieandale.com/
+    lon: -2.2336635
+    lat: 53.4831995
 hiatus: False
 ---
