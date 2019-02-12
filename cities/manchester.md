@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "Pie & Ale"
-    description: " in The Hive on Farady Street"
+    description: " in The Hive on Faraday Street"
     url: https://www.pieandale.com/
     lon: -2.2336635
     lat: 53.4831995
