@@ -11,8 +11,8 @@ organiser:
 location:
     group: north-america
     pub_name: "Barrel Proof"
-    description: "2331 Mission St. between 19th and 20th."
-    url: barrelproofsf.com
+    description: "2331 Mission St. between 19th and 20th"
+    url: http://barrelproofsf.com
     lon: -122.418939
     lat: 37.759813
 hiatus: False
