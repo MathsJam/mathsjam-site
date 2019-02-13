@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: San Francisco CA
+city_name: San Francisco, CA
 local_jam_type: MathJam
 jam_name: San Francisco MathJam
 email: sanfrancisco@math-jam.com
@@ -10,10 +10,10 @@ organiser:
     email: sanfrancisco@math-jam.com
 location:
     group: north-america
-    pub_name: "Shotwell's"
-    description: " at 3349 20th Street and Shotwell"
-    url: http://www.shotwellsbar.com/
-    lon: -122.4157247
-    lat: 37.7586682
+    pub_name: "Barrel Proof"
+    description: "2331 Mission St. between 19th and 20th."
+    url: barrelproofsf.com
+    lon: -122.418939
+    lat: 37.759813
 hiatus: False
 ---
