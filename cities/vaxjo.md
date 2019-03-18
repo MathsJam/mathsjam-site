@@ -10,7 +10,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "The Bishops Arms"
-    description: "on Kungsgatan"
+    description: " on Kungsgatan"
     url: https://www.facebook.com/TheBishopsArmsVaxjo/
     lon: 14.8091291
     lat: 56.8776886
