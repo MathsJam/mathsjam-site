@@ -5,7 +5,7 @@ local_jam_type: MathJam
 jam_name: V&auml;xj&ouml; MathJam
 email: vaxjo@mathsjam.com
 organiser:
-    name: Maria
+    name: Maria and Linnea
     email: vaxjo@mathsjam.com
 location:
     group: rest-of-world
