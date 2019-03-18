@@ -5,7 +5,7 @@ jam_name: Manchester MathsJam
 email: manchester@mathsjam.com
 twitter: MCRMathsJam
 organiser:
-    name: Katie Steckles
+    name: Katie
     email: manchester@mathsjam.com
 location:
     group: england
