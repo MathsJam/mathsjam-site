@@ -4,6 +4,7 @@ city_name: Vaxjo
 local_jam_type: MathJam
 jam_name: V&auml;xj&ouml; MathJam
 email: vaxjo@mathsjam.com
+twitter: VaxjoMathsJam
 organiser:
     name: Maria and Linnea
     email: vaxjo@mathsjam.com
