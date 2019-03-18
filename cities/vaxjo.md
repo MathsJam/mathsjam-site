@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: V&auml;xj&ouml;
+city_name: Vaxjo
 local_jam_type: MathJam
 jam_name: V&auml;xj&ouml; MathJam
 email: vaxjo@mathsjam.com
