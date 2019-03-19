@@ -3,6 +3,7 @@ layout: city
 city_name: Suzhou                                                               
 jam_name: Suzhou MathsJam
 email: suzhou@mathsjam.com
+twitter: SuzhouJ
 organiser:
     name: Martin Crozier
     email: suzhou@mathsjam.com
