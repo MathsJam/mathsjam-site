@@ -3,6 +3,7 @@ layout: city
 city_name: Beirut                                                                
 jam_name: Beirut MathsJam
 email: beirut@mathsjam.com
+twitter: mathsjamb
 organiser:
     name: Jad
     email: beirut@mathsjam.com
