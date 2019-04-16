@@ -8,11 +8,11 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "the National Secretariat of Science, Technology and Innovation"
-    description: ", in Building 205, City of Knowledge in Panama City"
+    pub_name: "La Rana Dorada"
+    description: ", on Vi&aacute; Argentina in Clayton"
     url: https://www.senacyt.gob.pa
-    lon: -79.585781
-    lat: 9.0012101
+    lon: -79.5280154
+    lat: 8.9891963
 hiatus: False
-start_time: 1pm
+start_time: 4.30pm
 ---
