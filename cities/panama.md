@@ -1,7 +1,7 @@
 ---
 layout: city                                           
 city_name: Panama                                                               
-jam_name: Panama MathsJam
+jam_name: Panam&aacute; MathsJam
 email: panama@mathsjam.com
 organiser:
     name: Jeanette
