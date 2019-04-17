@@ -9,10 +9,10 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "La Rana Dorada"
-    description: ", on V&iacute;a Argentina in Clayton"
-    url: https://www.senacyt.gob.pa
-    lon: -79.5280154
-    lat: 8.9891963
+    description: ", in Clayton"
+    url: http://laranadorada.com/
+    lon: -79.5742247
+    lat: 9.0021592
 hiatus: False
 start_time: 4.30pm
 ---
