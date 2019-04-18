@@ -14,7 +14,7 @@ location:
     description: ". Join our Telegram group (click \"Location\" above) to stay updated about date and venue"
     lon: 77.632254
     lat: 12.930837
-hiatus: False
+hiatus: True
 jam_date_rule: first Sunday
 start_time: 11:00 AM
 changed_dates:
