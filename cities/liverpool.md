@@ -14,5 +14,5 @@ location:
     url: https://www.social-squirrel.com/thehopeandanchorliverpool/
     lon: -2.9713532
     lat: 53.4024583
-hiatus: True
+hiatus: False
 ---
