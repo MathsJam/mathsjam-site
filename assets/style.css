@@ -376,6 +376,10 @@ body.home #next-jam .cities > li {
     display: inline;
 }
 
+body.home #next-jam .cities > span:not(:first-child) {
+  margin-left: 0.3em;
+}
+
 body.gathering input {
     font-size: 1rem;
     margin: 0.3rem 0;
