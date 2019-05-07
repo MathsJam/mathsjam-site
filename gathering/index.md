@@ -6,5 +6,5 @@ The MathsJam Gatherings are events taking place in central England and New Zeala
 
 More information about the MathsJam Gatherings:
 
-* [UK Gathering](/uk)
-* [Oceania Gathering](/oceania)
+* [UK Gathering](uk)
+* [Oceania Gathering](oceania)
