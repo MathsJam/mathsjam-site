@@ -11,7 +11,7 @@ location:
     pub_name: "Dr. Noodles"
     description: " on Union St"
     url: http://www.drnoodles.co.uk/
-    lon: 4.40246430000002
-    lat: 51.2194475
+    lon: -2.0987015
+    lat: 57.1487299
 hiatus: False
 ---
