@@ -28,5 +28,6 @@ changed_dates:
     - 2018-04-18
     - 2018-05-23
     - 2018-06-20
+    - 2019-05-21
 jam_date_rule: second-to-last Wednesday
 ---
