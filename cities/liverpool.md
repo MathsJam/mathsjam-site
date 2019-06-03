@@ -5,7 +5,7 @@ jam_name: Liverpool MathsJam
 email: liverpool@mathsjam.com
 twitter: LPLMathsJam
 organiser:
-    name: Colin
+    name: Marianne and Chris
     email: liverpool@mathsjam.com
 location:
     group: england
