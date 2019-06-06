@@ -10,7 +10,7 @@ The MathsJam Annual Gathering returns in 2019 on the weekend of
 
 The MathsJam Gathering is a two-day event taking place in central England, organised by Colin Wright and gathering together maths enthusiasts, monthly MathsJam attendees and organisers, and anyone else who wants to join us. We have people of all ages, backgrounds, education and ability. All you need is an interest in and enthusiasm for maths of all types.
 
-The talk slides and descriptions from 2017 talks, along with talks from all past gatherings are collated in [the archive](archive).
+The talk slides and descriptions from past events are collated in [the archive](archive).
 
 * Food, refreshments and accommodation all included in your ticket price
 * Lightning talks in four sessions across the two days
