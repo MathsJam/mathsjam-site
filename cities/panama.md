@@ -16,7 +16,6 @@ location:
     lat: 9.0021592
 hiatus: False
 start_time: 5.00pm
-lang: es_PA
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
