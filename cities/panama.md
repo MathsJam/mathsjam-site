@@ -15,7 +15,7 @@ location:
     lon: -79.5742247
     lat: 9.0021592
 hiatus: False
-start_time: 5.00pm
+start_time: 5:00 pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
