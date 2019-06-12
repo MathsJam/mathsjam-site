@@ -22,7 +22,7 @@ poster_text: |
     reúnan en un bar y compartan un tiempo agradable 
     resolviendo rompecabezas y juegos divertidos, o 
     cualquier problema que les parezca interesante.
+    Se realiza en todas partes del mundo.
 
-    Es en el penúltimo martes de cada mes y se
-    realiza en todas partes del mundo.
+    Es en el penúltimo martes de cada mes.
 ---
