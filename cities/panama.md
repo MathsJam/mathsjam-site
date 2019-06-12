@@ -9,8 +9,8 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "La Rana Dorada"
-    description: ", in Clayton"
+    pub_name: "La Rana Dorada, Clayton"
+    description: ", Calle al Hospital"
     url: http://laranadorada.com/
     lon: -79.5742247
     lat: 9.0021592
@@ -23,5 +23,5 @@ poster_text: |
     resolviendo rompecabezas y juegos divertidos, o 
     cualquier problema que les parezca interesante.
 
-    Es en el penúltimo martes de cada mes.
+    Es en el penúltimo martes de cada mes y se realiza en todas partes del mundo.
 ---
