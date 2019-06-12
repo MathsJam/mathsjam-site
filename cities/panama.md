@@ -9,7 +9,7 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "La Rana Dorada, Clayton"
+    pub_name: "La Rana Dorada de Clayton"
     description: ", Calle al Hospital"
     url: http://laranadorada.com/
     lon: -79.5742247
