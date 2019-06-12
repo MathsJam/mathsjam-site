@@ -1,7 +1,7 @@
 ---
 layout: city                                           
 lang: es_PA
-city_name: Panama                                                               
+city_name: Panam&aacute;                                                               
 jam_name: Panam&aacute; MathsJam
 email: panama@mathsjam.com
 organiser:
