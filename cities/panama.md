@@ -23,5 +23,6 @@ poster_text: |
     resolviendo rompecabezas y juegos divertidos, o 
     cualquier problema que les parezca interesante.
 
-    Es en el penúltimo martes de cada mes y se realiza en todas partes del mundo.
+    Es en el penúltimo martes de cada mes y se
+    realiza en todas partes del mundo.
 ---
