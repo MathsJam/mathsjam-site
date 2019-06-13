@@ -15,6 +15,8 @@ location:
     lon: -79.5742247
     lat: 9.0021592
 hiatus: False
+hiatus_months:
+    - 2019-07
 start_time: 5:00 pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
