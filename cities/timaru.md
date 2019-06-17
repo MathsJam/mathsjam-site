@@ -3,6 +3,7 @@ layout: city
 city_name: Timaru                                                          
 jam_name: Timaru MathsJam
 email: timaru@mathsjam.com
+twitter: timarumathsjam
 facebook: https://www.facebook.com/timarumathsjam
 organiser:
     name: Mark
@@ -10,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "The Queens Hotel"
-    description: "2 Barnard St, Timaru (Opp. Police Station)"
+    description: " 2 Barnard St, Timaru (Opp. Police Station)"
     url: https://www.facebook.com/The-Queens-Hotel-795817163808454/
     lon: 171.2546
     lat: -44.4002
