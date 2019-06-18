@@ -19,5 +19,8 @@ hiatus_months:
 changed_dates:
     - 2018-02-22
     - 2019-05-23
+    - 2019-06-26
 start_time: 7.30pm
+poster_text: |
+    From June to September MathsJam moves to [Argini e Margini](http://www.arginiemargini.com/) which is at Lungarno Galileo Galilei, n. 8.
 ---
