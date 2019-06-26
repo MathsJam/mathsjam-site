@@ -15,12 +15,15 @@ location:
     url: http://www.goudengids.be/agora-caffee-antwerpen-2000/
     lon: 4.4114405
     lat: 51.2234707
+jam_date_rule: second-last Wednesday
 hiatus: False
 hiatus_months:
     - 2017-07
     - 2017-08
     - 2018-07
     - 2018-08
+    - 2019-07
+    - 2019-08
 changed_dates:
     - 2017-12-19
     - 2018-12-18
