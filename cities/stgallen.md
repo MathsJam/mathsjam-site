@@ -3,7 +3,7 @@ layout: city
 city_name: St Gallen
 jam_name: St Gallen MathsJam
 email: stgallen@mathsjam.com
-twitter:sg_mathsjam
+twitter: sg_mathsjam
 organiser:
     name: Mandy
     email: stgallen@mathsjam.com
