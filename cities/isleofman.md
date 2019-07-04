@@ -3,6 +3,7 @@ layout: city
 city_name: Douglas, IoM                                                               
 jam_name: Douglas MathsJam
 email: isleofman@mathsjam.com
+twitter: IoMaths
 organiser:
     name: Anouk
     email: isleofman@mathsjam.com
