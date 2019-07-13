@@ -19,5 +19,6 @@ hiatus: False
 changed_dates:
     - 2017-12-19
     - 2019-05-28
+    - 2019-08-13
 start_time: 7pm in the evening
 ---
