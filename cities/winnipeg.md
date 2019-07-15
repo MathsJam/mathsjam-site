@@ -16,5 +16,6 @@ location:
     lat: 49.835410
 hiatus: False
 hiatus_months:
-    - 2019-04
+    - 2019-07
+    - 2019-08
 ---
