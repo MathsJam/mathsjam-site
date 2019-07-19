@@ -10,11 +10,11 @@ organiser:
     email: sanfrancisco@math-jam.com
 location:
     group: north-america
-    pub_name: "Barrel Proof"
-    description: "2331 Mission St. between 19th and 20th"
-    url: http://barrelproofsf.com
-    lon: -122.418939
-    lat: 37.759813
+    pub_name: "Pi Bar"
+    description: "1432 Valencia St."
+    url: http://pibarsf.com
+    lon: -122.420538
+    lat: 37.749959
 hiatus: False
 changed_dates:
     - 2019-05-22
