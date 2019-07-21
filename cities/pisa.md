@@ -13,9 +13,11 @@ location:
     url: http://www.arginiemargini.com/
     lat: 43.7137992
     lon: 10.4061086
-hiatus: False
+hiatus: True
 hiatus_months:
     - 2016-08
+    - 2019-07
+    - 2019-08
 changed_dates:
     - 2018-02-22
     - 2019-05-23
