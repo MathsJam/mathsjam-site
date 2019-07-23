@@ -20,4 +20,5 @@ hiatus_months:
     - 2019-06
 changed_dates:
     - 2018-08-20
+    - 2019-07-30
 ---
