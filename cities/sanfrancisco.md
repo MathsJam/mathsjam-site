@@ -1,6 +1,6 @@
 ---
 layout: city
-city_name: San Francisco, CA
+city_name: San Francisco CA
 local_jam_type: MathJam
 jam_name: San Francisco MathJam
 email: sanfrancisco@math-jam.com
@@ -11,7 +11,7 @@ organiser:
 location:
     group: north-america
     pub_name: "Pi Bar"
-    description: "1432 Valencia St."
+    description: ", 1432 Valencia St."
     url: http://pibarsf.com
     lon: -122.420538
     lat: 37.749959
