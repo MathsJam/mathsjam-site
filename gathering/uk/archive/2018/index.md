@@ -166,11 +166,13 @@ A demonstration of various homemade polyhedra - all the Platonic ('Flat-onic') s
 
 #### Louise Mabbs : Jacob's Ladders - fabric and paper experiments
 
-In 2006 I developed a fabric version of the traditional Jacob's Ladder 2-strip fold for my fabric origami book. I realised there were lots of benefits of making it in fabric rather than paper, due to the stretch and distortion opportunities, but I wasn't entirely happy with the finished result. I returned to it this year for a poster presentation at 7OSME, finding a better solution to my fabric problem and also experimented with folding up to 8 strips together in different formats. The resulting techniques cover origami, braiding, weaving and several other skills and some fascinating structures.
+Louise demonstrates a fabric version of the traditional Jacob's Ladder 2-strip fold she developed in 2006 for a fabric origami book. She's developed it since, and the resulting techniques cover origami, braiding, weaving and several other skills and some fascinating structures.
+
+- [Louise's Website](http://www.louisemabbs.co.uk/louisemabbs/the_artist_work.htm)
 
 #### Tom Reddington : Banach-Tarski: just make peace with it
 
-I've had many arguments and several pub fights due to people's reluctance to accept the Banach-Tarski paradox. Here are the facts. Embrace them.
+The Banach-Tarski Paradox has caused many arguments and probably several pub fights, due to people's reluctance to accept it. Tom convinces us all it really is true.
 
 - [Tom's slides (PPTX)]({{site.url}}/assets/talks/2018/TomReddington-BanachTarskiJustMakePeacewithit.pptx)
 - [Tom's slides (PDF)]({{site.url}}/assets/talks/2018/TomReddington-BanachTarskiJustMakePeacewithit.pdf)
@@ -184,24 +186,20 @@ A quick introduction to magic squares, some interesting facts, and some links to
 
 #### Sydney Weaver : The Sound of Silence
 
-An exercise in the 4 memory types demonstrated by the Rubik's Cube and a parody of a well known song
+An exercise in the 4 memory types demonstrated by the Rubik's Cube, and a parody of a well known song.
 
 - [Sydney's slides (PDF)]({{site.url}}/assets/talks/2018/SydneyWeaver-TheSoundofSilence.pdf)
 
 #### Alaric Stephen : Generating Hard Puzzles Using Graph Theory
 
-I will highlight a method for making word based puzzles to an arbitrary amount of difficulty using a quirk of Hamiltonian graphs.
+Alaric highlights a method for making word based puzzles to an arbitrary level of difficulty, using a quirk of Hamiltonian graphs.
 
 - [Alaric's slides (PPTX)]({{site.url}}/assets/talks/2018/AlaricStephen-GeneratingHardPuzzlesusingGraphTheory.pptx)
 - [Alaric's slides (PDF)]({{site.url}}/assets/talks/2018/AlaricStephen-GeneratingHardPuzzlesusingGraphTheory.pdf)
 
 #### Colin Wright : e's in a twist
 
-Square roots, simple algebra, a step in an odd direction, and maybe we can find interesting connections.
-
-#### Elevator Pitches : For Saturday night tables
-
-We'll allow anyone running a table of activities on the Saturday evening a chance to explain what their activity will be, so you can choose how to spend the evening.
+Colin demonstrates several ways to derive Euler's identity (e<sup>iπ</sup>=-1) - inluding square roots, simple algebra, and a step in an odd direction.
 
 ## SUNDAY
 
@@ -209,13 +207,13 @@ We'll allow anyone running a table of activities on the Saturday evening a chanc
 
 #### Katie Steckles : The Unwanted Solid
 
-You may have heard of Archimedean solids - a category of thirteen 3D shapes with particular properties. But did you know that there's actually a fourteenth Archimedean solid? I will argue the case for allowing the Pseudorhombicuboctahedron to join the club.
+You may have heard of Archimedean solids - a category of thirteen 3D shapes with particular properties. But did you know that there's actually a fourteenth Archimedean solid? Katie argues the case for allowing the Pseudorhombicuboctahedron to join the club.
 
 - [Katie's YouTube video](https://www.youtube.com/watch?v=wN9f-k9oRts)
 
 #### Martin Chlond : The Travelling Salesman Problem: A couple of whimsical applications
 
-A couple of quirky uses of TSP algorithms
+A couple of quirky uses of TSP algorithms - including ways to make art!
 
 - [Martin's slides (PPTX)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pptx)
 - [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pdf)
@@ -229,21 +227,22 @@ Using paper, scissors and glue, platonic moboids knot together two familiar math
 
 #### Callum Mulligan : Ray casting and Rabbits
 
-Ray Casting is used in a multitude of ways to solve intersection tests. One of my students did something brilliant and used it in an alternative way. This got me thinking, So in this talk we will look at some fun uses for Ray Casting (Including how it can be used to spawn Rabbits in a videogames!) and the mathematics behind it.
+Ray Casting is used in a multitude of ways to solve intersection tests. One of Callum's students did something brilliant and used it in an alternative way. Callum shares some fun uses for Ray Casting (including how it can be used to spawn Rabbits in videogames!) and the mathematics behind it.
 
 - [Callum's slides (PPTX)]({{site.url}}/assets/talks/2018/CallumMulligan-RayCastingandRabbits.pptx)
 - [Callum's slides (PDF)]({{site.url}}/assets/talks/2018/CallumMulligan-RayCastingandRabbits.pdf)
 
-#### Tim Chadwick : Something about Shells
+#### Tim Chadwick : Numberblocks
 
-Something about shells. My 2nd favourite part of Robert McNeill Alexander's book, Animals, is about the formation of shells. Biomechanics stuff. So I thought I'd share some of it.
+Tim shares his enthusiasm for CBBC maths staple Numberblocks. We're all hooked now.
 
 - [Tim's slides (PPTX)]({{site.url}}/assets/talks/2018/TimChadwick-NothingAboutShells.pptx)
 - [Tim's slides (PDF)]({{site.url}}/assets/talks/2018/TimChadwick-NothingAboutShells.pdf)
 
 #### Tarim : Snake Bridges
 
-How canal engineers used topology before the term was even coined
+There are special bridges called snake bridges which help avoid tow-ropes getting tangled when your horse
+changes bank - it turns out, canal engineers used topology before the term was even coined!
 
 - [Tarim's slides (PDF)]({{site.url}}/assets/talks/2018/Tarim-SnakeBridges.pdf)
 
@@ -251,7 +250,8 @@ How canal engineers used topology before the term was even coined
 
 #### Adam Atkinson : Conspiracy of Silence
 
-Many textbooks and courses say nothing about a certain topic. Sometimes there are almost amusingly dark hints along the lines of "There is another possibility. But we shall speak no further of it." This description is hinting darkly but the talk itself will break the conspiracy wide open.
+Lots of people know about discrete and continuous probability distributions. THEY don't want you to know
+about the third kind: singular distributions.
 
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence.pdf)
 - [Adam's video 1 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-cantor.mp4)
@@ -267,27 +267,27 @@ A brief exploration of signed distance functions and their use in real-time comp
 
 #### Jo Morgan : Changing Contexts
 
-A quick look at how the contexts used in school mathematics questions have changed over the years
+A quick look at how the contexts used in school mathematics questions have changed over the years.
 
 - [Jo's slides (PPTX)]({{site.url}}/assets/talks/2018/JoMorgan-ChangingContexts.pptx)
 - [Jo's slides (PDF)]({{site.url}}/assets/talks/2018/JoMorgan-ChangingContexts.pdf)
 
 #### Pedro Freitas : Ubiquitous Permutations
 
-Last year I presented a card trick which relied on a certain way of mixing cards. On the train to the MathsJam gathering, I learned more about the permutations that made the trick work.
+Composer Olivier Messaien's "Interversions" has the same structure as the "Milk Shuffle With Drop" used for card tricks... and the same permutation can also be used to generate the Matthieu groups!
 
 - [Pedro's slides (PPTX)]({{site.url}}/assets/talks/2018/PedroFreitas-UbiquitousPermutations.pptx)
 - [Pedro's slides (PDF)]({{site.url}}/assets/talks/2018/PedroFreitas-UbiquitousPermutations.pdf)
 
 #### Alistair Bird : The four-and-a-half colour theorem
 
-Spoiler: The truth of the famous 4-colour theorem immediately implies that the 4½-colour theorem is also true. But how can you have half a colour? And why bother investigating a theorem when we already know the answer?
+The truth of the famous 4-colour theorem immediately implies that the 4½-colour theorem is also true. But how can you have half a colour? And why bother investigating a theorem when we already know the answer? Alistair shares the problem: If each country has a flag with two colours on, can you arrange the colours so that adjacent countries' flags don't share any colours?
 
 - [Alistair's slides (PDF)]({{site.url}}/assets/talks/2018/AlistairBird-TheFourandaHalfColourTheorem.pdf)
 
 #### Michael Gibson : A New Trick for Old Dogs
 
-The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and giving them to Magician A who looks at them and arranges them with 4 cards showing and one hidden. Based on this Magician B can then say what the hidden card is. I will describe and perform a new version of this trick in which only 1 card is showing and Magician B has to say what all 4 of the hidden cards are.
+The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and giving them to Magician A who looks at them and arranges them with 4 cards showing and one hidden. Based on this Magician B can then say what the hidden card is. Michael describes and performs a new version of this trick in which only 1 card is showing and Magician B has to say what all 4 of the hidden cards are.
 
 - [Martin's slides (PPTX)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pptx)
 - [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pdf)
@@ -296,17 +296,19 @@ The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and givin
 
 #### Matthew Scroggs : Mathsteroids
 
-I will talk different ways to represent a sphere as a flat surface using Mathsteroids (http://www.mscroggs.co.uk/mathsteroids/), an asteroids-style game in which you can play on a sphere with different representations.
+Matthew presents several different ways to represent a sphere as a flat surface using Mathsteroids, an asteroids-style game in which you can play on a sphere with different representations.
+
+- [Mathsteroids](http://www.mscroggs.co.uk/mathsteroids/)
 
 #### Stefania Delprete : MathsJam in Python
 
-How our group solved one or two MathsJam challenges using Python, after trying and trying. We wanted to resist using our laptops but... "resistance is futile".
+Stefania relates how the Berlin and Turin MathsJams solved some puzzles using Python.
 
 - [Stefania's slides (PDF)]({{site.url}}/assets/talks/2018/StefaniaDelprete-MathsJaminPython.pdf)
 
 #### Stuart Eves : Do the planets fit between the Earth and the Moon?
 
-Is there room between the Earth and the Moon to fit all the planets in the solar system? Possible answers are "yes", "no", or "sometimes". Find out which answer is correct...
+Is there room between the Earth and the Moon to fit all the planets in the solar system? Possible answers are "yes", "no", or "sometimes". Stuart reveals the answer.
 
 - [Stuart's slides (PPT)]({{site.url}}/assets/talks/2018/StuartEves-DothePlanetsFitbetweentheEarthandtheMoon.ppt)
 - [Stuart's slides (PDF)]({{site.url}}/assets/talks/2018/StuartEves-DothePlanetsFitbetweentheEarthandtheMoon.pdf)
@@ -319,14 +321,14 @@ A comic leads to a painting, which allows us to discover a connection between tr
 
 #### Pat Ashforth : Extending Tables
 
-Looking at patterns in tables
+Pat shows off a piece of mathematical furniture from her collection - an extendable table with an aperiodic tiling, which works whether the table is extended or not!
 
 - [Pat's slides (PPTX)]({{site.url}}/assets/talks/2018/PatAshforth-ExtendingTables.pptx)
 - [Pat's slides (PDF)]({{site.url}}/assets/talks/2018/PatAshforth-ExtendingTables.pdf)
 
 #### Tiago Hirth : From Pebbles do Nimbers and Stars
 
-Quick run through 500 years of history related to the game of Nim and invitation to participate in Recreational Mathsmatics projects.
+A quick run through 500 years of history related to the game of Nim, and an invitation to participate in Recreational Mathsmatics projects.
 
 - [Tiago's slides (PDF)]({{site.url}}/assets/talks/2018/TiagoHirth-FromPebblestoNimbersandStars.pdf)
 
@@ -334,24 +336,24 @@ Quick run through 500 years of history related to the game of Nim and invitation
 
 #### Colin Beveridge : A proof without words
 
-1^2 + 2^2 + 3^2 + ... + n^2 = n(n+1)(2n+1)/6. But who can remember that?
+Colin proves 1<sup>2</sup> + 2<sup>2</sup> + 3<sup>2</sup> + ... + n<sup>2</sup> = n(n+1)(2n+1)/6 through the medium of mime.
 
 - [Colin's slides (PPTX)]({{site.url}}/assets/talks/2018/ColinBeveridge-AProofWithoutWords.pptx)
 - [Colin's slides (PDF)]({{site.url}}/assets/talks/2018/ColinBeveridge-AProofWithoutWords.pdf)
 
 #### Robie Basak : Measuring sticks
 
-Using measuring sticks to perform arithmetic
+Robie demonstrates how to make a slide rule.
 
 #### Andrew Macdonald : So, about Ghandi
 
-Addition, subtraction and negative numbers in binary computing
+Addition, subtraction and negative numbers in binary computing can be difficult. Andrew relates the tale of why the programmers of the game Civilisation made Gandhi such a fan of nuclear weapons...
 
 - [Andrew's slides (PDF)]({{site.url}}/assets/talks/2018/AndrewMacdonald-SoAboutGhandi.pdf)
 
 #### Sam Hartburn : Battle of the slinkies: paper vs plastic
 
-Can an origami slinky outperform a cheap plastic one? Probably not, but I'll give it a try anyway. 
+Can an origami slinky outperform a cheap plastic one? Sam experiments.
 
 - [Sam's slides (PPTX)]({{site.url}}/assets/talks/2018/SamHartburn-BattleOfTheSlinkies.pptx)
 - [Sam's slides (PDF)]({{site.url}}/assets/talks/2018/SamHartburn-BattleOfTheSlinkies.pdf)
