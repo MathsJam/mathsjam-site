@@ -68,7 +68,7 @@ Martin shares some examples of pictorial proofs, and has come up with a new one 
 
 #### Samuel Hansen : The long tail of mathematical citations
 
-In this talk I will explore how age and citation counts are related in highly cited mathematical papers with a specific focus on mathematical researches unique aging characteristics.
+Samuel explores how age and citation counts are related in highly cited mathematical papers, with a specific focus on the way mathematical research ages - some famous maths papers were hardly cited at all until years after they were published.
 
 - [Samuel's slides (PDF)]({{site.url}}/assets/talks/2018/SamuelHansen-TheLongTailOfMathematicsCitations.pdf)
 
@@ -78,7 +78,7 @@ There's a lot of maths involved in flying a plane. Fortunately most of it can be
 
 #### Rob Low : A minus times a minus is a pain
 
-We all learn quite young that a minus times a minus is a plus, and the reason given by the teacher is all too often some variation on "Because I (the book) say(s) so". Why should we believe it?
+We all learn quite young that a minus times a minus is a plus, and the reason given by the teacher is all too often some variation on "Because I say so". Why should we believe it? Rob explains why.
 
 - [Rob's slides (PDF)]({{site.url}}/assets/talks/2018/RobLow-AMinusTimesaMinusisaPain.pdf)
 
@@ -91,26 +91,26 @@ Blackwork is a type of embroidery that traditionally that is supposed to look th
 
 #### Kevin Houston : Where was that taken?
 
-Can we use mathematics to determine where the photographer stood to take a photograph?
+Can we use mathematics to determine where the photographer stood to take a photograph? Kevin shows some examples.
 
 - [Kevin's slides (PDF)]({{site.url}}/assets/talks/2018/KevinHouston-WherewasThatTaken.pdf)
 
 #### Mike Frost : Piet Hein - Pirate
 
-My day job in control engineering takes me to steel mills around the world. When I visited a mill in the Netherlands I was intrigued to find that the hotel conference suite was named for Piet Hein. Why did a dutch hotel have a room named for a danish mathematician much revered by recreational mathematicians? The answer was not what I expected.
+Mike discovered a hotel in the Netherlands had a conference suite named for Piet Hein. Why did a dutch hotel have a room named for a danish mathematician much revered by recreational mathematicians? It turns out, Piet Hein the mathematician and Piet Hein the pirate were two different people.
 
 - [Mike's slides (PPTX)]({{site.url}}/assets/talks/2018/MikeFrost-PietHeinPirate.pptx)
 - [Mike's slides (PDF)]({{site.url}}/assets/talks/2018/MikeFrost-PietHeinPirate.pdf)
 
 #### Peter Rowlett : Counting caterpillars
 
-We bought a new toy for our three-year-old, a robot caterpillar. On its packaging, this promised its pieces could be arranged into “endless combinations”. Of course, I had to investigate a more sensible number! And it proved to be not a completely straightforward combinatorics problem.
+A robot caterpillar Peter bought for his three-year-old purports to have "endless combinations". Peter shows that it has 5023 combinations (not a completely straightforward combinatorics problem) , and observes that 5023 is finite.
 
 - [Peter's slides (PDF)]({{site.url}}/assets/talks/2018/PeterRowlett-CountingCaterpillars.pdf)
 
 #### Tung Ken Lam : Action Modular Origami
 
-This talk explains what action modular origami is and how it intrigues and delights. What are its origins and current developments? Briefly, action modular origami involves folding and joining paper together (without cutting or gluing) into sculptures that move or change shape. They can be put in six categories (ignoring things that you throw): sliders; flexagons; rotating rings; magic wallet models; spinners and wheels; 3D shapeshifters. Are they papercraft, practical geometry, kinetic sculpture, a source of mathematical learning or fun moving toys?
+This talk explains what action modular origami is and how it intrigues and delights. What are its origins and current developments? Briefly, action modular origami involves folding and joining paper together (without cutting or gluing) into sculptures that move or change shape. They can be put in six categories (ignoring things that you throw): sliders; flexagons; rotating rings; magic wallet models; spinners/wheels, and 3D shapeshifters.
 
 - [Tung Ken's slides (PDF)]({{site.url}}/assets/talks/2018/TungKenLam-ActionModularOrigami.pdf)
 
@@ -118,7 +118,7 @@ This talk explains what action modular origami is and how it intrigues and delig
 
 #### Ben Sparks : Sparks does Maths, and possibly Geogebra...
 
-Blah
+Ben shares a puzzle in which a mouse swimming in a pond tries to escape from a cat on shore. Can it get away?
 
 - [Ben's slides (PPTX)]({{site.url}}/assets/talks/2018/BenSparks-CatandMouse.pptx)
 - [Ben's slides (PDF)]({{site.url}}/assets/talks/2018/BenSparks-CatandMouse.pdf)
@@ -126,36 +126,38 @@ Blah
 
 #### Rachel Wright : An Unexpected Parallel
 
-Pierre de Fermat was not the only person to make an off-hand comment that gave subsequent generations a thundering headache...
+Pierre de Fermat was not the only person to make an off-hand comment that gave subsequent generations a thundering headache...  a passing remark in an old book on embroidery describes something that no-one has yet been able to work out how to do.
 
 - [Rachel's slides (PPTX)]({{site.url}}/assets/talks/2018/RachelWright-AnUnexpectedParallel.pptx)
 - [Rachel's slides (PDF)]({{site.url}}/assets/talks/2018/RachelWright-AnUnexpectedParallel.pdf)
 
 #### Derek Couzens : Using maths to solve a socially embarrassing situation
 
-How mathematics helped me overcome a very embarrassing problem at the wedding of Prince Harry and Meghan Markle.
+Derek demonstrates how to turn your trousers inside-out without taking your feet of the floor. (Needs special trousers.)
 
 #### Alex Burlton : 180 ways not to model a darts player
 
-What happens when you are mediocre at darts and have too much time on your hands? I discuss my attempts to generate an equally crummy opponent - with some surprising results.
+What happens when you are mediocre at darts and have too much time on your hands? Alex discusses an attempt to generate an equally crummy opponent - with some surprising results.
 
 - [Alex's slides (PPTX)]({{site.url}}/assets/talks/2018/AlexBurlton-180WaysNottoModelaDartsPlayer.pptx)
 - [Alex's slides (PDF)]({{site.url}}/assets/talks/2018/AlexBurlton-180WaysNottoModelaDartsPlayer.pdf)
 
 #### Christian Lawson-Perfect : Zeckendorf cup arithmetic
 
-Having a baby hasn't been a complete distraction from maths.
+Having a baby isn't a complete distraction from maths - Christian shares his adventures with a set of nested stackinig cups, and works out how many ways you can stack them subject to various constraints.
+
+- [Christian's YouTube video](https://www.youtube.com/watch?v=N4v0eqfAw_k)
 
 #### Steve Plummer : 42
 
-Not quite life, the universe and everything.
+Not quite life, the universe and everythin - Steve shares some surprise appearances by a particular integer, including in Alice in Wonderland and in Philip Astley's trick riding.
 
 - [Steve's slides (PPTX)]({{site.url}}/assets/talks/2018/StevePlummer-42.pptx)
 - [Steve's slides (PDF)]({{site.url}}/assets/talks/2018/StevePlummer-42.pdf)
 
 #### Barney Maunder-Taylor : Collapsible polyhedra
 
-A demonstration of various homemade polyhedra (all the Platonic solids and some of the Archimedeans) that fold flat.
+A demonstration of various homemade polyhedra - all the Platonic ('Flat-onic') solids and some of the Archimedeans - that fold flat.
 
 - [Barney's slides (PPTX)]({{site.url}}/assets/talks/2018/BarneyMaunderTaylor-CollapsiblePolyhedra.pptx)
 - [Barney's slides (PDF)]({{site.url}}/assets/talks/2018/BarneyMaunderTaylor-CollapsiblePolyhedra.pdf)
