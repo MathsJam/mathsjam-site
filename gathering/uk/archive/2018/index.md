@@ -61,7 +61,7 @@ Why do self-checkout machines give the worst change? Are they better in other co
 Martin shares some examples of pictorial proofs, and has come up with a new one for Ptolemy's Theorem of Cyclic Quadrilaterals.
 
 - [Martin's slides (PPT)]({{site.url}}/assets/talks/2018/MartinHarris-PleasingPictorialProofs.pptx)
-- [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinHarris-PleaseingPictorialProofs.pdf)
+- [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinHarris-PleasingPictorialProofs.pdf)
 - [Martin's proof on Desmos](https://www.desmos.com/calculator/6ebufxblaa)
 
 ### SESSION 1b : 15:10
