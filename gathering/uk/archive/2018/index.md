@@ -24,18 +24,18 @@ Spaghetti on toast is everybody's favourite quick and easy tea, but have you eve
 
 - [Alison's Geogebra](https://www.geogebra.org/m/fu8m43ds)
 
-#### Mick de Pomerai : Mass of a Black Hole
+#### Mick de Pomerai : Mass Of A Black Hole
 
 Mick presents a short history of ideas on orbits & gravity, to introduce the maths needed to calculate the mass of Sagittarius A* from Keck telescope data (which is given out as a handout).
 
 - [Mick's slides (PPT)]({{site.url}}/assets/talks/2018/MickdePomerai-MassofaBlackHole.pptx)
 - [Mick's slides (PDF)]({{site.url}}/assets/talks/2018/MickdePomerai-MassofaBlackHole.pdf)
 
-#### Hugh Hunt : Chain on a Cone
+#### Hugh Hunt : Chain On A Cone
 
 A thin light chain with a heavy pendant is displayed in a jeweller's shop hanging on a smooth conical stand. What is the cone angle above which the chain will slip off the stand under the weight of the pendant down the slope? Hugh demonstrates some nice physical models, and shows that the line the chain makes on the surface is actually a straight line if you cut and open the cone.
 
-#### Claire Cohen : How Lucky is the Bonus Ball
+#### Claire Cohen : How Lucky Is The Bonus Ball
 
 Claire has been running a workplace Bonus Ball raffle at work, and has studied the data - what kind of numbers are commonly picked, what are people's reasons for choosing them, and how do they compare to the actual results of the bonus ball draw.
 
@@ -48,7 +48,7 @@ You may be familiar with the classic Christmas cracker trick where your voluntee
 
 - [Laurence's slides (PDF)]({{site.url}}/assets/talks/2018/LaurenceOToole-GuessingWithLies.pdf)
 
-#### Adam Townsend : The coin distribution problem revisited
+#### Adam Townsend : The Coin Distribution Problem Revisited
 
 Why do self-checkout machines give the worst change? Are they better in other countries? Using real price data from the ONS, Adam asks: would getting rid of the penny fix this problem, or is there a better, more ridiculous solution? (Of course there is, and Adam's worked out which coin we'd need to add).
 
@@ -56,7 +56,7 @@ Why do self-checkout machines give the worst change? Are they better in other co
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2018/AdamTownsend-TheCoinDistributionProblem.pdf)
 - [Adam's working out on GitHub](https://github.com/Pecnut/coins-required)
 
-#### Martin Harris : Pleasing Pictorial Proofs and Ptolemy's Ptheorem
+#### Martin Harris : Pleasing Pictorial Proofs And Ptolemy's Ptheorem
 
 Martin shares some examples of pictorial proofs, and has come up with a new one for Ptolemy's Theorem of Cyclic Quadrilaterals.
 
@@ -66,30 +66,30 @@ Martin shares some examples of pictorial proofs, and has come up with a new one 
 
 ### SESSION 1b : 15:10
 
-#### Samuel Hansen : The long tail of mathematical citations
+#### Samuel Hansen : The Long Tail Of Mathematical Citations
 
 Samuel explores how age and citation counts are related in highly cited mathematical papers, with a specific focus on the way mathematical research ages - some famous maths papers were hardly cited at all until years after they were published.
 
 - [Samuel's slides (PDF)]({{site.url}}/assets/talks/2018/SamuelHansen-TheLongTailOfMathematicsCitations.pdf)
 
-#### Gavan Fantom : Doing trigonometry in your head while trying to land a plane
+#### Gavan Fantom : Doing Trigonometry In Your Head While Trying To Land A Plane
 
 There's a lot of maths involved in flying a plane. Fortunately most of it can be done on the ground, but there are some calculations that pilots do while in the air. Imagine you're on final approach, less than a minute from the runway. Can you use trigonometry to decide if it's safe to land?
 
-#### Rob Low : A minus times a minus is a pain
+#### Rob Low : A Minus Times A Minus Is A Pain
 
 We all learn quite young that a minus times a minus is a plus, and the reason given by the teacher is all too often some variation on "Because I say so". Why should we believe it? Rob explains why.
 
 - [Rob's slides (PDF)]({{site.url}}/assets/talks/2018/RobLow-AMinusTimesaMinusisaPain.pdf)
 
-#### Eleanor Doman : A needling problem from embroidery
+#### Eleanor Doman : A Needling Problem From Embroidery
 
 Blackwork is a type of embroidery that traditionally is supposed to look the same on the front and back of the material and is usually based off geometric patterns. But what kind of patterns can we use, and can we prove mathematically that they will look the same on both sides.
 
 - [Eleanor's slides (PPTX)]({{site.url}}/assets/talks/2018/EleanorDoman-ANeedlingProblemfromEmbroidery.pptx)
 - [Eleanor's slides (PDF)]({{site.url}}/assets/talks/2018/EleanorDoman-ANeedlingProblemfromEmbroidery.pdf)
 
-#### Kevin Houston : Where was that taken?
+#### Kevin Houston : Where Was That taken?
 
 Can we use mathematics to determine where the photographer stood to take a photograph? Kevin shows some examples.
 
@@ -102,7 +102,7 @@ Mike discovered a hotel in the Netherlands had a conference suite named for Piet
 - [Mike's slides (PPTX)]({{site.url}}/assets/talks/2018/MikeFrost-PietHeinPirate.pptx)
 - [Mike's slides (PDF)]({{site.url}}/assets/talks/2018/MikeFrost-PietHeinPirate.pdf)
 
-#### Peter Rowlett : Counting caterpillars
+#### Peter Rowlett : Counting Caterpillars
 
 A robot caterpillar Peter bought for his three-year-old purports to have "endless combinations". Peter shows that it has 5023 combinations (not a completely straightforward combinatorics problem), and observes that 5023 is finite.
 
@@ -116,7 +116,7 @@ This talk explains what action modular origami is and how it intrigues and delig
 
 ### SESSION 1c 16:20
 
-#### Ben Sparks : Sparks does Maths, and possibly Geogebra...
+#### Ben Sparks : Sparks Does Maths, And Possibly Geogebra...
 
 Ben shares a puzzle in which a mouse swimming in a pond tries to escape from a cat on shore. Can it get away?
 
@@ -131,18 +131,18 @@ Pierre de Fermat was not the only person to make an off-hand comment that gave s
 - [Rachel's slides (PPTX)]({{site.url}}/assets/talks/2018/RachelWright-AnUnexpectedParallel.pptx)
 - [Rachel's slides (PDF)]({{site.url}}/assets/talks/2018/RachelWright-AnUnexpectedParallel.pdf)
 
-#### Derek Couzens : Using maths to solve a socially embarrassing situation
+#### Derek Couzens : Using Maths To Solve A Socially Embarrassing Situation
 
 Derek demonstrates how to turn your trousers inside-out without taking your feet off the floor. (Needs special trousers.)
 
-#### Alex Burlton : 180 ways not to model a darts player
+#### Alex Burlton : 180 Ways Not To Model A Darts Player
 
 What happens when you are mediocre at darts and have too much time on your hands? Alex discusses an attempt to generate an equally crummy opponent - with some surprising results.
 
 - [Alex's slides (PPTX)]({{site.url}}/assets/talks/2018/AlexBurlton-180WaysNottoModelaDartsPlayer.pptx)
 - [Alex's slides (PDF)]({{site.url}}/assets/talks/2018/AlexBurlton-180WaysNottoModelaDartsPlayer.pdf)
 
-#### Christian Lawson-Perfect : Zeckendorf cup arithmetic
+#### Christian Lawson-Perfect : Zeckendorf Cup Arithmetic
 
 Having a baby isn't a complete distraction from maths - Christian shares his adventures with a set of nested stacking cups, and works out how many ways you can stack them subject to various constraints.
 
@@ -155,7 +155,7 @@ Not quite life, the universe and everything - Steve shares some surprise appeara
 - [Steve's slides (PPTX)]({{site.url}}/assets/talks/2018/StevePlummer-42.pptx)
 - [Steve's slides (PDF)]({{site.url}}/assets/talks/2018/StevePlummer-42.pdf)
 
-#### Barney Maunder-Taylor : Collapsible polyhedra
+#### Barney Maunder-Taylor : Collapsible Polyhedra
 
 A demonstration of various homemade polyhedra - all the Platonic ('Flat-onic') solids and some of the Archimedeans - that fold flat.
 
@@ -164,27 +164,27 @@ A demonstration of various homemade polyhedra - all the Platonic ('Flat-onic') s
 
 ### SESSION 1d : 17:30
 
-#### Louise Mabbs : Jacob's Ladders - fabric and paper experiments
+#### Louise Mabbs : Jacob's Ladders - Fabric And Paper Experiments
 
 Louise demonstrates a fabric version of the traditional Jacob's Ladder 2-strip fold she developed in 2006 for a fabric origami book. She's developed it since, and the resulting techniques cover origami, braiding, weaving and several other skills and some fascinating structures.
 
 - [Louise's Website](http://www.louisemabbs.co.uk/louisemabbs/the_artist_work.htm)
 
-#### Tom Reddington : Banach-Tarski: just make peace with it
+#### Tom Reddington : Banach-Tarski: Just Make Peace With It
 
 The Banach-Tarski Paradox has caused many arguments and probably several pub fights, due to people's reluctance to accept it. Tom convinces us all it really is true.
 
 - [Tom's slides (PPTX)]({{site.url}}/assets/talks/2018/TomReddington-BanachTarskiJustMakePeacewithit.pptx)
 - [Tom's slides (PDF)]({{site.url}}/assets/talks/2018/TomReddington-BanachTarskiJustMakePeacewithit.pdf)
 
-#### Alison Eves : Magic magic squares
+#### Alison Eves : Magic Magic Squares
 
 A quick introduction to magic squares, some interesting facts, and some links to magic squares in art and history.
 
 - [Alison's slides (PPTX)]({{site.url}}/assets/talks/2018/AlisonEves-MagicMagicSquares.pptx)
 - [Alison's slides (PDF)]({{site.url}}/assets/talks/2018/AlisonEves-MagicMagicSquares.pdf)
 
-#### Sydney Weaver : The Sound of Silence
+#### Sydney Weaver : The Sound Of Silence
 
 An exercise in the 4 memory types demonstrated by the Rubik's Cube, and a parody of a well known song.
 
@@ -197,7 +197,7 @@ Alaric highlights a method for making word based puzzles to an arbitrary level o
 - [Alaric's slides (PPTX)]({{site.url}}/assets/talks/2018/AlaricStephen-GeneratingHardPuzzlesusingGraphTheory.pptx)
 - [Alaric's slides (PDF)]({{site.url}}/assets/talks/2018/AlaricStephen-GeneratingHardPuzzlesusingGraphTheory.pdf)
 
-#### Colin Wright : e's in a twist
+#### Colin Wright : e's In A Twist
 
 Colin demonstrates several ways to derive Euler's identity (e<sup>iπ</sup>=-1) - including square roots, simple algebra, and a step in an odd direction.
 
@@ -211,7 +211,7 @@ You may have heard of Archimedean solids - a category of thirteen 3D shapes with
 
 - [Katie's YouTube video](https://www.youtube.com/watch?v=wN9f-k9oRts)
 
-#### Martin Chlond : The Travelling Salesman Problem: A couple of whimsical applications
+#### Martin Chlond : The Travelling Salesman Problem: A Couple Of Whimsical Applications
 
 A couple of quirky uses of TSP algorithms - including ways to make art!
 
@@ -225,7 +225,7 @@ Using paper, scissors and glue, platonic moboids knot together two familiar math
 - [Jonathan's slides (PPTX)]({{site.url}}/assets/talks/2018/JonathanWelton-PlatonicMöboids.pptx)
 - [Jonathan's slides (PDF)]({{site.url}}/assets/talks/2018/JonathanWelton-PlatonicMöboids.pdf)
 
-#### Callum Mulligan : Ray casting and Rabbits
+#### Callum Mulligan : Ray Casting And Rabbits
 
 Ray Casting is used in a multitude of ways to solve intersection tests. One of Callum's students did something brilliant and used it in an alternative way. Callum shares some fun uses for Ray Casting (including how it can be used to spawn Rabbits in videogames!) and the mathematics behind it.
 
@@ -248,7 +248,7 @@ changes bank - it turns out, canal engineers used topology before the term was e
 
 ### SESSION 2b : 09:55
 
-#### Adam Atkinson : Conspiracy of Silence
+#### Adam Atkinson : Conspiracy Of Silence
 
 Lots of people know about discrete and continuous probability distributions. THEY don't want you to know
 about the third kind: singular distributions.
@@ -257,7 +257,7 @@ about the third kind: singular distributions.
 - [Adam's video 1 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-cantor.mp4)
 - [Adam's video 2 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-boldplay.mp4)
 
-#### Will Kirkby : Digital Art and Distance Functions
+#### Will Kirkby : Digital Art And Distance Functions
 
 A brief exploration of signed distance functions and their use in real-time computer graphics.
 
@@ -279,15 +279,15 @@ Composer Olivier Messaien's "Interversions" has the same structure as the "Milk 
 - [Pedro's slides (PPTX)]({{site.url}}/assets/talks/2018/PedroFreitas-UbiquitousPermutations.pptx)
 - [Pedro's slides (PDF)]({{site.url}}/assets/talks/2018/PedroFreitas-UbiquitousPermutations.pdf)
 
-#### Alistair Bird : The four-and-a-half colour theorem
+#### Alistair Bird : The Four-And-A-Half Colour Theorem
 
 The truth of the famous 4-colour theorem immediately implies that the 4½-colour theorem is also true. But how can you have half a colour? And why bother investigating a theorem when we already know the answer? Alistair shares the problem: If each country has a flag with two colours on, can you arrange the colours so that adjacent countries' flags don't share any colours?
 
 - [Alistair's slides (PDF)]({{site.url}}/assets/talks/2018/AlistairBird-TheFourandaHalfColourTheorem.pdf)
 
-#### Michael Gibson : A New Trick for Old Dogs
+#### Michael Gibson : A New Trick For Old Dogs
 
-The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and giving them to Magician A who looks at them and arranges them with 4 cards showing and one hidden. Based on this Magician B can then say what the hidden card is. Michael describes and performs a new version of this trick in which only 1 card is showing and Magician B has to say what all 4 of the hidden cards are.
+The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and giving them to Magician A who looks at them and arranges them with 4 cards showing and 1 hidden. Based on this Magician B can then say what the hidden card is. Michael describes and performs a new version of this trick in which only 1 card is showing and Magician B has to say what all 4 of the hidden cards are.
 
 - [Martin's slides (PPTX)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pptx)
 - [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pdf)
@@ -300,20 +300,20 @@ Matthew presents several different ways to represent a sphere as a flat surface 
 
 - [Mathsteroids](http://www.mscroggs.co.uk/mathsteroids/)
 
-#### Stefania Delprete : MathsJam in Python
+#### Stefania Delprete : MathsJam In Python
 
 Stefania relates how the Berlin and Turin MathsJams solved some puzzles using Python.
 
 - [Stefania's slides (PDF)]({{site.url}}/assets/talks/2018/StefaniaDelprete-MathsJaminPython.pdf)
 
-#### Stuart Eves : Do the planets fit between the Earth and the Moon?
+#### Stuart Eves : Do The Planets Fit Between The Earth And The Moon?
 
 Is there room between the Earth and the Moon to fit all the planets in the solar system? Possible answers are "yes", "no", or "sometimes". Stuart reveals the answer.
 
 - [Stuart's slides (PPT)]({{site.url}}/assets/talks/2018/StuartEves-DothePlanetsFitbetweentheEarthandtheMoon.ppt)
 - [Stuart's slides (PDF)]({{site.url}}/assets/talks/2018/StuartEves-DothePlanetsFitbetweentheEarthandtheMoon.pdf)
 
-#### Francisco Albuquerque Picado : A Comic, a Painting, Triangles, and Squares
+#### Francisco Albuquerque Picado : A Comic, A Painting, Triangles, And Squares
 
 A comic leads to a painting, which allows us to discover a connection between triangular numbers and sums of squares.
 
@@ -326,7 +326,7 @@ Pat shows off a piece of mathematical furniture from her collection - an extenda
 - [Pat's slides (PPTX)]({{site.url}}/assets/talks/2018/PatAshforth-ExtendingTables.pptx)
 - [Pat's slides (PDF)]({{site.url}}/assets/talks/2018/PatAshforth-ExtendingTables.pdf)
 
-#### Tiago Hirth : From Pebbles do Nimbers and Stars
+#### Tiago Hirth : From Pebbles To Nimbers and Stars
 
 A quick run through 500 years of history related to the game of Nim, and an invitation to participate in Recreational Mathematics projects.
 
@@ -334,24 +334,24 @@ A quick run through 500 years of history related to the game of Nim, and an invi
 
 ### SESSION 2d : 11:45
 
-#### Colin Beveridge : A proof without words
+#### Colin Beveridge : A Proof Without Words
 
 Colin proves 1<sup>2</sup> + 2<sup>2</sup> + 3<sup>2</sup> + ... + n<sup>2</sup> = n(n+1)(2n+1)/6 through the medium of mime.
 
 - [Colin's slides (PPTX)]({{site.url}}/assets/talks/2018/ColinBeveridge-AProofWithoutWords.pptx)
 - [Colin's slides (PDF)]({{site.url}}/assets/talks/2018/ColinBeveridge-AProofWithoutWords.pdf)
 
-#### Robie Basak : Measuring sticks
+#### Robie Basak : Measuring Sticks
 
 Robie demonstrates how to make a slide rule.
 
-#### Andrew Macdonald : So, about Ghandi
+#### Andrew Macdonald : So, About Ghandi
 
 Addition, subtraction and negative numbers in binary computing can be difficult. Andrew relates the tale of why the programmers of the game Civilisation made Gandhi such a fan of nuclear weapons...
 
 - [Andrew's slides (PDF)]({{site.url}}/assets/talks/2018/AndrewMacdonald-SoAboutGhandi.pdf)
 
-#### Sam Hartburn : Battle of the slinkies: paper vs plastic
+#### Sam Hartburn : Battle Of The Slinkies: Paper Vs Plastic
 
 Can an origami slinky outperform a cheap plastic one? Sam experiments.
 
