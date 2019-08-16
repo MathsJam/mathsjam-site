@@ -13,14 +13,14 @@ There is also a [Cake page here]({{site.url}}/gathering/archive/2018/cakes) with
 
 #### Phil Harvey : Initialistic Determinism
 
-Phil has noticed a corellation between your surname initial being in the first part of the alphabet, and your chances of success in life, and shows some graphs indicating there might be something to the theory.
+Phil has noticed a correlation between your surname initial being in the first part of the alphabet, and your chances of success in life, and shows some graphs indicating there might be something to the theory.
 
 - [Phil's slides (PPT)]({{site.url}}/assets/talks/2018/PhilHarvey-InitialisticDeterminism.pptx)
 - [Phil's slides (PDF)]({{site.url}}/assets/talks/2018/PhilHarvey-InitialisticDeterminism.pdf)
 
 #### Alison Kiddle : Pastamathics
 
-Spaghetti on toast is everybody's favourite quick and easy tea, but have you ever stopped to analyse the maths on your plate? Alison has analysed the distribution of digits in the average tin of spaghetti numbers, and created a geogebra implementation of the process of making fusilli pasta.
+Spaghetti on toast is everybody's favourite quick and easy tea, but have you ever stopped to analyse the maths on your plate? Alison has analysed the distribution of digits in the average tin of spaghetti numbers, and created a Geogebra implementation of the process of making fusilli pasta.
 
 - [Alison's Geogebra](https://www.geogebra.org/m/fu8m43ds)
 
@@ -84,7 +84,7 @@ We all learn quite young that a minus times a minus is a plus, and the reason gi
 
 #### Eleanor Doman : A needling problem from embroidery
 
-Blackwork is a type of embroidery that traditionally that is supposed to look the same on the front and back of the material and is usually based off geometric patterns. But what kind of patterns can we use, and can we prove mathematically that they will look the same on both sides.
+Blackwork is a type of embroidery that traditionally is supposed to look the same on the front and back of the material and is usually based off geometric patterns. But what kind of patterns can we use, and can we prove mathematically that they will look the same on both sides.
 
 - [Eleanor's slides (PPTX)]({{site.url}}/assets/talks/2018/EleanorDoman-ANeedlingProblemfromEmbroidery.pptx)
 - [Eleanor's slides (PDF)]({{site.url}}/assets/talks/2018/EleanorDoman-ANeedlingProblemfromEmbroidery.pdf)
@@ -97,14 +97,14 @@ Can we use mathematics to determine where the photographer stood to take a photo
 
 #### Mike Frost : Piet Hein - Pirate
 
-Mike discovered a hotel in the Netherlands had a conference suite named for Piet Hein. Why did a dutch hotel have a room named for a danish mathematician much revered by recreational mathematicians? It turns out, Piet Hein the mathematician and Piet Hein the pirate were two different people.
+Mike discovered a hotel in the Netherlands had a conference suite named for Piet Hein. Why did a Dutch hotel have a room named for a Danish mathematician much revered by recreational mathematicians? It turns out, Piet Hein the mathematician and Piet Hein the pirate were two different people.
 
 - [Mike's slides (PPTX)]({{site.url}}/assets/talks/2018/MikeFrost-PietHeinPirate.pptx)
 - [Mike's slides (PDF)]({{site.url}}/assets/talks/2018/MikeFrost-PietHeinPirate.pdf)
 
 #### Peter Rowlett : Counting caterpillars
 
-A robot caterpillar Peter bought for his three-year-old purports to have "endless combinations". Peter shows that it has 5023 combinations (not a completely straightforward combinatorics problem) , and observes that 5023 is finite.
+A robot caterpillar Peter bought for his three-year-old purports to have "endless combinations". Peter shows that it has 5023 combinations (not a completely straightforward combinatorics problem), and observes that 5023 is finite.
 
 - [Peter's slides (PDF)]({{site.url}}/assets/talks/2018/PeterRowlett-CountingCaterpillars.pdf)
 
@@ -133,7 +133,7 @@ Pierre de Fermat was not the only person to make an off-hand comment that gave s
 
 #### Derek Couzens : Using maths to solve a socially embarrassing situation
 
-Derek demonstrates how to turn your trousers inside-out without taking your feet of the floor. (Needs special trousers.)
+Derek demonstrates how to turn your trousers inside-out without taking your feet off the floor. (Needs special trousers.)
 
 #### Alex Burlton : 180 ways not to model a darts player
 
@@ -144,13 +144,13 @@ What happens when you are mediocre at darts and have too much time on your hands
 
 #### Christian Lawson-Perfect : Zeckendorf cup arithmetic
 
-Having a baby isn't a complete distraction from maths - Christian shares his adventures with a set of nested stackinig cups, and works out how many ways you can stack them subject to various constraints.
+Having a baby isn't a complete distraction from maths - Christian shares his adventures with a set of nested stacking cups, and works out how many ways you can stack them subject to various constraints.
 
 - [Christian's YouTube video](https://www.youtube.com/watch?v=N4v0eqfAw_k)
 
 #### Steve Plummer : 42
 
-Not quite life, the universe and everythin - Steve shares some surprise appearances by a particular integer, including in Alice in Wonderland and in Philip Astley's trick riding.
+Not quite life, the universe and everything - Steve shares some surprise appearances by a particular integer, including in Alice in Wonderland and in Philip Astley's trick riding.
 
 - [Steve's slides (PPTX)]({{site.url}}/assets/talks/2018/StevePlummer-42.pptx)
 - [Steve's slides (PDF)]({{site.url}}/assets/talks/2018/StevePlummer-42.pdf)
@@ -199,7 +199,7 @@ Alaric highlights a method for making word based puzzles to an arbitrary level o
 
 #### Colin Wright : e's in a twist
 
-Colin demonstrates several ways to derive Euler's identity (e<sup>iπ</sup>=-1) - inluding square roots, simple algebra, and a step in an odd direction.
+Colin demonstrates several ways to derive Euler's identity (e<sup>iπ</sup>=-1) - including square roots, simple algebra, and a step in an odd direction.
 
 ## SUNDAY
 
@@ -328,7 +328,7 @@ Pat shows off a piece of mathematical furniture from her collection - an extenda
 
 #### Tiago Hirth : From Pebbles do Nimbers and Stars
 
-A quick run through 500 years of history related to the game of Nim, and an invitation to participate in Recreational Mathsmatics projects.
+A quick run through 500 years of history related to the game of Nim, and an invitation to participate in Recreational Mathematics projects.
 
 - [Tiago's slides (PDF)]({{site.url}}/assets/talks/2018/TiagoHirth-FromPebblestoNimbersandStars.pdf)
 
