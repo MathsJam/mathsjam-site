@@ -290,8 +290,8 @@ The truth of the famous 4-colour theorem immediately implies that the 4½-colour
 
 The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and giving them to Magician A who looks at them and arranges them with 4 cards showing and 1 hidden. Based on this Magician B can then say what the hidden card is. Michael describes and performs a new version of this trick in which only 1 card is showing and Magician B has to say what all 4 of the hidden cards are.
 
-- [Martin's slides (PPTX)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pptx)
-- [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MartinChlond-TheTravellingSalesmanProblem.pdf)
+- [Martin's slides (PPTX)]({{site.url}}/assets/talks/2018/MichaelGibson-ANewTrickforOldDogs.pptx)
+- [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MichaelGibson-ANewTrickforOldDogs.pdf)
 
 ### SESSION 2c : 10:50
 
