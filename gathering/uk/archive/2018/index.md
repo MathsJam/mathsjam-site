@@ -222,8 +222,8 @@ A couple of quirky uses of TSP algorithms - including ways to make art!
 
 Using paper, scissors and glue, platonic moboids knot together two familiar mathematical concepts, and produce a third.
 
-- [Jonathan's slides (PPTX)]({{site.url}}/assets/talks/2018/JonathanWelton-PlatonicMöboids.pptx)
-- [Jonathan's slides (PDF)]({{site.url}}/assets/talks/2018/JonathanWelton-PlatonicMöboids.pdf)
+- [Jonathan's slides (PPTX)]({{site.url}}/assets/talks/2018/JonathanWelton-PlatonicMoboids.pptx)
+- [Jonathan's slides (PDF)]({{site.url}}/assets/talks/2018/JonathanWelton-PlatonicMoboids.pdf)
 
 #### Callum Mulligan : Ray Casting And Rabbits
 
