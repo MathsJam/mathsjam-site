@@ -256,6 +256,7 @@ about the third kind: singular distributions.
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence.pdf)
 - [Adam's video 1 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-cantor.mp4)
 - [Adam's video 2 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-boldplay.mp4)
+  (The videos need to be downloaded to be played.)
 
 #### Will Kirkby : Digital Art And Distance Functions
 
