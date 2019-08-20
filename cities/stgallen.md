@@ -17,6 +17,7 @@ location:
 hiatus: False
 hiatus_months: 
     - 2019-07
+    - 2019-08
 start_time: 7:30pm in the evening
 
 ---
