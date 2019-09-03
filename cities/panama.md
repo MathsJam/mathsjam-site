@@ -17,7 +17,7 @@ location:
 hiatus: False
 hiatus_months:
     - 2019-07
-start_time: 5:00 pm
+start_time: 5:00pm - 8:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
