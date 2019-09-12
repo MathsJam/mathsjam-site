@@ -14,7 +14,7 @@ location:
     url: https://goo.gl/maps/XLfFk8FLchnLfgtg9
     lon: 9.375068
     lat: 47.421409
-hiatus: False
+hiatus: True
 hiatus_months: 
     - 2019-07
     - 2019-08
