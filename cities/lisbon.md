@@ -4,7 +4,7 @@ city_name: Lisbon
 jam_name: Lisbon MathsJam
 email: lisbon@mathsjam.com
 organiser:
-    name: Tiago
+    name: Beatriz
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world
