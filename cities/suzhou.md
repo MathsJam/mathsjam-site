@@ -10,7 +10,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "The Locke Pub"
-    description: "which is in the iStation Culture and Arts Center, Metro exit 2"
+    description: " which is in the iStation Culture and Arts Center, Metro exit 2"
     url: https://www.tripadvisor.com/Restaurant_Review-g297442-d4838923-Reviews-Locke_pub-Suzhou_Jiangsu.html
     lon: 31.3231983
     lat: 120.7042503
