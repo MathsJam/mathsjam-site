@@ -9,15 +9,15 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "La Rana Dorada de Clayton"
-    description: ", Calle al Hospital"
+    pub_name: "La Rana Dorada de Condado Del Rey"
+    description: ", Plaza Caminos de Centenial Local"
     url: http://laranadorada.com/
-    lon: -79.5742247
-    lat: 9.0021592
+    lon: -79.5312153
+    lat: 9.0312775
 hiatus: False
 hiatus_months:
     - 2019-07
-start_time: 5:00pm - 8:00pm
+start_time: 6:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
