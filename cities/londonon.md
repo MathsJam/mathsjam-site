@@ -9,8 +9,8 @@ organiser:
     email: london@math-jam.com
 location:
     group: north-america
-    pub_name: "Fionn MacCools"
-    description: " (London North branch) on Richmond Street"
+    pub_name: "Fionn MacCools (London North branch)"
+    description: " on Richmond Street"
     url: https://www.fionnmaccools.com/
     lon: -81.2828555
     lat: 43.0253624
