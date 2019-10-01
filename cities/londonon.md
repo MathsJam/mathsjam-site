@@ -10,9 +10,9 @@ organiser:
 location:
     group: north-america
     pub_name: "Fionn MacCools"
-    description: " (London South branch) on Wellington Road"
+    description: " (London North branch) on Richmond Street"
     url: http://https://www.fionnmaccools.com/
-    lon: -81.2258929
-    lat: 42.9416668
+    lon: -81.2828555
+    lat: 43.0253624
 hiatus: False
 ---
