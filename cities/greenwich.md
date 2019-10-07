@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "Lower Deck Bar"
-    description: ", in the Dreadnought Building of the Old Royal Naval College.  Enter by the West Gate on King William Walk, and it’s the big building on the right.  Come down to the Lower Deck to find us!"
+    description: ", which is downstairs in the Dreadnought Building of the Old Royal Naval College.  Enter by the West Gate on King William Walk, and it’s the big building on the right"
     url: https://www.greenwichsu.co.uk/lowerdeck/home/
     lon: -0.007982
     lat: 51.4821376
