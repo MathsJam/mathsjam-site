@@ -9,11 +9,11 @@ organiser:
     email: greenwich@mathsjam.com
 location:
     group: england
-    pub_name: "The Old Brewery"
-    description: " near the Cutty Sark"
-    url: https://www.oldbrewerygreenwich.com/
-    lon: -0.0085615
-    lat: 51.4827987
+    pub_name: "Lower Deck Bar"
+    description: ", in the Dreadnought Building of the Old Royal Naval College.  Enter by the West Gate on King William Walk, and it’s the big building on the right.  Come down to the Lower Deck to find us!"
+    url: https://www.greenwichsu.co.uk/lowerdeck/home/
+    lon: -0.007982
+    lat: 51.4821376
 hiatus_months:
     - 2019-04
     - 2019-06
