@@ -4,7 +4,7 @@ city_name: Lancaster
 jam_name: Lancaster MathsJam
 email: lancaster@mathsjam.com
 organiser:
-    name: Luke & Amy
+    name: Luke &amp; Amy
     email: lancaster@mathsjam.com
 location:
     group: england
