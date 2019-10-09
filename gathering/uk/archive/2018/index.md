@@ -7,6 +7,8 @@ This is a list of talks given at the 2018 MathsJam Weekend, along with a brief d
 
 There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2018/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
 
+The gathering took place on 17th-18th November 2018.
+
 ## SATURDAY
 
 ### SESSION 1a : 14:00
