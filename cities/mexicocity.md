@@ -3,6 +3,7 @@ layout: city
 city_name: Mexico City                                                                
 jam_name: Mexico City MathsJam
 email: mexicocity@mathsjam.com
+twitter: MathsJamMexico
 organiser:
     name: H&eacute;ctor
     email: mexicocity@mathsjam.com
