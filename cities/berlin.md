@@ -9,10 +9,10 @@ organiser:
     email: berlin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "St. Oberholz (second floor)"
-    description: ", on Rosenthaler Str"
-    url: http://sanktoberholz.de/
-    lon: 13.401931
-    lat: 52.52947990000001
+    pub_name: "Atopia"
+    description: ", Prenzlauer Allee 187"
+    url: https://www.facebook.com/AtopiaKaffeehaus
+    lon: 13.4252032
+    lat: 52.5416001
 hiatus: False
 ---
