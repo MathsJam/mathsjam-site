@@ -3,6 +3,7 @@ layout: city
 city_name: Lancaster                                                                
 jam_name: Lancaster MathsJam
 email: lancaster@mathsjam.com
+twitter: lancsmathsjam
 organiser:
     name: Luke &amp; Amy
     email: lancaster@mathsjam.com
