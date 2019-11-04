@@ -53,7 +53,7 @@ A generalisation of both semimagic squares and perfect squared squares brings ne
 - [Geoff's slides (PPT)]({{site.url}}/assets/talks/2019/GeoffMorley-NeosemimagicTilings.pptx)
 
 
-"#### Laurence O'Toole : Predicting Groupthink - A Magic Trick
+#### Laurence O'Toole : Predicting Groupthink - A Magic Trick
 
 Make a prediction, and deal out several number cards to the audience. Then play a simple 2-rule game, where people take turns in picking one of the remaining numbers. Afterwards, all of the choices match the original prediction in a nice way.
 
@@ -61,7 +61,7 @@ Make a prediction, and deal out several number cards to the audience. Then play 
 
 - [Laurence's slides (PPT)]({{site.url}}/assets/talks/2019/LaurenceO'Toole-PredictingGroupthink-AMagicTrick.pptx)
 
-"
+
 #### Luna Kirkby : Cursed Regular Expressions
 
 We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
