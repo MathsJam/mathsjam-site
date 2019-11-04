@@ -1,4 +1,3 @@
-
 ---
 layout: gathering
 title: MathsJam Gathering 2019
