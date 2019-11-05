@@ -53,7 +53,7 @@ A generalisation of both semimagic squares and perfect squared squares brings ne
 - [Geoff's slides (PPT)]({{site.url}}/assets/talks/2019/GeoffMorley-NeosemimagicTilings.pptx)
 
 
-"#### Laurence O'Toole : Predicting Groupthink - A Magic Trick
+#### Laurence O'Toole : Predicting Groupthink - A Magic Trick
 
 Make a prediction, and deal out several number cards to the audience. Then play a simple 2-rule game, where people take turns in picking one of the remaining numbers. Afterwards, all of the choices match the original prediction in a nice way.
 
@@ -61,7 +61,7 @@ Make a prediction, and deal out several number cards to the audience. Then play 
 
 - [Laurence's slides (PPT)]({{site.url}}/assets/talks/2019/LaurenceO'Toole-PredictingGroupthink-AMagicTrick.pptx)
 
-"
+
 #### Luna Kirkby : Cursed Regular Expressions
 
 We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
@@ -251,7 +251,7 @@ Discussing approaches to calculating the permutations of a rubik's cube and othe
 - [Sydney's slides (PPT)]({{site.url}}/assets/talks/2019/SydneyWeaver-PermutationsoftheCube.pptx)
 
 
-"#### Hugh Hunt : Four possibilities:
+#### Hugh Hunt : Four possibilities:
 
 1.  dimensional analysis with two examples, show that
  a/ The amount of explosive to blow up a building (dam?!) goes as the 4th power of its height
@@ -274,7 +274,7 @@ With live demo.
 
 - [Hugh's slides (PPT)]({{site.url}}/assets/talks/2019/HughHunt-Fourpossibilities:.pptx)
 
-"
+
 #### Alison Eves : Florence Nightingale: the compassionate statistician
 
 2020 is the bicentenary of Florence's birth: a great opportunity to celebrate her contribution to statistics, and their use in saving lives!
@@ -282,7 +282,7 @@ With live demo.
 - [Alison's slides (PPT)]({{site.url}}/assets/talks/2019/AlisonEves-FlorenceNightingale:thecompassionatestatistician.pptx)
 
 
-"#### Andrew Taylor : The ""Belt Trick"" Spinor
+#### Andrew Taylor : The ""Belt Trick"" Spinor
 
 I saw a GIF of this lovely ""belt trick"" spinor on Twitter and wanted to understand it, so I built my own version https://www.shadertoy.com/view/3t2Xzy
 
@@ -290,7 +290,7 @@ What's actually happening is that the central cube is always drawn upside-down, 
 
 - [Andrew's slides (PPT)]({{site.url}}/assets/talks/2019/AndrewTaylor-The""BeltTrick""Spinor.pptx)
 
-"
+
 #### Christian Lawson-Perfect : Baked Sudoku
 
 You can impose on Sudoku puzzles a physical system which works surprisingly well. It has phase transitions, and when you reduce the heat it settles into a solved state!
@@ -305,7 +305,7 @@ How to prepare a Si Stebbins stack from a new deck order during a performance.
 - [Miguel's slides (PPT)]({{site.url}}/assets/talks/2019/MiguelGonçalves-FromanewdecktoSiStebbins.pptx)
 
 
-"#### Stefania Delprete : Why the music staff is not really mathematically correct?
+#### Stefania Delprete : Why the music staff is not really mathematically correct?
 
 Last year I started an in-depth course on Jazz Harmony. A lot of new concept for my ears and eyes: major and minor chords, harmonized scales, and so on. 
 Even if my teacher, and impressive pianist, told me I was making my life more difficult, I needed to create my own version of the musical staff, in order to use simple Maths instead keep memorizing notes positions and combination. 
@@ -313,7 +313,7 @@ I call it 'super-penta' (the staff is called  'pentagramma' in Italian) and you 
 
 - [Stefania's slides (PPT)]({{site.url}}/assets/talks/2019/StefaniaDelprete-Whythemusicstaffisnotreallymathematicallycorrect?.pptx)
 
-"
+
 #### Tarim  : Horseshoe Orbits
 
 Why do the planets and moons in the solar system all spin in the same direction (mostly)? And what does this have to do with the stranger motions of two of the moons of Saturn?
@@ -370,7 +370,7 @@ A little graph theory. This talk will probably give you a hangover instead of he
 - [Gordon's slides (PPT)]({{site.url}}/assets/talks/2019/GordonHayes-HowtoAvoidaHangoverUsingMaths.pptx)
 
 
-"#### Louise Mabbs : Circling the Square & my Mathematical Magic progressions
+#### Louise Mabbs : Circling the Square & my Mathematical Magic progressions
 
 My first Mathematical Magic quilts were made on standard square grids. 
 
@@ -387,8 +387,8 @@ In the future – What about five circles? Or six, or seven…..
 
 - [Louise's slides (PPT)]({{site.url}}/assets/talks/2019/LouiseMabbs-CirclingtheSquare&myMathematicalMagicprogressions.pptx)
 
-"
-"#### Scott Elliott : Modulating secondary waves into screw threads
+
+#### Scott Elliott : Modulating secondary waves into screw threads
 
 Step by step, Scott overlays 𝑠𝑖𝑛(−2𝛩) atop the peaks of a conventional screw-thread to make an unconventional nut go the wrong way.
 [NB: In case the UNICODE text 𝑠𝑖𝑛(−2𝛩) doesn’t display correctly, replace it with 'sin( -2Θ )']
