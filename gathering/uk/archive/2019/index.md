@@ -9,7 +9,9 @@ There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2019/cakes) w
 
 The gathering took place on 30th November - 1st December 2019.
 
-#### Session 1A
+## SATURDAY
+
+### SESSION 1a
 
 #### Adam Townsend : Mathematical socks: A review
 
