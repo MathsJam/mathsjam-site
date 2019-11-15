@@ -3,16 +3,17 @@ layout: city
 city_name: Pisa
 jam_name: MathsJam Pisa
 email: pisa@mathsjam.com
+twitter: PisaMathsJam
 organiser:
     name: Agnese and Sebastiano
     email: pisa@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Argini e Margini"
-    description: " which is at Lungarno Galileo Galilei, n. 8"
-    url: http://www.arginiemargini.com/
-    lat: 43.7137992
-    lon: 10.4061086
+    pub_name: "Orzo Bruno"
+    description: " which is at Via Case Dipinte, n. 6/8"
+    url: http://www.orzobruno.it/
+    lat: 43.7177141
+    lon: 10.4010575
 hiatus: False
 hiatus_months:
     - 2016-08
