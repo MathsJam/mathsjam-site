@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-city_name: Vancouver                                                               
+city_name: Vancouver BC                                                           
 jam_name: Vancouver MathJam
 email: vancouver@math-jam.com
 organiser:
