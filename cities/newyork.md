@@ -10,7 +10,7 @@ organiser:
 location:
     group: north-america
     pub_name: "West 3rd Common"
-    description: "Greenwich Village"
+    description: ", Greenwich Village"
     url: ?
     lon: -73.9964182
     lat: 40.7279229
