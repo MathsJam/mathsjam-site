@@ -5,14 +5,14 @@ local_jam_type: MathJam
 jam_name: New York MathJam
 email: newyork@math-jam.com
 organiser:
-    name: Evan
+    name: Kaus
     email: newyork@math-jam.com
 location:
     group: north-america
-    pub_name: "?"
-    description: "?"
+    pub_name: "West 3rd Common"
+    description: ", Greenwich Village"
     url: ?
-    lon: 0
-    lat: 0
-hiatus: True
+    lon: -73.9964182
+    lat: 40.7279229
+hiatus: False
 ---
