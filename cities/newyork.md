@@ -11,7 +11,7 @@ location:
     group: north-america
     pub_name: "West 3rd Common"
     description: ", Greenwich Village"
-    url: ?
+    url: http://west3rdcommon.com/
     lon: -73.9964182
     lat: 40.7279229
 hiatus: False
