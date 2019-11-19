@@ -17,4 +17,5 @@ location:
 hiatus: False
 changed_dates:
     - 2018-12-18
+jam_date_rule: 1 day before the second-last Tuesday
 ---
