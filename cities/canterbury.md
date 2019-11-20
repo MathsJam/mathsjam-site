@@ -17,7 +17,7 @@ location:
     lat: 51.278785
 hiatus: False
 hiatus_months:
-    - 2018-09
+    - 2019-12
 changed_dates: 
     - 2018-09-25
 start_time: 7.30pm in the evening
