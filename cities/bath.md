@@ -18,4 +18,5 @@ hiatus: False
 start_time: 7:30pm onwards
 changed_dates:
     - 2018-12-18
+    - 2019-12-10
 ---
