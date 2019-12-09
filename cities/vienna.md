@@ -13,5 +13,5 @@ location:
     url: https://cafe-eiles.at/
     lat: 16.3548517
     lon: 48.2092944
-hiatus: False
+hiatus: True
 ---
