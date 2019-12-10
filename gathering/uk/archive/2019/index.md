@@ -52,10 +52,12 @@ Make a prediction, and deal out several number cards to the audience. Then play 
 
  - [Laurence's slides (PPT)]({{site.url}}/assets/talks/2019/LaurenceO'Toole-PredictingGroupthink-AMagicTrick.pptx)
 
-#### Luna Kirkby: Cursed Regular Expressions
-We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
+### SESSION 1b
 
- - [Luna's slides (PPT)]({{site.url}}/assets/talks/2019/LunaKirkby-CursedRegularExpressions.pptx)
+#### Peter Rowlett: #tmwyk
+#tmwyk is a Twitter hashtag used to share mathematical conversations with children. I will share some examples of mathematical chat I’ve had with my four-year-old and touch briefly on play in mathematical education.
+
+ - [Peter's slides (PPT)]({{site.url}}/assets/talks/2019/PeterRowlett-#tmwyk.pptx)
 
 #### Tony Mann: A curious magic square trick
 I recently came across this interesting variation of the I will construct a magic square for a given target sum trick, due to Andi Gladwin and published as [https://www.youtube.com/watch?v=nHoZ1l3YVcg](Magic Squared).
@@ -91,6 +93,8 @@ Starting with a unit square of paper, how can we fold it to divide a side into a
 One of my favourite mathematical books
 
  - [James's slides (PPT)]({{site.url}}/assets/talks/2019/JamesGrime-S.O.X..pptx)
+
+### SESSION 1c
 
 #### Tom Button: Is the mathematical mind flat?
 Do we solve mathematical problems subconsciously or is this just a myth?
@@ -132,10 +136,12 @@ A brief demo of some Genaille-Lucas rulers - does bigger always mean better?
 
  - [Yuen's slides (PPT)]({{site.url}}/assets/talks/2019/YuenNg-MovingonfromNapier'sbones....pptx)
 
-#### Zoe Griffiths : Two thousand and nineteen
-Zoe performs a mathematical trick that she designed after reminiscing about key mathematical events of the year 2019. Watch this video by Zoe to find out how she did her magic trick: https://zoelgriffiths.co.uk/index.php/2019/11/29/binary-memory-tricks/
+#### Tom Briggs: Up Above the Streets and Houses
+Tom knew how rainbows worked, but then realised that he didn't actually *know* how rainbows *worked*.
 
- - [Zoe's slides (PPT)]({{site.url}}/assets/talks/2019/ZoeGriffiths-Twothousandandnineteen.pptx)
+ - [Tom's slides (PPT)]({{site.url}}/assets/talks/2019/TomBriggs-UpAbovetheStreetsandHouses.pptx)
+
+### SESSION 1d
 
 #### Rob Eastaway: Jardin's Principle
 Jardin's Principle states that the road to full understanding passes through three stages: simplistic, complicated and finally simple.  It's hard to get to the final stage without going through the other two first - and most of us get no further than stage 2.
@@ -157,10 +163,12 @@ I guess most Mathsjammers know the formula for sums of consecutive integers, and
 
  - [Martin's slides (PPT)]({{site.url}}/assets/talks/2019/MartinWhitworth-Sumsofpowers.pptx)
 
-#### Lucy Rycroft-Smith: Ten New Maths Jokes
-Most maths jokes are terrible.  It's time for some brand new ones...
+#### Elaine Smith: Chinese Take-Away!
+Discussion on several Subtraction techniques, including 'borrowing and paying back' (milk-bottle method); decomposition; invisible number line. 
 
- - [Lucy's slides (PPT)]({{site.url}}/assets/talks/2019/LucyRycroft-Smith-TenNewMathsJokes.pptx)
+ - [Elaine's slides (PPT)]({{site.url}}/assets/talks/2019/ElaineSmith-ChineseTake-Away!.pptx)
+
+### SESSION 2a
 
 #### Colin Wright: 70 vs 100
 We all know that if you're travelling faster it takes longer to stop, and we think we know the rules.  But do we?
@@ -182,10 +190,12 @@ It's not just pentagons and fibonacci
 
  - [Matt's slides (PPT)]({{site.url}}/assets/talks/2019/MattPeperell-Anunexpecteduseforthegoldenratio.pptx)
 
-#### Sydney Weaver: Permutations of the Cube
-Discussing approaches to calculating the permutations of a rubik's cube and other twisty puzzles. 
+#### Isabel Coelho: The Mirror Reversal Problem
+I look  in the mirror. My reflection looks back at me. When I wave  my right hand, my image waves her left. When I wave  my left hand, my image waves her right. Why do mirrors reversal left and right? And, if right becomes left and left becomes right, why does not top become bottom?
 
- - [Sydney's slides (PPT)]({{site.url}}/assets/talks/2019/SydneyWeaver-PermutationsoftheCube.pptx)
+ - [Isabel's slides (PPT)]({{site.url}}/assets/talks/2019/IsabelCoelho-TheMirrorReversalProblem.pptx)
+
+### SESSION 2b
 
 #### Hugh Hunt: Four possibilities:
 With a beautiful - and musical - demo, and how this helps if you have a noisy washing machine
@@ -221,45 +231,44 @@ I call it 'super-penta' (the staff is called  'pentagramma' in Italian) and you 
 
  - [Stefania's slides (PPT)]({{site.url}}/assets/talks/2019/StefaniaDelprete-Whythemusicstaffisnotreallymathematicallycorrect?.pptx)
 
-#### Tarim : Horseshoe Orbits
-Why do the planets and moons in the solar system all spin in the same direction (mostly)? And what does this have to do with the stranger motions of two of the moons of Saturn?
+### SESSION 2c
 
- - [Tarim's slides (PPT)]({{site.url}}/assets/talks/2019/Tarim-HorseshoeOrbits.pptx)
+#### Scott Elliott: Modulating secondary waves into screw threads
+Deux Nuts is a tricky bolt with two captive nuts that mysteriously twist opposite directions on the same screw thread.  How?  Scott graphically illustrates the maths of its construction. Step by step, Scott overlays sin(-2𝛩) atop the peaks of a conventional screw-thread to make an unconventional nut go the wrong way.
 
-#### Isabel Coelho: The Mirror Reversal Problem
-I look  in the mirror. My reflection looks back at me. When I wave  my right hand, my image waves her left. When I wave  my left hand, my image waves her right. Why do mirrors reversal left and right? And, if right becomes left and left becomes right, why does not top become bottom?
+ - [Scott's slides (PPT)]({{site.url}}/assets/talks/2019/ScottElliott-Modulatingsecondarywavesintoscrewthreads.pptx)
 
- - [Isabel's slides (PPT)]({{site.url}}/assets/talks/2019/IsabelCoelho-TheMirrorReversalProblem.pptx)
+#### Sydney Weaver: Permutations of the Cube
+Discussing approaches to calculating the permutations of a rubik's cube and other twisty puzzles. 
+
+ - [Sydney's slides (PPT)]({{site.url}}/assets/talks/2019/SydneyWeaver-PermutationsoftheCube.pptx)
 
 #### Miles Gould: Quantum computing in perspective
 In quantum computers, the state of a qubit (quantum bit) can be something in-between 0 and 1 - but in what sense in-between? They're not elements of the interval [0, 1], but it turns out that there is a natural geometry for the state space of qubits: *complex projective space*, closely related to the mathematics of perspective drawing.
 
  - [Miles's slides (PPT)]({{site.url}}/assets/talks/2019/MilesGould-Quantumcomputinginperspective.pptx)
 
-#### Tom Briggs: Up Above the Streets and Houses
-Tom knew how rainbows worked, but then realised that he didn't actually *know* how rainbows *worked*.
+#### Zoe Griffiths : Two thousand and nineteen
+Zoe performs a mathematical trick that she designed after reminiscing about key mathematical events of the year 2019. Watch this video by Zoe to find out how she did her magic trick: https://zoelgriffiths.co.uk/index.php/2019/11/29/binary-memory-tricks/
 
- - [Tom's slides (PPT)]({{site.url}}/assets/talks/2019/TomBriggs-UpAbovetheStreetsandHouses.pptx)
+ - [Zoe's slides (PPT)]({{site.url}}/assets/talks/2019/ZoeGriffiths-Twothousandandnineteen.pptx)
 
-#### Peter Rowlett: #tmwyk
-#tmwyk is a Twitter hashtag used to share mathematical conversations with children. I will share some examples of mathematical chat I’ve had with my four-year-old and touch briefly on play in mathematical education.
+#### Luna Kirkby: Cursed Regular Expressions
+We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
 
- - [Peter's slides (PPT)]({{site.url}}/assets/talks/2019/PeterRowlett-#tmwyk.pptx)
+ - [Luna's slides (PPT)]({{site.url}}/assets/talks/2019/LunaKirkby-CursedRegularExpressions.pptx)
 
-#### Elaine Smith: Chinese Take-Away!
-Discussion on several Subtraction techniques, including 'borrowing and paying back' (milk-bottle method); decomposition; invisible number line. 
+#### Lucy Rycroft-Smith: Ten New Maths Jokes
+Most maths jokes are terrible.  It's time for some brand new ones...
 
- - [Elaine's slides (PPT)]({{site.url}}/assets/talks/2019/ElaineSmith-ChineseTake-Away!.pptx)
+ - [Lucy's slides (PPT)]({{site.url}}/assets/talks/2019/LucyRycroft-Smith-TenNewMathsJokes.pptx)
+
+### SESSION 2d
 
 #### Alison Kiddle: Adventures with Dodecahedra
 Dodecahedra are pretty cool! In this talk, I will share some of my favourite dodecahedral things you can make and do.
 
  - [Alison's slides (PPT)]({{site.url}}/assets/talks/2019/AlisonKiddle-AdventureswithDodecahedra.pptx)
-
-#### Gordon Hayes: How to Avoid a Hangover Using Maths
-A little graph theory. This talk will probably give you a hangover instead of helping you avoid one. On the other hand, everyone loves a bit of graph theory!
-
- - [Gordon's slides (PPT)]({{site.url}}/assets/talks/2019/GordonHayes-HowtoAvoidaHangoverUsingMaths.pptx)
 
 #### Louise Mabbs: Circling the Square & my Mathematical Magic progressions
 My first Mathematical Magic quilts were made on standard square grids. 
@@ -277,7 +286,12 @@ In the future – What about five circles? Or six, or seven…..
 
  - [Louise's slides (PPT)]({{site.url}}/assets/talks/2019/LouiseMabbs-CirclingtheSquare&myMathematicalMagicprogressions.pptx)
 
-#### Scott Elliott: Modulating secondary waves into screw threads
-Deux Nuts is a tricky bolt with two captive nuts that mysteriously twist opposite directions on the same screw thread.  How?  Scott graphically illustrates the maths of its construction. Step by step, Scott overlays sin(-2𝛩) atop the peaks of a conventional screw-thread to make an unconventional nut go the wrong way.
+#### Gordon Hayes: How to Avoid a Hangover Using Maths
+A little graph theory. This talk will probably give you a hangover instead of helping you avoid one. On the other hand, everyone loves a bit of graph theory!
 
- - [Scott's slides (PPT)]({{site.url}}/assets/talks/2019/ScottElliott-Modulatingsecondarywavesintoscrewthreads.pptx)
+ - [Gordon's slides (PPT)]({{site.url}}/assets/talks/2019/GordonHayes-HowtoAvoidaHangoverUsingMaths.pptx)
+
+#### Tarim : Horseshoe Orbits
+Why do the planets and moons in the solar system all spin in the same direction (mostly)? And what does this have to do with the stranger motions of two of the moons of Saturn?
+
+ - [Tarim's slides (PPT)]({{site.url}}/assets/talks/2019/Tarim-HorseshoeOrbits.pptx)
