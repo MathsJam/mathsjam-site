@@ -18,4 +18,5 @@ hiatus: False
 hiatus_months:
     - 2018-01
     - 2018-07
+    - 2019-12
 ---
