@@ -8,11 +8,11 @@ organiser:
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Má Língua"
-    description: " just off the Rua da Graça"
-    url: https://www.zomato.com/grande-lisboa/m%C3%A1-l%C3%ADngua-gra%C3%A7a-lisboa
-    lat: 38.7190684
-    lon: -9.131154
+    pub_name: "Cervetoria Craft Beer Pub"
+    description: " on Av. Rovisco Pais"
+    url: https://www.facebook.com/Cervetoria/
+    lat: -9.1395223
+    lon: 38.7351418
 hiatus: False
 hiatus_months:
     - 2018-10
