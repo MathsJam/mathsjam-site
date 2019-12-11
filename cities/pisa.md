@@ -1,5 +1,6 @@
 ---
-layout: city                                           
+layout: city
+lang: it_IT
 city_name: Pisa
 jam_name: MathsJam Pisa
 email: pisa@mathsjam.com
@@ -24,4 +25,10 @@ changed_dates:
     - 2019-05-23
     - 2019-06-26
 start_time: 7.30pm
+poster_text: |
+    L'occasione, una volta al mese, per gli entusiasti 
+    della matematica di incontrarsi in un locale per
+    condividere rompicapo,  giochi, problemi, o qualsiasi
+    cosa ritengano simpatico o interessante. Si tiene il
+    penultimo martedì di ogni mese.
 ---
