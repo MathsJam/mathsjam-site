@@ -44,18 +44,7 @@ Some countries are unmixed - mixed numbers don't exist, or are perceived not to 
 
  - [Adam's slides (PPT)]({{site.url}}/assets/talks/2019/AdamAtkinson-RomanMathematics.pptx)
  - [Adam's slides (PDF)]({{site.url}}/assets/talks/2019/AdamAtkinson-RomanMathematics.pdf)
- 
- The 2018 article Adam referred to:
- http://maddmaths.simai.eu/divulgazione/langolo-arguto/matematica-il-linguaggio-universale/
-
- Some of the reactions:
-
- https://www.facebook.com/alberto.saracco.73/posts/10156001424164538
-
- and some other reactions:
-
- https://www.facebook.com/maddmathspage/photos/gm.1946060578770890/2283512685267878/?type=3&theater
-
+ - [The 2018 article Adam referred to](http://maddmaths.simai.eu/divulgazione/langolo-arguto/matematica-il-linguaggio-universale/); [some of the reactions](https://www.facebook.com/alberto.saracco.73/posts/10156001424164538), and [some other reactions](https://www.facebook.com/maddmathspage/photos/gm.1946060578770890/2283512685267878/?type=3&theater)
 
 #### Geoff Morley: Neosemimagic Tilings
 A generalisation of both semimagic squares and perfect squared squares brings new challenges.
