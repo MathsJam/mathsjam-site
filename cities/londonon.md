@@ -14,5 +14,6 @@ location:
     url: https://www.fionnmaccools.com/
     lon: -81.2828555
     lat: 43.0253624
+start_time: 7.45pm
 hiatus: False
 ---
