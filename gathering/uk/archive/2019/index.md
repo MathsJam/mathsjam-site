@@ -60,7 +60,7 @@ Make a prediction, and deal out several number cards to the audience. Then play 
 #### Peter Rowlett: &#35;tmwyk
 &#35;tmwyk is a Twitter hashtag used to share mathematical conversations with children. I will share some examples of mathematical chat I’ve had with my four-year-old and touch briefly on play in mathematical education.
 
- - [Peter's slides (PDF)]({{site.url}}/assets/talks/2019/PeterRowlett-#tmwyk.pdf) - mostly just photos
+ - [Peter's slides (PDF)]({{site.url}}/assets/talks/2019/PeterRowlett-tmwyk.pdf) - mostly just photos
  - [The &#35;tmwyk hashtag](https://twitter.com/search?q=%23tmwyk)
  - [A blog post Peter wrote about this](https://aperiodical.com/2019/11/tmwyk-mathematical-play-and-conversations-with-my-kid/)
 
