@@ -18,14 +18,14 @@ NEED TO: format slides, put in folder, add other links etc
 #### Adam Townsend: Mathematical socks: A review
 Maybe you also receive maths-themed socks for Christmas. In this walkthrough, I com-pair and rank the most popular maths for socks, and try to rev-heel who designs these in the first place... no mean feet.
 
- - [Adam's slides (PPT)]({{site.url}}/assets/talks/2019/AdamTownsend-Mathematicalsocks:Areview.pptx)
- - [Adam's slides (PDF)]({{site.url}}/assets/talks/2019/AdamTownsend-Mathematicalsocks:Areview.pdf)
+ - [Article in Chalkdust Magazine on the topic](http://chalkdustmagazine.com/blog/review-mathematical-socks/)
 
 #### Belgin Seymenoglu: Math Blaster
-Belgin plays a classic mathsy game from her childhood…in 16-bit graphics! Here’s her review...
+Belgin plays a classic mathsy game from her childhood... in 16-bit graphics! Here’s her review...
 
  - [Belgin's slides (PPT)]({{site.url}}/assets/talks/2019/BelginSeymenoglu-MathBlaster.pptx)
  - [Belgin's slides (PDF)]({{site.url}}/assets/talks/2019/BelginSeymenoglu-MathBlaster.pdf)
+ - [Article in Chalkdust Magazine on the topic](http://chalkdustmagazine.com/blog/math-blaster/)
 
 #### Daniele Aurelio: The actual Library of Babel
 Musings on pi, cryptic (in)finite libraries and how sticks can become books.
@@ -63,6 +63,7 @@ Make a prediction, and deal out several number cards to the audience. Then play 
 &#35;tmwyk is a Twitter hashtag used to share mathematical conversations with children. I will share some examples of mathematical chat I’ve had with my four-year-old and touch briefly on play in mathematical education.
 
  - [Peter's slides (PDF)]({{site.url}}/assets/talks/2019/PeterRowlett-#tmwyk.pdf)
+ - [The &#35;tmwyk hashtag](https://twitter.com/search?q=%23tmwyk)
 
 #### Tony Mann: A curious magic square trick
 I recently came across this interesting variation of the I will construct a magic square for a given target sum trick, due to Andi Gladwin and published as [https://www.youtube.com/watch?v=nHoZ1l3YVcg](Magic Squared).
@@ -72,18 +73,21 @@ Cole found the factors of 2^67 - 1, after Mersenne had claimed it was prime
 
  - [Mark's slides (PPT)]({{site.url}}/assets/talks/2019/MarkFisher-MersenneandCole.pptx)
  - [Mark's slides (PDF)]({{site.url}}/assets/talks/2019/MarkFisher-MersenneandCole.pdf)
+ - More information about [Mersenne](https://en.m.wikipedia.org/wiki/Marin_Mersenne) and [Cole](https://en.m.wikipedia.org/wiki/Frank_Nelson_Cole)
 
 #### Eva Lesny: How many are in a few?
-What do 'a few', 'a handful', and 'almost' mean to you? Ever wondered if they mean the same to others?https://public.tableau.com/profile/fenneklyra#!/vizhome/Howmanyareinafew/Thecrowd
+What do 'a few', 'a handful', and 'almost' mean to you? Ever wondered if they mean the same to others?
 
  - [Eva's slides (PPT)]({{site.url}}/assets/talks/2019/EvaLesny-Howmanyareinafew.pptx)
  - [Eva's slides (PDF)]({{site.url}}/assets/talks/2019/EvaLesny-Howmanyareinafew.pdf)
+ - [Eva's data](https://public.tableau.com/profile/fenneklyra#!/vizhome/Howmanyareinafew/Thecrowd)
 
 #### David Mitchell: The Brothers Fibonacci; Etiam mingens mathematicae memini!
 Shyness in the gents pointed Fibonacci to his celebrated discovery. Even greater shyness leads to a generalisation of his sequence and of the algebraically expressible Golden Ratio to which the ratio of successive numbers converges. (Thanks to Nottingham MathsJam attendees for illuminating observations)
 
  - [David's slides (PPT)]({{site.url}}/assets/talks/2019/DavidMitchell-TheBrothersFibonacci;Etiammingensmathematicaememini!.pptx)
  - [David's slides (PDF)]({{site.url}}/assets/talks/2019/DavidMitchell-TheBrothersFibonacci;Etiammingensmathematicaememini!.pdf)
+ - [David's blog post on the topic](https://latticelabyrinths.wordpress.com/2015/07/23/fibonacci-puts-the-pee-in-pisa-light-relief-for-the-also-wrangled/)
 
 #### Claire Cohen: Exploring shapes with Curvahedra
 Some interesting topology and shapes made with Curvahedra. 
@@ -110,16 +114,19 @@ Do we solve mathematical problems subconsciously or is this just a myth?
 
  - [Tom's slides (PPT)]({{site.url}}/assets/talks/2019/TomButton-Isthemathematicalmindflat.pptx)
  - [Tom's slides (PDF)]({{site.url}}/assets/talks/2019/TomButton-Isthemathematicalmindflat.pdf)
+ - The book which inspired Tom's talk, [The Mind is Flat by Nick Chater](https://www.waterstones.com/book/the-mind-is-flat/nick-chater/9780241208779)
 
 #### Sam Hartburn: (Not) Squaring the Circle
 A poetic (well, rhyming (well, mostly)) look at some shapes that can be squared using ruler and compass.
 
  - [Reading and text of Sam's poem](https://samhartburn.co.uk/sh/not-squaring-the-circle/)
+ - [Euclid's Elements](www.claymath.org/library/historical/euclid/)
 
 #### Alexander Bolton: Factor Graphs and Unsupervised Joke Generation
 I will introduce the concept of factor graphs and describe an application of them to joke generation.
 
  - [Alexander's slides (PDF)]({{site.url}}/assets/talks/2019/AlexanderBolton-FactorGraphsandUnsupervisedJokeGeneration.pdf)
+ - [The paper Alex mentioned](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.6993&rep=rep1&type=pdf)
 
 #### Jonathan Welton: Domino Knights and Patios
 If chess pieces were domino sized, what move would the knight have? And what boards could it tour? And just what has this to do with garden design?
@@ -137,6 +144,8 @@ Completion of last years talk.
 The Robert Louis Stevenson short story The Bottle Imp has an unusually mathematical set-up, with an inductive quandary like the 'unexpected hanging' or 'surprise exam' paradox. We also talk about a card game based on the story, and discuss how to behave before an apocalypse.
 
  - [Alistair's slides (PDF)]({{site.url}}/assets/talks/2019/AlistairBird-TheBottleImp.pdf)
+ - [The story of the Bottle Imp](https://www.math.tamu.edu/~boas/courses/220-2003c/bottle.pdf)
+ - [The board game](https://boardgamegeek.com/boardgame/619/bottle-imp)
 
 #### Karen Hancock: How many ways to turn a corner?
 Thoughts on the many variations of a sock heel.
@@ -183,10 +192,16 @@ Discussion on several Subtraction techniques, including 'borrowing and paying ba
 #### Colin Wright: 70 vs 100
 We all know that if you're travelling faster it takes longer to stop, and we think we know the rules.  But do we?
 
+ - [Ben Sparks talks about the problem on Numberphile](https://www.youtube.com/watch?v=i3D7XYQExt0)
+
 #### Matthew Scroggs: Why and how I wrote a LaTeX package
 In early 2019, I wrote the realhats LaTeX package with Adam Townsend. This package redefines \hat to put a picture of an actual hat on a symbol instead of a ^ hat. Because why not.
 
  - [Matthew's slides (PDF)]({{site.url}}/assets/talks/2019/MatthewScroggs-WhyandhowIwroteaLaTeXpackage.pdf)
+ - [RealHats website](http://realhats.xyz/)
+ - [RealHats on CTAN](https://ctan.org/pkg/realhats)
+ - [RealHats on GitHub](https://github.com/mscroggs/realhats)
+ - [Aperiodical post about RealHats](https://aperiodical.com/2019/03/realhats-writing-a-latex-package/)
 
 #### Pat Ashforth: Using maths without knowing it
 How to persuade knitters and crocheters to use maths without knowing it
@@ -229,6 +244,8 @@ You can impose on Sudoku puzzles a physical system which works surprisingly well
 
  - [Christian's slides (PPT)](http://somethingorotherwhatever.com/baked-sudoku-big-mathsjam-2019/)
  - [Christian's slides (PDF)]({{site.url}}/assets/talks/2019/ChristianLawson-Perfect-BakedSudoku.pdf)
+ - [The paper on which the talk is based](https://arxiv.org/abs/1212.1649)
+ - [Online interactive version](https://glass-sudoku.glitch.me)
 
 #### Miguel Gonçalves: From a new deck to Si Stebbins 
 How to prepare a Si Stebbins stack from a new deck order during a performance.
@@ -284,12 +301,14 @@ Most maths jokes are terrible.  It's time for some brand new ones...
 Dodecahedra are pretty cool! In this talk, I will share some of my favourite dodecahedral things you can make and do.
 
  - [Summary of Alison's talk](https://alisonkiddle.co.uk/mathsjam2019/)
+ - [James Grime's post-it note dodecahedron video](https://www.youtube.com/watch?v=vjOOhemquss)
 
 #### Louise Mabbs: Circling the Square & my Mathematical Magic progressions
 Louise demonstrates a selection of mathematical quilts, based on rainbows and polar coordinates giving beautiful circle and spiral shapes.
 
  - [Louise's slides (PPT)]({{site.url}}/assets/talks/2019/LouiseMabbs-CirclingtheSquare&myMathematicalMagicprogressions.pptx)
  - [Louise's slides (PDF)]({{site.url}}/assets/talks/2019/LouiseMabbs-CirclingtheSquare&myMathematicalMagicprogressions.pdf)
+ - [Louise's Instagram](https://www.instagram.com/louise.mabbs.textiles/)
 
 #### Gordon Hayes: How to Avoid a Hangover Using Maths
 A little graph theory. This talk will probably give you a hangover instead of helping you avoid one. On the other hand, everyone loves a bit of graph theory!
@@ -300,3 +319,4 @@ A little graph theory. This talk will probably give you a hangover instead of he
 #### Tarim : Horseshoe Orbits
 Why do the planets and moons in the solar system all spin in the same direction (mostly)? And what does this have to do with the stranger motions of two of the moons of Saturn?
 
+- [Horseshoe orbits](https://en.wikipedia.org/wiki/Horseshoe_orbit)
