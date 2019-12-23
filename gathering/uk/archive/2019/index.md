@@ -62,11 +62,12 @@ Make a prediction, and deal out several number cards to the audience. Then play 
 #### Peter Rowlett: &#35;tmwyk
 &#35;tmwyk is a Twitter hashtag used to share mathematical conversations with children. I will share some examples of mathematical chat I’ve had with my four-year-old and touch briefly on play in mathematical education.
 
- - [Peter's slides (PDF)]({{site.url}}/assets/talks/2019/PeterRowlett-#tmwyk.pdf)
+ - [Peter's slides (PDF)]({{site.url}}/assets/talks/2019/PeterRowlett-#tmwyk.pdf) - mostly just photos
  - [The &#35;tmwyk hashtag](https://twitter.com/search?q=%23tmwyk)
+ - [A blog post Peter wrote about this](https://aperiodical.com/2019/11/tmwyk-mathematical-play-and-conversations-with-my-kid/)
 
 #### Tony Mann: A curious magic square trick
-I recently came across this interesting variation of the I will construct a magic square for a given target sum trick, due to Andi Gladwin and published as [https://www.youtube.com/watch?v=nHoZ1l3YVcg](Magic Squared).
+I recently came across this interesting variation of the 'I will construct a magic square for a given target sum' trick, due to Andi Gladwin and published as [Magic Squared](https://www.youtube.com/watch?v=nHoZ1l3YVcg), by Vanishing Magic.
 
 #### Mark Fisher: Mersenne and Cole 
 Cole found the factors of 2^67 - 1, after Mersenne had claimed it was prime
@@ -208,12 +209,10 @@ How to persuade knitters and crocheters to use maths without knowing it
 
  - [Pat's slides (PPT)]({{site.url}}/assets/talks/2019/PatAshforth-Usingmathswithoutknowingit.pptx)
  - [Pat's slides (PDF)]({{site.url}}/assets/talks/2019/PatAshforth-Usingmathswithoutknowingit.pdf)
+ - [Pat's blog post on the topic](http://mentalblocks.co.uk/blog/knitting/knitting-at-mathsjam/)
 
 #### Matt Peperell: An unexpected use for the golden ratio
-It's not just pentagons and fibonacci
-
- - [Matt's slides (PPT)]({{site.url}}/assets/talks/2019/MattPeperell-Anunexpecteduseforthegoldenratio.pptx)
- - [Matt's slides (PDF)]({{site.url}}/assets/talks/2019/MattPeperell-Anunexpecteduseforthegoldenratio.pdf)
+It's not just pentagons and fibonacci!
 
 #### Isabel Coelho: The Mirror Reversal Problem
 I look  in the mirror. My reflection looks back at me. When I wave  my right hand, my image waves her left. When I wave  my left hand, my image waves her right. Why do mirrors reversal left and right? And, if right becomes left and left becomes right, why does not top become bottom?
@@ -235,15 +234,17 @@ With a beautiful - and musical - demo, and how this helps if you have a noisy wa
  - [Alison's slides (PDF)]({{site.url}}/assets/talks/2019/AlisonEves-FlorenceNightingalethecompassionatestatistician.pdf)
 
 #### Andrew Taylor: The Belt Trick Spinor
-I saw a GIF of this lovely belt trick spinor on Twitter and wanted to understand it, so I built my own version https://www.shadertoy.com/view/3t2Xzy
+I saw a GIF of this lovely belt trick spinor on Twitter and wanted to understand it, so I built [my own version](https://www.shadertoy.com/view/3t2Xzy).
 
 What's actually happening is that the central cube is always drawn upside-down, but the *axis it's rotated about* is spinning. The rotated cube in the final scene spins twice as fast as the axis — but once the axis has rotated 180º and the cube is back where it started, the space around it (and therefore the connecting belts) is stuck interpolating the other way. You need to rotate the axis another 180º to reset the whole scene, and that's where the 720º periodicity comes from.
+
+ -[GitHub repo of the normal spinor](http://github.andrewt.net/glgebra/normal)
+ -[The double version](http://github.andrewt.net/glgebra/double)
 
 #### Christian Lawson-Perfect: Baked Sudoku
 You can impose on Sudoku puzzles a physical system which works surprisingly well. It has phase transitions, and when you reduce the heat it settles into a solved state!
 
- - [Christian's slides (PPT)](http://somethingorotherwhatever.com/baked-sudoku-big-mathsjam-2019/)
- - [Christian's slides (PDF)]({{site.url}}/assets/talks/2019/ChristianLawson-Perfect-BakedSudoku.pdf)
+ - [Christian's slides (online)](http://somethingorotherwhatever.com/baked-sudoku-big-mathsjam-2019/)
  - [The paper on which the talk is based](https://arxiv.org/abs/1212.1649)
  - [Online interactive version](https://glass-sudoku.glitch.me)
 
@@ -259,6 +260,7 @@ Even if my teacher, and impressive pianist, told me I was making my life more di
 I call it 'super-penta' (the staff is called  'pentagramma' in Italian) and you can use it too! 
 
  - [Stefania's slides (PDF)]({{site.url}}/assets/talks/2019/StefaniaDelprete-Whythemusicstaffisnotreallymathematicallycorrect.pdf)
+ - [Superpenta, on GitHub](https://github.com/astrastefania/superpenta)
 
 ### SESSION 2c
 
@@ -271,23 +273,25 @@ Deux Nuts is a tricky bolt with two captive nuts that mysteriously twist opposit
 #### Sydney Weaver: Permutations of the Cube
 Discussing approaches to calculating the permutations of a rubik's cube and other twisty puzzles. 
 
- - [Sydney's slides (PPT)](https://docs.google.com/presentation/d/1c8lfc9YGqhFFYuQUThwajjJ2tcHt91WOjb6YerPQrtk/edit?usp=sharing)
- - [Sydney's slides (PDF)]({{site.url}}/assets/talks/2019/SydneyWeaver-PermutationsoftheCube.pdf)
+ - [Sydney's slides (Google slides)](https://docs.google.com/presentation/d/1c8lfc9YGqhFFYuQUThwajjJ2tcHt91WOjb6YerPQrtk/edit?usp=sharing)
 
 #### Miles Gould: Quantum computing in perspective
-In quantum computers, the state of a qubit (quantum bit) can be something in-between 0 and 1 - but in what sense in-between? They're not elements of the interval [0, 1], but it turns out that there is a natural geometry for the state space of qubits: *complex projective space*, closely related to the mathematics of perspective drawing.
+In quantum computers, the state of a qubit (quantum bit) can be something in-between 0 and 1 - but in what sense in-between? They're not elements of the interval \[0, 1\], but it turns out that there is a natural geometry for the state space of qubits: *complex projective space*, closely related to the mathematics of perspective drawing.
 
  - [Miles's slides (PPT)]({{site.url}}/assets/talks/2019/MilesGould-Quantumcomputinginperspective.pptx)
  - [Miles's slides (PDF)]({{site.url}}/assets/talks/2019/MilesGould-Quantumcomputinginperspective.pdf)
+ - [Transcript of Miles' talk](https://docs.google.com/document/d/1TTGQ-ukB1hshcs5xemXFcqnmi-13orshku8-7eua2a4/edit?usp=drivesdk)
 
 #### Zoe Griffiths : Two thousand and nineteen
-Zoe performs a mathematical trick that she designed after reminiscing about key mathematical events of the year 2019. Watch this video by Zoe to find out how she did her magic trick: https://zoelgriffiths.co.uk/index.php/2019/11/29/binary-memory-tricks/
+Zoe performs a mathematical trick that she designed after reminiscing about key mathematical events of the year 2019.
+
+- [Zoe's video of how the trick works](https://zoelgriffiths.co.uk/index.php/2019/11/29/binary-memory-tricks/)
 
 #### Luna Kirkby: Cursed Regular Expressions
 We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
 
- - [Luna's slides (PPT)](https://docs.google.com/presentation/d/18hulaiojF5iCn5cFMQOPCo33P_5Z4JKOwmARj3d9Bfc/edit?usp=sharing)
- - [Luna's slides (PDF)]({{site.url}}/assets/talks/2019/LunaKirkby-CursedRegularExpressions.pdf)
+ - [Luna's slides](http://moonbase.lgbt/talks/mathsjam-2019/)
+ - [A video of the talk](https://youtu.be/Grc0Ak83Pf8)
  
 #### Lucy Rycroft-Smith: Ten New Maths Jokes
 Most maths jokes are terrible.  It's time for some brand new ones...
