@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "Pie & Ale"
-    description: " on Faraday Street. For December only, we'll be going on a group trip to see Hannah Fry's Christmas Lecture screening at the Science &amp; Industry Museum (tickets £6 from their website), then going to Cask on Liverpool Road from 8.45pm onwards. You're welcome to join us for either or both"
+    description: " on Faraday Street. In January, our event will be merging with the local IMA branch talk, so we'll be meeting in the Frank Adams room in the Alan Turing Building from 6.30pm-8pm (refreshments from 6)"
     url: https://www.pieandale.com/
     lon: -2.2336635
     lat: 53.4831995
