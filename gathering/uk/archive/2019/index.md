@@ -119,7 +119,7 @@ Do we solve mathematical problems subconsciously or is this just a myth?
 A poetic (well, rhyming (well, mostly)) look at some shapes that can be squared using ruler and compass.
 
  - [Reading and text of Sam's poem](https://samhartburn.co.uk/sh/not-squaring-the-circle/)
- - [Euclid's Elements](www.claymath.org/library/historical/euclid/)
+ - [Euclid's Elements](https://www.claymath.org/library/historical/euclid/)
 
 #### Alexander Bolton: Factor Graphs and Unsupervised Joke Generation
 I will introduce the concept of factor graphs and describe an application of them to joke generation.
