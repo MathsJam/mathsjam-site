@@ -13,5 +13,7 @@ location:
     url: http://firefightersclub.com
     lon: -122.9971944
     lat: 49.2250524
+changed_dates:
+    - 2020-01-22
 hiatus: False
 ---
