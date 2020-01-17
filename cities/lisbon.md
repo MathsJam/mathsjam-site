@@ -18,4 +18,5 @@ hiatus_months:
     - 2018-10
 jam_date_rule: second-last Wednesday
 december_jam_date_rule: second-last Wednesday
+start_time: 6pm
 ---
