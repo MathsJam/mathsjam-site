@@ -19,6 +19,6 @@ hiatus: False
 hiatus_months:
     - 2019-12
 changed_dates: 
-    - 2018-09-25
+    - 2020-01-23
 start_time: 7.30pm in the evening
 ---
