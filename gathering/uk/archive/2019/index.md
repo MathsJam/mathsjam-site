@@ -219,8 +219,8 @@ I look  in the mirror. My reflection looks back at me. When I wave  my right han
 
 ### SESSION 2b
 
-#### Hugh Hunt: Four possibilities:
-With a beautiful - and musical - demo, and how this helps if you have a noisy washing machine
+#### Hugh Hunt: Bending vibration of a beam - nodal points and modes
+Hugh share a beautiful - and musical - demo to do with vibration of a beam, and how this helps if you have a noisy washing machine.
 
  - [Hugh's slides (PPT)]({{site.url}}/assets/talks/2019/HughHunt-Fourpossibilities.ppt)
  - [Hugh's slides (PDF)]({{site.url}}/assets/talks/2019/HughHunt-Fourpossibilities.pdf)
