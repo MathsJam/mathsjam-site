@@ -20,5 +20,6 @@ hiatus_months:
     - 2018-06
     - 2018-07
     - 2019-12
+    - 2020-02
 start_time: 7:30pm in the evening
 ---
