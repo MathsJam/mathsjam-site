@@ -15,7 +15,7 @@ location:
     url: http://www.beerinthebath.co.uk/
     lon: -1.4822782
     lat: 53.3791863
-hiatus: False
+hiatus: True
 hiatus_months:
     - 2017-07
 ---
