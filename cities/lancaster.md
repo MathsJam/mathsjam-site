@@ -9,11 +9,11 @@ organiser:
     email: lancaster@mathsjam.com
 location:
     group: england
-    pub_name: "the Sunbury Coffee House"
-    description: ", on Sun Street"
-    url: https://www.facebook.com/sunburycoffeehouse/
-    lon: -2.8027493
-    lat: 54.0492012
+    pub_name: "the Water Witch pub"
+    description: ", on the canal towpath off Aldcliffe Road"
+    url: https://www.waterwitchlancaster.co.uk/
+    lon: -2.8007942
+    lat: 54.0437918
 start_time: 7.30pm
 hiatus: False
 hiatus_months:
