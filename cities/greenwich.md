@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "the Old Brewery"
-    description: ", which is in the Pepys building"
+    description: ", which is in the Pepys building, Old Royal Naval College"
     url: https://www.oldbrewerygreenwich.com/
     lon: -0.0084948
     lat: 51.4827746
