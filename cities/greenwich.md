@@ -9,11 +9,11 @@ organiser:
     email: greenwich@mathsjam.com
 location:
     group: england
-    pub_name: "Lower Deck Bar"
-    description: ", which is downstairs in the Dreadnought Building of the Old Royal Naval College.  Enter by the West Gate on King William Walk, and it’s the big building on the right"
-    url: https://www.greenwichsu.co.uk/lowerdeck/home/
-    lon: -0.007982
-    lat: 51.4821376
+    pub_name: "the Old Brewery"
+    description: ", which is in the Pepys building"
+    url: https://www.oldbrewerygreenwich.com/
+    lon: -0.0084948
+    lat: 51.4827746
 hiatus_months:
     - 2019-04
     - 2019-06
