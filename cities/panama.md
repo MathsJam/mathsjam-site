@@ -18,6 +18,7 @@ hiatus: False
 hiatus_months:
     - 2019-07
     - 2019-12
+    - 2020-03
 start_time: 6:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
