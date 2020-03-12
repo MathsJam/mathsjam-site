@@ -9,11 +9,11 @@ organiser:
     email: eastdevon@mathsjam.com
 location:
     group: england
-    pub_name: "The New Fountain Inn"
-    description: ", in Whimple"
-    url: https://www.facebook.com/thenewfountaininn/
-    lon: -3.357183
-    lat: 50.7653346
+    pub_name: "The Black Horse"
+    description: ", in Exeter"
+    url: http://www.blackhorsesowton.co.uk/home
+    lon: -3.4443986
+    lat: 50.7317246
 hiatus: False
 hiatus_months:
     - 2018-12
