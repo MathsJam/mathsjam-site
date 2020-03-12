@@ -10,7 +10,7 @@ organiser:
 location:
     group: england
     pub_name: "The Black Horse"
-    description: ", in Exeter"
+    description: " just outside Exeter"
     url: http://www.blackhorsesowton.co.uk/home
     lon: -3.4443986
     lat: 50.7317246
