@@ -304,6 +304,12 @@ body.city header::after {
     border: 2px solid #454748;
 }
 
+#honkin-red {
+    padding: 1em;
+    background: #ffaaaa;
+    border: 2px solid #454748;
+}
+
 blockquote {
     margin: 1rem;
     background: hsl(200, 2%, 90%);
