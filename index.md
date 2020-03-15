@@ -5,9 +5,9 @@ body_class: home
 ---
 
 <div id="covid-19" class="content-block">
-**COVID-19 NOTICE:** Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.
+<p><h3>COVID-19 NOTICE:</h3> Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.</p>
 
-Arrangements for an online virtual MathsJam (via Slack) are in place for anyone who's missing their usual Jam. Please contact your local Jam organiser for details of how to get involved.
+<p>Arrangements for an online virtual MathsJam (via Slack) are in place for anyone who's missing their usual Jam. Please contact your local Jam organiser for details of how to get involved.</p>
 </div>
 
 **MathsJam** is a monthly opportunity for like-minded self-confessed maths enthusiasts to get together in a pub and share stuff they like. Puzzles, games, problems, or just anything they think is cool or interesting.
