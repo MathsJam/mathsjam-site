@@ -4,8 +4,8 @@ title: MathsJam
 body_class: home
 ---
 
-<div id="covid-19" class="content-block">
-<p><h3>COVID-19 NOTICE:</h3> Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.</p>
+<div id="honkin-red" class="content-block">
+<p><strong>COVID-19 NOTICE:</strong> Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.</p>
 
 <p>Arrangements for an online virtual MathsJam (via Slack) are in place for anyone who's missing their usual Jam. Please contact your local Jam organiser for details of how to get involved.</p>
 </div>
