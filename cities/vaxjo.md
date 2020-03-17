@@ -1,8 +1,8 @@
 ---
 layout: city
-city_name: Vaxjo
+city_name: Växjö
 local_jam_type: MathJam
-jam_name: V&auml;xj&ouml; MathJam
+jam_name: Växjö MathJam
 email: vaxjo@mathsjam.com
 twitter: VaxjoMathsJam
 organiser:
