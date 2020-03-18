@@ -15,8 +15,6 @@ location:
     lon: -75.757608
     lat: 45.3899166
 hiatus: False
-hiatus_months:
-    - 2020-03
 changed_dates:
     - 2018-12-18
 jam_date_rule: 1 day before the second-last Tuesday
