@@ -15,4 +15,6 @@ location:
     lat: 59.35833
 start_time: 6pm
 hiatus: False
+hiatus_months:
+    - 2020-03
 ---
