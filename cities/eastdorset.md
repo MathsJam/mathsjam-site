@@ -15,6 +15,8 @@ location:
     lon: -1.948218
     lat: 50.723182
 hiatus: False
+hiatus_months:
+    - 2020-03
 changed_dates:
     - 2017-12-19
 start_time: 7.30pm in the evening

@@ -18,6 +18,7 @@ location:
 hiatus: False
 hiatus_months:
     - 2018-08
+    - 2020-03
 start_time: 8.30pm
 changed_dates:
     - 2018-12-13
