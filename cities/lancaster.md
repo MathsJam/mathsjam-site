@@ -18,4 +18,5 @@ start_time: 7.30pm
 hiatus: False
 hiatus_months:
     - 2020-01
+    - 2020-03
 ---
