@@ -14,5 +14,5 @@ location:
     url: http://www.captainmelville.com.au/
     lon: 144.9595196
     lat: -37.8077339
-hiatus: False
+hiatus: True (due to COVID-19 until further notice)
 ---
