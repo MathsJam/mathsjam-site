@@ -15,12 +15,15 @@ location:
     url: http://www.brewhouseandkitchen.com/venue/cardiff/
     lon: -3.191378
     lat: 51.484968
-hiatus: False
+hiatus: True
 hiatus_months:
     - 2017-08
     - 2018-01
     - 2018-08
     - 2019-07
     - 2019-08
+    - 2020-03
+    - 2020-04
+    - 2020-05
 start_time: 7:30pm
 ---
