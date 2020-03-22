@@ -15,6 +15,8 @@ location:
     lon: 0.1136
     lat: 52.2119
 hiatus: False
+hiatus_months:
+    - 2020-03
 changed_dates:
     - 2018-12-18
 ---
