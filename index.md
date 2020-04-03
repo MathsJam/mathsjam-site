@@ -5,7 +5,8 @@ body_class: home
 ---
 
 <div id="honkin-red" class="content-block">
-<p><strong>COVID-19 NOTICE:</strong> Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.</p>
+<h3>COVID-19 NOTICE</h3>
+<p>Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.</p>
 
 <p>Arrangements for an online virtual MathsJam (via Slack) are in place for anyone who's missing their usual Jam, and you can follow along as usual on <a href="http://www.twitter.com/mathsjam">Twitter</a>. Please contact your local Jam organiser for details of how to get involved.</p>
 </div>
@@ -17,6 +18,7 @@ We meet on the second-to-last Tuesday of every month, from around 7pm in the eve
 For more details of local events, choose your region from the menu, or visit the [find a jam]({{site.url}}/find-a-jam) page. 
 
 <div id="next-jam" class="content-block">
+{% if not site.lockdown %}
     <p>The next MathsJam evening is:</p>
     {% for date,cities in group_cities_by_jam_date(site.cities) %}
     <p>
@@ -25,6 +27,9 @@ For more details of local events, choose your region from the menu, or visit the
         <span class="cities">{% for city in cities %}<span><a href="{{site.url}}{{city.url}}">{{city.city_name}}</a></span>{% if not loop.last %}{% if loop.index == loop.length-1 %} and {% else %}, {% endif %}{% endif %}{% endfor %}</span>.
     </p>
     {% endfor %}
+{% else %}
+    <p>No MathsJams are running in pubs, because of the COVID-19 lockdown.</p>
+{% endif %}
 </div>
 
 If there isn't an event in your area, and you'd like there to be one, please email <a href="mailto:{{site.new_jam_contact.email}}">{{site.new_jam_contact.email}}</a> for details of how you can set one up!
