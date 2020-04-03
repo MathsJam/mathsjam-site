@@ -6,7 +6,7 @@ body_class: home
 
 <div id="honkin-red" class="content-block">
 <h3>COVID-19 NOTICE</h3>
-<p>Some MathsJams may not be going ahead during the pandemic, at the discretion of local MathsJam organisers. Please email them, or check the Twitter accounts of local Jams, to confirm whether events are going ahead. We will try to keep this site up-to-date, but you should check before going along in case of last-minute changes.</p>
+<p>Due to the global pandemic, we are not encouraging any MathsJams to meet in person.</p>
 
 <p>Arrangements for an online virtual MathsJam (via Slack) are in place for anyone who's missing their usual Jam, and you can follow along as usual on <a href="http://www.twitter.com/mathsjam">Twitter</a>. Please contact your local Jam organiser for details of how to get involved.</p>
 </div>
@@ -28,7 +28,7 @@ For more details of local events, choose your region from the menu, or visit the
     </p>
     {% endfor %}
 {% else %}
-    <p>No MathsJams are running in pubs, because of the COVID-19 lockdown.</p>
+    <p>No MathsJams are meeting in person, because of the COVID-19 lockdown.</p>
 {% endif %}
 </div>
 
