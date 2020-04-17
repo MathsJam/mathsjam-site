@@ -10,7 +10,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "an online Google Meet"
-    description: ", with details in <a href="https://mathsjam.com/assets/PanamaJamVirtual.pdf">this PDF</a>"
+    description: ", with details in <a href=&quot;https://mathsjam.com/assets/PanamaJamVirtual.pdf&quot;>this PDF</a>"
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
