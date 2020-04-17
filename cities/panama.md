@@ -9,8 +9,8 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "an online Google Meet"
-    description: ", with details in <a href=%22PanamaJamVirtual.pdf%22>this PDF</a>"
+    pub_name: "The Golden Frog of Condado Del Rey, but during COVID-19 we will have an online Google Meet"
+    description: ", with details in <a href=PanamaJamVirtual.pdf>this PDF</a>"
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
