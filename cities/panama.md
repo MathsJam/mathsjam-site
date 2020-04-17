@@ -9,8 +9,8 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "La Rana Dorada de Condado Del Rey"
-    description: ", Plaza Caminos de Centenial Local"
+    pub_name: "an online Google Meet"
+    description: ", with details in [this PDF](https://mathsjam.com/assets/PanamaJamVirtual.pdf)"
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
