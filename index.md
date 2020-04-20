@@ -29,6 +29,7 @@ For more details of local events, choose your region from the menu, or visit the
     {% endfor %}
 {% else %}
     <p>No MathsJams are meeting in person, because of the COVID-19 lockdown.</p>
+    <p>The next virtual MathsJam is {{next_jam_date()}}.</p>
 {% endif %}
 </div>
 
