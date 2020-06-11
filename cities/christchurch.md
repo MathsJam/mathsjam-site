@@ -10,9 +10,9 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Twisted Hop Pub"
+    pub_name: "Wool Street Bar & Grill"
     description: " on Ferry Road"
-    url: https://www.thetwistedhoppub.co.nz/
+    url: https://www.woolstreet.co.nz/
     lon: 172.6808036
     lat: -43.5495069
 hiatus: False
