@@ -6,7 +6,7 @@ body_class: home
 
 <div id="honkin-red" class="content-block">
 <h3>COVID-19 NOTICE</h3>
-<p>Due to the global pandemic, we are not encouraging MathsJams to meet in person. In some parts of the world, they are meeting again, at the discretion of local organisers - use the [find a jam]({{site.url}}/find-a-jam) page to find your local.</p>
+<p>Due to the global pandemic, we are not encouraging MathsJams to meet in person. In some parts of the world, they are meeting again, at the discretion of local organisers - use the <a href="http://www.mathsjam.com/find-a-jam">find a jam</a> page to find your local.</p>
 
 <p>Arrangements for an online virtual MathsJam (via Slack) are in place for anyone who's missing their usual Jam, and you can follow along as usual on <a href="http://www.twitter.com/mathsjam">Twitter</a>. Please contact your local Jam organiser for details of how to get involved.</p>
 </div>
