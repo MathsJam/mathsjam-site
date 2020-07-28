@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Liverpool                                                               
 jam_name: Liverpool MathsJam
 email: liverpool@mathsjam.com

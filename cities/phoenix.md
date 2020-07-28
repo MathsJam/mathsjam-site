@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Phoenix AZ
 local_jam_type: MathJam
 jam_name: Phoenix MathJam

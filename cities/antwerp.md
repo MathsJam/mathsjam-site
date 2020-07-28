@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Antwerp                                                               
 jam_name: Antwerp MathsJam
 email: antwerp@mathsjam.com

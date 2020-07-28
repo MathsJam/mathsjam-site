@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Sydney                                                               
 jam_name: Sydney MathsJam
 email: sydney@mathsjam.com

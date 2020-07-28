@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Leeds                                                               
 jam_name: Leeds MathsJam
 email: leeds@mathsjam.com

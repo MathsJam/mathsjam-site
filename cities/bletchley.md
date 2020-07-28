@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bletchley
 jam_name: Bletchley MathsJam
 email: bletchley@mathsjam.com

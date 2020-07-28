@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Goi&acirc;nia                                                           
 jam_name: Goi&acirc;nia MathsJam
 email: goiania@mathsjam.com

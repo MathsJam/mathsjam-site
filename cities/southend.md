@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Southend-on-Sea                                                               
 jam_name: Southend-on-Sea MathsJam
 email: southend@mathsjam.com

@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Houston TX
 local_jam_type: MathJam
 jam_name: Houston MathJam

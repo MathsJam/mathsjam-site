@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Islamabad
 jam_name: Islamabad MathsJam
 email: islamabad@mathsjam.com

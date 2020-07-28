@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: False
 city_name: Christchurch
 jam_name: Christchurch MathsJam
 email: christchurch@mathsjam.com

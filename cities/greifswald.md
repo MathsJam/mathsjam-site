@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Greifswald                                                      
 jam_name: Greifswald MathsJam
 email: greifswald@mathsjam.com

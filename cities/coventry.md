@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Coventry
 local_jam_type: MathsJam
 jam_name: Coventry MathsJam

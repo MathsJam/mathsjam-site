@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Taunton                                                               
 jam_name: Taunton MathsJam
 email: taunton@mathsjam.com

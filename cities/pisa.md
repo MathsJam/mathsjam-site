@@ -1,6 +1,7 @@
 ---
 layout: city
 lang: it_IT
+lockdown: True
 city_name: Pisa
 jam_name: MathsJam Pisa
 email: pisa@mathsjam.com

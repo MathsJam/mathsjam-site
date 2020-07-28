@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Dunedin NZ                                                               
 jam_name: Dunedin MathJam
 email: dunedin@mathsjam.com

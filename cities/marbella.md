@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Marbella                                                             
 jam_name: Marbella MathsJam
 email: marbella@mathsjam.com

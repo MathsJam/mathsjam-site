@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Kuala Lumpur
 jam_name: MathsJam Kuala Lumpur
 email: kualalumpur@mathsjam.com

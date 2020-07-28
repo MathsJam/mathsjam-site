@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Ottawa ON                                                               
 jam_name: Ottawa MathJam
 email: ottawa@math-jam.com

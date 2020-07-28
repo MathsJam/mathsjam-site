@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Oxford                                                               
 jam_name: Oxford MathsJam
 email: oxford@mathsjam.com

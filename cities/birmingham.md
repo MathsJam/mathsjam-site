@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Birmingham                                                               
 jam_name: Birmingham MathsJam
 email: birmingham@mathsjam.com

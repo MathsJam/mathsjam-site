@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Watford
 jam_name: Watford MathsJam
 email: watford@mathsjam.com

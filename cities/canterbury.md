@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Canterbury                                                               
 jam_name: Canterbury MathsJam
 email: canterbury@mathsjam.com

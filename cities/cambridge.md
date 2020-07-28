@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Cambridge                                                               
 jam_name: Cambridge MathsJam
 email: cambridge@mathsjam.com

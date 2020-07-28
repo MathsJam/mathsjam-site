@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Taipei                                                               
 jam_name: Taipei MathsJam
 email: taipei@mathsjam.com

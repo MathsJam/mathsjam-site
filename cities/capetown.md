@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Cape Town                                                               
 jam_name: Cape Town MathsJam
 email: capetown@mathsjam.com

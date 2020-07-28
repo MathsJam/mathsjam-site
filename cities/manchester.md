@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Manchester                                                               
 jam_name: Manchester MathsJam
 email: manchester@mathsjam.com

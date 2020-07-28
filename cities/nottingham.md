@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Nottingham                                                               
 jam_name: Nottingham MathsJam
 email: nottingham@mathsjam.com

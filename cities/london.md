@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: London                                                               
 jam_name: London MathsJam
 email: london@mathsjam.com

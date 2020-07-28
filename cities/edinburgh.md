@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Edinburgh                                                               
 jam_name: Edinburgh MathsJam
 email: edinburgh@mathsjam.com

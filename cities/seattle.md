@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Seattle WA
 local_jam_type: MathJam
 jam_name: Seattle MathJam

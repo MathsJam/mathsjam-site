@@ -1,6 +1,7 @@
 ---
 layout: city                                           
 lang: es_PA
+lockdown: True
 city_name: Panamá                                                               
 jam_name: Panamá MathsJam
 email: panama@mathsjam.com

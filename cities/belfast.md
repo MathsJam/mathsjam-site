@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Belfast                                                               
 jam_name: Belfast MathsJam
 email: belfast@mathsjam.com

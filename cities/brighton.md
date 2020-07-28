@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Brighton                                                               
 jam_name: Brighton MathsJam
 email: brighton@mathsjam.com

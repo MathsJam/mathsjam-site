@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Guildford                                                               
 jam_name: Guildford MathsJam
 email: guildford@mathsjam.com

@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: York                                                               
 jam_name: York MathsJam
 email: york@mathsjam.com

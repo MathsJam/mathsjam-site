@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Stockholm                                                               
 jam_name: Stockholm MathsJam
 email: stockholm@mathsjam.com

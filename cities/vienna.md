@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Vienna                                                               
 jam_name: Vienna MathsJam
 email: vienna@mathsjam.com

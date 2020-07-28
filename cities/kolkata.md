@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Kolkata                                                               
 jam_name: Kolkata MathsJam
 email: kolkata@mathsjam.com

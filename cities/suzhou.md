@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: False
 city_name: Suzhou                                                               
 jam_name: Suzhou MathsJam
 email: suzhou@mathsjam.com

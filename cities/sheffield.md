@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Sheffield                                                               
 jam_name: Sheffield MathsJam
 email: sheffield@mathsjam.com

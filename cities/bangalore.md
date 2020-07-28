@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bangalore                                                               
 jam_name: Bangalore MathsJam
 email: bangalore@mathsjam.com

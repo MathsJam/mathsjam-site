@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Singapore                                                               
 jam_name: Singapore MathsJam
 email: singapore@mathsjam.com

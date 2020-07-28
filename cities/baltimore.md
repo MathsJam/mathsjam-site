@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Baltimore MD
 local_jam_type: MathJam
 jam_name: Baltimore MathJam

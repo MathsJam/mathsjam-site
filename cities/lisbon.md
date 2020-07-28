@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Lisbon     
 lang: pt_PT
 jam_name: Lisbon MathsJam

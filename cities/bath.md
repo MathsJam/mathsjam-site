@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bath                                                               
 jam_name: Bath MathsJam
 email: bath@mathsjam.com

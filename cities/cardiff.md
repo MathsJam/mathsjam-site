@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Cardiff                                                               
 jam_name: Cardiff MathsJam
 email: cardiff@mathsjam.com

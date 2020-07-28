@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Lancaster                                                                
 jam_name: Lancaster MathsJam
 email: lancaster@mathsjam.com

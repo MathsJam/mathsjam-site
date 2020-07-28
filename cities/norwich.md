@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Norwich                                                               
 jam_name: Norwich MathsJam
 email: norwich@mathsjam.com

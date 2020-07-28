@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Truro                                                               
 jam_name: Truro MathsJam
 email: truro@mathsjam.com

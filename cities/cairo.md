@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Cairo                                                              
 jam_name: Cairo MathsJam
 email: cairo@mathsjam.com

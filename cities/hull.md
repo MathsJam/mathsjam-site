@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Hull                                                               
 jam_name: Hull MathsJam
 email: hull@mathsjam.com

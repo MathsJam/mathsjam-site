@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Reading                                                               
 jam_name: Reading MathsJam
 email: reading@mathsjam.com

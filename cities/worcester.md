@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Worcester                                                               
 jam_name: Worcester MathsJam
 email: worcester@mathsjam.com

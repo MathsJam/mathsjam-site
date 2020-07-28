@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Swansea                                                               
 jam_name: Swansea MathsJam
 email: swansea@mathsjam.com

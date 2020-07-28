@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Dublin                                                               
 jam_name: Dublin MathsJam
 email: dublin@mathsjam.com

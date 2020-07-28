@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bombay (Mumbai)
 jam_name: MathsJam Bombay (Mumbai)
 email: mumbai@mathsjam.com

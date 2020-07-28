@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Vancouver BC                                                           
 jam_name: Vancouver MathJam
 email: vancouver@math-jam.com

@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bristol                                                               
 jam_name: Bristol MathsJam
 email: bristol@mathsjam.com

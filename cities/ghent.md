@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Ghent
 jam_name: MathsJam Ghent
 email: gent@mathsjam.com

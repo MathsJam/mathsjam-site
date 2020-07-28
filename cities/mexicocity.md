@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Mexico City                                                                
 jam_name: Mexico City MathsJam
 email: mexicocity@mathsjam.com

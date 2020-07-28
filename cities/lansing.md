@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Lansing MI
 local_jam_type: MathJam
 jam_name: Lansing MathJam

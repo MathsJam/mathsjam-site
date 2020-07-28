@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Milton Keynes                                                               
 jam_name: Milton Keynes MathsJam
 email: miltonkeynes@mathsjam.com

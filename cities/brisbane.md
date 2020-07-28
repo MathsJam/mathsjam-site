@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Brisbane                                                               
 jam_name: Brisbane MathsJam
 email: brisbane@mathsjam.com

@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Perth
 jam_name: Perth MathsJam
 email: perth@mathsjam.com

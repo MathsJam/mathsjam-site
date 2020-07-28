@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Canberra
 jam_name: Canberra MathsJam
 email: canberra@mathsjam.com

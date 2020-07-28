@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bexhill                                                                
 jam_name: Bexhill MathsJam
 email: bexhill@mathsjam.com

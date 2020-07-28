@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Beirut                                                                
 jam_name: Beirut MathsJam
 email: beirut@mathsjam.com

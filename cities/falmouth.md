@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Falmouth                                                               
 jam_name: Falmouth MathsJam
 email: falmouth@mathsjam.com

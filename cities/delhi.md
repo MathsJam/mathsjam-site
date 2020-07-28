@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Delhi                                                               
 jam_name: Delhi MathsJam
 email: delhi@mathsjam.com

@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Santa Cruz CA
 local_jam_type: MathJam
 jam_name: Santa Cruz MathJam

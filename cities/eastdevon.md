@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: East Devon                                                               
 jam_name: East Devon MathsJam
 email: eastdevon@mathsjam.com

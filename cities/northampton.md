@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Northampton                                                               
 jam_name: Northampton MathsJam
 email: northampton@mathsjam.com

@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Spokane WA
 local_jam_type: MathJam
 jam_name: MathJam Spokane

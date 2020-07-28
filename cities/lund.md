@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Malmö/Lund
 jam_name: MathsJam Malmö/Lund
 email: lund@mathsjam.com

@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Peterborough                                                               
 jam_name: Peterborough MathsJam
 email: peterborough@mathsjam.com

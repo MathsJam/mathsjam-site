@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Leuven                                                               
 jam_name: Leuven MathsJam
 email: leuven@mathsjam.com

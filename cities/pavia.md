@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Pavia                                                               
 jam_name: Pavia MathsJam
 email: pavia@mathsjam.com

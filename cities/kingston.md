@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Kingston
 jam_name: MathsJam Kingston-upon-Thames
 email: kingston@mathsjam.com

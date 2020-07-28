@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: St Gallen
 jam_name: St Gallen MathsJam
 email: stgallen@mathsjam.com

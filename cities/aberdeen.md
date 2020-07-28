@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Aberdeen                                                               
 jam_name: Aberdeen MathsJam
 email: aberdeen@mathsjam.com

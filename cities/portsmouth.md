@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Portsmouth                                                               
 jam_name: Portsmouth MathsJam
 email: portsmouth@mathsjam.com

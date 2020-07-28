@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Leicester                                                               
 jam_name: Leicester MathsJam
 email: leicester@mathsjam.com

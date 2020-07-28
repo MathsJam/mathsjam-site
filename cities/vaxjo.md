@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Växjö
 local_jam_type: MathJam
 jam_name: Växjö MathJam

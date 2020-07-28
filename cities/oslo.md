@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Oslo                                                               
 jam_name: Oslo MathsJam
 email: oslo@mathsjam.com

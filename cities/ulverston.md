@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Ulverston                                                               
 jam_name: Ulverston MathsJam
 email: ulverston@mathsjam.com

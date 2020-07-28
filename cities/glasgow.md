@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Glasgow                                                               
 jam_name: Glasgow MathsJam
 email: glasgow@mathsjam.com

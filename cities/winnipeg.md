@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Winnipeg MB
 jam_name: Winnipeg MathsJam
 email: winnipeg@mathsjam.com

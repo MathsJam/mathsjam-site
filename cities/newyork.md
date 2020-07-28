@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: New York NY
 local_jam_type: MathJam
 jam_name: New York MathJam

@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Silicon Valley
 local_jam_type: MathJam
 jam_name: Silicon Valley MathsJam
