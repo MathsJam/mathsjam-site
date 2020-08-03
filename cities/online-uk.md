@@ -1,0 +1,18 @@
+---
+layout: city_online                                   
+lockdown: False
+city_name: UK
+jam_name: UK Online MathsJam
+email: uk.online@mathsjam.com
+organiser:
+    name: Chap
+    email: uk.online@mathsjam.com
+location:
+    group: online
+    software: "Zoom"
+    lon: -0.1155541
+    lat: 51.5179489
+hiatus: False
+hiatus_months:
+    - 2020-03
+---
