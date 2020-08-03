@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Edinburgh                                                               
 jam_name: Edinburgh MathsJam
 email: edinburgh@mathsjam.com
@@ -21,4 +21,6 @@ hiatus_months:
     - 2018-07
     - 2019-12
     - 2020-03
+changed_dates:
+    - 2020-08-19
 ---
