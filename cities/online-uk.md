@@ -1,11 +1,11 @@
 ---
 layout: city_online                                   
 lockdown: False
-city_name: UK
+city_name: Online (UK)
 jam_name: UK Online MathsJam
 email: uk.online@mathsjam.com
 organiser:
-    name: Chap
+    name: James
     email: uk.online@mathsjam.com
 location:
     group: online
