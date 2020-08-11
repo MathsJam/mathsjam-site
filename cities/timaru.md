@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Timaru                                                          
 jam_name: Timaru MathsJam
 email: timaru@mathsjam.com
