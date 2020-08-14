@@ -3,6 +3,7 @@ layout: city_online
 lockdown: False
 city_name: Online (UK)
 jam_name: UK Online MathsJam
+twitter: OMathsJam
 email: uk.online@mathsjam.com
 organiser:
     name: James
