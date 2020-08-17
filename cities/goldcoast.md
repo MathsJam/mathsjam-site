@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Gold Coast                                                             
 jam_name: Gold Coast MathsJam
 email: goldcoast@mathsjam.com
@@ -9,10 +9,10 @@ organiser:
     email: goldcoast@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "One50"
-    description: ", on the waterfront across from the Arts Centre"
-    url: http://www.one50.com.au/
-    lon: 153.4137888
-    lat: -28.0001027
+    pub_name: "Benowa Tavern"
+    description: ", Off Ashmore Rd"
+    url: http://www.benowatavern.com.au/
+    lon: 153.3976653
+    lat: -28.0077217
 hiatus: False
 ---
