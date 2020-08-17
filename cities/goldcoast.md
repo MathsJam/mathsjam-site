@@ -12,7 +12,7 @@ location:
     pub_name: "Benowa Tavern"
     description: ", Off Ashmore Rd"
     url: http://www.benowatavern.com.au/
-    lon: 153.3976653
-    lat: -28.0077217
+    lon: 153.398962
+    lat: -28.0075365
 hiatus: False
 ---
