@@ -11,7 +11,7 @@ organiser:
 location:
     group: england
     pub_name: "The Richmond Arms"
-    description: ", on Charminster Road, Bournemouth"
+    description: ", on Charminster Road, Bournemouth. Weather permitting, we'll be meeting outside in the beer garden, in tables of 6 - please notify the organiser if you're coming so they have an idea of numbers"
     url: https://www.greeneking-pubs.co.uk/pubs/dorset/richmond-arms/
     lon: -1.866895
     lat: 50.7358905
