@@ -11,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "九度.Nine Degrees"
-    description: " which is in the ZhaoJia Xiang Neighborhood Center, South of Zhongnan Jie Metro  "
+    description: " which is in the ZhaoJia Xiang Neighborhood Center, South of Zhongnan Jie Metro (Didi: 方洲路468号兆佳巷邻里中心6号楼116号) "
     url: 
     lat: 31.316734
     lon: 120.756027
