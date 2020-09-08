@@ -6,7 +6,7 @@ jam_name: Lancaster MathsJam
 email: lancaster@mathsjam.com
 twitter: lancsmathsjam
 organiser:
-    name: Luke &amp; Amy
+    name: Amy &amp; Jazz
     email: lancaster@mathsjam.com
 location:
     group: england
