@@ -14,5 +14,5 @@ location:
     url: https://www.facebook.com/themillswansea1/?rf=161133143903687
     lon: -3.9612769
     lat: 51.6163083
-hiatus: False
+hiatus: True
 ---
