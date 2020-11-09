@@ -1,5 +1,5 @@
 ---
 layout: gathering
-title: MathsJam Virtual Gathering - Competitions
+title: Competitions
 ---
 
