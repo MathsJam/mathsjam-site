@@ -11,11 +11,11 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Wool Street Bar & Grill"
-    description: " on Ferry Road"
-    url: https://www.woolstreet.co.nz/
-    lon: 172.6808036
-    lat: -43.5495069
+    pub_name: "The Good Home Ferrymead Gastropub"
+    description: " in the Ferrymead Central Complex, just off Ferry Road"
+    url: http://www.thegoodhomeferrymead.co.nz/
+    lon: 172.6976229
+    lat: -43.5559692
 hiatus: False
 hiatus_months:
     - 2017-05
