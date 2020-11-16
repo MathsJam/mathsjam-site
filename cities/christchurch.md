@@ -12,7 +12,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "The Good Home Ferrymead Gastropub"
-    description: "In the Ferrymead Central Complex, just off Ferry Road"
+    description: " in the Ferrymead Central Complex, just off Ferry Road"
     url: http://www.thegoodhomeferrymead.co.nz/
     lon: 172.6976229
     lat: -43.5559692
