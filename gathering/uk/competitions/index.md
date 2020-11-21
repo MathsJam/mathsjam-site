@@ -12,7 +12,7 @@ Click the links below to download the competitions. You can enter one or more of
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2020-competition1.pdf" target="_blank">Competition 1 (pdf)</a></li>
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2020-competition2.pdf" target="_blank">Competition 2 (pdf)</a></li>
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2020-competition3.pdf" target="_blank">Competition 3 (pdf)</a></li>
-<li><a href="https://mathsjam.com/gathering/uk/competitions/mj2020-competition4.pdf" target="_blank">Competition 4 (pdf)</a></li>
+<li><a href="https://mathsjam.com/gathering/uk/competitions/mj2020-competition4.pdf" target="_blank">Competition 4 (pdf)</a><br />There is a meant to be a link in this competition to <a href="https://drive.google.com/file/d/1SgEjbG3cuuEI1giiDFBr2YTZIaQSao-3/view">the MathsJam songbook</a></li>
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2020-competition5.pdf" target="_blank">Competition 5 (pdf)</a></li>
 </ul>
 
