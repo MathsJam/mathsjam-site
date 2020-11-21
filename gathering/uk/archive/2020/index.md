@@ -13,11 +13,6 @@ The gathering took place on 20th - 21st November 2020.
 
 ### SESSION 1
 
-#### Adam Townsend: Mathematical socks: A review
-Maybe you also receive maths-themed socks for Christmas. In this walkthrough, I com-pair and rank the most popular maths for socks, and try to rev-heel who designs these in the first place... no mean feet.
-
- - [Article in Chalkdust Magazine on the topic](http://chalkdustmagazine.com/blog/review-mathematical-socks/)
-
 #### Alison Kiddle - Alison talks about mathematical origami
 I've been doing lots of origami during lockdown, much of it mathematical. In this talk I will share some of the things I've made, and some of my musings, and show you how to make cool mathematical origami of your own.
 
