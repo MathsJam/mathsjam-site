@@ -8,7 +8,7 @@ title: Saturday Night Tables
 Here's a list of Saturday Night Tables activities, and where they'll be. The table activities will be taking place from 8pm.
 
 <h4>Summary</h4>
-<strong>Keynote Room</strong>: Jeopardy!<br />
+<strong>Keynote Room</strong>: Jeopardy! - This will start at 8:30 to allow people to do table activities first<br />
 <strong>Table A</strong>: Board Game Arena<br />
 <strong>Table B</strong>: Mathematical Objects Roadshow<br />
 <strong>Table C</strong>: Lego Furniture<br />
@@ -19,7 +19,7 @@ Here's a list of Saturday Night Tables activities, and where they'll be. The tab
 <ul>
 <li><h3>Keynote Room: Jeopardy!</h3>
 <b>Matthew Scroggs &amp; Adam Townsend</b><br />
-We will run a mathematical version of the gameshow Jeopardy, with multiple rounds so multiple sets of people can join in.</li>
+We will run a mathematical version of the gameshow Jeopardy, with multiple rounds so multiple sets of people can join in. This will start at 8:30 to allow people to do table activities first.</li>
   <li><h3>Table A: Board Game Arena</h3>
 <b>Hannah Gray</b><br />
 I have a subscription to <a href="http://www.boardgamearena.com">Board Game Arena</a>, which enables us to play board games online e.g. Love Letter, Tokaido, Battle Sheep (very popular with my friends), 6 Nimmt! Choice of game depends on how many people are participating. You just need a free account on the website, and I'll explain the website and games.</li>
