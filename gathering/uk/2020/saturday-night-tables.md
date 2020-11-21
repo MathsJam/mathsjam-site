@@ -36,7 +36,6 @@ I run an education outreach programme and use a Lego challenge to interact with 
 <b>Cesco Reale</b><br />
 I will present the game in about 10 minutes through screensharing, then I'll invite players to play <a href="http://www.rimosco.it/tris_frattale/">Fractal Tic Tac Toe online</a> (only via computer or tablet - with smartphones it might be complicated). One match lasts about 15 minutes. Discussion to follow.</li>
  <li><h3>Table F: Craft</h3>
-<b>No-one</b><br />
 Table F will be a space to sit and do some knitting, crochet, cross stitching, or any other craft with other MathsJammers.
 </ul>
 
