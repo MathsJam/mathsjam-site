@@ -25,13 +25,13 @@ I have a subscription to <a href="http://www.boardgamearena.com">Board Game Aren
   <li><h3>Table B: Mathematical Objects Roadshow</h3>
 <b>Katie Steckles &amp; Peter Rowlett</b><br />
 A mathematical object could represent or come from mathematical principles, and may or may not exist in the physical world. There are also everyday objects that have mathematics hidden behind them, or from which a mathematical conversation can emerge. You are invited to bring an object to our table for a chat about the mathematics visible or hidden or inspired by it with Katie Steckles and Peter Rowlett, hosts of the Mathematical Objects podcast. We imagine a long line of people clutching family heirlooms found in their attics.</li>
-  <li><h3>Table D: Problem Solving with Maths and Lego: The furniture factory challenge</h3>
+  <li><h3>Table C: Problem Solving with Maths and Lego: The furniture factory challenge</h3>
 <b>Evelyn Hardy</b><br />
 I run an education outreach programme and use a Lego challenge to interact with high school students. Come along to try the challenge for yourself and offer me your feedback on how I can improve the puzzle. Our Lego Furniture Factory challenge: Working with a limited number of Lego bricks, work out how many tables and chairs your Lego Furniture Factory can build. How much profit can you make? How do you decide what combination of tables and chairs to build? If you'd like to take part, bring along 8 2x2 (square) Lego bricks and 6 4x2 (rectangular) Lego bricks. If you don't have Lego you're also welcome to drop in and watch other people have a go or just say hi."</li>
-  <li><h3>Table E: D&amp;D: Igor's Challenge</h3>
+  <li><h3>Table D: D&amp;D: Igor's Challenge</h3>
 <b>James &amp; Eva</b><br />
     A D&amp;D (<a href="https://dnd.wizards.com/lore">Dungeons &amp; Dragons</a>) adventure - non-lethal but with lots of traps, tricks, and puzzles (you will need your dice and a character sheet lv 1-5).</li>
- <li><h3>Table F: Fractal tic tac toe</h3>
+ <li><h3>Table E: Fractal tic tac toe</h3>
 <b>Cesco Reale</b><br />
 I will present the game in about 10 minutes through screensharing, then I'll invite players to play <a href="http://www.rimosco.it/tris_frattale/">Fractal Tic Tac Toe online</a> (only via computer or tablet - with smartphones it might be complicated). One match lasts about 15 minutes. Discussion to follow.</li>
 </ul>
