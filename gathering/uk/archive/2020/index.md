@@ -7,7 +7,7 @@ This is a list of talks given at the 2020 MathsJam Gathering, along with a brief
 
 There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2020/cakes) with the photos of cakes entered in the cake competition.
 
-The gathering took place on 20th - 21st November 2020.
+The gathering took place on 21st - 22nd November 2020.
 
 ## SATURDAY
 
