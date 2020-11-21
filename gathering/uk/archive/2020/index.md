@@ -39,7 +39,7 @@ Among the many giants that this ridiculous year has taken from us is the mathema
 - [The Graham Scan, on Wikipedia](https://en.wikipedia.org/wiki/Graham_scan)
 
 #### Michael Borcherds - Factorising a quartic to prove something interesting about dice
-Factorising a quartic to prove something interesting about dice.
+First, Michael asks if you can factorise x⁴ + x² + 1 (into 2 quadratics, using integers). You can! Then using [this Geogebra applet](https://www.geogebra.org/m/svcbh6sa) we see how to create a set of dice with the same probility distribution as normal 6-sided dice - using factors of a polynomial. You can change the sliders to rearrange the factors. (They're called [Sicherman Dice](https://en.wikipedia.org/wiki/Sicherman_dice)!)
 
 #### Belgin Seymenoglu - Number Munchers
 Belgin gets hooked on a classic maths game...in 16 bits!
