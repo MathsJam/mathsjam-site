@@ -8,7 +8,7 @@ title: Saturday Night Tables
 Here's a list of Saturday Night Tables activities, and where they'll be.
 
 <h4>Summary</h4>
-Table A: Board Game Arena; Table B - Mathematical Objects Roadshow; Table C - Jeopardy!; Table D: Lego Furniture; Table E: D&amp;D; Table F: Fractal tic-tac-toe
+<strong>Table A</strong>: Board Game Arena; <strong>Table B</strong> - Mathematical Objects Roadshow; <strong>Table C</strong> - Jeopardy!; <strong>Table D</strong>: Lego Furniture; <strong>Table E</strong>: D&amp;D; <strong>Table F</strong>: Fractal tic-tac-toe
 
 <ul>
   <li><h3>Table A: Board Game Arena</h3>
