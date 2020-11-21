@@ -26,13 +26,17 @@ Before there were calculators, there were sliderules: physical devices that turn
 - [Slide rule for calculating hypotenuses in various geometries](https://www.geogebra.org/classic/fe4dsfp)
 
 #### Philipp Reinhard - Missing Pythagoras
-I investigate triples that miss Pythagoras by 1.
+Inspired by a painting from the [Everything Is Number Exhibition](http://everything-is-number.net), Philipp investigates triples that miss Pythagoras by 1 - and how you can generate them using Pell's Equation.
 
+- [Pell's Equation, on Wikipedia](https://en.wikipedia.org/wiki/Pell%27s_equation)
+- [Everything Is Number Exhibition](http://everything-is-number.net)
 
 ### SESSION 2
 
 #### Miles Gould - Finding convex hulls with Graham's algorithm
 Among the many giants that this ridiculous year has taken from us is the mathematician Ron Graham. He's best known for his work in discrete maths and in particular for Graham's Number, but he also worked in many other fields. I'll present his elegant 1972 algorithm for finding the convex hull of a 2D polygon.
+
+- [The Graham Scan, on Wikipedia](https://en.wikipedia.org/wiki/Graham_scan)
 
 #### Michael Borcherds - Factorising a quartic to prove something interesting about dice
 Factorising a quartic to prove something interesting about dice.
