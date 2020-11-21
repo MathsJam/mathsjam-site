@@ -20,17 +20,21 @@ I've been doing lots of origami during lockdown, much of it mathematical. In thi
 We all know mathematicians like to approximate unwieldy values with nice simple integers and fractions. It turns out that it works both ways. But how? Why? Who even does this? What kind of perverse pleasure can be found in making the simplest of ratios more complicated? Stick around to find out!
 
 #### Phil Ramsden - Ramsden's Bespoke Sliderules: Quality Craftsmanship Direct to the Trade
-Before there were calculators, there were sliderules: physical devices that turned addition into multiplication. But not just multiplication. What maths can you do by making your sliderules bespoke, and who might have had a use for them?
+Before there were calculators, there were sliderules: physical devices that turned addition into multiplication. But not just multiplication. By making your sliderules bespoke, you can carry out any binary operation conjugate to addition under a real homeomorphism. That includes products, but it also includes parallel resistances in circuits, focal lengths of lenses, lengths of hypotenuses (in Euclidean and curved spaces), relativistic velocity sums...
+
+- [Multi-purpose slide rule](https://www.geogebra.org/classic/b84uaseu)
+- [Slide rule for calculating hypotenuses in various geometries](https://www.geogebra.org/classic/fe4dsfp)
 
 #### Philipp Reinhard - Missing Pythagoras
 I investigate triples that miss Pythagoras by 1.
 
+
+### SESSION 2
+
 #### Miles Gould - Finding convex hulls with Graham's algorithm
 Among the many giants that this ridiculous year has taken from us is the mathematician Ron Graham. He's best known for his work in discrete maths and in particular for Graham's Number, but he also worked in many other fields. I'll present his elegant 1972 algorithm for finding the convex hull of a 2D polygon.
 
-SESSION 2
-
-#### Michael Borcherds		 - Factorising a quartic to prove something interesting about dice
+#### Michael Borcherds - Factorising a quartic to prove something interesting about dice
 Factorising a quartic to prove something interesting about dice.
 
 #### Belgin Seymenoglu - Number Munchers
@@ -42,10 +46,7 @@ A love life is difficult to handle and a lot to balance. It's a bit like having 
 #### Gordon Hamilton - Mini Mathematical Universes
 Mini Mathematical universes are the best way to teach the scientific method. The audience will poke around like scientists and test their hypotheses about how each universe works.
 
-* Speaker : Saturday Night Tables - Elevator Pitches for Saturday Night Tables activities 
-The organisers of Saturday Night tables activities (taking place 8-9pm) will have a chance to explain/describe what they'll be doing.
-
-SESSION 3 
+### SESSION 3 
 
 #### Pedro Freitas - Kepler and the Golden Ratio
 Kepler's impressions about the Golden Ratio.
@@ -65,9 +66,9 @@ The first ever Recreational Mathematics meeting was held in Brussel followed by 
 #### Francis Hunt - Navigating the Soma Cube map
 How to build a Soma cube; Conway et al.'s hints, and navigating the Somap.
 
-SUNDAY
+## SUNDAY
 
-SESSION 4
+### SESSION 4
 
 #### Sam Hartburn - Spirally Flowers
 Beautiful graphs produced by a slight variation on the rhodonea curve.
@@ -86,8 +87,7 @@ I will demonstrate my favourite mathematical magic trick from Martin Gardner's "
 
 #### Matt Parker - Matt Talks About A Thing
 
-
-SESSION 5
+### SESSION 5
 
 #### Sophie Maclean - Puzzles and Polyominoes
 A whistle-stop tour starting with the humble domino, and going all the way to infinity. Prepare to get stuck in with puzzles and problems, both solved and unsolved!
