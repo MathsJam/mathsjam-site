@@ -9,4 +9,5 @@ This is a virtual table of stuff that you can "pick up" to play with. As it's al
 
 <ul>
 <li><a href="https://mathsjam.com/gathering/uk/2020/teasers.pdf" target="_blank"><b>A box of teasers</b>: some puzzles of varying difficulty to get you thinking and discussing</a></li>
+<li><a href="https://mscroggs.co.uk" target="_blank"><b>Chalkdust Christmas cards</b>: usually these are available in exchange from this table in exchange for a donation, this year they're available online in exchange for printing & postage costs</a></li>
 </ul>
