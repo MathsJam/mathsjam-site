@@ -134,16 +134,30 @@ Matt invites us all to guess how many dice are in a jar - but the jar isn't nece
 ### SESSION 5
 
 #### Sophie Maclean - Puzzles and Polyominoes
-A whistle-stop tour starting with the humble domino, and going all the way to infinity. Prepare to get stuck in with puzzles and problems, both solved and unsolved!
+A whistle-stop tour starting with the humble domino, and going all the way to infinity. Did you know Tetris was the first computer game played in space?
 
 #### Adam Atkinson - Hamlet and Kepler
-Thanks to Kepler I may have a new winning move in Hamlet! 
+There is a game, possibly played by no-one, called Hamlet. In the maths version, you confess to not knowing or understanding things. I recently discovered that if I did ever play Hamlet I may now have a new candidate winning move involving Kepler's laws - in particular, that Kepler's second law applies to all central forces.
+
+- [Kepler's laws of motion, on Wikipedia](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion)
 
 #### Jorge Nuno Silva - OULIPO: a Portuguese conspiracy
-The literary movement OULIPO, created in the past century, has a forgotten Portuguese forerunner from early 19th century. An iconic OULIPO landmark had already been created, and overseen, more than 100 years before...  
+The literary movement OULIPO, created in the past century, has a forgotten Portuguese forerunner from early 19th century. An iconic OULIPO landmark - the book of sonnets Hundred Thousand Billion Poems - is predated by more than 100 years by JDR Costa's similar large collection of combinatorial poetry.
+
+- [OULIPO, on Wikipedia](https://en.wikipedia.org/wiki/Oulipo)
+- [Hundred Thousand Billion Poems, on Wikipedia](https://en.wikipedia.org/wiki/Hundred_Thousand_Billion_Poems)
 
 #### Martin Harris - An Unappreciated Result and a Folding Puzzle
-I link a result I derived as part of a random Maths class in school to a paper-folding puzzle I learned at an online MathsJam.
+A statement of an interesting result about the tangents of the angles of a triangle, and how this relates to a paper-folding puzzle.
+
+- [Nice result about tangents](https://www.mathwizurd.com/blog/2015/1/20/prove-that-tana-tanb-tanc-tana-tanb-tanc)
+
+#### Justin Roughley - Equatum: A Journey into the Unknown
+Justin shares his Equatum puzzles, which involve filling in gaps in an equation or rearranging symbols to make a valid equation.
+
+- [Equatum puzzles](https://www.equatum.com/)
 
 #### Christian Lawson-Perfect - Let's sort out this BODMAS nonsense once and for all
 The BODMAS acronym for the order of operations is derided by many as "ambiguous", "hard to apply", and "not an acronym actually". Let's fix it.
+
+- [Christian's SAMDOB website](https://www.checkmyworking.com/misc/samdob/)
