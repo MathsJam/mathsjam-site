@@ -126,7 +126,10 @@ This provides commands \drawnimstick to draw a single nim stick and \nimgame whi
 #### Tony Mann - A favourite mathematical magic trick from Martin Gardner 
 Tony demonstrates a favourite mathematical magic trick from Martin Gardner's "Mathematics, Magic and Mystery" - in which a noughts and crosses game, with my opponent making free choices at each move, miraculously results in a magic square.
 
-#### Matt Parker - Matt Talks About A Thing
+- [Tony's video demonstrating the trick](https://www.youtube.com/watch?v=e7fk6w7APAw)
+
+#### Matt Parker - Guess The Number of Dice in the Jar
+Matt invites us all to guess how many dice are in a jar - but the jar isn't necessarily set up the way it appears to be. Lessons learned about mathematical modelling, and making assumptions!
 
 ### SESSION 5
 
