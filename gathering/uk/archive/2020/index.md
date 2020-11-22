@@ -157,6 +157,9 @@ Justin shares his Equatum puzzles, which involve filling in gaps in an equation 
 
 - [Equatum puzzles](https://www.equatum.com/)
 
+#### Colin Wright - A differently mutilated chessboard
+Colin acknowledges the standard 'mutilated chessboard' problem, which involves moving two squares of the same colour so it can't be covered by dominoes. But if you remove one black and one white, can you make it un-coverable? It's possible to make an 8 by 8 chessboard un-coverable by removing three black and three white squares - can you find a way?
+
 #### Christian Lawson-Perfect - Let's sort out this BODMAS nonsense once and for all
 The BODMAS acronym for the order of operations is derided by many as "ambiguous", "hard to apply", and "not an acronym actually". Let's fix it.
 
