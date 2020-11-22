@@ -63,23 +63,34 @@ Inspired by some existing games, Mini Mathematical Universes are the best way to
 
 ### SESSION 3 
 
-#### Pedro Freitas - Kepler and the Golden Ratio
-Kepler's impressions about the Golden Ratio.
-
 #### Hannah Gray - Bridges & Banknotes
-Following on from my Escher Museum talk last year, another interesting Dutch destination for when we can travel. 
+The bridges on the Euro bank notes used to be fictional, until someone decided they should really exist!  Now you can visit the bridges in a Dutch town.
 
-#### Douglas Butler - TSM Resources website - a major overhaul
-I have been gathering material for my TSM Resources website for many years. This session will take you through the resources: useful images, excel-ready data, integer lists, Autograph files, video tutorials, general maths links, etc.
+- [Banknote bridges, at Atlas Obscura](https://www.atlasobscura.com/places/euro-banknote-bridges)
 
 #### Alexander Bolton - The Element of Surprise
 Some researchers came up with a strategy to beat state-of-the-art AI at a game by using a strategy that was not good but took the AI by surprise. I will discuss this game and how strategies that are bad but succeed because they are unexpected applies more generally.
 
+- [Adversarial Policies in Multi-Agent Settings](https://wandb.ai/stacey/aprl/reports/Adversarial-Policies-in-Multi-Agent-Settings--VmlldzoxMDEyNzE)
+- [Adversarial Policies: Attacking Deep Reinforcement Learning](https://arxiv.org/pdf/1905.10615.pdf)
+
 #### Tiago Hirth - CIRM 1935/39
 The first ever Recreational Mathematics meeting was held in Brussel followed by Paris. In tandem with the world fairs multiple mathematicians and maths enthusiasts gathered to exchange and have fun around and with maths ... sounds familiar? This is ongoing research in the History of Maths and I would love to exchange on the topic with others.
 
+- [History of CIRM](https://www.cirm-math.com/a-bit-of-history.html)
+
+#### Pedro Freitas - Kepler and the Golden Ratio
+The Golden Ratio has gained a special place among mathematical concepts, due to several non-mathematical meanings that it has gained through the years. In this talk we detail some of Kepler's views on the topic.
+
+#### Douglas Butler - TSM Resources website - a major overhaul
+I have been gathering material for my TSM Resources website for many years. This session will take you through the resources: useful images, excel-ready data, integer lists, Autograph files, video tutorials, general maths links, etc.
+
+- [TSM Resources Website](https://www.tsm-resources.com/)
+
 #### Francis Hunt - Navigating the Soma Cube map
-How to build a Soma cube; Conway et al.'s hints, and navigating the Somap.
+Francis shares some hints on how to build a Soma cube, from John Conway et al.'s, and using the Somap.
+
+- [The SOMAP](https://www.fam-bundgaard.dk/SOMA/NEWS/N030518.HTM)
 
 ## SUNDAY
 
@@ -88,8 +99,14 @@ How to build a Soma cube; Conway et al.'s hints, and navigating the Somap.
 #### Sam Hartburn - Spirally Flowers
 Beautiful graphs produced by a slight variation on the rhodonea curve.
 
+- [Geogebra file](https://www.geogebra.org/m/jjq6pknq)
+- [YouTube video](https://www.youtube.com/watch?v=ex5RFSVW6eE)
+
 #### Martin Whitworth - A method for solving quadratic equations
-How to solve quadratic equations with a straight edge and compasses, and thence to construct things such as regular pentagons and heptadecagons (left as an exercise for the reader).
+Martin presented the Carlyle Circle method for solving quadratic equations. To solve the equation x² - sx + p = 0, construct a circle with diameter (0,1),(s,p).  The x intercepts are the roots of the equation.
+
+- [Carlyle Circle, on Wikipedia](https://en.wikipedia.org/wiki/Carlyle_circle)
+- [Carlyle Circle, NC](https://goo.gl/maps/CNcDJsYJDW233gqx5)
 
 #### Johnny Ball - TBC
 TBC
