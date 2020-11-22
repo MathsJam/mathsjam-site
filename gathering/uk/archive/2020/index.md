@@ -41,14 +41,25 @@ Among the many giants that this ridiculous year has taken from us is the mathema
 #### Michael Borcherds - Factorising a quartic to prove something interesting about dice
 First, Michael asks if you can factorise x⁴ + x² + 1 (into 2 quadratics, using integers). You can! Then using [this Geogebra applet](https://www.geogebra.org/m/svcbh6sa) we see how to create a set of dice with the same probility distribution as normal 6-sided dice - using factors of a polynomial. You can change the sliders to rearrange the factors. (They're called [Sicherman Dice](https://en.wikipedia.org/wiki/Sicherman_dice)!)
 
+- [Geogebra applet for dice distributions](https://www.geogebra.org/m/svcbh6sa)
+- [Sicherman Dice, on Wikipedia](https://en.wikipedia.org/wiki/Sicherman_dice)
+
 #### Belgin Seymenoglu - Number Munchers
-Belgin gets hooked on a classic maths game...in 16 bits!
+Belgin gets hooked on a classic maths game - 1990s arithmetic eating classic Number Munchers.
+
+- [Number Munchers game](https://archive.org/details/msdos_Number_Munchers_1990)
 
 #### James Arthur - Love: My insatiable desire to model everything.
-A love life is difficult to handle and a lot to balance. It's a bit like having an egg and spoon balanced on your hand while trying to jump up and down repeatedly. I've always wanted to be able to understand a bit more about this and through Dynamical Systems I found an answer. In this talk I reveal the secrets I uncovered, by reading scholarly papers.
+A love life is difficult to handle and a lot to balance. It's a bit like having an egg and spoon balanced on your hand while trying to jump up and down repeatedly. James has always wanted to be able to understand a bit more about this and through Dynamical Systems has found an answer. In this talk James reveals the secrets uncovered by reading scholarly papers.
+
+- [Effects of random noise in a dynamical model of love](https://www.sciencedirect.com/science/article/abs/pii/S0960077911000609) (requires institutional sign-in)
+- [Dynamical Models of Love](http://sprott.physics.wisc.edu/pubs/paper277.htm)
 
 #### Gordon Hamilton - Mini Mathematical Universes
-Mini Mathematical universes are the best way to teach the scientific method. The audience will poke around like scientists and test their hypotheses about how each universe works.
+Inspired by some existing games, Mini Mathematical Universes are the best way to teach the scientific method. The audience will poke around like scientists and test their hypotheses about how each universe works.
+
+- [Patterns II](https://en.wikipedia.org/wiki/Patterns_II) by Sid Sackston
+- [Eleusis](https://en.wikipedia.org/wiki/Eleusis_(card_game)) by Robert Abbott
 
 ### SESSION 3 
 
