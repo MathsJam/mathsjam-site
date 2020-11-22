@@ -109,13 +109,22 @@ Martin presented the Carlyle Circle method for solving quadratic equations. To s
 - [Carlyle Circle, NC](https://goo.gl/maps/CNcDJsYJDW233gqx5)
 
 #### Johnny Ball - TBC
-TBC
+Johnny shares some of his favourite facts from Euclid, including some geometrical properties of lines in circles, and a way to find square roots uing a semicircle.
+
+- [Thales' Theorem](https://en.wikipedia.org/wiki/Thales%27s_theorem)
+- [Intersecting Chords Theorem](https://en.wikipedia.org/wiki/Intersecting_chords_theorem)
+- [Johnny's book Wonders Beyond Numbers](https://www.bloomsbury.com/uk/wonders-beyond-numbers-9781472939999/)
 
 #### Peter Rowlett - nimsticks: making games with LaTeX and Lua
-Nim is a game that involving picking sticks from piles. This talk will briefly cover Nim, representing it in LaTeX and programming game solutions in LuaLaTeX.
+Nim is a game that involving picking sticks from piles. This talk briefly covered Nim, representing it in LaTeX and programming game solutions in LuaLaTeX.
+
+- Peter's package for drawing Nim games, called [nimsticks on CTAN](https://www.ctan.org/pkg/nimsticks)
+This provides commands \drawnimstick to draw a single nim stick and \nimgame which represents games of multi-pile Nim. Nim sticks are drawn with a little random wobble so they look 'thrown together' and not too regular. If you use MiKTeX then it should install itself. If you use TeXLive, then it is in TeXLive 2020, though you may need to update packages.
+
+- The LuaLaTeX code for setting and solving Nim questions, available as [nim-next-move on GitHub](https://github.com/prowlett/nim-next-move).
 
 #### Tony Mann - A favourite mathematical magic trick from Martin Gardner 
-I will demonstrate my favourite mathematical magic trick from Martin Gardner's "Mathematics, Magic and Mystery".
+Tony demonstrates a favourite mathematical magic trick from Martin Gardner's "Mathematics, Magic and Mystery" - in which a noughts and crosses game, with my opponent making free choices at each move, miraculously results in a magic square.
 
 #### Matt Parker - Matt Talks About A Thing
 
