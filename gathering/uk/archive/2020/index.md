@@ -19,6 +19,8 @@ I've been doing lots of origami during lockdown, much of it mathematical. In thi
 #### Gavan Fantom - Approximating Simple Ratios with Irrational Numbers
 We all know mathematicians like to approximate unwieldy values with nice simple integers and fractions. It turns out that it works both ways. But how? Why? Who even does this? What kind of perverse pleasure can be found in making the simplest of ratios more complicated? Stick around to find out!
 
+- [Gavan's slides (PDF)]({{site.url}}/assets/talks/2020/Gavan-Fantom-Approximating-Simple-Ratios-With-Irrational-Numbers.pdf)
+
 #### Phil Ramsden - Ramsden's Bespoke Sliderules: Quality Craftsmanship Direct to the Trade
 Before there were calculators, there were sliderules: physical devices that turned addition into multiplication. But not just multiplication. By making your sliderules bespoke, you can carry out any binary operation conjugate to addition under a real homeomorphism. That includes products, but it also includes parallel resistances in circuits, focal lengths of lenses, lengths of hypotenuses (in Euclidean and curved spaces), relativistic velocity sums...
 
@@ -60,7 +62,6 @@ Inspired by some existing games, Mini Mathematical Universes are the best way to
 
 - [Patterns II](https://en.wikipedia.org/wiki/Patterns_II) by Sid Sackston
 - [Eleusis](https://en.wikipedia.org/wiki/Eleusis_(card_game)) by Robert Abbott
-
 ### SESSION 3 
 
 #### Hannah Gray - Bridges & Banknotes
@@ -107,6 +108,8 @@ Martin presented the Carlyle Circle method for solving quadratic equations. To s
 
 - [Carlyle Circle, on Wikipedia](https://en.wikipedia.org/wiki/Carlyle_circle)
 - [Carlyle Circle, NC](https://goo.gl/maps/CNcDJsYJDW233gqx5)
+- [Martin's slides (PDF)]({{site.url}}/assets/talks/2020/Martin-Whitworth-Carlyle-Circles.pdf)
+- [Martin's slides (PPTX)]({{site.url}}/assets/talks/2020/Martin-Whitworth-Carlyle-Circles.pptx)
 
 #### Johnny Ball - TBC
 Johnny shares some of his favourite facts from Euclid, including some geometrical properties of lines in circles, and a way to find square roots uing a semicircle.
@@ -137,9 +140,10 @@ Matt invites us all to guess how many dice are in a jar - but the jar isn't nece
 A whistle-stop tour starting with the humble domino, and going all the way to infinity. Did you know Tetris was the first computer game played in space?
 
 #### Adam Atkinson - Hamlet and Kepler
-There is a game, possibly played by no-one, called Hamlet. In the maths version, you confess to not knowing or understanding things. I recently discovered that if I did ever play Hamlet I may now have a new candidate winning move involving Kepler's laws - in particular, that Kepler's second law applies to all central forces.
+There is a game, possibly played by no-one, called Hamlet. In the maths version, you confess to not knowing or understanding things. Adam recently discovered that if he did ever play Hamlet he may now have a new candidate winning move involving Kepler's laws - in particular, that Kepler's second law applies to all central forces.
 
 - [Kepler's laws of motion, on Wikipedia](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion)
+- [Adam's slides (PDF)]({{site.url}}/assets/talks/2020/Adam-Atkinson-Hamlet-and-Kepler.pdf)
 
 #### Jorge Nuno Silva - OULIPO: a Portuguese conspiracy
 The literary movement OULIPO, created in the past century, has a forgotten Portuguese forerunner from early 19th century. An iconic OULIPO landmark - the book of sonnets Hundred Thousand Billion Poems - is predated by more than 100 years by JDR Costa's similar large collection of combinatorial poetry.
