@@ -111,7 +111,7 @@ Martin presented the Carlyle Circle method for solving quadratic equations. To s
 - [Martin's slides (PDF)]({{site.url}}/assets/talks/2020/Martin-Whitworth-Carlyle-Circles.pdf)
 - [Martin's slides (PPTX)]({{site.url}}/assets/talks/2020/Martin-Whitworth-Carlyle-Circles.pptx)
 
-#### Johnny Ball - TBC
+#### Johnny Ball - Euclid
 Johnny shares some of his favourite facts from Euclid, including some geometrical properties of lines in circles, and a way to find square roots uing a semicircle.
 
 - [Thales' Theorem](https://en.wikipedia.org/wiki/Thales%27s_theorem)
