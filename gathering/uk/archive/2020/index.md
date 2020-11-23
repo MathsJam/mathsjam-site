@@ -122,6 +122,7 @@ Johnny shares some of his favourite facts from Euclid, including some geometrica
 Nim is a game that involving picking sticks from piles. This talk briefly covered Nim, representing it in LaTeX and programming game solutions in LuaLaTeX.
 
 - Peter's package for drawing Nim games, called [nimsticks on CTAN](https://www.ctan.org/pkg/nimsticks)
+
 This provides commands \drawnimstick to draw a single nim stick and \nimgame which represents games of multi-pile Nim. Nim sticks are drawn with a little random wobble so they look 'thrown together' and not too regular. If you use MiKTeX then it should install itself. If you use TeXLive, then it is in TeXLive 2020, though you may need to update packages.
 
 - The LuaLaTeX code for setting and solving Nim questions, available as [nim-next-move on GitHub](https://github.com/prowlett/nim-next-move).
