@@ -126,6 +126,7 @@ Nim is a game that involving picking sticks from piles. This talk briefly covere
 This provides commands \drawnimstick to draw a single nim stick and \nimgame which represents games of multi-pile Nim. Nim sticks are drawn with a little random wobble so they look 'thrown together' and not too regular. If you use MiKTeX then it should install itself. If you use TeXLive, then it is in TeXLive 2020, though you may need to update packages.
 
 - The LuaLaTeX code for setting and solving Nim questions, available as [nim-next-move on GitHub](https://github.com/prowlett/nim-next-move).
+- [Peter's slides (PDF)]({{site.url}}/assets/talks/2020/Peter-Rowlett-Nim-Sticks.pdf)
 
 #### Tony Mann - A favourite mathematical magic trick from Martin Gardner 
 Tony demonstrates a favourite mathematical magic trick from Martin Gardner's "Mathematics, Magic and Mystery" - in which a noughts and crosses game, with my opponent making free choices at each move, miraculously results in a magic square.
