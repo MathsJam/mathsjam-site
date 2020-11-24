@@ -32,6 +32,8 @@ Inspired by a painting from the [Everything Is Number Exhibition](http://everyth
 
 - [Pell's Equation, on Wikipedia](https://en.wikipedia.org/wiki/Pell%27s_equation)
 - [Everything Is Number Exhibition](http://everything-is-number.net)
+- [Philipp's slides (PDF)]({{site.url}}/assets/talks/2020/Philipp-Reinhard-Missing-Pythagoras.pdf)
+- [Philipp's slides (PPTM)]({{site.url}}/assets/talks/2020/Philipp-Reinhard-Missing-Pythagoras.pptm)
 
 ### SESSION 2
 
