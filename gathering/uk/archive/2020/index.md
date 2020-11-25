@@ -159,6 +159,8 @@ The literary movement OULIPO, created in the past century, has a forgotten Portu
 A statement of an interesting result about the tangents of the angles of a triangle, and how this relates to a paper-folding puzzle.
 
 - [Nice result about tangents](https://www.mathwizurd.com/blog/2015/1/20/prove-that-tana-tanb-tanc-tana-tanb-tanc)
+- [Martin's slides (PDF)]({{site.url}}/assets/talks/2020/Martin-Harris-Unappreciated-Result-Folding-Puzzle.pdf)
+- [Martin's slides (PPTX)]({{site.url}}/assets/talks/2020/Martin-Harris-Unappreciated-Result-Folding-Puzzle.pptx)
 
 #### Justin Roughley - Equatum: A Journey into the Unknown
 Justin shares his Equatum puzzles, which involve filling in gaps in an equation or rearranging symbols to make a valid equation.
