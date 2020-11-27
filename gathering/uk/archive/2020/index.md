@@ -58,6 +58,7 @@ A love life is difficult to handle and a lot to balance. It's a bit like having 
 
 - [Effects of random noise in a dynamical model of love](https://www.sciencedirect.com/science/article/abs/pii/S0960077911000609) (requires institutional sign-in)
 - [Dynamical Models of Love](http://sprott.physics.wisc.edu/pubs/paper277.htm)
+- [James' slides (PDF)]({{site.url}}/assets/talks/2020/James-Arthur-Love.pdf)
 
 #### Gordon Hamilton - Mini Mathematical Universes
 Inspired by some existing games, Mini Mathematical Universes are the best way to teach the scientific method. The audience will poke around like scientists and test their hypotheses about how each universe works.
