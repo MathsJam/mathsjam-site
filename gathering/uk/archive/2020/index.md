@@ -52,6 +52,7 @@ First, Michael asks if you can factorise x⁴ + x² + 1 (into 2 quadratics, usin
 Belgin gets hooked on a classic maths game - 1990s arithmetic eating classic Number Munchers.
 
 - [Number Munchers game](https://archive.org/details/msdos_Number_Munchers_1990)
+- [Belgin's slides (PDF)]({{site.url}}/assets/talks/2020/Belgin-Seymenoglu-Number-Munchers.pdf)
 
 #### James Arthur - Love: My insatiable desire to model everything.
 A love life is difficult to handle and a lot to balance. It's a bit like having an egg and spoon balanced on your hand while trying to jump up and down repeatedly. James has always wanted to be able to understand a bit more about this and through Dynamical Systems has found an answer. In this talk James reveals the secrets uncovered by reading scholarly papers.
