@@ -66,6 +66,7 @@ Inspired by some existing games, Mini Mathematical Universes are the best way to
 
 - [Patterns II](https://en.wikipedia.org/wiki/Patterns_II) by Sid Sackston
 - [Eleusis](https://en.wikipedia.org/wiki/Eleusis_(card_game)) by Robert Abbott
+
 ### SESSION 3 
 
 #### Hannah Gray - Bridges & Banknotes
@@ -96,6 +97,10 @@ I have been gathering material for my TSM Resources website for many years. This
 Francis shares some hints on how to build a Soma cube, from John Conway et al.'s, and using the Somap.
 
 - [The SOMAP](https://www.fam-bundgaard.dk/SOMA/NEWS/N030518.HTM)
+
+### Saturday night tables
+
+Among the activities people could participate in on Saturday evening were a Jeopardy! quiz run by [the Chalkdust team](http://www.chalkdustmagazine.com), a live version of the [Mathematical Objects podcast](http://www.aperiodical.com/podcasts/mathematical-objects) and a table playing [Fractal tic tac toe](http://www.rimosco.it/tris_frattale/).
 
 ## SUNDAY
 
