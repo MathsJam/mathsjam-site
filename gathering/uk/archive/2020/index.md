@@ -100,7 +100,7 @@ Francis shares some hints on how to build a Soma cube, from John Conway et al.'s
 
 ### Saturday night tables
 
-Among the activities people could participate in on Saturday evening were a Jeopardy! quiz run by [the Chalkdust team](http://www.chalkdustmagazine.com), a live version of the [Mathematical Objects podcast](http://www.aperiodical.com/podcasts/mathematical-objects) and a table playing [Fractal tic tac toe](http://www.rimosco.it/tris_frattale/).
+Among the activities people could participate in on Saturday evening were a Jeopardy! quiz run by [the Chalkdust team](http://www.chalkdustmagazine.com), a live version of the [Mathematical Objects podcast](http://www.aperiodical.com/podcasts/mathematical-objects) and a table playing [Fractal tic tac toe](http://www.rimosco.it/tris_frattale/), invented by Cesco Reale.
 
 ## SUNDAY
 
