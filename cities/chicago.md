@@ -15,6 +15,6 @@ location:
     url: http://phdpubchicago.com/
     lon: -87.6466076
     lat: 41.8655383
-hiatus: False
+hiatus: True
 jam_date_rule: second-last Tuesday
 ---
