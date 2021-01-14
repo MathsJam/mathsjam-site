@@ -8,7 +8,7 @@ body_class: home
 <h3>COVID-19 NOTICE</h3>
 <p>Due to the global pandemic, most MathsJams are not meeting in person, and we're encouraging people to stay safe and be careful. In some parts of the world, Jams are meeting again, at the discretion of local organisers - use the <a href="http://www.mathsjam.com/find-a-jam">find a jam</a> page to find your local.</p>
 
-<p>Arrangements for an online virtual MathsJam (via Slack/Zoom) are in place for anyone who wants it, and you can follow along as usual on <a href="http://www.twitter.com/mathsjam">Twitter</a>. Please contact your local Jam organiser for details of how to get involved.</p>
+<p>Arrangements for a central online virtual MathsJam (via Slack/Gather.Town) are in place for anyone who wants it, with individual online Jams in some locations, and you can follow along as usual on <a href="http://www.twitter.com/mathsjam">Twitter</a>. Please contact your local Jam organiser for details of how to get involved.</p>
 </div>
 
 **MathsJam** is a monthly opportunity for like-minded self-confessed maths enthusiasts to get together in a pub and share stuff they like. Puzzles, games, problems, or just anything they think is cool or interesting.
