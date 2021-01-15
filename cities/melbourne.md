@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Melbourne                                                               
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
@@ -15,5 +15,5 @@ location:
     url: http://www.captainmelville.com.au/
     lon: 144.9595196
     lat: -37.8077339
-hiatus: True
+hiatus: False
 ---
