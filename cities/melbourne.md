@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: False
+lockdown: True
 city_name: Melbourne                                                               
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
