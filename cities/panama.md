@@ -11,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "La Rana Dorada"
-    description: ", but during COVID-19 we will have an online Google Meet, with details in <a href=PanamaJamVirtual9.png>this image</a>"
+    description: ", but during COVID-19 we will have an online Google Meet, with details in <a href=PanamaJamVirtual10.png>this image</a>"
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
