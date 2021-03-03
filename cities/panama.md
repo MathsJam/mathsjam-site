@@ -11,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "La Rana Dorada"
-    description: ", but during COVID-19 we will meet online instead."
+    description: ", but during COVID-19 we will meet online instead"
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
