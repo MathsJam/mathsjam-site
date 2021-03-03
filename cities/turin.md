@@ -19,4 +19,6 @@ location:
 hiatus: False
 changed_dates: 
     - 2021-03-28
+jam_date_rule: last Sunday
+start_time: 11am
 ---
