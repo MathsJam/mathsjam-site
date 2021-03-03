@@ -11,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "La Rana Dorada"
-    description: ", but during COVID-19 we will have an online Google Meet, with details in <a href=PanamaJamVirtual10.png>this image</a>"
+    description: ", but during COVID-19 we will meet online instead."
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
@@ -22,6 +22,7 @@ hiatus_months:
     - 2020-03
     - 2020-12
 start_time: 6:00pm - 9:00pm
+extratext: "The online MathsJams will take place on Google Meet, and you can see the <a href=PanamaJamVirtual10.png>details for the latest event here</a>."
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
