@@ -11,12 +11,12 @@ organiser:
     email: turin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Quintino Sella's monument"
-    description: ", at Viale Medaglie d'Oro, 88"
-    url: https://goo.gl/maps/CHX3aU2zBb8qa9UN6
-    lon: 7.684814
-    lat: 45.054246
+    pub_name: "Monumental Arch to the Artillery Force"
+    description: ", at Viale Virgilio, 10126 Torino TO"
+    url: https://goo.gl/maps/WFXdzT3XVjnTfmyS8
+    lon: 7.6902997
+    lat: 45.0580748
 hiatus: False
 changed_dates: 
-    - 2021-02-21
+    - 2021-03-28
 ---
