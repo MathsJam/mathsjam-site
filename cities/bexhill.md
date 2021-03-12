@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Bexhill                                                                
 jam_name: Bexhill MathsJam
 email: bexhill@mathsjam.com
@@ -21,4 +21,5 @@ changed_dates:
 hiatus_months:
     - 2017-12
     - 2020-03
+extra_text: "We are organising our own local online MathsJam events while we can't meet in person - get in touch if you'd like more information."
 ---
