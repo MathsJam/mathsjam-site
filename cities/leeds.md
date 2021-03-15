@@ -18,4 +18,5 @@ location:
 hiatus: False
 changed_dates:
     - 2017-12-19
+extra_text: "We are organising our own local online MathsJam events via Zoom while we can't meet in person - get in touch if you'd like more information."
 ---
