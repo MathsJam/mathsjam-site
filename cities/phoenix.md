@@ -18,4 +18,5 @@ location:
 changed_dates:
     - 2017-12-19
 hiatus: False
+extra_text: "We are organising our own local online MathsJam events via Discord while we can't meet in person - get in touch if you'd like more information."
 ---
