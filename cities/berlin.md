@@ -16,4 +16,5 @@ location:
     lon: 13.4252032
     lat: 52.5416001
 hiatus: False
+extra_text: "We are organising our own local online MathsJam events while we can't meet in person - get in touch if you'd like more information."
 ---
