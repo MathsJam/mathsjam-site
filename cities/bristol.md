@@ -17,5 +17,5 @@ location:
     lat: 51.4572047
 changed_dates:
     - 2018-12-18
-extra_text: "We are organising our own local online MathsJam events while we can't meet in person - get in touch if you'd like more information."
+extra_text: "We are organising our own local online MathsJam events via Zoom/Gather.town while we can't meet in person - get in touch if you'd like more information. New members are welcome!"
 ---
