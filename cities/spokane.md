@@ -21,4 +21,5 @@ hiatus_months:
 changed_dates:
     - 2018-12-18
     - 2019-11-26
+extra_text: "We are organising our own local online MathsJam events while we can't meet in person - get in touch if you'd like more information."
 ---
