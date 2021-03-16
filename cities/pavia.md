@@ -28,5 +28,4 @@ changed_dates:
     - 2019-06-19
     - 2019-07-24
     - 2019-08-27
-extra_text: "We are organising our own local online MathsJam events via Zoom while we can't meet in person - get in touch if you'd like more information."
 ---
