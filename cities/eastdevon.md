@@ -9,7 +9,7 @@ organiser:
     name: Cathy
     email: eastdevon@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Black Horse"
     description: " just outside Exeter"
     url: http://www.blackhorsesowton.co.uk/home

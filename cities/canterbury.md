@@ -10,7 +10,7 @@ organiser:
     name: Sam and Claire
     email: canterbury@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Foundry"
     description: ", 77 Stour Street (just off the High Street)"
     url: https://www.thefoundrycanterbury.co.uk/

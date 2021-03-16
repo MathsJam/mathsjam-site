@@ -9,7 +9,7 @@ organiser:
     name: Alison
     email: cambridge@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Castle Inn"
     description: " on Castle Hill"
     url: http://www.thecastleinncambridge.com

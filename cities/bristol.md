@@ -9,7 +9,7 @@ organiser:
     name: Shaila
     email: bristol@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Bristol Yard"
     description: " which is on Colston Street"
     url: https://www.thebristolyard.co.uk/

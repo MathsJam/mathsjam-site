@@ -8,7 +8,7 @@ organiser:
     name: John
     email: york@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Royal Oak"
     description: " which is on Goodramgate"
     url: http://www.royaloakyork.co.uk/

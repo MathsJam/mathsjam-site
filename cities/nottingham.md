@@ -9,7 +9,7 @@ organiser:
     name: John and Kathryn
     email: nottingham@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "the Crafty Crow"
     description: " opposite the gate to Nottingham castle"
     url: http://www.craftycrownotts.co.uk/

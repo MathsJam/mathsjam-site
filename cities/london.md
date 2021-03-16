@@ -9,7 +9,7 @@ organiser:
     name: James and Martin
     email: london@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "Penderel's Oak"
     description: ", High Holborn"
     url: https://www.jdwetherspoon.com/pubs/all-pubs/england/london/penderels-oak-holborn

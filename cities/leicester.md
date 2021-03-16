@@ -8,7 +8,7 @@ organiser:
     name: Peter
     email: leicester@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Old Horse"
     description: " on London Road"
     url: http://www.publeicesterle2.co.uk/

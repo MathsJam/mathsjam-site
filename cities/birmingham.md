@@ -9,7 +9,7 @@ organiser:
     name: Calum
     email: birmingham@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "The Old Joint Stock"
     description: ", on Temple Row West (near the cathedral)"
     url: http://www.oldjointstock.co.uk/find-us

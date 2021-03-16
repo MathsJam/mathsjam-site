@@ -9,7 +9,7 @@ organiser:
     name: Alistair and Lynda
     email: guildford@mathsjam.com
 location:
-    group: england
+    group: uk-and-irl
     pub_name: "the Star Inn"
     description: ", Quarry Street, GU1 3TY, just off the High Street in Guildford town centre"
     url: http://www.shepherdneame.co.uk/pubs/guildford/star-inn
