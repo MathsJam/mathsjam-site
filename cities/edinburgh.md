@@ -9,7 +9,7 @@ organiser:
     name: Ben
     email: edinburgh@mathsjam.com
 location:
-    group: uk-and-irl
+    group: rest-of-uk
     pub_name: "Spoon Cafe Bistro"
     description: " which is on Nicholson Street"
     url: https://spoonedinburgh.co.uk/

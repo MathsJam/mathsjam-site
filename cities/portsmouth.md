@@ -9,7 +9,7 @@ organiser:
     name: Caroline
     email: portsmouth@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "Brewhouse & Kitchen"
     description: " on Guildhall Walk"
     url: http://www.brewhouseandkitchen.com/venue/portsmouth/

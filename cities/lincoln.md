@@ -8,7 +8,7 @@ organiser:
     name: Lee
     email: lincoln@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "the Magna Carta pub"
     description: ", between the Cathedral and the Castle"
     url: http://www.mathsjam.com/www.magnacartapub.co.uk/

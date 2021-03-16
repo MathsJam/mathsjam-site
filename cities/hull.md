@@ -8,7 +8,7 @@ organiser:
     name: Phil and Jack
     email: hull@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "ATOM Brewing Co"
     description: ", formerly the Corn Exchange, on North Church Side"
     url: https://www.facebook.com/atombarhull/about/

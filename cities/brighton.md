@@ -9,7 +9,7 @@ organiser:
     name: Adam Atkinson and Louise Mabbs
     email: brighton@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "Ibis Hotel, Brighton City Centre"
     description: " which is on Queens Road"
     url: http://www.accorhotels.com/gb/hotel-6444-ibis-brighton-city-centre/index.shtml

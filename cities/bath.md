@@ -9,7 +9,7 @@ organiser:
     name: Ben
     email: bath@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "Hall and Woodhouse"
     description: ", on Old King Street"
     url: http://hall-woodhousebath.co.uk/

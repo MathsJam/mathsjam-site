@@ -10,7 +10,7 @@ organiser:
     name: Elizabeth
     email: cardiff@mathsjam.com
 location:
-    group: uk-and-irl
+    group: rest-of-uk
     pub_name: "Brewhouse & Kitchen / Bragdy a Chegin"
     description: " which is on Sophia Close"
     url: http://www.brewhouseandkitchen.com/venue/cardiff/

@@ -8,7 +8,7 @@ organiser:
     name: Sam
     email: oxford@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "The Jam Factory"
     description: ", on Hollybush Row"
     url: http://www.thejamfactoryoxford.com/

@@ -9,7 +9,7 @@ organiser:
     name: Simon
     email: bexhill@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "Traffers Bar"
     description: ", on Egerton Road"
     url: http://www.beerintheevening.com/pubs/s/30/30913/Traffers_Bar/Bexhill_on_sea

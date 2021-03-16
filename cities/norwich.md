@@ -8,7 +8,7 @@ organiser:
     name: John
     email: norwich@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "The Mash Tun"
     description: ", on Charing Cross"
     url: https://m.facebook.com/TheMashTunNorwich/?locale2=en_GB

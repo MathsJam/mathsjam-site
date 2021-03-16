@@ -9,7 +9,7 @@ organiser:
     name: Katie
     email: manchester@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "Pie & Ale"
     description: " on Faraday Street"
     url: https://www.pieandale.com/

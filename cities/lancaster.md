@@ -9,7 +9,7 @@ organiser:
     name: Amy &amp; Jazz
     email: lancaster@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "the Water Witch pub"
     description: ", on the canal towpath off Aldcliffe Road"
     url: https://www.waterwitchlancaster.co.uk/

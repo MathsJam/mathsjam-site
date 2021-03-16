@@ -9,7 +9,7 @@ organiser:
     name: Daniel
     email: kingston@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "the Druid's Head"
     description: ", on Market Place"
     url: http://www.druidshead-kingston.co.uk/

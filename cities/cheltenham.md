@@ -9,7 +9,7 @@ organiser:
     name: Martin
     email: cheltenham@mathsjam.com
 location:
-    group: uk-and-irl
+    group: england
     pub_name: "Norwood Arms"
     description: ", on Leckhampton Road"
     url: http://www.norwoodarms-cheltenham.co.uk/
