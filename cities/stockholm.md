@@ -18,4 +18,5 @@ start_time: 6pm
 hiatus: False
 hiatus_months:
     - 2020-03
+extra_text: "While we're not able to meet in person, we've been running online events instead. If you'd like to join us, please contact the organisers."
 ---
