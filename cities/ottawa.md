@@ -22,4 +22,5 @@ changed_dates:
     - 2018-12-18
 jam_date_rule: 1 day before the second-last Tuesday
 december_jam_date_rule: 1 day before the third-last Tuesday
+extra_text: "While we're not able to meet in person, we're holding online MathJams - contact the organisers for more details."
 ---
