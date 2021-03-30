@@ -6,7 +6,7 @@ jam_name: Sydney MathsJam
 email: sydney@mathsjam.com
 twitter: SYDMathsJam
 organiser:
-    name: Belinda
+    name: Belinda and Hart
     email: sydney@mathsjam.com
 location:
     group: rest-of-world
@@ -16,4 +16,5 @@ location:
     lon: 151.15671470000007
     lat: -33.8830819
 hiatus: False
+extra_text: "While we're not able to meet in person, we're holding online events instead - contact the organisers for more details."
 ---
