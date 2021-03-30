@@ -16,5 +16,5 @@ location:
     lon: 151.15671470000007
     lat: -33.8830819
 hiatus: False
-extra_text: "While we're not able to meet in person, we're holding online events instead - contact the organisers for more details."
+extra_text: "As well as in-person meetings when possible, we're holding online events as well - contact the organisers for more details."
 ---
