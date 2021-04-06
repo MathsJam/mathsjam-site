@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: East Dorset                                                               
 jam_name: East Dorset MathsJam
 email: eastdorset@mathsjam.com
