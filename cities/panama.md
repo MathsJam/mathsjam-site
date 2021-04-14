@@ -22,7 +22,7 @@ hiatus_months:
     - 2020-03
     - 2020-12
 start_time: 6:00pm - 9:00pm
-extra_text: "The online MathsJams will take place on Google Meet, and you can see the <a href=PanamaJamVirtual12.png>details for the latest event here</a>, and <a href="https://tinyurl.com/mathsjam12">book by clicking here</a>."
+extra_text: "The online MathsJams will take place on Google Meet, and you can see the <a href="PanamaJamVirtual12.png">details for the latest event here</a>, and <a href="https://tinyurl.com/mathsjam12">book by clicking here</a>."
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
