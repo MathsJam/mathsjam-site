@@ -11,14 +11,15 @@ organiser:
     email: timaru@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Queens Hotel"
-    description: " 2 Barnard St, Timaru (Opp. Police Station)"
-    url: https://www.facebook.com/The-Queens-Hotel-795817163808454/
-    lon: 171.2546
-    lat: -44.4002
+    pub_name: "Hector Blacks"
+    description: " Stafford Street, Timaru"
+    url: https://www.facebook.com/hectorblacksbar/
+    lon: 171.24787627372243
+    lat: --44.39957308240967
 hiatus: False
 hiatus_months:
     - 2019-12
 changed_dates: 
     - 2020-08-25
+jam_date_rule: last Thursday
 ---
