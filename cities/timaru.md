@@ -15,7 +15,7 @@ location:
     description: " Stafford Street, Timaru"
     url: https://www.facebook.com/hectorblacksbar/
     lon: 171.24787627372243
-    lat: --44.39957308240967
+    lat: -44.39957308240967
 hiatus: False
 hiatus_months:
     - 2019-12
