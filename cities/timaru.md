@@ -12,7 +12,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "Hector Blacks"
-    description: " Stafford Street, Timari"
+    description: " Stafford Street, Timaru"
     url: https://www.facebook.com/hectorblacksbar/
     lon: 171.24787627372243
     lat: --44.39957308240967
