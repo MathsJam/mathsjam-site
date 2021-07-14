@@ -1,17 +1,20 @@
 ---
 layout: city                                           
-city_name: Berlin, Germany                                                          
+lockdown: True
+city_name: Berlin                                                         
 jam_name: Berlin MathsJam
 email: berlin@mathsjam.com
+twitter: BerlinMathsJam
 organiser:
     name: David
     email: berlin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "St. Oberholz (second floor)"
-    description: ", on Rosenthaler Str"
-    url: http://sanktoberholz.de/
-    lon: 13.401931
-    lat: 52.52947990000001
+    pub_name: "Atopia"
+    description: ", Prenzlauer Allee 187"
+    url: https://www.facebook.com/AtopiaKaffeehaus
+    lon: 13.4252032
+    lat: 52.5416001
 hiatus: False
+extra_text: "We are organising our own local online MathsJam events while we can't meet in person - get in touch if you'd like more information."
 ---

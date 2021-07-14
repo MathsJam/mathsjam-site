@@ -1,11 +1,12 @@
 ---
 layout: city                                           
+lockdown: False
 city_name: Melbourne                                                               
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
 twitter: MelbMathsJam
 organiser:
-    name: Julia
+    name: Robert
     email: melbourne@mathsjam.com
 location:
     group: rest-of-world

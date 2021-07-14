@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Guildford                                                               
 jam_name: Guildford MathsJam
 email: guildford@mathsjam.com
@@ -15,4 +16,6 @@ location:
     lon: -0.574956
     lat: 51.2384233
 hiatus: False
+hiatus_months:
+    - 2020-03
 ---

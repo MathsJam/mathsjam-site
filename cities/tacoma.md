@@ -1,5 +1,6 @@
 ---
 layout: city
+lockdown: True
 city_name: Tacoma WA
 local_jam_type: MathJam
 jam_name: Tacoma MathJam
@@ -17,5 +18,5 @@ location:
     lat: 47.244719
 changed_dates:
     - 2017-12-19
-hiatus: False
+hiatus: true
 ---

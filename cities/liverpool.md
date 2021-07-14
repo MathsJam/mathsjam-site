@@ -1,17 +1,19 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Liverpool                                                               
 jam_name: Liverpool MathsJam
 email: liverpool@mathsjam.com
+twitter: LPLMathsJam
 organiser:
-    name: Mark
+    name: Marianne and Chris
     email: liverpool@mathsjam.com
 location:
     group: england
-    pub_name: "The Cambridge"
-    description: ", on Mulberry Street near the University"
-    url: http://www.tipped.co.uk/listings/64636/the-cambridge
-    lon: -2.967167
-    lat: 53.4053199
-hiatus: True
+    pub_name: "the Blackburne Arms"
+    description: " on Catharine St"
+    url: http://theblackburneliverpool.com/
+    lon: -2.9684911
+    lat: 53.3995948
+hiatus: False
 ---

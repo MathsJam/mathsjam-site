@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: London                                                               
 jam_name: London MathsJam
 email: london@mathsjam.com
@@ -9,10 +10,12 @@ organiser:
     email: london@mathsjam.com
 location:
     group: england
-    pub_name: "The Knights Templar"
-    description: ", Chancery Lane"
-    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-knights-templar-near-fleet-street
-    lon: -0.111687
-    lat: 51.51536309999999
+    pub_name: "Penderel's Oak"
+    description: ", High Holborn"
+    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/london/penderels-oak-holborn
+    lon: -0.1155541
+    lat: 51.5179489
 hiatus: False
+hiatus_months:
+    - 2020-03
 ---

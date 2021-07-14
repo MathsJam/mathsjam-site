@@ -1,6 +1,7 @@
 ---
 layout: city
-city_name: Windsor, ON
+lockdown: True
+city_name: Windsor ON
 local_jam_type: MathJam
 jam_name: Windsor MathJam
 email: windsor@math-jam.com
@@ -18,5 +19,8 @@ location:
 hiatus: False
 changed_dates:
     - 2017-12-19
+    - 2019-05-28
+    - 2019-08-13
+    - 2020-02-19
 start_time: 7pm in the evening
 ---

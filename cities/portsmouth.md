@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Portsmouth                                                               
 jam_name: Portsmouth MathsJam
 email: portsmouth@mathsjam.com
@@ -16,9 +17,11 @@ location:
     lat: 50.7962884
 hiatus: False
 hiatus_months:
-    - 2017-10
-    - 2017-11
-    - 2017-12
+    - 2019-06
+    - 2019-07
+    - 2019-08
+    - 2019-09
 changed_dates:
     - 2017-12-12
+    - 2018-06-12
 ---

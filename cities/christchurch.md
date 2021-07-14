@@ -1,6 +1,7 @@
 ---
 layout: city                                           
-city_name: Christchurch NZ                                                           
+lockdown: False
+city_name: Christchurch
 jam_name: Christchurch MathsJam
 email: christchurch@mathsjam.com
 twitter: ChchMathsJam
@@ -10,11 +11,11 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Twisted Hop Pub"
-    description: " on Ferry Road"
-    url: https://www.thetwistedhoppub.co.nz/
-    lon: 172.6808036
-    lat: -43.5495069
+    pub_name: "The Good Home Ferrymead Gastropub"
+    description: " in the Ferrymead Central Complex, just off Ferry Road"
+    url: http://www.thegoodhomeferrymead.co.nz/
+    lon: 172.6976229
+    lat: -43.5559692
 hiatus: False
 hiatus_months:
     - 2017-05

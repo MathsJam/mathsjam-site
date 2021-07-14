@@ -1,18 +1,21 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Manchester                                                               
 jam_name: Manchester MathsJam
 email: manchester@mathsjam.com
 twitter: MCRMathsJam
 organiser:
-    name: Katie Steckles
+    name: Katie
     email: manchester@mathsjam.com
 location:
     group: england
-    pub_name: "Port Street Beer House"
-    description: " on Port Street, in the city centre near to Piccadilly Station"
-    url: http://www.portstreetbeerhouse.co.uk/
-    lon: -2.2319106
-    lat: 53.4820663
+    pub_name: "Pie & Ale"
+    description: " on Faraday Street"
+    url: https://www.pieandale.com/
+    lon: -2.2336635
+    lat: 53.4831995
 hiatus: False
+hiatus_months:
+    - 2020-03
 ---

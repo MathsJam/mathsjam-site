@@ -1,6 +1,7 @@
 ---
 layout: city                                           
-city_name: Bangkok, Thailand                                                               
+lockdown: True
+city_name: Bangkok                                                              
 jam_name: Bangkok MathsJam
 email: bangkok@mathsjam.com
 organiser:

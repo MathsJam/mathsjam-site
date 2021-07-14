@@ -48,6 +48,12 @@ changed_dates: (add this field if the Jam is running on a different day one mont
 jam_date_rule: second-last Tuesday
 december_jam_date_rule: third-last Tuesday
 start_time: 7pm in the evening
+lang: language code (for British jams, this is "en_GB")
+poster_text: |
+    Some custom body text
+    for the poster
+    (Only if you want)
+    Maximum seven lines.
 ---
 ```
 
@@ -58,6 +64,8 @@ If your Jam doesn't meet on the second-last Tuesday of the month, you can add a 
 Most Jams run on a different date in December to avoid Christmas, so there's a separate `december_jam_date_rule` line, with a default of 'third-last Tuesday'.
 
 If you need to put your MathsJam on hiatus for a single month, this is also possible - add the 'hiatus_months' field, and then on successive lines add the months for which you won't be meeting, in the format YYYY-MM, as in the example above. This will automatically add a note to the site and remove it again afterwards. A similar procedure is available using the 'changed_dates' field for if your MathsJam is running on a different date for one particular month.
+
+If you want your poster to be in a different language, set the `lang` and `poster_text` fields.
 
 ## Responsible people
 

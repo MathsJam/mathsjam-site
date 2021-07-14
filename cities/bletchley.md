@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Bletchley
 jam_name: Bletchley MathsJam
 email: bletchley@mathsjam.com
@@ -9,10 +10,10 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: england
-    pub_name: "The Eight Belles"
-    description: " which is on Buckingham Road"
-    url: http://www.eightbellesbletchley.co.uk/
-    lon: -0.7438206
-    lat: 51.9927781
+    pub_name: "Captain Ridley's Shooting Party"
+    description: " which is on Queensway"
+    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/buckinghamshire/captain-ridleys-shooting-party-milton-keynes
+    lon: -0.7262748
+    lat: 51.9957286
 hiatus: False
 ---

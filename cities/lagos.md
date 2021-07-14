@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Lagos                                                               
 jam_name: Lagos MathsJam
 email: lagos@mathsjam.com

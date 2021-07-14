@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Brunei
 jam_name: Brunei MathsJam
 email: brunei@mathsjam.com

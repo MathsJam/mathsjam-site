@@ -1,19 +1,25 @@
 ---
 layout: city                                           
-city_name: Timaru, NZ                                                          
+lockdown: False
+city_name: Timaru                                                          
 jam_name: Timaru MathsJam
 email: timaru@mathsjam.com
+twitter: timarumathsjam
+facebook: https://www.facebook.com/timarumathsjam
 organiser:
     name: Mark
     email: timaru@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Grosvenor Hotel"
-    description: ", on Cains Terrace near the station"
-    url: http://thegrosvenor.co.nz/restaurant-bar/
-    lon: 171.2545668
-    lat: -44.3959473
+    pub_name: "Hector Blacks"
+    description: " Stafford Street, Timaru"
+    url: https://www.facebook.com/hectorblacksbar/
+    lon: 171.24787627372243
+    lat: -44.39957308240967
 hiatus: False
 hiatus_months:
-    - 2018-04
+    - 2019-12
+changed_dates: 
+    - 2020-08-25
+jam_date_rule: last Thursday
 ---

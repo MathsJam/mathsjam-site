@@ -1,5 +1,6 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Cheltenham                                                               
 jam_name: Cheltenham MathsJam
 email: cheltenham@mathsjam.com
@@ -15,4 +16,6 @@ location:
     lon: -2.0807666
     lat: 51.8871567
 hiatus: False
+hiatus_months:
+    - 2020-03
 ---

@@ -304,6 +304,12 @@ body.city header::after {
     border: 2px solid #454748;
 }
 
+#honkin-red {
+    padding: 1em;
+    background: #f2bcc6;
+    border: 2px solid #454748;
+}
+
 blockquote {
     margin: 1rem;
     background: hsl(200, 2%, 90%);
@@ -374,6 +380,10 @@ body.home #next-jam .cities {
 }
 body.home #next-jam .cities > li {
     display: inline;
+}
+
+body.home #next-jam .cities > span:not(:first-child) {
+  margin-left: 0.3em;
 }
 
 body.gathering input {

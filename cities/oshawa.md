@@ -1,6 +1,7 @@
 ---
 layout: city
-city_name: Oshawa, ON
+lockdown: True
+city_name: Oshawa ON
 jam_name: Oshawa MathsJam
 email: oshawa@mathsjam.com
 organiser:

@@ -1,10 +1,11 @@
 ---
 layout: city                                           
+lockdown: True
 city_name: Leicester                                                               
 jam_name: Leicester MathsJam
 email: leicester@mathsjam.com
 organiser:
-    name: Noel
+    name: Peter
     email: leicester@mathsjam.com
 location:
     group: england
