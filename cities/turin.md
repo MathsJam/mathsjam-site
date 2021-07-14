@@ -11,11 +11,11 @@ organiser:
     email: turin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Monumental Arch to the Artillery Force"
-    description: ", at Viale Virgilio, 10126 Torino TO"
-    url: https://goo.gl/maps/WFXdzT3XVjnTfmyS8
-    lon: 7.6902997
-    lat: 45.0580748
+    pub_name: "Bagni Municipali della Casa del Quartiere di San Salvario"
+    description: ", at Via Oddino Morgari 14"
+    url: http://www.bagnimunicipali.org/
+    lon: 7.6783148
+    lat: 45.0541213
 hiatus: False
 hiatus_months:
     - 2021-08
