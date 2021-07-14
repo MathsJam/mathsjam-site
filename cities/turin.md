@@ -17,9 +17,7 @@ location:
     lon: 7.6902997
     lat: 45.0580748
 hiatus: False
-changed_dates: 
-    - 2021-03-28
-jam_date_rule: last Sunday
-start_time: 11am
-extra_text: "For March 2021, the outdoor meeting will not be taking place due to the red risk level. Please contact the organiser to be informed about future events."
+hiatus_months:
+    - 2021-08
+    - 2021-09
 ---
