@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Canterbury                                                               
 jam_name: Canterbury MathsJam
 email: canterbury@mathsjam.com
@@ -11,11 +11,11 @@ organiser:
     email: canterbury@mathsjam.com
 location:
     group: england
-    pub_name: "The Foundry"
-    description: ", 77 Stour Street (just off the High Street)"
-    url: https://www.thefoundrycanterbury.co.uk/
-    lon: 1.078210
-    lat: 51.278785
+    pub_name: "The Old Gate Inn"
+    description: ", on New Dover Road"
+    url: https://www.vintageinn.co.uk/restaurants/south-east/theoldgateinnbridgecanterbury
+    lon: 1.103098
+    lat: 51.2619764
 hiatus: False
 hiatus_months:
     - 2020-03
