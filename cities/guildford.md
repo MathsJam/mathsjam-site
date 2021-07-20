@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Guildford                                                               
 jam_name: Guildford MathsJam
 email: guildford@mathsjam.com
@@ -10,11 +10,11 @@ organiser:
     email: guildford@mathsjam.com
 location:
     group: england
-    pub_name: "the Star Inn"
-    description: ", Quarry Street, GU1 3TY, just off the High Street in Guildford town centre"
-    url: http://www.shepherdneame.co.uk/pubs/guildford/star-inn
-    lon: -0.574956
-    lat: 51.2384233
+    pub_name: "the Astolat"
+    description: ", on Old Palace Road (outside if possible)"
+    url: https://www.astolatpub.co.uk
+    lon: -0.5895523
+    lat: 51.2369341
 hiatus: False
 hiatus_months:
     - 2020-03
