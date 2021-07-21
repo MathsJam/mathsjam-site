@@ -22,4 +22,5 @@ hiatus_months:
 changed_dates: 
     - 2020-01-23
 start_time: 7.30pm in the evening
+extra_text: "We're currently meeting in the beer garden and will only go ahead if the weather is suitable. This will be confirmed by email on MathsJam morning - please let us know if you're planning to come so that we can include you in the email."
 ---
