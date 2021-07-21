@@ -12,7 +12,7 @@ organiser:
 location:
     group: england
     pub_name: "The Old Gate Inn"
-    description: ", on New Dover Road"
+    description: ", on New Dover Road. We're currently meeting in the beer garden and will only go ahead if the weather is suitable. This will be confirmed by email on MathsJam morning - please let us know if you're planning to come so that we can include you in the email."
     url: https://www.vintageinn.co.uk/restaurants/south-east/theoldgateinnbridgecanterbury
     lon: 1.103098
     lat: 51.2619764
