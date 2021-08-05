@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Manchester                                                               
 jam_name: Manchester MathsJam
 email: manchester@mathsjam.com
@@ -11,7 +11,7 @@ organiser:
 location:
     group: england
     pub_name: "Pie & Ale"
-    description: " on Faraday Street"
+    description: " on Faraday Street (on the tables outside)"
     url: https://www.pieandale.com/
     lon: -2.2336635
     lat: 53.4831995
