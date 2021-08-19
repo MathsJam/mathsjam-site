@@ -10,11 +10,11 @@ organiser:
     email: suzhou@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "九度.Nine Degrees"
-    description: " which is in the ZhaoJia Xiang Neighborhood Center, South of Zhongnan Jie Metro (Didi: 方洲路468号兆佳巷邻里中心6号楼116号)"
+    pub_name: "Other Stone"
+    description: " which is in the Olympic Center Mall, Line 5 (Didi: 奥体中心商业广场-下沉广场中新大道东999号)"
     url: 
-    lat: 31.316734
-    lon: 120.756027
+    lat: 31.307291
+    lon: 120.746826
 hiatus: False
 hiatus_months:
     - 2020-02
