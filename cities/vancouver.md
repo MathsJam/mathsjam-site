@@ -6,7 +6,7 @@ jam_name: Vancouver MathJam
 email: vancouver@math-jam.com
 organiser:
     name: Sarah and Stephen
-    email: vanvcouver@math-jam.com
+    email: vancouver@math-jam.com
 location:
     group: north-america
     pub_name: "Firefighters Public House"
