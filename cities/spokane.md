@@ -11,7 +11,7 @@ organiser:
 location:
     group: north-america
     pub_name: "Bellwether Brewing Co"
-    description: ", near Monroe and Knox"
+    description: ", near Monroe and Knox, although we're currently meeting on Zoom instead"
     url: http://www.bellwetherbrewing.net/
     lon: -117.4293111
     lat: 47.6764815
@@ -21,5 +21,6 @@ hiatus_months:
 changed_dates:
     - 2018-12-18
     - 2019-11-26
-start_time: 4pm
+start_time: 7pm
+
 ---
