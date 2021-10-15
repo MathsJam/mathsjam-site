@@ -4,6 +4,7 @@ lockdown: False
 city_name: Wellington                                                          
 jam_name: Wellington MathsJam
 email: wellington@mathsjam.com
+twitter: WellyJam
 organiser:
     name: Todd
     email: wellington@mathsjam.com
