@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Cheltenham                                                               
 jam_name: Cheltenham MathsJam
 email: cheltenham@mathsjam.com
