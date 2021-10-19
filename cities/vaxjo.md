@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: True
+lockdown: False
 city_name: Växjö
 local_jam_type: MathJam
 jam_name: Växjö MathJam
@@ -17,5 +17,4 @@ location:
     lon: 14.8091291
     lat: 56.8776886
 hiatus: False
-extra_text: "While we're not able to meet in person, we're holding virtual MathsJams online. Contact the organisers for more details."
 ---
