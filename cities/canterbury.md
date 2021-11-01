@@ -18,9 +18,9 @@ location:
     lat: 51.2619764
 hiatus: False
 hiatus_months:
-    - 2020-03
+    - 2021-12
 changed_dates: 
     - 2020-01-23
 start_time: 7.30pm in the evening
-extra_text: "We're currently meeting in the beer garden and will only go ahead if the weather is suitable. This will be confirmed by email on MathsJam morning - please let us know if you're planning to come so that we can include you in the email."
+extra_text: "The pub is generally quiet on a Tuesday night and there is lots of space between tables, so we are now meeting inside. Meetings will be confirmed by email on MathsJam morning - please let us know if you're planning to come so that we can include you in the email."
 ---
