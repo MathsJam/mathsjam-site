@@ -34,9 +34,9 @@ I can set up a game of countdown. Set up will be similar to when I've streamed o
   
   <li><h3>Table D: Craft Table</h3>
 <b>Karen Hancock</b><br />
-   Bring your own craft - come and sit, knit, sew, crochet, spin, colour, craft!</li>
+ Bring your own craft - come and sit, knit, sew, crochet, spin, colour, craft!</li>
   
  <li><h3>Table E: Board Games</h3>
-Find others who would like to play online board games. You can use [boardgamearena.com](http://boardgamearena.com) by registering for a free account, or whatever works! There is no nominated organiser for this table, so you'll have to coordinate between whoever turns up.</li>
+Find others who would like to play online board games. You can use <a href="http://boardgamearena.com">boardgamearena.com</a> by registering for a free account, or whatever works! There is no nominated organiser for this table, so you'll have to coordinate between whoever turns up.</li>
 		
 
