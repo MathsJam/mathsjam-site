@@ -30,7 +30,7 @@ I'm looking to improve my and possibly other people's collections of stories of 
   
 ### Table B: Modular origami (Kathryn Taylor)
 
-Make exciting things with Sonobe modules. MathsJam wouldn't be MathsJam without an origami table!
+Make exciting things with Sonobe modules. MathsJam wouldn't be MathsJam without an origami table! You'll need to bring paper - squares are best but A4 will do.
   
 ### Table C: Countdown (Goran Newsum)
 
