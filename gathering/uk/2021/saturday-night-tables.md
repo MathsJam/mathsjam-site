@@ -7,7 +7,7 @@ title: Saturday Night Tables
 
 Here's a list of Saturday Night Tables activities, and where they'll be. The table activities will be taking place from 8pm.
 
-<h4>Summary</h4>
+## Summary
 <strong>Location TBC</strong>: Jeopardy! - This will start at 8:30 to allow people to do table activities first<br />
 <strong>Table A</strong>: Story Exchange Table<br />
 <strong>Table B</strong>: Modular Origami<br />
