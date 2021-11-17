@@ -8,12 +8,17 @@ title: Saturday Night Tables
 Here's a list of Saturday Night Tables activities, and where they'll be. The table activities will be taking place from 8pm.
 
 ## Summary
+<strong>Keynote Room</strong>: MathsJam Jam<br />
 <strong>Location TBC</strong>: Jeopardy! - This will start at 8:30 to allow people to do table activities first<br />
 <strong>Table A</strong>: Story Exchange Table<br />
 <strong>Table B</strong>: Modular Origami<br />
 <strong>Table C</strong>: Countdown<br />
 <strong>Table D</strong>: Craft<br />
 <strong>Table E</strong>: Board Games<br />
+
+### Keynote Room: MathsJam Jam (Sam Hartburn)
+
+Sing along to popular songs that have been rewritten with mathematical lyrics. This will start at 9pm to allow people to do table activities first.
 
 ### Location TBC: Jeopardy! (Matthew Scroggs &amp; Adam Townsend)
 
