@@ -3,7 +3,7 @@ layout: gathering
 title: MathsJam Gathering 2021
 ---
 	
-PLEASE NOTE: This page is provisional until after the end of the MathsJam Gathering weekend - prior to that, links will not work and information may be inaccurate.
+PLEASE NOTE: This page is provisional until the MathsJam Gathering weekend - prior to that, links will not work and information may be inaccurate. But also, we haven't linked to it yet, so you're presumably here because you guessed the URL. Well done!
 
 This is a list of talks given at the 2021 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
