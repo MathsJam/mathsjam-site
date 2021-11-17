@@ -20,19 +20,23 @@ Here's a list of Saturday Night Tables activities, and where they'll be. The tab
 We will run a mathematical version of the gameshow Jeopardy, with multiple rounds so multiple sets of people can join in. This will start at 8:30 to allow people to do table activities first.
   
 ### Table A: Story exchange table
-<b>Adam Atkinson</b><br />
+<b>Adam Atkinson</b>
+
 I'm looking to improve my and possibly other people's collections of stories of the calibre of the barometer story, the right angle proof, "heavy boots" and "other cheeses". Life-altering stuff. And not necessarily in a good way.</li>
   
 ### Table B: Modular origami
-<b>Kathryn Taylor</b><br />
+<b>Kathryn Taylor</b>
+
 Make exciting things with Sonobe modules. MathsJam wouldn't be MathsJam without an origami table!
   
 ### Table C: Countdown
-<b>Goran Newsum</b><br />
+<b>Goran Newsum</b>
+
 I can set up a game of countdown. Set up will be similar to when I've streamed on my youtube channel. Bring pen and paper.
   
 ### Table D: Craft Table
-<b>Karen Hancock</b><br />
+<b>Karen Hancock</b>
+
  Bring your own craft - come and sit, knit, sew, crochet, spin, colour, craft!
   
 ### Table E: Board Games
