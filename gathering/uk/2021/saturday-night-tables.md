@@ -15,31 +15,33 @@ Here's a list of Saturday Night Tables activities, and where they'll be. The tab
 <strong>Table D</strong>: Craft<br />
 <strong>Table E</strong>: Board Games<br />
 
-### Location TBC: Jeopardy!
-<b>Matthew Scroggs &amp; Adam Townsend</b><br />
+### Location TBC: Jeopardy!<br />
+<b>Matthew Scroggs &amp; Adam Townsend</b>
+
 We will run a mathematical version of the gameshow Jeopardy, with multiple rounds so multiple sets of people can join in. This will start at 8:30 to allow people to do table activities first.
   
-### Table A: Story exchange table
+### Table A: Story exchange table<br />
 <b>Adam Atkinson</b>
 
 I'm looking to improve my and possibly other people's collections of stories of the calibre of the barometer story, the right angle proof, "heavy boots" and "other cheeses". Life-altering stuff. And not necessarily in a good way.</li>
   
-### Table B: Modular origami
+### Table B: Modular origami<br />
 <b>Kathryn Taylor</b>
 
 Make exciting things with Sonobe modules. MathsJam wouldn't be MathsJam without an origami table!
   
-### Table C: Countdown
+### Table C: Countdown<br />
 <b>Goran Newsum</b>
 
 I can set up a game of countdown. Set up will be similar to when I've streamed on my youtube channel. Bring pen and paper.
   
-### Table D: Craft Table
+### Table D: Craft Table<br />
 <b>Karen Hancock</b>
 
  Bring your own craft - come and sit, knit, sew, crochet, spin, colour, craft!
   
 ### Table E: Board Games
+
 Find others who would like to play online board games. You can use <a href="http://boardgamearena.com">boardgamearena.com</a> by registering for a free account, or whatever works! There is no nominated organiser for this table, so you'll have to coordinate between whoever turns up.
 		
 
