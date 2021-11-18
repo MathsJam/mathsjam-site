@@ -151,7 +151,7 @@ Belgin plays the remake of a 90s game that teaches mathematical thinking without
 
 #### James Arthur  - Running Around in Circles
 
-Every week I run an event called parkrun, we go around and around in circles and everytime somebody shouts out how many laps we have done. Any loop in can have a similar mapping to numbers. Let's explore this briefly.
+Every week I run an event called parkrun, we go around and around in circles and everytime somebody shouts out how many laps we have done. Any loop can have a similar mapping to numbers. Let's explore this briefly.
 
 - [James's slides (PDF)]({{site.url}}/assets/talks/2021/JamesArthur-RunningAroundinCircles.pdf)
 - [James's slides (PPT)]({{site.url}}/assets/talks/2021/JamesArthur-RunningAroundinCircles.pptx)
