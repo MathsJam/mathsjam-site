@@ -16,6 +16,7 @@ Click the links below to download the competitions. You can enter one or more of
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2021-competition5.pdf" target="_blank">Competition 5 (pdf)</a></li>
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2021-competition6.pdf" target="_blank">Competition 6 (pdf)</a></li>
 <li><a href="https://mathsjam.com/gathering/uk/competitions/mj2021-competition7.pdf" target="_blank">Competition 7 (pdf)</a></li>
+<li><a href="https://mathsjam.com/gathering/uk/competitions/mj2021-competition8.pdf" target="_blank">Competition 8 (pdf)</a></li>
 </ul>
 
 If you'd like to enter a competition into the Competition Competition, details of how to do that, and the rules of the competition, are <a href="https://www.solipsys.co.uk/cgi-bin/MJ_Wiki.py?CompetitionCompetition" target="_blank">on the MathsJam Gathering website</a>.
