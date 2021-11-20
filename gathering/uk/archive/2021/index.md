@@ -193,6 +193,13 @@ I'll outline the "Sleeping Beauty" problem (which has led to over 100 articles i
 - [Tony's slides (PDF)]({{site.url}}/assets/talks/2021/TonyMann-The"SleepingBeauty"Paradox.pdf)
 - [Tony's slides (PPT)]({{site.url}}/assets/talks/2021/TonyMann-The"SleepingBeauty"Paradox.pptx)
 
+#### Alistair Bird  - The Princess is in another Castle
+
+My quixotic quest to track down the seemingly shifting origins and variants of the “Princess in a Castle” logic problem.
+
+- [Alistair's slides (PDF)]({{site.url}}/assets/talks/2021/AlistairBird-ThePrincessisinanotherCastle.pdf)
+- [Alistair's slides (PPT)]({{site.url}}/assets/talks/2021/AlistairBird-ThePrincessisinanotherCastle.pptx)
+
 #### Colin Wright  - Coincidences and Lovely Things in Maths
 
 A list of lovely things in maths.
