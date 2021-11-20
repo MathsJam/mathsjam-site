@@ -103,12 +103,12 @@ Why do most shape names follow a pattern apart but four and three sided shapes d
 - [Goran's slides (PDF)]({{site.url}}/assets/talks/2021/GoranNewsum-Quadrilateralisamisnomer.pdf)
 - [Goran's slides (PPT)]({{site.url}}/assets/talks/2021/GoranNewsum-Quadrilateralisamisnomer.pptx)
 
-#### Richard Boland  - Generalized Pentagonal Number Theorem
+#### Nancy Blachman  - COVID Misinformation Spreads because Many Don’t Understand Maths
 
-A generalization of Euler's pentagonal number theorem defines a modular structure over partitions which extends naturally to overpartitions and higher order 'more-overpartitions' functions for which a combinatorial explanation is an open problem.  A triangle for partitions/overpartitions isomorphic to Pascal's triangle is presented and for which sums of coefficients on lines of a given slope provide a one-to-one correspondence between the mod-restricted partitions and mod-restricted Fibonacci numbers. 
+Until recently, the general public could get by without understanding probability and statistics. But that changed with COVID-19. Now hundreds of thousands of people haven’t gotten vaccinated and are dying because they don’t understand what they hear or read and social media spreads misinformation rapidly.
 
-- [Richard's slides (PDF)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pdf)
-- [Richard's slides (PPT)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pptx)
+- [Nancy's slides (PDF)]({{site.url}}/assets/talks/2021/NancyBlachman-COVIDMisinformationSpreadsbecauseManyDon’tUnderstandMaths.pdf)
+- [Nancy's slides (PPT)]({{site.url}}/assets/talks/2021/NancyBlachman-COVIDMisinformationSpreadsbecauseManyDon’tUnderstandMaths.pptx)
 
 #### Alexandre Muñiz  - Shaker Dice and Edge Labelings
 
@@ -117,12 +117,14 @@ Shaker dice have a channel where balls fall, and numbers on the channel can be r
 - [Alexandre's slides (PDF)]({{site.url}}/assets/talks/2021/AlexandreMuñiz-ShakerDiceandEdgeLabelings.pdf)
 - [Alexandre's slides (PPT)]({{site.url}}/assets/talks/2021/AlexandreMuñiz-ShakerDiceandEdgeLabelings.pptx)
 
-#### Nancy Blachman  - COVID Misinformation Spreads because Many Don’t Understand Maths
+#### Simon Bexfield - 3D printed objects
 
-Until recently, the general public could get by without understanding probability and statistics. But that changed with COVID-19. Now hundreds of thousands of people haven’t gotten vaccinated and are dying because they don’t understand what they hear or read and social media spreads misinformation rapidly.
+#### Richard Boland  - Generalized Pentagonal Number Theorem
 
-- [Nancy's slides (PDF)]({{site.url}}/assets/talks/2021/NancyBlachman-COVIDMisinformationSpreadsbecauseManyDon’tUnderstandMaths.pdf)
-- [Nancy's slides (PPT)]({{site.url}}/assets/talks/2021/NancyBlachman-COVIDMisinformationSpreadsbecauseManyDon’tUnderstandMaths.pptx)
+A generalization of Euler's pentagonal number theorem defines a modular structure over partitions which extends naturally to overpartitions and higher order 'more-overpartitions' functions for which a combinatorial explanation is an open problem.  A triangle for partitions/overpartitions isomorphic to Pascal's triangle is presented and for which sums of coefficients on lines of a given slope provide a one-to-one correspondence between the mod-restricted partitions and mod-restricted Fibonacci numbers. 
+
+- [Richard's slides (PDF)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pdf)
+- [Richard's slides (PPT)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pptx)
 
 ## SUNDAY
 
