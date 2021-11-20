@@ -9,7 +9,7 @@ Here's a list of Saturday Night Tables activities, and where they'll be. The tab
 
 ## Summary
 <strong>Keynote Room</strong>: MathsJam Jam - from 9pm<br />
-<strong>Location TBC</strong>: Jeopardy! - from 8.30pm<br />
+<strong>Overflow Room</strong>: Jeopardy! - from 8.30pm<br />
 <strong>Table A</strong>: Story Exchange Table<br />
 <strong>Table B</strong>: Modular Origami<br />
 <strong>Table C</strong>: Countdown<br />
