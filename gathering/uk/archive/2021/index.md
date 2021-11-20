@@ -119,6 +119,8 @@ Shaker dice have a channel where balls fall, and numbers on the channel can be r
 
 #### Simon Bexfield - 3D printed objects
 
+A demonstration of some 3D printed mathematical shapes, including a Menger sponge and dissections of polyhedra.
+
 #### Richard Boland  - Generalized Pentagonal Number Theorem
 
 A generalization of Euler's pentagonal number theorem defines a modular structure over partitions which extends naturally to overpartitions and higher order 'more-overpartitions' functions for which a combinatorial explanation is an open problem.  A triangle for partitions/overpartitions isomorphic to Pascal's triangle is presented and for which sums of coefficients on lines of a given slope provide a one-to-one correspondence between the mod-restricted partitions and mod-restricted Fibonacci numbers. 
