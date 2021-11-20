@@ -15,13 +15,6 @@ The gathering took place on 20th - 21st November 2021.
 
 ### SESSION 1
 
-#### Alistair Bird  - The Princess is in another Castle
-
-My quixotic quest to track down the seemingly shifting origins and variants of the “Princess in a Castle” logic problem.
-
-- [Alistair's slides (PDF)]({{site.url}}/assets/talks/2021/AlistairBird-ThePrincessisinanotherCastle.pdf)
-- [Alistair's slides (PPT)]({{site.url}}/assets/talks/2021/AlistairBird-ThePrincessisinanotherCastle.pptx)
-
 #### Phil Ramsden  - Thought You Were Clever When You Lit The Fuse
 
 You have an unlimited collection of fuses, each of which burns for one hour if lit at one end, and half an hour if lit at both ends at once. Using two fuses, can you time 3/4 of an hour? Using as many fuses as you like, can you time 5/4 of an hour? What durations can you time using your fuses, and what can't be timed in this way? And what has this got to do with the logical foundations of Mathematics?
@@ -29,12 +22,12 @@ You have an unlimited collection of fuses, each of which burns for one hour if l
 - [Phil's slides (PDF)]({{site.url}}/assets/talks/2021/PhilRamsden-ThoughtYouWereCleverWhenYouLitTheFuse.pdf)
 - [Phil's slides (PPT)]({{site.url}}/assets/talks/2021/PhilRamsden-ThoughtYouWereCleverWhenYouLitTheFuse.pptx)
 
-#### Richard Boland  - Generalized Pentagonal Number Theorem
+#### Ben Sparks  - The Cake and the Candles
 
-A generalization of Euler's pentagonal number theorem defines a modular structure over partitions which extends naturally to overpartitions and higher order 'more-overpartitions' functions for which a combinatorial explanation is an open problem.  A triangle for partitions/overpartitions isomorphic to Pascal's triangle is presented and for which sums of coefficients on lines of a given slope provide a one-to-one correspondence between the mod-restricted partitions and mod-restricted Fibonacci numbers. 
+A puzzle with multiple solution methods, and musings arising.
 
-- [Richard's slides (PDF)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pdf)
-- [Richard's slides (PPT)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pptx)
+- [Ben's slides (PDF)]({{site.url}}/assets/talks/2021/BenSparks-TheCakeandtheCandles.pdf)
+- [Ben's slides (PPT)]({{site.url}}/assets/talks/2021/BenSparks-TheCakeandtheCandles.pptx)
 
 #### Sam Hartburn  - Extreme String Art (Without the String)
 
@@ -110,12 +103,12 @@ Why do most shape names follow a pattern apart but four and three sided shapes d
 - [Goran's slides (PDF)]({{site.url}}/assets/talks/2021/GoranNewsum-Quadrilateralisamisnomer.pdf)
 - [Goran's slides (PPT)]({{site.url}}/assets/talks/2021/GoranNewsum-Quadrilateralisamisnomer.pptx)
 
-#### Ben Sparks  - The Cake and the Candles
+#### Richard Boland  - Generalized Pentagonal Number Theorem
 
-A puzzle with multiple solution methods, and musings arising.
+A generalization of Euler's pentagonal number theorem defines a modular structure over partitions which extends naturally to overpartitions and higher order 'more-overpartitions' functions for which a combinatorial explanation is an open problem.  A triangle for partitions/overpartitions isomorphic to Pascal's triangle is presented and for which sums of coefficients on lines of a given slope provide a one-to-one correspondence between the mod-restricted partitions and mod-restricted Fibonacci numbers. 
 
-- [Ben's slides (PDF)]({{site.url}}/assets/talks/2021/BenSparks-TheCakeandtheCandles.pdf)
-- [Ben's slides (PPT)]({{site.url}}/assets/talks/2021/BenSparks-TheCakeandtheCandles.pptx)
+- [Richard's slides (PDF)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pdf)
+- [Richard's slides (PPT)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pptx)
 
 #### Alexandre Muñiz  - Shaker Dice and Edge Labelings
 
