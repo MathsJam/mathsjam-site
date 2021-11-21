@@ -78,7 +78,6 @@ I will present the Mochalunt, Online World Championship of Abstract Games for Na
 The Fast Inverse Square Root is a notorious algorithm for quickly approximating the reciprocal of a square root which is both simple and impenetrable in equal measure. Find out what it is, why it exists, and develop a mathematical intuition for why the f(...) it works.
 
 - [Gavan's slides (PDF)]({{site.url}}/assets/talks/2021/GavanFantom-FastInverseSquareRoot.pdf)
-- [Gavan's slides (PPT)]({{site.url}}/assets/talks/2021/GavanFantom-FastInverseSquareRoot.pptx)
 
 #### Johnny Ball  - How to draw a Perfect Egg Shape using a Pentagon and Pentagram.
 
