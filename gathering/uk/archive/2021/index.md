@@ -121,10 +121,11 @@ A demonstration of some 3D printed mathematical shapes, including a Menger spong
 
 #### Richard Boland  - Generalized Pentagonal Number Theorem
 
+Richard was unable to deliver his talk due to connection issues, but the blurb and slides are below.
+
 A generalization of Euler's pentagonal number theorem defines a modular structure over partitions which extends naturally to overpartitions and higher order 'more-overpartitions' functions for which a combinatorial explanation is an open problem.  A triangle for partitions/overpartitions isomorphic to Pascal's triangle is presented and for which sums of coefficients on lines of a given slope provide a one-to-one correspondence between the mod-restricted partitions and mod-restricted Fibonacci numbers. 
 
 - [Richard's slides (PDF)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pdf)
-- [Richard's slides (PPT)]({{site.url}}/assets/talks/2021/RichardBoland-GeneralizedPentagonalNumberTheorem.pptx)
 
 ## SUNDAY
 
