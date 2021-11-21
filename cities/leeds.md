@@ -6,7 +6,7 @@ jam_name: Leeds MathsJam
 email: leeds@mathsjam.com
 twitter: LeedsMathsJam
 organiser:
-    name: Dave and Hannah
+    name: Dave and Phil
     email: leeds@mathsjam.com
 location:
     group: england
