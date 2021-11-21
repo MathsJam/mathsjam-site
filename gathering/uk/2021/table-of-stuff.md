@@ -8,5 +8,7 @@ title: Table of stuff
 This is a virtual table of stuff that you can "pick up" to play with. As it's all virtual, there's no need to return it when you're done!
 
 <ul>
+<li>
+Pisa problem sheet: [English](http://www.ghira.mistral.co.uk/adam-problemi-english-2020.pdf), [Italian](http://www.ghira.mistral.co.uk/adam-problemi-2021.pdf)</li>
 <li><a href="https://mscroggs.co.uk/cards" target="_blank"><b>Chalkdust Christmas cards</b>: usually these are available in exchange from this table in exchange for a donation, this year they're available online in exchange for printing & postage costs</a></li>
 </ul>
