@@ -93,8 +93,7 @@ We have here a Pentagon with a Pentagram inside it. The Pentagram was the Symbol
 
 A famous integer sequence in recreational maths starts 1, 11, 21, 1211, 111221, ... Katie will talk about this sequence, set some related puzzles, and explain why she's recently been inspired to talk about it.
 
-- [Katie's slides (PDF)]({{site.url}}/assets/talks/2021/KatieSteckles-AFunIntegerSequence.pdf)
-- [Katie's slides (PPT)]({{site.url}}/assets/talks/2021/KatieSteckles-AFunIntegerSequence.pptx)
+- [Katie's slides (photo)]({{site.url}}/assets/talks/2021/KatieSteckles-AFunIntegerSequence.pdf)
 
 #### Goran Newsum  - Quadrilateral is a misnomer
 
@@ -165,7 +164,6 @@ A certain subset of people, who may or may not be mathematicians, care about per
 My victims in Pisa often make life needlessly hard for themselves. Multiple times, they have decided that a straightforwardish problem is actually an unsolved problem from a Richard Guy book. I will talk about the unsolved problem.
 
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2021/AdamAtkinson-Is(oneofthe)biggestalwaysbest?.pdf)
-- [Adam's slides (PPT)]({{site.url}}/assets/talks/2021/AdamAtkinson-Is(oneofthe)biggestalwaysbest?.pptx)
 
 #### Daniel Santos  - The Sun Numerical System
 
