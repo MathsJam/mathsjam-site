@@ -9,4 +9,5 @@ This is a virtual table of stuff that you can "pick up" to play with. As it's al
 
 <ul>
 <li><a href="https://mscroggs.co.uk/cards" target="_blank"><b>Chalkdust Christmas cards</b>: usually these are available in exchange from this table in exchange for a donation, this year they're available online in exchange for printing & postage costs</a></li>
+<li>Problem sheets from University of Pisa open days, available in <a href="http://www.ghira.mistral.co.uk/adam-problemi-english-2020.pdf" target="_blank">English</a> and <a href="http://www.ghira.mistral.co.uk/adam-problemi-2021.pdf" target="_blank">Italian</a>.</li>
 </ul>
