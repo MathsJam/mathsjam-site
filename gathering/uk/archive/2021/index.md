@@ -135,8 +135,7 @@ A generalization of Euler's pentagonal number theorem defines a modular structur
 
 I've made another baby, so it's time for another talk about baby maths. Each Peach Pear Plum is a classic picture book for babies, with a beautifully simple rhyming scheme. But I've always wished it was more complete. Join me for an Eulerian tour through fantasy land! 
 
-- [Christian's slides (PDF)]({{site.url}}/assets/talks/2021/ChristianLawson-Perfect-EachEdgePeachPearPlum.pdf)
-- [Christian's slides (PPT)]({{site.url}}/assets/talks/2021/ChristianLawson-Perfect-EachEdgePeachPearPlum.pptx)
+- [Christian's slides (online)](https://somethingorotherwhatever.com/each-edge-peach-pear-plum-mathsjam-2021/)
 
 #### Belgin Seymenoglu  - Zoombinis
 
