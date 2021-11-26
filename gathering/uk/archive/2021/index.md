@@ -16,9 +16,9 @@ The gathering took place on 20th - 21st November 2021.
 #### Phil Ramsden  - Thought You Were Clever When You Lit The Fuse
 You have an unlimited collection of fuses, each of which burns for one hour if lit at one end, and half an hour if lit at both ends at once. Using two fuses, can you time 3/4 of an hour? Using as many fuses as you like, can you time 5/4 of an hour? 
 
-The exact origin of this popular type of puzzle is hard to trace, but it was described as ""old"" in 1999. Here we're interested in the general question: what durations can we time with our fuses, and what can't be timed in this way? 
+The exact origin of this popular type of puzzle is hard to trace, but it was described as "old" in 1999. Here we're interested in the general question: what durations can we time with our fuses, and what can't be timed in this way? 
 
-Let's call a number ""fusible"" if there exists a fuse-burning algorithm that will time that exact duration in hours. It's really not hard to show that all non-negative integers are fusible, and that every fusible number is a rational whose denominator is a power of 2, but that not all such rationals are fusible. 
+Let's call a number "fusible" if there exists a fuse-burning algorithm that will time that exact duration in hours. It's really not hard to show that all non-negative integers are fusible, and that every fusible number is a rational whose denominator is a power of 2, but that not all such rationals are fusible. 
 
 With a bit more sweat, we can also show that the fusible numbers accumulate on the positive integers from the left: that is, for positive integer n, there's no greatest fusible number less than n.
 
