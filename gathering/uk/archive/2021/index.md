@@ -32,9 +32,6 @@ So here we have a statement that can be stated using the language of arithmetic,
 
 A puzzle with multiple solution methods, and musings arising.
 
-- [Ben's slides (PDF)]({{site.url}}/assets/talks/2021/BenSparks-TheCakeandtheCandles.pdf)
-- [Ben's slides (PPT)]({{site.url}}/assets/talks/2021/BenSparks-TheCakeandtheCandles.pptx)
-
 #### Sam Hartburn  - Extreme String Art (Without the String)
 
 You can make lovely string art by using straight lines to join equally-spaced points on a circle. But why stick to a circle? By changing the initial curve (and using a lot of lines) you can generate a plethora of beautiful designs.
@@ -154,7 +151,7 @@ Though musical in nature, church-bell ringing in the UK does not use the standar
 
 My victims in Pisa (students at open days) often make life needlessly hard for themselves. Multiple times, they have decided that a straightforwardish problem is actually an unsolved problem from a Richard Guy book.
 
-- [Adam's slides (PDF)]({{site.url}}/assets/talks/2021/AdamAtkinson-Is(oneofthe)biggestalwaysbest?.pdf)
+- [Adam's slides (PDF)]({{site.url}}/assets/talks/2021/AdamAtkinson-Is(oneofthe)biggestalwaysbest.pdf)
 - [A053020, on OEIS](http://oeis.org/A053020)
 
 #### Daniel Santos  - The Sun Numerical System
