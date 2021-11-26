@@ -2,8 +2,6 @@
 layout: gathering
 title: MathsJam Gathering 2021
 ---
-	
-PLEASE NOTE: This page is provisional until the MathsJam Gathering weekend - prior to that, links will not work and information may be inaccurate. But also, we haven't linked to it yet, so you're presumably here because you guessed the URL. Well done!
 
 This is a list of talks given at the 2021 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
@@ -16,11 +14,19 @@ The gathering took place on 20th - 21st November 2021.
 ### SESSION 1
 
 #### Phil Ramsden  - Thought You Were Clever When You Lit The Fuse
+You have an unlimited collection of fuses, each of which burns for one hour if lit at one end, and half an hour if lit at both ends at once. Using two fuses, can you time 3/4 of an hour? Using as many fuses as you like, can you time 5/4 of an hour? 
 
-You have an unlimited collection of fuses, each of which burns for one hour if lit at one end, and half an hour if lit at both ends at once. Using two fuses, can you time 3/4 of an hour? Using as many fuses as you like, can you time 5/4 of an hour? What durations can you time using your fuses, and what can't be timed in this way? And what has this got to do with the logical foundations of Mathematics?
+The exact origin of this popular type of puzzle is hard to trace, but it was described as ""old"" in 1999. Here we're interested in the general question: what durations can we time with our fuses, and what can't be timed in this way? 
 
-- [Phil's slides (PDF)]({{site.url}}/assets/talks/2021/PhilRamsden-ThoughtYouWereCleverWhenYouLitTheFuse.pdf)
-- [Phil's slides (PPT)]({{site.url}}/assets/talks/2021/PhilRamsden-ThoughtYouWereCleverWhenYouLitTheFuse.pptx)
+Let's call a number ""fusible"" if there exists a fuse-burning algorithm that will time that exact duration in hours. It's really not hard to show that all non-negative integers are fusible, and that every fusible number is a rational whose denominator is a power of 2, but that not all such rationals are fusible. 
+
+With a bit more sweat, we can also show that the fusible numbers accumulate on the positive integers from the left: that is, for positive integer n, there's no greatest fusible number less than n.
+
+However, they don't accumulate from the right. For example, there's a *least* fusible number *greater* than 1, namely 9/8. And there's a least fusible number greater than 2, namely 513/256. In fact, CLAIM: given any positive integer n, there exists a least fusible number greater than n.
+
+This claim is *true*. What's more, this claim is also *proved*. However, it can't be proved using the common-or-garden axioms of arithmetic; we need *transfinite induction* to do the job.
+
+So here we have a statement that can be stated using the language of arithmetic, and that's true, but that can't be *proved* using the axioms of arithmetic. That makes this claim about fuses, which originated in recreational maths puzzles, a natural Gödel sentence for the Peano axioms. I love that.
 
 #### Ben Sparks  - The Cake and the Candles
 
@@ -33,15 +39,11 @@ A puzzle with multiple solution methods, and musings arising.
 
 You can make lovely string art by using straight lines to join equally-spaced points on a circle. But why stick to a circle? By changing the initial curve (and using a lot of lines) you can generate a plethora of beautiful designs.
 
-- [Sam's slides (PDF)]({{site.url}}/assets/talks/2021/SamHartburn-ExtremeStringArt(WithouttheString).pdf)
-- [Sam's slides (PPT)]({{site.url}}/assets/talks/2021/SamHartburn-ExtremeStringArt(WithouttheString).pptx)
+- [Sam's Geogebra applet](https://www.geogebra.org/m/waej2e7y)
 
 #### Laurence O'Toole  - Predicting Groupthink 2 - A Magic Trick
 
 If everybody in a group has a completely free choice of number, is the result always the same?
-
-- [Laurence's slides (PDF)]({{site.url}}/assets/talks/2021/LaurenceO'Toole-PredictingGroupthink2-AMagicTrick.pdf)
-- [Laurence's slides (PPT)]({{site.url}}/assets/talks/2021/LaurenceO'Toole-PredictingGroupthink2-AMagicTrick.pptx)
 
 ### SESSION 2
 
@@ -49,29 +51,19 @@ If everybody in a group has a completely free choice of number, is the result al
 
 The World Chess Federation has some rules to prevent games from going on forever. I will outline a proposal by Tom Murphy VII for the longest possible legal chess game, and show the Twitter bot that I made to celebrate this achievement.
 
-- [Alexander's slides (PDF)]({{site.url}}/assets/talks/2021/AlexanderBolton-TheLongestChessGame?.pdf)
-- [Alexander's slides (PPT)]({{site.url}}/assets/talks/2021/AlexanderBolton-TheLongestChessGame?.pptx)
+- [Alexander's slides (PDF)]({{site.url}}/assets/talks/2021/AlexanderBolton-TheLongestChessGame.pdf)
 
 #### Philipp Reinhard  - Disturbing Mandelbrot
 
 We'll explore what happens if we play around with the definition of the Mandelbrot set. There will be lots of pictures and animations. And the Riemann zeta function will make an appearance. 
 
-- [Philipp's slides (PDF)]({{site.url}}/assets/talks/2021/PhilippReinhard-DisturbingMandelbrot.pdf)
-- [Philipp's slides (PPT)]({{site.url}}/assets/talks/2021/PhilippReinhard-DisturbingMandelbrot.pptx)
+#### Sophie Maclean  - MathsJam and Mental Health (CW: Mental Illness, Hospitals) 
 
-#### Sophie Maclean  - MathsJam and Mental Health
-
-This will be different to most talks in that it will contain no Maths. Instead I want to take this opportunity to start a conversation about mental health in Maths and thank the many members of the MathsJam community who helped me in my recovery from mental illness (CW: Mental Illness, Hospitals) 
-
-- [Sophie's slides (PDF)]({{site.url}}/assets/talks/2021/SophieMaclean-MathsJamandMentalHealth.pdf)
-- [Sophie's slides (PPT)]({{site.url}}/assets/talks/2021/SophieMaclean-MathsJamandMentalHealth.pptx)
+This will be different to most talks in that it will contain no Maths. Instead I want to take this opportunity to start a conversation about mental health in Maths and thank the many members of the MathsJam community who helped me in my recovery from mental illness. In particular Katie Steckles who enabled me to take part in 24 Hour Maths Magic show from an eating disorder ward; Colin Wright who rearranged the BigMathsJam 2020 timetable to match my hospital time table; the Chalkdust team for their unending support and allowing me to be feel myself and normal; and Tom Crawford for supporting me through the podcast I created whilst ill!
 
 #### Cesco Reale  - Online World Championship of Abstract Games for Nations
 
 I will present the Mochalunt, Online World Championship of Abstract Games for Nations, that will start probably in January: definition of abstract games, spirit and structure of the tournament, questions.
-
-- [Cesco's slides (PDF)]({{site.url}}/assets/talks/2021/CescoReale-OnlineWorldChampionshipofAbstractGamesforNations.pdf)
-- [Cesco's slides (PPT)]({{site.url}}/assets/talks/2021/CescoReale-OnlineWorldChampionshipofAbstractGamesforNations.pptx)
 
 #### Gavan Fantom  - Fast Inverse Square Root
 
@@ -81,25 +73,31 @@ The Fast Inverse Square Root is a notorious algorithm for quickly approximating 
 
 #### Johnny Ball  - How to draw a Perfect Egg Shape using a Pentagon and Pentagram.
 
-We have here a Pentagon with a Pentagram inside it. The Pentagram was the Symbol or badge of the Pythagorean's. It is fascinating because longer and shorter lines are always in Golden Ratio to each other. By adding just three lines to the diagram, you have all you need, with a pair of compasses, to draw a perfect Egg. With compasses, form four curves and the Perfect Egg is achieved. Test it by holding a hens egg against it and see how the curves match. So the bottom wider end of a Hen's Egg is an almost perfect semi or half sphere. Now, when a hen lays an egg, which end appears first? It is this wide semi spherical end. Ouch. 
+Geometry is a magical science that is somewhat neglected in Secondary School Maths these days, in favour of numeracy and statistics. But if we can kindle a feeling for the wonder of Geometry in young people, we could show them how Maths and Nature have so many connections, how Geometry and beautiful design go hand in hand, and how they can turn their maths world into beautiful pictures and wondrous designs.
 
-- [Johnny's slides (PDF)]({{site.url}}/assets/talks/2021/JohnnyBall-HowtodrawaPerfectEggShapeusingaPentagonandPentagram..pdf)
-- [Johnny's slides (PPT)]({{site.url}}/assets/talks/2021/JohnnyBall-HowtodrawaPerfectEggShapeusingaPentagonandPentagram..pptx)
+We have here a Pentagon with a Pentagram inside it. The Pentagram was the Symbol or badge of the Pythagorean's. It is fascinating because longer and shorter lines are always in Golden Ratio to each other. By adding just three lines to the diagram, you have all you need, with a pair of compasses, to draw a perfect Egg. With compasses, form four curves and the Perfect Egg is achieved. Test it by holding a hens egg against it and see how the curves match. So the bottom wider end of a Hen's Egg is an almost perfect semi or half sphere. Now, when a hen lays an egg, which end appears first? It is this wide semi spherical end. Ouch.
 
 ### SESSION 3
 
 #### Katie Steckles  - A Fun Integer Sequence 
 
-A famous integer sequence in recreational maths starts 1, 11, 21, 1211, 111221, ... Katie will talk about this sequence, set some related puzzles, and explain why she's recently been inspired to talk about it.
+A famous integer sequence in recreational maths starts 1, 11, 21, 1211, 111221, ... Katie talked about this sequence, which is called the Look and Say Sequence, and posed a few puzzles, such as:
+- What's the highest digit you'll find in the sequence as defined, and why?
+- What happens if tou use a different starting number?
+- What's the most boring number you can start with?
+
+She also explored some variants on the sequence, and explained why she was recently inspired to talk about it.
 
 - [Katie's slides (photo)]({{site.url}}/assets/talks/2021/KatieSteckles-AFunIntegerSequence.pdf)
+- [The tweet that inspired the talk](https://twitter.com/aap03102/status/1455052185889292289)
+- [A005150, on OEIS](https://oeis.org/A005150)
+- [Article Katie wrote about it for Spektrum Scilogs](https://scilogs.spektrum.de/hlf/a-puzzle-for-november/)
+- [Original issue of 'Eureka' containing Conway's article](https://www.archim.org.uk/eureka/archive/Eureka-46.pdf)
+- [Back issues of Eureka](https://www.archim.org.uk/eureka/archive/index.html)
 
 #### Goran Newsum  - Quadrilateral is a misnomer
 
 Why do most shape names follow a pattern apart but four and three sided shapes don't?
-
-- [Goran's slides (PDF)]({{site.url}}/assets/talks/2021/GoranNewsum-Quadrilateralisamisnomer.pdf)
-- [Goran's slides (PPT)]({{site.url}}/assets/talks/2021/GoranNewsum-Quadrilateralisamisnomer.pptx)
 
 #### Nancy Blachman  - COVID Misinformation Spreads because Many Don’t Understand Maths
 
@@ -111,9 +109,6 @@ Until recently, the general public could get by without understanding probabilit
 #### Alexandre Muñiz  - Shaker Dice and Edge Labelings
 
 Shaker dice have a channel where balls fall, and numbers on the channel can be read off to determine the result. Finding useful numberings takes us into graph edge labeling.
-
-- [Alexandre's slides (PDF)]({{site.url}}/assets/talks/2021/AlexandreMuñiz-ShakerDiceandEdgeLabelings.pdf)
-- [Alexandre's slides (PPT)]({{site.url}}/assets/talks/2021/AlexandreMuñiz-ShakerDiceandEdgeLabelings.pptx)
 
 #### Simon Bexfield - 3D printed objects
 
@@ -142,34 +137,31 @@ I've made another baby, so it's time for another talk about baby maths. Each Pea
 Belgin plays the remake of a 90s game that teaches mathematical thinking without any equations.
 
 - [Belgin's slides (PDF)]({{site.url}}/assets/talks/2021/BelginSeymenoglu-Zoombinis.pdf)
-- [Belgin's slides (PPT)]({{site.url}}/assets/talks/2021/BelginSeymenoglu-Zoombinis.pptx)
 
 #### James Arthur  - Running Around in Circles
 
 Every week I run an event called parkrun, we go around and around in circles and everytime somebody shouts out how many laps we have done. Any loop can have a similar mapping to numbers. Let's explore this briefly.
 
-- [James's slides (PDF)]({{site.url}}/assets/talks/2021/JamesArthur-RunningAroundinCircles.pdf)
-- [James's slides (PPT)]({{site.url}}/assets/talks/2021/JamesArthur-RunningAroundinCircles.pptx)
+James used some ideas from Algebraic Topology and more specifically Homotopies to think about in actuality running around in circles is just doing sums.
 
 #### Matt Peperell  - A set of strange notation systems for sequences of permutations
 
 A certain subset of people, who may or may not be mathematicians, care about permutations and sequences thereof. How can we describe these, and how can we easily commit them to memory?
 
-- [Matt's slides (PDF)]({{site.url}}/assets/talks/2021/MattPeperell-Asetofstrangenotationsystemsforsequencesofpermutations.pdf)
-- [Matt's slides (PPT)]({{site.url}}/assets/talks/2021/MattPeperell-Asetofstrangenotationsystemsforsequencesofpermutations.pptx)
+Though musical in nature, church-bell ringing in the UK does not use the standard Western music notation. Instead the music is described as a sequence of permutations and there are a family of related notation systems to describe these sequences.
 
 #### Adam Atkinson  - Is (one of the) biggest always best?
 
-My victims in Pisa often make life needlessly hard for themselves. Multiple times, they have decided that a straightforwardish problem is actually an unsolved problem from a Richard Guy book. I will talk about the unsolved problem.
+My victims in Pisa (students at open days) often make life needlessly hard for themselves. Multiple times, they have decided that a straightforwardish problem is actually an unsolved problem from a Richard Guy book.
 
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2021/AdamAtkinson-Is(oneofthe)biggestalwaysbest?.pdf)
+- [A053020, on OEIS](http://oeis.org/A053020)
 
 #### Daniel Santos  - The Sun Numerical System
 
 This talk is going to introduce you to some concepts of numerical systems and Daniel is going to talk how some of the features of the Decimal system give confusion and misunderstandings and complexity in Daniel's point of view. A new numerical system without this problems is going to be explained and introduced by the name of Sun Numerical System (or Neonal).
 
 - [Daniel's slides (PDF)]({{site.url}}/assets/talks/2021/DanielSantos-TheSunNumericalSystem.pdf)
-- [Daniel's slides (PPT)]({{site.url}}/assets/talks/2021/DanielSantos-TheSunNumericalSystem.pptx)
 
 ### SESSION 5
 
@@ -177,33 +169,28 @@ This talk is going to introduce you to some concepts of numerical systems and Da
 
 This talk is all about half-lives and how they can affect your mood. 
 
-- [Alison's slides (PDF)]({{site.url}}/assets/talks/2021/AlisonKiddle-OnHalf-LivesandHappiness.pdf)
-- [Alison's slides (PPT)]({{site.url}}/assets/talks/2021/AlisonKiddle-OnHalf-LivesandHappiness.pptx)
-
 #### Francis Hunt  - Flexagons for Year 8
 
 My employer has just started running some maths clubs for year 8 students. So this talk will just tell or remind you what trihexaflexagons and hexaflexagons are and how to make them, and note the 3 most common problems school students encounter when making them; also your welcome to the slides and templates (pdf/LaTeX) I used.
 
 - [Francis's slides (PDF)]({{site.url}}/assets/talks/2021/FrancisHunt-FlexagonsforYear8.pdf)
-- [Francis's slides (PPT)]({{site.url}}/assets/talks/2021/FrancisHunt-FlexagonsforYear8.pptx)
 
 #### Tony Mann  - The "Sleeping Beauty" Paradox
 
 I'll outline the "Sleeping Beauty" problem (which has led to over 100 articles in philosophical journals).
 
-- [Tony's slides (PDF)]({{site.url}}/assets/talks/2021/TonyMann-The"SleepingBeauty"Paradox.pdf)
-- [Tony's slides (PPT)]({{site.url}}/assets/talks/2021/TonyMann-The"SleepingBeauty"Paradox.pptx)
+- [Tony's slides (PDF)]({{site.url}}/assets/talks/2021/TonyMann-TheSleepingBeautyParadox.pdf)
+- [Tony's slides (PPT)]({{site.url}}/assets/talks/2021/TonyMann-TheSleepingBeautyParadox.pptx)
 
 #### Alistair Bird  - The Princess is in another Castle
 
-My quixotic quest to track down the seemingly shifting origins and variants of the “Princess in a Castle” logic problem.
+My quixotic quest to search for the seemingly shifting origins and variants of the “Princess in a Castle” logic problem.
 
-- [Alistair's slides (PDF)]({{site.url}}/assets/talks/2021/AlistairBird-ThePrincessisinanotherCastle.pdf)
-- [Alistair's slides (PPT)]({{site.url}}/assets/talks/2021/AlistairBird-ThePrincessisinanotherCastle.pptx)
+Tracking down the origins of a puzzle is as futile as looking for the origins of a joke. But I tried for this apparently recent puzzle. We also look at variants and what makes a good one.
 
 #### Colin Wright  - Coincidences and Lovely Things in Maths
 
-A list of lovely things in maths.
+A short time ago on Twitter there was a thread of coincidences in maths, which evolved into a collection of generally lovely things.  Here are some of them.
 
-- [Colin's slides (PDF)]({{site.url}}/assets/talks/2021/ColinWright-CoincidencesandLovelyThingsinMaths.pdf)
-- [Colin's slides (PPT)]({{site.url}}/assets/talks/2021/ColinWright-CoincidencesandLovelyThingsinMaths.pptx)
+- [The tweet that inspired the talk](https://twitter.com/kyledevans/status/1454348348669022209)
+- [Colin's Chart of tweets](https://www.solipsys.co.uk/Chartter/1454348348669022209.svg)
