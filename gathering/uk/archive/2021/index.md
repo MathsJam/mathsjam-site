@@ -156,7 +156,7 @@ My victims in Pisa (students at open days) often make life needlessly hard for t
 
 #### Daniel Santos  - The Sun Numerical System
 
-This talk is going to introduce you to some concepts of numerical systems and Daniel is going to talk how some of the features of the Decimal system give confusion and misunderstandings and complexity in Daniel's point of view. A new numerical system without this problems is going to be explained and introduced by the name of Sun Numerical System (or Neonal).
+This talk is going to introduce you to some concepts of numerical systems and Daniel is going to talk about how some of the features of the Decimal system give confusion and misunderstandings and complexity in Daniel's point of view. A new numerical system without these problems is going to be explained and introduced by the name of Sun Numerical System (or Neonal).
 
 - [Daniel's slides (PDF)]({{site.url}}/assets/talks/2021/DanielSantos-TheSunNumericalSystem.pdf)
 
@@ -168,7 +168,7 @@ This talk is all about half-lives and how they can affect your mood.
 
 #### Francis Hunt  - Flexagons for Year 8
 
-My employer has just started running some maths clubs for year 8 students. So this talk will just tell or remind you what trihexaflexagons and hexaflexagons are and how to make them, and note the 3 most common problems school students encounter when making them; also your welcome to the slides and templates (pdf/LaTeX) I used.
+My employer has just started running some maths clubs for year 8 students. So this talk will just tell or remind you what trihexaflexagons and hexaflexagons are and how to make them, and note the 3 most common problems school students encounter when making them; also you're welcome to the slides and templates (pdf/LaTeX) I used.
 
 - [Francis's slides (PDF)]({{site.url}}/assets/talks/2021/FrancisHunt-FlexagonsforYear8.pdf)
 
