@@ -54,9 +54,15 @@ The World Chess Federation has some rules to prevent games from going on forever
 
 We'll explore what happens if we play around with the definition of the Mandelbrot set. There will be lots of pictures and animations. And the Riemann zeta function will make an appearance. 
 
+- [Philipp's slides (PDF)]({{site.url}}/assets/talks/2021/PhilippReinhard-DisturbingMandelbrot.pdf)
+- [Philipp's slides (PPTX)]({{site.url}}/assets/talks/2021/PhilippReinhard-DisturbingMandelbrot.pptx)
+
 #### Sophie Maclean  - MathsJam and Mental Health (CW: Mental Illness, Hospitals) 
 
 This will be different to most talks in that it will contain no Maths. Instead I want to take this opportunity to start a conversation about mental health in Maths and thank the many members of the MathsJam community who helped me in my recovery from mental illness. In particular Katie Steckles who enabled me to take part in 24 Hour Maths Magic show from an eating disorder ward; Colin Wright who rearranged the BigMathsJam 2020 timetable to match my hospital time table; the Chalkdust team for their unending support and allowing me to be feel myself and normal; and Tom Crawford for supporting me through the podcast I created whilst ill!
+
+- [Edited version of Sophie's slides (PDF)]({{site.url}}/assets/talks/2021/SophieMaclean-MathsJamandMentalHealth.pdf)
+
 
 #### Cesco Reale  - Online World Championship of Abstract Games for Nations
 
