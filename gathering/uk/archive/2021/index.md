@@ -100,7 +100,7 @@ Why do most shape names follow a pattern apart but four and three sided shapes d
 
 Until recently, the general public could get by without understanding probability and statistics. But that changed with COVID-19. Now hundreds of thousands of people haven’t gotten vaccinated and are dying because they don’t understand what they hear or read and social media spreads misinformation rapidly.
 
-- [Nancy's slides (PDF)]({{site.url}}/assets/talks/2021/NancyBlachman-COVIDMisinformationSpreadsbecauseManyDon’tUnderstandMaths.pdf)
+- [Nancy's slides (PDF)]({{site.url}}/assets/talks/2021/NancyBlachman-COVIDMisinformationSpreadsbecauseManyDontUnderstandMaths.pdf)
 - [Nancy's slides (Google Slides)](https://docs.google.com/presentation/d/1fqW6Wwa3qlUmtvAPZca79xcj7Muy8z9xHHY9-XJ5iQs/edit#slide=id.g1025ff567f7_0_0)
 
 #### Alexandre Muñiz  - Shaker Dice and Edge Labelings
