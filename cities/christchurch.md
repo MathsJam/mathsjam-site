@@ -21,6 +21,7 @@ hiatus_months:
     - 2017-05
 changed_dates:
     - 2017-12-19
+    - 2021-12-21
 jam_date_rule: third Tuesday
 start_time: 7pm in the evening
 ---
