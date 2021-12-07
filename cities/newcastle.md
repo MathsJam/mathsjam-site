@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Newcastle                                                               
 jam_name: Newcastle MathsJam
 email: newcastle@mathsjam.com
