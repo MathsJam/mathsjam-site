@@ -16,6 +16,8 @@ location:
     lon: 174.7747512
     lat: -41.2920615
 hiatus: False
+changed_dates:
+    - 2021-12-21
 start_time: 5.30pm
 ---
 
