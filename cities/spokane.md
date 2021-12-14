@@ -21,6 +21,7 @@ hiatus_months:
 changed_dates:
     - 2018-12-18
     - 2019-11-26
+    - 2021-12-21
 start_time: 7pm
 
 ---
