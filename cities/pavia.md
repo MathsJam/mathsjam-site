@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Pavia                                                               
 jam_name: Pavia MathsJam
 email: pavia@mathsjam.com
@@ -20,7 +20,7 @@ hiatus: False
 hiatus_months:
     - 2018-08
     - 2020-03
-start_time: 8.30pm
+start_time: 8.00pm
 changed_dates:
     - 2018-12-13
     - 2019-02-19
