@@ -20,6 +20,7 @@ hiatus_months:
     - 2020-03
 changed_dates:
     - 2018-12-18
+    - 2021-12-20
 jam_date_rule: 1 day before the second-last Tuesday
 december_jam_date_rule: 1 day before the third-last Tuesday
 extra_text: "While we're not able to meet in person, we're holding online MathJams via Zoom - contact the organisers for more details."
