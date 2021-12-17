@@ -8,7 +8,7 @@ organiser:
     name: Ayliean
     email: aberdeen@mathsjam.com
 location:
-    group: rest-of-uk
+    group: uk-ireland
     pub_name: "Dr. Noodles"
     description: " on Union St"
     url: http://www.drnoodles.co.uk/

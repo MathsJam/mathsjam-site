@@ -9,7 +9,7 @@ organiser:
     name: Shaila
     email: bristol@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "Highbury Vaults"
     description: " which is on Saint Michael's Hill"
     url: https://www.thebristolyard.co.uk/

@@ -9,7 +9,7 @@ organiser:
     name: Barney
     email: eastdorset@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "The Richmond Arms"
     description: ", on Charminster Road, Bournemouth"
     url: https://www.greeneking-pubs.co.uk/pubs/dorset/richmond-arms/

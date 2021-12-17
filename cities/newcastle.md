@@ -9,7 +9,7 @@ organiser:
     name: Michael
     email: newcastle@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "Tilleys Bar"
     description: " on Westgate Road"
     url: http://www.theheadofsteam.co.uk/bars/tilleysbar

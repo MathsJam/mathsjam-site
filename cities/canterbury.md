@@ -10,7 +10,7 @@ organiser:
     name: Sam and Claire
     email: canterbury@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "The Old Gate Inn"
     description: ", on New Dover Road"
     url: https://www.vintageinn.co.uk/restaurants/south-east/theoldgateinnbridgecanterbury

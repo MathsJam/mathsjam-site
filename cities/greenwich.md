@@ -9,7 +9,7 @@ organiser:
     name: Tony
     email: greenwich@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "the Old Brewery"
     description: ", which is in the Pepys building, Old Royal Naval College"
     url: https://www.oldbrewerygreenwich.com/

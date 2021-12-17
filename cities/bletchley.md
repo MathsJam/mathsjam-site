@@ -9,7 +9,7 @@ organiser:
     name: Tom
     email: bletchley@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "Captain Ridley's Shooting Party"
     description: " which is on Queensway"
     url: https://www.jdwetherspoon.com/pubs/all-pubs/england/buckinghamshire/captain-ridleys-shooting-party-milton-keynes

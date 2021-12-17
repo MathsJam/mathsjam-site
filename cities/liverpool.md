@@ -9,7 +9,7 @@ organiser:
     name: Marianne and Chris
     email: liverpool@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "the Blackburne Arms"
     description: " on Catharine St"
     url: http://theblackburneliverpool.com/

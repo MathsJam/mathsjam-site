@@ -9,7 +9,7 @@ organiser:
     name: Alistair and Lynda
     email: guildford@mathsjam.com
 location:
-    group: england
+    group: uk-ireland
     pub_name: "the Astolat"
     description: ", on Old Palace Road (outside if possible)"
     url: https://www.astolatpub.co.uk
