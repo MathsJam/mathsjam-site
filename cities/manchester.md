@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: False
+lockdown: True
 city_name: Manchester                                                               
 jam_name: Manchester MathsJam
 email: manchester@mathsjam.com
@@ -18,4 +18,5 @@ location:
 hiatus: False
 hiatus_months:
     - 2020-03
+extra_text: "For the time being we're meeting virtually, in the MathsJam Gather.town virtual pubs. Contact Katie (details above) for more info."
 ---
