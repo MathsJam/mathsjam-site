@@ -1,7 +1,7 @@
 ---
 layout: city                                           
 lang: es_PA
-lockdown: True
+lockdown: False
 city_name: Panamá                                                               
 jam_name: Panamá MathsJam
 email: panama@mathsjam.com
@@ -11,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: "La Rana Dorada"
-    description: ", but during COVID-19 we will meet online instead"
+    description: ", Condado Del Rey"
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
@@ -22,8 +22,8 @@ hiatus_months:
     - 2020-03
     - 2020-12
     - 2021-12
+    - 2022-01
 start_time: 6:00pm - 9:00pm
-extra_text: The online MathsJams will take place on Google Meet, and you can see the <a href="PanamaJamVirtual19.png">details for the latest event here</a>, and <a href="https://tinyurl.com/mathsjam19">book by clicking here</a>.
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
