@@ -16,7 +16,9 @@ location:
     url: http://www.bagnimunicipali.org/
     lon: 7.6783148
     lat: 45.0541213
-hiatus: True
+hiatus: False
+hiatus_months:
+    - 2022-01
 changed_dates: 
     - 2021-12-21
 ---
