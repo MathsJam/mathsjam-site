@@ -10,11 +10,11 @@ organiser:
     email: edinburgh@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "Spoon Cafe Bistro"
-    description: " which is on Nicholson Street"
-    url: https://spoonedinburgh.co.uk/
-    lon: -3.1863485
-    lat: 55.9471007
+    pub_name: "Brass Monkey"
+    description: " which is on Drummond Street"
+    url: https://www.brassmonkeyedinburgh.co.uk/
+    lon: -3.1853262
+    lat: 55.9473374
 hiatus: False
 hiatus_months:
     - 2018-01
