@@ -11,7 +11,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: "The Brass Monkey"
-    description: " which is on Drummond Street"
+    description: " which is on Drummond Street. Look for the table with a toy sheep doing a Rubik's cube puzzle"
     url: https://www.brassmonkeyedinburgh.co.uk/
     lon: -3.1853463
     lat: 55.9472938
