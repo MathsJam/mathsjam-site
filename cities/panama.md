@@ -32,5 +32,5 @@ poster_text: |
     cualquier problema que les parezca interesante.
     Es en el penúltimo martes de cada mes, y se
     realiza en todas partes del mundo.
-extra_text: "<a href="PanamaMathsJamFebrero2022.png">Click here for a flyer with details of the latest event</a>."
+extra_text: "<a href=&quot;PanamaMathsJamFebrero2022.png&quot;>Click here for a flyer with details of the latest event</a>."
 ---
