@@ -13,8 +13,8 @@ location:
     pub_name: "Cervetoria Craft Beer Pub"
     description: " on Av. Rovisco Pais"
     url: https://www.facebook.com/Cervetoria/
-    lat: -9.1395223
-    lon: 38.7351418
+    lat: 38.7351418
+    lon: -9.1395223
 hiatus: False
 hiatus_months:
     - 2018-10
