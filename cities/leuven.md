@@ -9,11 +9,11 @@ organiser:
     email: leuven@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "De Waaiberg"
-    description: ", Tervuursevest 60"
-    url: https://www.waaiberg.be/
-    lon: 4.6954114
-    lat: 50.8699634
+    pub_name: "Entrepot cafe"
+    description: ", in the Opek Gallery at Vaartkom 4"
+    url: https://www.opek.be/
+    lon: 4.7002493
+    lat: 50.8877297
 hiatus: False
 start_time: 20:00 - 23:00
 ---
