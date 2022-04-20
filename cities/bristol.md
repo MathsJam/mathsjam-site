@@ -6,7 +6,7 @@ jam_name: Bristol MathsJam
 email: bristol@mathsjam.com
 twitter: BristolMathsJam
 organiser:
-    name: Shaila
+    name: Justin and Dave
     email: bristol@mathsjam.com
 location:
     group: uk-ireland
