@@ -1,0 +1,66 @@
+# Build the site and upload it to mathsjam.com
+
+name: Build mathsjam.com
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master, build-action ]
+  pull_request:
+    branches: [ master, build-action ]
+    
+  schedule:
+    # Run every day at 07:41[
+    - cron:  '41 7 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the private source
+        uses: actions/checkout@v3
+        with:
+          repository: katiesteckles/mathsjam-private
+          path: .
+          token: ${{ secrets.PAT_TOKEN }}
+      - name: Checkout the public source
+        uses: actions/checkout@v3
+        with:
+          repository: mathsjam/mathsjam-site
+          path: src/content
+
+      - name: Download spress
+        run: |
+          wget https://github.com/spress/spress/releases/download/v3.0.0/spress.phar
+          chmod +x spress.phar
+          
+      - name: Build the site
+        run: ./spress.phar site:build
+
+      # It looks like mediatemple, which hosts mathsjam.com, uses such old SSH that github won't connect to it.
+      # So we have to go via Christian L-P's server.
+      - name: Rsync to clpland
+        uses: burnett01/rsync-deployments@5.2
+        with:
+          switches: -avzr
+          path: build/
+          remote_path: /root/mathsjam-action
+          remote_host: 45.76.138.97
+          remote_user: root
+          remote_key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: Rsync from clpland to mathsjam.com
+        uses: D3rHase/ssh-command-action@v0.2
+        with:
+          HOST: 45.76.138.97
+          # user of the server
+          USER: root
+          # private ssh key registered on the server
+          PRIVATE_SSH_KEY: ${{ secrets.DEPLOY_KEY }}
+          # command to be executed
+          COMMAND: rsync -avz ~/mathsjam-action/* standupmaths.co.uk@s168300.gridserver.com:/home/168300/users/.home/domains/mathsjam.com/html
