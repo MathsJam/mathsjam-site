@@ -40,26 +40,17 @@ jobs:
           
       - name: Build the site
         run: ./spress.phar site:build
-
-      # It looks like mediatemple, which hosts mathsjam.com, uses such old SSH that github won't connect to it.
-      # So we have to go via Christian L-P's server.
-      - name: Rsync to clpland
-        uses: burnett01/rsync-deployments@5.2
+          
+      - name: Copy the files to mathsjam.com by FTP
+        uses: sebastianpopp/ftp-action@v2.0.0
         with:
-          switches: -avzr
-          path: build/
-          remote_path: /root/mathsjam-action
-          remote_host: 45.76.138.97
-          remote_user: root
-          remote_key: ${{ secrets.DEPLOY_KEY }}
-
-      - name: Rsync from clpland to mathsjam.com
-        uses: D3rHase/ssh-command-action@v0.2
-        with:
-          HOST: 45.76.138.97
-          # user of the server
-          USER: root
-          # private ssh key registered on the server
-          PRIVATE_SSH_KEY: ${{ secrets.DEPLOY_KEY }}
-          # command to be executed
-          COMMAND: rsync -avz ~/mathsjam-action/* standupmaths.co.uk@s168300.gridserver.com:/home/168300/users/.home/domains/mathsjam.com/html
+          # FTP host
+          host: ${{ secrets.FTP_HOST }}
+          # FTP user
+          user: ${{ secrets.FTP_USER }}
+          # FTP password
+          password: ${{ secrets.FTP_PASSWORD }}
+          # Local directory
+          localDir: build
+          # Remote directory
+          remoteDir: .
