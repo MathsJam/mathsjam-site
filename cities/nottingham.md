@@ -10,11 +10,12 @@ organiser:
     email: nottingham@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "the Crafty Crow"
-    description: " opposite the gate to Nottingham castle"
-    url: http://www.craftycrownotts.co.uk/
-    lon: -1.153845300000057
-    lat: 52.9511504
+    pub_name: "the Roundhouse"
+    description: " on Royal Standard Place, near the Castle"
+    url: https://theroundhousenottingham.com/
+    lon: -1.1552089
+    lat: 52.9517253
+start_time: 7.30pm
 hiatus: False
 hiatus_months:
     - 2020-03
