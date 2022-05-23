@@ -10,7 +10,7 @@ organiser:
     email: cheltenham@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "Norwood Arms"
+    pub_name: "the Norwood Arms"
     description: ", on Leckhampton Road"
     url: http://www.norwoodarms-cheltenham.co.uk/
     lon: -2.0807666
