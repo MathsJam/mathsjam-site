@@ -15,7 +15,7 @@ location:
     url: http://www.druidshead-kingston.co.uk/
     lon: -0.306518
     lat: 51.4092554
-hiatus: False
+hiatus: True
 hiatus_months:
     - 2017-08
     - 2018-07
