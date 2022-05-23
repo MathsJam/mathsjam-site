@@ -11,7 +11,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: "Hall and Woodhouse"
-    description: ", on Old King Street"
+    description: ", on Old King Street just off Queen's Square"
     url: http://hall-woodhousebath.co.uk/
     lon: -2.362606
     lat: 51.383856
