@@ -39,7 +39,7 @@ jobs:
           chmod +x spress.phar
           
       - name: Copy extra resources into the src/content folder
-        uses: MadaraUchiha/copy-action@0.0.1
+        uses: MadaraUchiha/copy-action@862ab14367a7140df59564b22ef3502e2b163b4a
         with:
           # Source file
           source: resources
