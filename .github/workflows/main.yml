@@ -38,6 +38,14 @@ jobs:
           wget https://github.com/spress/spress/releases/download/v3.0.0/spress.phar
           chmod +x spress.phar
           
+      - name: Copy extra resources into the src/content folder
+        uses: MadaraUchiha/copy-action@0.0.1
+        with:
+          # Source file
+          source: resources
+          # Target file
+          target: src/content/resources
+
       - name: Build the site
         run: ./spress.phar site:build
           
