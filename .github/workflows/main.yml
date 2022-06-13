@@ -19,6 +19,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    if: github.repository_owner == 'MathsJam'
 
     steps:
       - name: Checkout the private source
