@@ -20,7 +20,7 @@ hiatus: False
 hiatus_months:
     - 2022-02
 changed_dates: 
-    - 2022-04-20
+    - 2022-06-20
 start_time: 7.30pm in the evening
 extra_text: "The pub is generally quiet on a Tuesday night and there is lots of space between tables, so we are now meeting inside. Meetings will be confirmed by email on MathsJam morning - please let us know if you're planning to come so that we can include you in the email."
 ---
