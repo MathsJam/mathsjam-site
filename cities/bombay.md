@@ -17,5 +17,5 @@ location:
     lon: 72.8310403
 hiatus: False
 jam_date_rule: fourth Saturday
-start_time: 5:30 pm in the evening
+start_time: 5pm
 ---
