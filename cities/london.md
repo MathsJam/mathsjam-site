@@ -18,4 +18,5 @@ location:
 hiatus: False
 hiatus_months:
     - 2020-03
+    - 2022-06
 ---
