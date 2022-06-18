@@ -20,6 +20,7 @@ hiatus: False
 hiatus_months:
     - 2020-03
     - 2020-04
+    - 2022-06
 changed_dates:
     - 2018-12-18
 ---
