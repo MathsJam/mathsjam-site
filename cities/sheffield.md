@@ -11,7 +11,7 @@ location:
     group: uk-ireland
     pub_name: "The Bath Hotel"
     description: " on Victoria Street"
-    url: https://instagram.com/beerinthebath
+    url: https://www.sheffieldpub.co.uk/pubs/city-centre/bath-hotel/
     lon: -1.4823558
     lat: 53.379192
 hiatus: False
