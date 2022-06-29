@@ -9,14 +9,15 @@ organiser:
     email: sheffield@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "The Red Deer"
-    description: " behind West Street"
-    url: http://www.thereddeersheffield.co.uk/
-    lon: -1.479595846782057
-    lat: 53.380850681252255
+    pub_name: "The Bath Hotel"
+    description: " on Victoria Street"
+    url: https://instagram.com/beerinthebath
+    lon: -1.4823558
+    lat: 53.379192
 hiatus: False
 hiatus_months:
     - 2020-03
+    - 2022-07
 changed_dates:
     - 2022-05-23
 ---
