@@ -21,5 +21,5 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2021-12-21
-start_time: 7.30pm in the evening
+start_time: 7pm in the evening
 ---
