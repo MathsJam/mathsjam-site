@@ -18,7 +18,8 @@ location:
     lat: 45.0541213
 hiatus: False
 hiatus_months:
-    - 2022-01
+    - 2022-07
+    - 2022-08
 changed_dates: 
     - 2021-12-21
 ---
