@@ -1,12 +1,12 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Brighton                                                               
 jam_name: Brighton MathsJam
 email: brighton@mathsjam.com
 twitter: BTNMathsJam
 organiser:
-    name: Adam Atkinson and Louise Mabbs
+    name: Adam Atkinson
     email: brighton@mathsjam.com
 location:
     group: uk-ireland
