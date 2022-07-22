@@ -23,7 +23,7 @@ hiatus_months:
     - 2020-12
     - 2021-12
     - 2022-07
-start_time: 6:00pm - 9:00pm
+start_time: 7:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
     las matemáticas mayores de 18 años de edad se 
