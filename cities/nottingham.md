@@ -10,11 +10,11 @@ organiser:
     email: nottingham@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "the Roundhouse"
-    description: " on Royal Standard Place, near the Castle"
-    url: https://theroundhousenottingham.com/
-    lon: -1.1552089
-    lat: 52.9517253
+    pub_name: "the Vat and Fiddle"
+    description: " on Queensbridge Road, not far from the train station"
+    url: https://www.castlerockbrewery.co.uk/pubs/vat-and-fiddle/
+    lon: -1.1482832
+    lat: 52.9457335
 start_time: 7.30pm
 hiatus: False
 hiatus_months:
