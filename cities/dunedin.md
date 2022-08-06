@@ -15,5 +15,5 @@ location:
     url: https://goo.gl/maps/GeSGjCA41uavysxD8
     lon: 170.5022513
     lat: -45.8762178
-hiatus: False
+hiatus: True
 ---
