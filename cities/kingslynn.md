@@ -10,7 +10,7 @@ organiser:
     email: kingslynn@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "TBC"
+    pub_name: "a local pub (TBC)"
     description: ""
     url: TBC
     lon: 0.403102
