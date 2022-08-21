@@ -15,6 +15,6 @@ location:
     url: http://www.newinnpubworcester.co.uk
     lon: -2.2280456
     lat: 52.2217985
-hiatus: False
+hiatus: True
 start_time: 6:00pm in the evening
 ---
