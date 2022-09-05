@@ -1,12 +1,12 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: East Devon                                                               
 jam_name: East Devon MathsJam
 email: eastdevon@mathsjam.com
 twitter: eastdevonmj
 organiser:
-    name: Cathy
+    name: Libby
     email: eastdevon@mathsjam.com
 location:
     group: uk-ireland
@@ -15,7 +15,7 @@ location:
     url: http://www.blackhorsesowton.co.uk/home
     lon: -3.4443986
     lat: 50.7317246
-hiatus: True
+hiatus: False
 hiatus_months:
     - 2018-12
 ---
