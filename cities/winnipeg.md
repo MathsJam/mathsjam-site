@@ -16,6 +16,7 @@ location:
     lon: -97.149884
     lat: 49.835410
 hiatus: False
+jam_date_rule: second-last Monday
 hiatus_months:
     - 2019-07
     - 2019-08
