@@ -1,7 +1,7 @@
 ---
-layout: city                                           
+layout: city
 lockdown: False
-city_name: London                                                               
+city_name: London
 jam_name: London MathsJam
 email: london@mathsjam.com
 twitter: LONMathsJam

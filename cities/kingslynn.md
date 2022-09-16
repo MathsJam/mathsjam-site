@@ -10,11 +10,11 @@ organiser:
     email: kingslynn@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "a local pub (TBC)"
+    pub_name: "The Globe Hotel"
     description: ""
-    url: TBC
-    lon: 0.403102
-    lat: 52.753891
+    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/norfolk/globe-hotel-kings-lynn
+    lon: 0.3937527
+    lat: 52.755811
 hiatus: False
 hiatus_months:
     - 2022-08
