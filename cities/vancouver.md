@@ -13,7 +13,7 @@ location:
     url: http://firefightersclub.com
     lon: -122.9971944
     lat: 49.2250524
-extra_text: "Currently we're meeting online via Google Meet. Please contact the organisers for more information."
+extra_text: "We are currently meeting online only - please e-mail if you are interested, and we will send you the link to the Google Meet call the day of the event."
 start_time: 6:30pm in the evening
 hiatus: False
 ---
