@@ -10,10 +10,11 @@ organiser:
 location:
     group: north-america
     pub_name: "Firefighters Public House"
-    description: ", at 6515 Bonsor Ave"
+    description: ", at 6515 Bonsor Ave (currently closed)."
     url: http://firefightersclub.com
     lon: -122.9971944
     lat: 49.2250524
+start_time: 6.30pm in the evening
 changed_dates:
     - 2020-01-22
 hiatus: False
