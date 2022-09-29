@@ -9,6 +9,7 @@ organiser:
     email: vancouver@math-jam.com
 location:
     group: north-america
+    software: Google Meet
     pub_name: "Firefighters Public House"
     description: ", at 6515 Bonsor Ave (currently closed)."
     url: http://firefightersclub.com
