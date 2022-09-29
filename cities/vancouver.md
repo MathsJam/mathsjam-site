@@ -1,5 +1,5 @@
 ---
-layout: city                                           
+layout: city_online                                           
 lockdown: False
 city_name: Vancouver BC                                                           
 jam_name: Vancouver MathJam
