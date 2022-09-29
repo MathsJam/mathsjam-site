@@ -8,8 +8,12 @@ organiser:
     email: vanvcouver@math-jam.com
 location:
     group: north-america
-    pub_name: "online"
-    description: " (via google meet)"
+    pub_name: "Firefighters Public House"
+    description: ", at 6515 Bonsor Ave"
+    url: http://firefightersclub.com
+    lon: -122.9971944
+    lat: 49.2250524
+extra_text: "Currently we're meeting online via Google Meet. Please contact the organisers for more information."
 start_time: 6:30pm in the evening
 hiatus: False
 ---
