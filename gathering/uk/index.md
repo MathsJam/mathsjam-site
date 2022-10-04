@@ -5,7 +5,7 @@ title: MathsJam Annual Gathering UK
 
 # [Click here for the UK MathsJam Gathering website](https://www.solipsys.co.uk/cgi-bin/MJ_Wiki.py)
 
-The UK MathsJam Gathering 2022 will take place on **19<sup>th</sup> - 20<sup>th</sup> November**, bookings are now open!  Visit the link above for more details, and follow [@BigMathsJam on Twitter](https://www.twitter.com/bigmathsjam) for updates.
+The UK MathsJam Gathering 2022 will take place on **19<sup>th</sup> - 20<sup>th</sup> November**, and bookings are now open!  Visit the link above for more details, and follow [@BigMathsJam on Twitter](https://www.twitter.com/bigmathsjam) for updates.
 
 The MathsJam Annual Gathering was last held in 2021 on the weekend of **20<sup>th</sup> - 21<sup>st</sup> November**, and took place online using Gather.town. In normal times, the MathsJam Gathering is a two-day event taking place in central England, organised by Colin Wright and gathering together maths enthusiasts, monthly MathsJam attendees and organisers, and anyone else who wants to join us. We have people of all ages, backgrounds, education and ability. All you need is an interest in and enthusiasm for maths of all types.
 
