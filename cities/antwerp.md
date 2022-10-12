@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: True
+lockdown: False
 city_name: Antwerp                                                               
 jam_name: Antwerp MathsJam
 email: antwerp@mathsjam.com
@@ -16,10 +16,10 @@ location:
     url: http://www.goudengids.be/agora-caffee-antwerpen-2000/
     lon: 4.4114405
     lat: 51.2234707
-jam_date_rule: second-last Wednesday
+jam_date_rule: last Wednesday
 hiatus: False
 hiatus_months:
-    - 2017-07
+    - 2022-12
     - 2017-08
     - 2018-07
     - 2018-08
