@@ -174,7 +174,7 @@ The total number of gifts on each day of the Twelve Days of Christmas is a trian
 ### SESSION 2d (12:10 - 12:55)
 
 #### Competition results: 
-Bakeof, Competiton Competition and Competition Competition Competitions
+Bakeoff, Competition Competition and Competition Competition Competitions
 
 #### Robin Houston: 
 In 1968, the Swiss mathematician J-P Sydler described a hilariously complicated polyhedron whose faces meet at right-angles except on one edge where they meet at 45°. This suggests the game of trying to find other and/or simpler “single angle” polyhedra. Theoretically such polyhedra should exist for any angle whose sine (or cosine) is an algebraic number, but that theory doesn't tell you how to actually find the things. I'll explain what little I know about finding such polyhedra, and show some examples, and invite the audience to find more.
