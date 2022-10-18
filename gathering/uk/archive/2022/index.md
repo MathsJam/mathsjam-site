@@ -56,6 +56,9 @@ What's the most interesting thing that can be drawn in GeoGebra using just one l
 "There are so many ways to geometrically construct the golden ratio with ruler and compass.
 Given the golden ratio is defined in a geometrical way, we should be able to prove geometrically without using surds that a construction is golden just by using geometry too, right?"
 
+#### Tony Mann: Luck
+Like everything else in life, mathematics is affected by luck. I'll give a examples of good and bad luck in mathematical discoveries and careers, including describing how one student was particularly unlucky in their degree final year maths exam.
+
 ### SESSION 1c (16:20 - 17:05)
 
 #### Belgin Seymenoglu: "wifi" integral
@@ -75,6 +78,9 @@ I accidentally found another fun and mathematically interesting place to visit s
 
 #### Michael Gibson: Number 6
 Six is my favourite number. I will demonstrate why by tackling a set of problems, which ought to take at least 30 minutes to complete, in less than 5 minutes. My only trick - utilising the magical power of six!
+
+#### Colin Beveridge: Puzzles
+I have a couple of puzzles to share with you. They involve quilts, flapjacks and resistors.
 
 #### Laurence O'Toole: Knot theory - maypoles
 Can we model people dancing around a maypole? Of course we can. 
@@ -125,7 +131,7 @@ Conversations I had with a very clever   friend, trying to convince him 1 = 0.9 
 #### Jen Sparks: RAF Maths
 Some maths worth discussing that I see from a perspective of 10 years flying in the RAF and now being a secondary maths teacher.
 
-### SESSION 2b (10:10 - 10:55)
+### SESSION 2b (10:05 - 10:45)
 
 #### Eliza Gallagher: Sudoku
 We explore a collection of variant sudoku constraints with some surprising and surprisingly powerful implications.
@@ -145,10 +151,8 @@ TBC
 #### Jacob Loader: TBC
 Placeholder talk
 
-#### Tony Mann: Luck
-Like everything else in life, mathematics is affected by luck. I'll give a examples of good and bad luck in mathematical discoveries and careers, including describing how one student was particularly unlucky in their degree final year maths exam.
 
-### SESSION 2c (11:00 - 11:45)
+### SESSION 2c (11:05 - 11:50)
 
 #### Katie Chicot: MathsCity
 The UK is alone among the world’s industrialised nations in having no public attraction dedicated to the discovery and celebration of mathematics.
@@ -161,9 +165,6 @@ Placeholder talk
 
 #### Gavan Fantom: Laplace TRansform
 The Laplace Transform is widely used in certain fields of mathematics and engineering, and yet remains strangely unknown to the rest of us. Find out what it is and why it's so useful in this brief introduction.
-
-#### Colin Beveridge: Puzzles
-I have a couple of puzzles to share with you. They involve quilts, flapjacks and resistors.
 
 #### Goran Newsum: Elections
 A short dive into the maths behind Run-Off electoral systems
