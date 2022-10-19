@@ -109,7 +109,7 @@ A classic probability question with a surprisingly confident answer.
 
 ## SUNDAY
 
-### SESSION 2a (09:00 - 09:45)
+### SESSION 2a (08:55 - 09:40)
 
 #### Colin Wright: Welcome back
 
@@ -151,8 +151,7 @@ TBC
 #### Jacob Loader: TBC
 Placeholder talk
 
-
-### SESSION 2c (11:05 - 11:50)
+### SESSION 2c (11:05 - 11:40)
 
 #### Katie Chicot: MathsCity
 The UK is alone among the world’s industrialised nations in having no public attraction dedicated to the discovery and celebration of mathematics.
@@ -172,7 +171,7 @@ A short dive into the maths behind Run-Off electoral systems
 #### Annette Margolis: 12 Days of Christmas
 The total number of gifts on each day of the Twelve Days of Christmas is a triangular number, such that it is: 1 on the first day, 3 on the second, 6 on the third and so forth.  However, on the first day and the eighth day the lucky (?) recipient receives 1 gift and 36 gifts in total respectively. How many days do we need to extend those twelve days so they receive another square triangular number of gifts? And is there a pattern to enable us to predict these square triangular numbers? Is there an infinite number of square triangular numbers?
 
-### SESSION 2d (12:10 - 12:55)
+### SESSION 2d (11:55 - 12:30)
 
 #### Competition results: 
 Bakeoff, Competition Competition and Competition Competition Competitions
