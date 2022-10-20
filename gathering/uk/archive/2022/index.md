@@ -47,7 +47,7 @@ Last year I got badly addicted to the puzzle game Unruly, also known as Takuzu, 
 When playing backgammon it's occasionally necessary to calculate who's ahead in the running.  There are a lot of techniques for doing this, but a surprising result can make it easier than expected.
 
 #### Alex Corner: TBC
-Placeholder talk
+TBC
 
 #### Alison Kiddle: Geogebra
 What's the most interesting thing that can be drawn in GeoGebra using just one line of code in the Input Bar?
@@ -149,7 +149,7 @@ How can you get from just 1 to everything we know about numbers
 TBC
 
 #### Jacob Loader: TBC
-Placeholder talk
+TBC
 
 ### SESSION 2c (11:05 - 11:40)
 
@@ -162,7 +162,7 @@ MATHSWORLD aims to transform the UK public’s perception of mathematics - revea
 #### Matthew Scroggs: TBC
 Placeholder talk
 
-#### Gavan Fantom: Laplace TRansform
+#### Gavan Fantom: Laplace Transform
 The Laplace Transform is widely used in certain fields of mathematics and engineering, and yet remains strangely unknown to the rest of us. Find out what it is and why it's so useful in this brief introduction.
 
 #### Goran Newsum: Elections
