@@ -138,7 +138,7 @@ Some maths worth discussing that I see from a perspective of 10 years flying in 
 We explore a collection of variant sudoku constraints with some surprising and surprisingly powerful implications.
 
 #### David Hartburn: Maths or Conspiracy?
-Compairing some real maths with some maths popular with some conspiracy thorists.
+Comparing some real maths with some maths popular with some conspiracy theorists.
 
 #### Adam Townsend: How tall is that bridge?
 Adam wonders how many bridges he can drive a lorry under
