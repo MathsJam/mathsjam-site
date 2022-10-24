@@ -88,8 +88,8 @@ Can we model people dancing around a maypole? Of course we can.
 
 ### SESSION 1d (17:30 - 18:15)
 
-#### Sophie Maclean: TBC
-TBC
+#### Eliza Gallagher & Neil Calkin: Ordering Chaos: Bring Your Crayons
+We explore a collection of variant sudoku constraints with some surprising and surprisingly powerful implications.
 
 #### John Read: Bernoulli (Takakazu) Numbers
 A talk introducing these numbers and some of their history. 
@@ -100,8 +100,8 @@ When Sam came to stay with me one evening in September, we didn't have any plans
 #### Tom Reddington: Tom's Dating Life
 Tom spends five minutes showing off his dating skills.
 
-#### Adam Atkinson: Maths for Time-Travellers, Briefing 17
-When you travel in time, as well as dressing appropriately and learning the language of the time, there can be bits of maths appropriate to the period as well.
+#### Sophie Maclean: TBC
+TBC
 
 #### Ben Sparks: What are the chances?
 A classic probability question with a surprisingly confident answer.
@@ -134,8 +134,8 @@ Some maths worth discussing that I see from a perspective of 10 years flying in 
 
 ### SESSION 2b (10:05 - 10:45)
 
-#### Eliza Gallagher: Ordering Chaos: Bring Your Crayons
-We explore a collection of variant sudoku constraints with some surprising and surprisingly powerful implications.
+#### Adam Atkinson: Maths for Time-Travellers, Briefing 17
+When you travel in time, as well as dressing appropriately and learning the language of the time, there can be bits of maths appropriate to the period as well.
 
 #### David Hartburn: Maths or Conspiracy?
 Comparing some real maths with some maths popular with some conspiracy theorists.
