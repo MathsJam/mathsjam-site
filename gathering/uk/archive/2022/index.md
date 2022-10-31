@@ -91,7 +91,7 @@ Can we model people dancing around a maypole? Of course we can.
 #### Eliza Gallagher & Neil Calkin: Ordering Chaos: Bring Your Crayons
 We explore a collection of variant sudoku constraints with some surprising and surprisingly powerful implications.
 
-#### John Read: Bernoulli (Takakazu) Numbers
+#### John Read: Bernoulli (Seki) Numbers
 A talk introducing these numbers and some of their history. 
 
 #### Alyssa Burlton: Child's Play? The mathematics of stacking cups
