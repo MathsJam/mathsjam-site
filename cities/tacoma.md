@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: True
+lockdown: False
 city_name: Tacoma WA
 local_jam_type: MathJam
 jam_name: Tacoma MathJam
