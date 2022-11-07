@@ -32,7 +32,7 @@ organiser:
     name: Organiser's name
     email: cityname@mathsjam.com
 location:
-    group: england/rest-of-uk/north-america/rest-of-world
+    group: uk-ireland/north-america/rest-of-world
     pub_name: "Ye Pub"
     description: " on X Street"
     url: http://www.yepub.website
