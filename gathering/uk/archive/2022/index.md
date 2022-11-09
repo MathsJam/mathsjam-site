@@ -83,8 +83,8 @@ Six is my favourite number. I will demonstrate why by tackling a set of problems
 #### Colin Beveridge: Puzzles
 I have a couple of puzzles to share with you. They involve quilts, flapjacks and resistors.
 
-#### Laurence O'Toole: (K)Not String Theory
-Can we model people dancing around a maypole? Of course we can. 
+#### Phil Rammsden: TBC
+TBC
 
 ### SESSION 1d (17:30 - 18:15)
 
