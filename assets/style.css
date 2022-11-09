@@ -193,7 +193,7 @@ body.gathering header h1 {
     background-color: #0084b4;
 }
 #sidebar li.mathstodon {
-    background: hsla(200, 2%, 24%,0.4);
+    background-color: #2b90d9
 }
 #sidebar li.gathering a {
     color: hsl(54, 95%, 8%);
