@@ -11,10 +11,12 @@ organiser:
     email: vaxjo@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Bishops Arms"
-    description: " on Kungsgatan"
-    url: https://www.facebook.com/TheBishopsArmsVaxjo/
-    lon: 14.8091291
-    lat: 56.8776886
+    pub_name: "the Chapter House"
+    description: " at Klostergatan 7"
+    url: https://chapterhouse.se/
+    lon: 14.8070076
+    lat: 56.8785561
 hiatus: False
+jam_date_rule: second-last Thursday
+start_time: 6.30pm
 ---
