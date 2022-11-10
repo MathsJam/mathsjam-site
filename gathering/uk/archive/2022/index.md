@@ -83,7 +83,7 @@ Six is my favourite number. I will demonstrate why by tackling a set of problems
 #### Colin Beveridge: Puzzles
 I have a couple of puzzles to share with you. They involve quilts, flapjacks and resistors.
 
-#### Phil Rammsden: TBC
+#### Phil Ramsden: TBC
 TBC
 
 ### SESSION 1d (17:30 - 18:15)
