@@ -192,6 +192,9 @@ body.gathering header h1 {
 #sidebar li.twitter {
     background-color: #0084b4;
 }
+#sidebar li.mathstodon {
+    background-color: #2b90d9
+}
 #sidebar li.gathering a {
     color: hsl(54, 95%, 8%);
 }
