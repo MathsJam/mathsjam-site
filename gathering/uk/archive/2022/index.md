@@ -100,7 +100,7 @@ When Sam came to stay with me one evening in September, we didn't have any plans
 #### Tom Reddington: Tom's Dating Life
 Tom spends five minutes showing off his dating skills.
 
-#### Sophie Maclean: TBC
+#### Jocelyn D'Arcy: TBC
 TBC
 
 #### Ben Sparks: What are the chances?
@@ -149,8 +149,8 @@ How can you get from just 1 to everything we know about numbers
 #### TD Dang: TBC
 TBC
 
-#### Jacob Loader: TBC
-TBC
+#### James Grime: Birthday Magic Squares
+How to make a birthday magic square.
 
 ### SESSION 2c (11:05 - 11:40)
 
