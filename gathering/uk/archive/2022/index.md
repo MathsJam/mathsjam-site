@@ -83,8 +83,8 @@ Six is my favourite number. I will demonstrate why by tackling a set of problems
 #### Colin Beveridge: Puzzles
 I have a couple of puzzles to share with you. They involve quilts, flapjacks and resistors.
 
-#### Phil Ramsden: TBC
-TBC
+#### Phil Ramsden: Fun With Digit Sums
+We all know digit sums are great for checking whether numbers are divisible by 3 or 9, but there’s more to them than that. Think of a number; think of a (prime) base; and express your number in that base. Calculate the digit sum, subtract it from the number you first thought of, divide by one less than the base (you’ll find it goes), and hey presto — what, exactly?
 
 ### SESSION 1d (17:30 - 18:15)
 
