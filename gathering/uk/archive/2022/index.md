@@ -158,8 +158,8 @@ How to make a birthday magic square.
 The UK is alone among the world’s industrialised nations in having no public attraction dedicated to the discovery and celebration of mathematics.
 From MoMath in New York City to Seocho Math Museum in Seoul, innovative maths discovery centres across the globe are engaging children and young people with maths, from an early age – inspiring interest and confidence in a subject that is at the cutting edge of research in global growth sectors such as engineering, medicine, Artificial Intelligence, FinTech and more. MATHSWORLD aims to transform the UK public’s perception of mathematics - revealing the engaging, aesthetic and surprising side of maths and empowering people to explore mathematics for themselves. In this talk I’ll show where the project is up to, what’s next and hopefully where you can get involved too.
 
-#### Matthew Scroggs: TBC
-TBC
+#### Matthew Scroggs: Runge's phenomenon
+I'll be talking about what can go wrong if you use polynomials to approximate things, and how you experiment with this using a Twitter/Mathstodon bot I made.
 
 #### Gavan Fantom: The Laplace Transform
 The Laplace Transform is widely used in certain fields of mathematics and engineering, and yet remains strangely unknown to the rest of us. Find out what it is and why it's so useful in this brief introduction.
