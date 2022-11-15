@@ -40,7 +40,7 @@ Sydney will demonstrate through a variety of methods why math is hard sometimes 
 #### Mike Frost: George Abell and the End of Humanity
 George Ogden Abell (1927-1983) was a distinguished American astronomer and much-respected educator. In his 1978 textbook "The Drama of the Universe" he proved mathematically that mankind could not continue to exist beyond 20th August 2023. Assuming he's not correct (and a few months late with his prediction), I'll explain why I think his analysis was wrong.
 
-#### Miles Gould: Hard Unruly puzzles
+#### Miles Gould: Tactical Unruly
 Last year I got badly addicted to the puzzle game Unruly, also known as Takuzu, Binairo, or Sudoku Binary. But after a while I noticed that only a handful of tactics seemed to be necessary. Was that limitation real, or was it possible to construct harder puzzles?
 
 #### Colin Wright: When it's pippish, sides don't matter
