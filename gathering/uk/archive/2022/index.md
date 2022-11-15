@@ -146,7 +146,7 @@ Adam wonders how many bridges he can drive a lorry under
 #### Rob Woolley: Root of 1
 How can you get from just 1 to everything we know about numbers
 
-#### TD Dang: TBC
+#### TD Dang: The Fluid Dynamics of Incy Wincy Spider
 TBC
 
 #### James Grime: Birthday Magic Squares
