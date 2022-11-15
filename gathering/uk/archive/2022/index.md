@@ -134,8 +134,8 @@ Some maths worth discussing that I see from a perspective of 10 years flying in 
 
 ### SESSION 2b (10:05 - 10:45)
 
-#### Adam Atkinson: Maths for Time-Travellers, Briefing 17
-When you travel in time, as well as dressing appropriately and learning the language of the time, there can be bits of maths appropriate to the period as well.
+#### Goran Newsum: Sometimes it's OK to let your votes run-off
+A short dive into the maths behind Run-Off electoral systems
 
 #### David Hartburn: Maths or Conspiracy?
 Comparing some real maths with some maths popular with some conspiracy theorists.
@@ -167,8 +167,8 @@ The Laplace Transform is widely used in certain fields of mathematics and engine
 #### Colin Beveridge: A pair of puzzles
 I have a couple of puzzles to share with you. They involve quilts, flapjacks and resistors.
 
-#### Goran Newsum: Sometimes it's OK to let your votes run-off
-A short dive into the maths behind Run-Off electoral systems
+#### Adam Atkinson: Maths for Time-Travellers, Briefing 17
+When you travel in time, as well as dressing appropriately and learning the language of the time, there can be bits of maths appropriate to the period as well.
 
 #### Annette Margolis: Extending the Twelve Days of Christmas to get the next Square Triangular number of Gifts
 The total number of gifts on each day of the Twelve Days of Christmas is a triangular number, such that it is: 1 on the first day, 3 on the second, 6 on the third and so forth.  However, on the first day and the eighth day the lucky (?) recipient receives 1 gift and 36 gifts in total respectively. How many days do we need to extend those twelve days so they receive another square triangular number of gifts? And is there a pattern to enable us to predict these square triangular numbers? Is there an infinite number of square triangular numbers?
