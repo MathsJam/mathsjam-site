@@ -46,8 +46,8 @@ Last year I got badly addicted to the puzzle game Unruly, also known as Takuzu, 
 #### Colin Wright: When it's pippish, sides don't matter
 When playing backgammon it's occasionally necessary to calculate who's ahead in the running.  There are a lot of techniques for doing this, but a surprising result can make it easier than expected.
 
-#### Alex Corner: TBC
-TBC
+#### Sophie Maclean: Do the Dougie
+Spoiler: I do not do the Dougie. But I do talk about one Dougie in particular...
 
 #### Alison Kiddle: GeoGebra One-liners
 What's the most interesting thing that can be drawn in GeoGebra using just one line of code in the Input Bar?
