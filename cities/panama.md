@@ -24,6 +24,7 @@ hiatus_months:
     - 2021-12
     - 2022-07
     - 2022-12
+    - 2022-11
 start_time: 7:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
