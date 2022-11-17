@@ -71,8 +71,8 @@ On-Sets is a game designed in the mid 1960s to teach set theory and has some coo
 #### Paul Kennedy: Clapping Music – a music lesson and some counting
 Steve Reich’s Clapping Music and some maths, including the number of possible clapping musics.
 
-#### Philipp Reinhard: Divisibility graphs
-Sorry, no idea yet.
+#### Philipp Reinhard: Graphs for divisibility rules
+We explore how directed graphs provide divisibility rules, also for the number 7 or whatever your favourite number happens to be. And it will work in any base. The graphs turn out to be rather beautiful and quite similar to fractals. 
 
 #### Hannah Gray: Arithmeum: fun with calculating machines
 I accidentally found another fun and mathematically interesting place to visit so this is a quick guide to the Arithmmeum in Bonn.  
