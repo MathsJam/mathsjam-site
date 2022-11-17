@@ -19,6 +19,8 @@ hiatus: False
 hiatus_months:
     - 2020-03
     - 2020-04
+    - 2022-11
+    - 2022-12
 start_time: 7pm
 changed_dates: 
     - 2017-12-19
