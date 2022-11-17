@@ -15,10 +15,12 @@ location:
     url: http://www.accorhotels.com/gb/hotel-6444-ibis-brighton-city-centre/index.shtml
     lon: -0.141443500000037
     lat: 50.8278353
-hiatus: True
+hiatus: False
 hiatus_months:
     - 2020-03
     - 2020-04
+    - 2022-11
+    - 2022-12
 start_time: 7pm
 changed_dates: 
     - 2017-12-19
