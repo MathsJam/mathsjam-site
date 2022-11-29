@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: False
-city_name: King's Lynn
+city_name: King's Lynn!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 jam_name: King's Lynn MathsJam
 email: kingslynn@mathsjam.com
 twitter: KgsLynnMathsJam
