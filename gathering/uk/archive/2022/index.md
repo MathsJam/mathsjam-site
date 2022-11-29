@@ -103,7 +103,7 @@ In 2018, a Chinese university canteen left a tough-looking integral that went vi
 #### Peter Rowlett: On-Sets: a vintage game of set theory
 On-Sets is a game designed in the mid 1960s to teach set theory and has some cool dice. I’ll talk about the game and some puzzles that arise from it, and bring a set you can have a play with. 
 
-- [Peter's slides (PDF)]({{site.url}}/assets/talks/2022/B%20Peter%20Rowlett%20-%20On-Sets:%20a%20vintage%20game%20of%20set%20theory.pdf)
+- [Peter's slides (PDF)]({{site.url}}/assets/talks/2022/B%20Peter%20Rowlett%20-%20On-Sets.pdf)
 
 #### Paul Kennedy: Clapping Music – a music lesson and some counting
 Steve Reich’s Clapping Music, is a (very simple) cyclic permutation. Using necklace polynomials it is possible to calculate both the number of possible clapping musics and the number of clapping musics of length n. The prime case is trivial. Further, a Lyndon word is hidden in Clapping Music.  
