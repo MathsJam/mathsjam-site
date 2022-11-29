@@ -7,15 +7,12 @@ This is a list of talks given at the 2022 MathsJam Gathering.
 
 ## SATURDAY
 
-
-
 #### Colin & team: Welcome to MathsJam
 Welcome to the day.
 
 #### Zoe Griffiths: The Great Collatz Collab
 Zoe talks about the process of making a poster of a giant Collatz map made from snippets of hundreds of other maps drawn by school students.
-- [Collatz Collab project on the Think Maths website]()
-
+- [Collatz Collab project video by Matt Parker](https://www.youtube.com/watch?v=36_bvE_oK4U)
 
 #### John Bibby: Is 2023 a Prime Number?
 How can 2023 be used as a seed for introducing non-mathematicians to the uses of prime numbers? This is a dummy run for a 30-minute talk in January to my local U3A, so I would welcome suggestions regarding further ideas to include.
@@ -102,7 +99,6 @@ We explore how directed graphs provide divisibility rules, also for the number 7
 #### Hannah Gray: Arithmeum: fun with calculating machines
 I accidentally found another fun and mathematically interesting place to visit so this is a quick guide to the Arithmmeum in Bonn.  
 - [Hannah's slides (PPT)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum:%20fun%20with%20calculating%20machines.pptx)
-- [Hannah's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum:%20fun%20with%20calculating%20machines.pdf)
 
 #### Michael Gibson: The Joy of Six
 Assuming everything went to plan... I tackled some problems, the main two of which were apparently very complicated and challenging, very quickly and easily by casting them on grids divided into six. The conclusion is that, due to 2 and 3 cropping up more than any other numbers, basing things around the number 6 will often avoid the need to grapple with fractions.
