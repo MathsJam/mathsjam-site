@@ -6,7 +6,7 @@ name: Build mathsjam.com
 on:
   push:
     branches: [ master, build-action ]
-  pull_request:
+  pull_request_target:
     branches: [ master, build-action ]
 
   schedule:
