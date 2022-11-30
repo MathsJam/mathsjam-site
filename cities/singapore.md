@@ -15,7 +15,7 @@ location:
     url: https://www.instagram.com/goodbeersg/?hl=en
     lon: 103.7819828
     lat: 1.2914923
-hiatus: True
+hiatus: False
 hiatus_months:
     - 2022-12
 ---
