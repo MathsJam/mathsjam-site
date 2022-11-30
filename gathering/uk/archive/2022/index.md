@@ -37,8 +37,8 @@ Five talks about the maths of trains. I'll warn you that I know a lot more about
 #### Colin Graham: Size isn't everything! 
 Why is A4 called A4? I will be looking at why we have the current standard paper sizes.
 
-- [Colin's slides (PPT)]({{site.url}}/assets/talks/2022/F%20Colin%20Graham%20-%20Size%20isn't%20everything!%20.pptx)
-- [Colin's slides (PDF)]({{site.url}}/assets/talks/2022/F%20Colin%20Graham%20-%20Size%20isn't%20everything!%20.pdf)
+- [Colin's slides (PPT)]({{site.url}}/assets/talks/2022/F%20Colin%20Graham%20-%20Size%20isn't%20everything!.pptx)
+- [Colin's slides (PDF)]({{site.url}}/assets/talks/2022/F%20Colin%20Graham%20-%20Size%20isn't%20everything!.pdf)
 
 #### Mark Fisher: Dealing with Liar's Dice 
 A look at some fun variants of Liar's Dice using playing cards instead
@@ -227,8 +227,8 @@ A short dive into the maths behind Run-Off electoral systems.
 #### David Hartburn: Maths or Conspiracy?
 Flat earth advocates dismiss the globe because the curve of the earth is "8 inches per mile squared". What does this actually mean and how does it compare to the real maths behind the curve of the earth?
 
-- [David's slides (PPT)]({{site.url}}/assets/talks/2022/B%20David%20Hartburn%20-%20Maths%20or%20Conspiracy.pptx)
-- [David's slides (PDF)]({{site.url}}/assets/talks/2022/B%20David%20Hartburn%20-%20Maths%20or%20Conspiracy.pdf)
+- [Dave's slides (PPT)]({{site.url}}/assets/talks/2022/B%20Dave%20Hartburn%20-%20Maths%20or%20Conspiracy.pptx)
+- [Dave's slides (PDF)]({{site.url}}/assets/talks/2022/B%20Dave%20Hartburn%20-%20Maths%20or%20Conspiracy.pdf)
 
 #### Rob Woolley: Root of 1
 How can you get from just 1 to everything we know about numbers?
