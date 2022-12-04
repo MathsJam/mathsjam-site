@@ -59,7 +59,7 @@ Sydney will demonstrate through a variety of methods why math is hard sometimes 
 
 - [Sydney's slides (PPT)]({{site.url}}/assets/talks/2022/A%20Sydney%20Weaver%20-%20Math%20Is%20Hard,%20Can%20we%20make%20it%20Easier?.pptx)
 - [Sydney's slides (PDF)]({{site.url}}/assets/talks/2022/A%20Sydney%20Weaver%20-%20Math%20Is%20Hard,%20Can%20we%20make%20it%20Easier?.pdf)
-- 
+
 #### Mike Frost: George Abell and the End of Humanity
 George Ogden Abell (1927-1983) was a distinguished American astronomer and much-respected educator. In his 1978 textbook "The Drama of the Universe" he proved mathematically that mankind could not continue to exist beyond 20th August 2023. Assuming he's not correct (and a few months late with his prediction), I'll explain why I think his analysis was wrong.
 
