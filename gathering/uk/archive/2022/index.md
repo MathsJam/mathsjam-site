@@ -5,7 +5,7 @@ title: MathsJam Gathering 2022
 	
 This is a list of talks given at the 2022 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2022/cakes) with the photos of cakes entered in the cake competition.
+There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2022/c fakes) with the photos of cakes entered in the cake competition.
 
 The gathering took place on 19th - 20th November 2022.
 
@@ -57,6 +57,9 @@ I'll show you how to make an icosahedral ocarina out of cardboard.
 #### Sydney Weaver: Math Is Hard, Can we make it Easier?
 Sydney will demonstrate through a variety of methods why math is hard sometimes and what we can do to potentially make it a little bit easier.
 
+- [Sydney's slides (PPT)]({{site.url}}/assets/talks/2022/A%20Sydney%20Weaver%20-%20Math%20Is%20Hard,%20Can%20we%20make%20it%20Easier?.pptx)
+- [Sydney's slides (PDF)]({{site.url}}/assets/talks/2022/A%20Sydney%20Weaver%20-%20Math%20Is%20Hard,%20Can%20we%20make%20it%20Easier?.pdf)
+- 
 #### Mike Frost: George Abell and the End of Humanity
 George Ogden Abell (1927-1983) was a distinguished American astronomer and much-respected educator. In his 1978 textbook "The Drama of the Universe" he proved mathematically that mankind could not continue to exist beyond 20th August 2023. Assuming he's not correct (and a few months late with his prediction), I'll explain why I think his analysis was wrong.
 
@@ -99,6 +102,9 @@ Like everything else in life, mathematics is affected by luck. I'll give a examp
 
 #### Belgin Seymenoglu: The Wi-Fi integral: no integration required
 In 2018, a Chinese university canteen left a tough-looking integral that went viral on the net. Students wanting the Wi-Fi password needed to solve it and enter the first eight digits of the answer. However, it turns out you don't have to do any integration to solve it - just some easy symmetry arguments will do the trick. The final answer looks like a very familiar number...
+
+- [Belgin's slides (PPT)]({{site.url}}/assets/talks/2022/A%20Belgin%20Seymenoglu%20-%20The%20Wi-Fi%20integral:%20no%20integration%20required.pptx)
+- [Belgin's slides (PDF)]({{site.url}}/assets/talks/2022/A%20Belgin%20Seymenoglu%20-%20The%20Wi-Fi%20integral:%20no%20integration%20required.pdf)
 
 #### Peter Rowlett: On-Sets: a vintage game of set theory
 On-Sets is a game designed in the mid 1960s to teach set theory and has some cool dice. I’ll talk about the game and some puzzles that arise from it, and bring a set you can have a play with. 
@@ -172,8 +178,8 @@ Applying a thin veneer of mathematical insight to get past the MathsJam censors,
 #### Jocelyn D'Arcy: Relationship status: 'real', 'imaginary' or 'it's complex'
 A recent twitter problem set one quadratic expression raised to the power of a second quadratic expression equal to one. The solutions of where the base number was 1 or -1 or where the expondent was 0 were tweeted widely, but an error with a former suitor's code fooled me into thinking some complex solutions might exist. I think I ultimately proved that they do not, but am left wondering how the quadratics would need to change so that they could and if one complex number raised to the power of another can ever equal 1.
 
-- [Jocelyn's slides](https://docs.google.com/presentation/d/1oDOO3c1nzofi4yS7w50SsQUjTU9V383Dm5aJ66AN8Xk/edit#slide=id.g191461ade8a_0_48)
-- [Jocelyn's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Jocelyn%20D'Arcy%20-%20Relationship%20status:%20'real',%20'imaginary'%20or%20'it's%20complex'.pdf)
+- [Jocelyn's slides (PPT)]({{site.url}}/assets/talks/2022/E%20Jocelyn%20D'Arcy%20-%20relationship%20status-%20real%20imaginary%20or%20it's%20complex.pptx)
+- [Jocelyn's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Jocelyn%20D'Arcy%20-%20relationship%20status-%20real%20imaginary%20or%20it's%20complex.pdf)
 
 #### Ben Sparks: What are the chances?
 A classic probability question with a surprisingly confident answer.
