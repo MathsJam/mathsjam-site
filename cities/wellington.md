@@ -18,6 +18,7 @@ location:
 hiatus: False
 changed_dates:
     - 2021-12-21
+    - 2022-12-20
 start_time: 5.30pm
 ---
 
