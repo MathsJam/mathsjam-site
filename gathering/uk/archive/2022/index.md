@@ -22,7 +22,7 @@ Zoe talks about the process of making a poster of a giant Collatz map made from 
 #### John Bibby: Is 2023 a Prime Number?
 How can 2023 be used as a seed for introducing non-mathematicians to the uses of prime numbers? This is a dummy run for a 30-minute talk in January to my local U3A, so I would welcome suggestions regarding further ideas to include.
 
-- [John's slides (PDF)]({{site.url}}/assets/talks/2022/C%20John%20Bibby%20-%20Is%202023%20a%20Prime%20Number?.pdf)
+- [John's slides (PDF)]({{site.url}}/assets/talks/2022/C%20John%20Bibby%20-%20Is%202023%20a%20Prime%20Number.pdf)
 
 #### Alistair Bird: Inequalities and inflation measures
 We'll talk about how inflation is measured via the Retail and Consumer Price indices (RPI and CPI) and how a the Arithmetic-Geometric mean inequality is important to understanding the difference between them.
@@ -32,7 +32,7 @@ We'll talk about how inflation is measured via the Retail and Consumer Price ind
 #### Christian Lawson-Perfect: Talk talk talk talk talk choo choo! 
 Five talks about the maths of trains. I'll warn you that I know a lot more about maths than I know about trains! 
 
-- [Christian's slides](https://somethingorotherwhatever.com/five-train-talks-mathsjam-2022/)
+- [Christian's slides (online)](https://somethingorotherwhatever.com/five-train-talks-mathsjam-2022/)
 
 #### Colin Graham: Size isn't everything! 
 Why is A4 called A4? I will be looking at why we have the current standard paper sizes.
@@ -43,14 +43,15 @@ Why is A4 called A4? I will be looking at why we have the current standard paper
 #### Mark Fisher: Dealing with Liar's Dice 
 A look at some fun variants of Liar's Dice using playing cards instead
 
-- [Mark's slides](https://docs.google.com/presentation/d/1dEP-igfEJ7dQw5rU_th8ekyx_95Eaim37Sk-6RRBAqU/edit?usp=sharing)
-- [Mark's slides (PDF)]({{site.url}}/assets/talks/2022/G%20Mark%20Fisher%20-%20Dealing%20with%20Liar's%20Dice%20.pdf)
+- [Mark's slides (Google Slides)](https://docs.google.com/presentation/d/1dEP-igfEJ7dQw5rU_th8ekyx_95Eaim37Sk-6RRBAqU/edit?usp=sharing)
+- [Mark's slides (PDF)]({{site.url}}/assets/talks/2022/G%20Mark%20Fisher%20-%20Dealing%20with%20Liars%20Dice.pdf)
 
 #### Sam Hartburn: Icosahedral Ocarinas
 I'll show you how to make an icosahedral ocarina out of cardboard.
 
 - [Sam's slides (PPT)]({{site.url}}/assets/talks/2022/H%20Sam%20Hartburn%20-%20Icosahedral%20Ocarinas.pptx)
 - [Sam's slides (PDF)]({{site.url}}/assets/talks/2022/H%20Sam%20Hartburn%20-%20Icosahedral%20Ocarinas.pdf)
+- [Icosarina printable PDF]({{site.url}}/assets/shout/Icosarina.pdf)
 
 ### SESSION 1b
 
@@ -69,7 +70,7 @@ George Ogden Abell (1927-1983) was a distinguished American astronomer and much-
 #### Miles Gould: Tactical Unruly
 Last year I got badly addicted to the puzzle game Unruly, also known as Takuzu, Binairo, or Sudoku Binary. But after a while I noticed that only a handful of tactics seemed to be necessary. Was that limitation real, or was it possible to construct harder puzzles?
 
-- [Miles's slides](https://docs.google.com/presentation/d/1sKVxpxUiWvyh6OOCqEk4slcyN0_3X2VQzIORVEKRzcU/edit?usp=sharing)
+- [Miles's slides (Google slides)](https://docs.google.com/presentation/d/1sKVxpxUiWvyh6OOCqEk4slcyN0_3X2VQzIORVEKRzcU/edit?usp=sharing)
 - [Miles's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Miles%20Gould%20-%20Tactical%20Unruly.pdf)
 
 #### Colin Wright: When it's pippish, sides don't matter
@@ -78,7 +79,7 @@ When playing backgammon it's occasionally necessary to calculate who's ahead in 
 #### Sophie Maclean: Do the Dougie
 Your Dougie Day is the day on which your age, in days, is the same as your date of birth! 
 
-- [Sophie's slides](https://docs.google.com/presentation/d/1vUy-JMw5_SdD2S_3ZDGkiTVE_JjBmf1YF2dr_mcxgWY/edit#slide=id.g18590166b22_0_147)
+- [Sophie's slides (Google slides)](https://docs.google.com/presentation/d/1vUy-JMw5_SdD2S_3ZDGkiTVE_JjBmf1YF2dr_mcxgWY/edit#slide=id.g18590166b22_0_147)
 - [Sophie's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Sophie%20Maclean%20-%20Do%20the%20Dougie.pdf)
 
 #### Alison Kiddle: GeoGebra One-liners
@@ -89,7 +90,7 @@ What's the most interesting thing that can be drawn in GeoGebra using just one l
 #### Dave Budd: Absurd Proofs
 There are so many ways to geometrically construct the golden ratio with ruler and compass. Given the golden ratio is defined in a geometrical way, we should be able to prove geometrically without using surds that a construction is golden just by using geometry too, right?
 
-- [Dave's slides](https://docs.google.com/presentation/d/1MyFOnqaQbNYfXqdCwjJWXiVCdwJPfhvibtGnstzWDiY/edit#slide=id.p)
+- [Dave's slides (Google slides)](https://docs.google.com/presentation/d/1MyFOnqaQbNYfXqdCwjJWXiVCdwJPfhvibtGnstzWDiY/edit#slide=id.p)
 - [Dave's slides (PDF)]({{site.url}}/assets/talks/2022/G%20Dave%20Budd%20-%20Absurd%20Proofs.pdf)
 
 #### Tony Mann: Good and bad luck in maths
@@ -114,7 +115,7 @@ On-Sets is a game designed in the mid 1960s to teach set theory and has some coo
 #### Paul Kennedy: Clapping Music – a music lesson and some counting
 Steve Reich’s Clapping Music, is a (very simple) cyclic permutation. Using necklace polynomials it is possible to calculate both the number of possible clapping musics and the number of clapping musics of length n. The prime case is trivial. Further, a Lyndon word is hidden in Clapping Music.  
 
-- [Paul's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Paul%20Kennedy%20-%20Clapping%20Music%20–%20a%20music%20lesson%20and%20some%20counting.pdf)
+- [Paul's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Paul%20Kennedy%20-%20Clapping%20Music%20a%20music%20lesson%20and%20some%20counting.pdf)
 
 #### Philipp Reinhard: Graphs for divisibility rules
 We explore how directed graphs provide divisibility rules, also for the number 7 or whatever your favourite number happens to be. And it will work in any base. The graphs turn out to be rather beautiful and quite similar to fractals. 
@@ -125,8 +126,9 @@ We explore how directed graphs provide divisibility rules, also for the number 7
 #### Hannah Gray: Arithmeum: fun with calculating machines
 I accidentally found another fun and mathematically interesting place to visit so this is a quick guide to the Arithmmeum in Bonn.  
 
-- [Hannah's slides (PPT)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum:%20fun%20with%20calculating%20machines.pptx)
-
+- [Hannah's slides (PPT)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum%20fun%20with%20calculating%20machines.pptx)
+- [Hannah's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum%20fun%20with%20calculating%20machines.pdf)
+- 
 #### Michael Gibson: The Joy of Six
 Assuming everything went to plan... I tackled some problems, the main two of which were apparently very complicated and challenging, very quickly and easily by casting them on grids divided into six. The conclusion is that, due to 2 and 3 cropping up more than any other numbers, basing things around the number 6 will often avoid the need to grapple with fractions.
 
@@ -136,7 +138,7 @@ Assuming everything went to plan... I tackled some problems, the main two of whi
 #### Colin Beveridge: A Pair of Puzzles
 Colin shares a two puzzles about flapjacks and resistors, which turn out to be equivalent to Mrs Perkins' Quilt and Squaring the Square.
 
-- [Colin's slides (PDF)]({{site.url}}/assets/talks/2022/G%20Colin%20Beveridge%20-%20A%20pair%20of%20puzzles.pdf)
+- [Colin's slides (PDF)]({{site.url}}/assets/talks/2022/G%20Colin%20Beveridge%20-%20A%20Pair%20of%20Puzzles.pdf)
 
 #### Phil Ramsden: Fun With Digit Sums
 Let’s pick a positive integer; say 19. In base 2, its digits are 10011, and their sum is 3. Let’s note down the difference between the number and its digit sum, divided by one less than the base; this is (19-3)/(2-1) = 16. In base 3, we’ve got 201, and the digit sum is still 3. This time, (19-3)/(3-1)=8.
@@ -160,19 +162,19 @@ Some surprisingly different variant sudoku constraints restrict the final grid t
 #### John Read: Bernoulli (Takakazu) Numbers
 I gave a previous Mathsjam talk in 2013 about the Euler-Bernoulli engineering formula (talk title 1/384) which got me interested in other things that Euler and the Bernoulli’s (Jacob, Johan, Daniel) also worked on. This talk is about the Bernoulli numbers and some of their history. There are links between repeated integration, these numbers that arise in sums of powers, factorials, Pascal’s triangle, Fermat’s last theorem and the Reimann hypothesis that interested mathematicians over 300 years ago and have continued to intrigue ever since. These numbers were what Ada Lovelace was interested in when she wrote the first computer programme (her note D included an algorithm for computing the seventh Bernoulli number , although as printed it had an error in it). 
 
-- [John's slides (PPT)]({{site.url}}/assets/talks/2022/B%20John%20Read%20-%20Bernoulli%20(Takakazu)%20Numbers.pptx)
-- [John's slides (PDF)]({{site.url}}/assets/talks/2022/B%20John%20Read%20-%20Bernoulli%20(Takakazu)%20Numbers.pdf)
+- [John's slides (PPT)]({{site.url}}/assets/talks/2022/B%20John%20Read%20-%20Bernoulli%20Seki%20Numbers.pptx)
+- [John's slides (PDF)]({{site.url}}/assets/talks/2022/B%20John%20Read%20-%20Bernoulli%20Seki%20Numbers.pdf)
 
 #### Alyssa Burlton: Child's Play? The mathematics of stacking cups
 When Sam came to stay with me one evening in September, we didn't have any plans. But then he mentioned something in passing: while watching his daughter playing with her stacking cups he'd thought, "there's probably some maths in this". Rum was poured. The whiteboard was deployed. This is some of what we found.
 
-- [Alyssa's slides](https://docs.google.com/presentation/d/1IWkCMv_cjoDSBlTdepj2ig8fBx6YVNZiu5P58ipaFoo/edit#slide=id.p)
-- [Alyssa's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Alyssa%20Burlton%20-%20Child's%20Play?%20The%20mathematics%20of%20stacking%20cups.pdf)
+- [Alyssa's slides (Google slides)](https://docs.google.com/presentation/d/1IWkCMv_cjoDSBlTdepj2ig8fBx6YVNZiu5P58ipaFoo/edit#slide=id.p)
+- [Alyssa's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Alyssa%20Burlton%20-%20Childs%20Play%20The%20mathematics%20of%20stacking%20cups.pdf)
 
 #### Tom Reddington: Tom's Dating Life
 Applying a thin veneer of mathematical insight to get past the MathsJam censors, Tom puts his party trick to the test: you pick a notable (but dead) historical figure, tell Tom the birth and death years, and he will tell you who it was or greatly embarrass himself.
 
-- [Tom's slides](https://docs.google.com/presentation/d/1ayKSFKB9gvRtgRRJOfqS_gZvtd7SmxTUhH2Q_3lSYM8/edit#slide=id.g18bbde4d25b_0_44)
+- [Tom's slides (Google slides)](https://docs.google.com/presentation/d/1qKpmGa6UFiuHmOA2SMpMDK3RqxHutkHAsFmJFoDpHCA/edit?usp=sharing)
 - [Tom's slides (PDF)]({{site.url}}/assets/talks/2022/D%20Tom%20Reddington%20-%20Tom's%20Dating%20Life.pdf)
 
 #### Jocelyn D'Arcy: Relationship status: 'real', 'imaginary' or 'it's complex'
@@ -208,8 +210,8 @@ We've all seen the memes: "What's 6÷2(1+2)?" - and we've all tried to explain t
 #### Toby Holland: How to not lose at games
 A quick overview of rational behaviour, common knowledge, and iterated learning whilst playing games - using some data from previous MathsJam competitions... 
 
-- [Toby's slides (PPT)]({{site.url}}/assets/talks/2022/D%20Toby%20Holland%20-%20How%20to%20not%20lose%20at%20games.pptx)
-- [Toby's slides (PDF)]({{site.url}}/assets/talks/2022/D%20Toby%20Holland%20-%20How%20to%20not%20lose%20at%20games.pdf)
+- [Toby's slides (PPT)]({{site.url}}/assets/talks/2022/D%20Toby%20Holland%20-%20How%20to%20not%20lose%20at%20Games.pptx)
+- [Toby's slides (PDF)]({{site.url}}/assets/talks/2022/D%20Toby%20Holland%20-%20How%20to%20not%20lose%20at%20Games.pdf)
 
 #### Tarim: How do trains go round corners?
 It's not as obvious as you might first think...
@@ -233,8 +235,8 @@ A short dive into the maths behind Run-Off electoral systems.
 #### David Hartburn: Maths or Conspiracy?
 Flat earth advocates dismiss the globe because the curve of the earth is "8 inches per mile squared". What does this actually mean and how does it compare to the real maths behind the curve of the earth?
 
-- [Dave's slides (PPT)]({{site.url}}/assets/talks/2022/B%20Dave%20Hartburn%20-%20Maths%20or%20Conspiracy.pptx)
-- [Dave's slides (PDF)]({{site.url}}/assets/talks/2022/B%20Dave%20Hartburn%20-%20Maths%20or%20Conspiracy.pdf)
+- [Dave's slides (PPT)]({{site.url}}/assets/talks/2022/B%20Dave%20Hartburn%20-%20Maths%20or%20conspiracy.pptx)
+- [Dave's slides (PDF)]({{site.url}}/assets/talks/2022/B%20Dave%20Hartburn%20-%20Maths%20or%20conspiracy.pdf)
 
 #### Rob Woolley: Root of 1
 How can you get from just 1 to everything we know about numbers?
@@ -261,13 +263,13 @@ The UK is alone among the world’s industrialised nations in having no public a
 #### Matthew Scroggs: Runge's phenomenon
 I'll be talking about what can go wrong if you use polynomials to approximate things, and how you experiment with this using a Twitter/Mathstodon bot I made.
 
-- [Matthew's slides](https://mscroggs.github.io/mj2022-slides/)
+- [Matthew's slides (online)](https://mscroggs.github.io/mj2022-slides/)
 
 #### Adam Townsend: How tall is that bridge?
 Adam wonders how many bridges he can drive a lorry under...
 
-- [Adam's slides (Keynote)]({{site.url}}/assets/talks/2022/C%20Adam%20Townsend%20-%20How%20tall%20is%20that%20bridge?.ppt)
-- [Adam's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Adam%20Townsend%20-%20How%20tall%20is%20that%20bridge?.pdf)
+- [Adam's slides (Keynote)]({{site.url}}/assets/talks/2022/C%20Adam%20Townsend%20-%20How%20tall%20is%20that%20bridge.key)
+- [Adam's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Adam%20Townsend%20-%20How%20tall%20is%20that%20bridge.pdf)
 
 #### Gavan Fantom: The Laplace Transform
 The Laplace Transform is widely used in certain fields of mathematics and engineering, and yet remains strangely unknown to the rest of us. Find out what it is and why it's so useful in this brief introduction.
@@ -277,7 +279,7 @@ The Laplace Transform is widely used in certain fields of mathematics and engine
 #### Adam Atkinson: Maths for Time-Travellers, Briefing 17
 Adam explains and demonstrates Prosthaphaeresis, a method for doing approximate multiplications that was used before logarithms were invented.
 
-- [Adam's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Adam%20Atkinson%20-%20Maths%20for%20Time-Travellers,%20Briefing%2017.pdf)
+- [Adam's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Adam%20Atkinson%20-%20Maths%20for%20time%20travellers.pdf)
 
 #### Annette Margolis: Extending the Twelve Days of Christmas to get the next Square Triangular number of Gifts
 The total number of gifts on each day of the Twelve Days of Christmas is a triangular number, such that it is: 1 on the first day, 3 on the second, 6 on the third and so forth.  However, on the first day and the eighth day the lucky (?) recipient receives 1 gift and 36 gifts in total respectively. How many days do we need to extend those twelve days so they receive another square triangular number of gifts? And is there a pattern to enable us to predict these square triangular numbers? Is there an infinite number of square triangular numbers?
@@ -288,7 +290,7 @@ The total number of gifts on each day of the Twelve Days of Christmas is a trian
 
 #### Competition results: Bakeoff
 
-See the [cakes page]({{site.url}}/gathering/archive/2022/cakes).
+See the [cakes page]({{site.url}}/gathering/uk/archive/2022/cakes).
 
 #### Competition results: Competition Competition
 
@@ -307,11 +309,11 @@ Hexagons are awesome. I'll show you some reasons why.
 #### Joel Haddley: Jim Morrison. Poet. Singer. Economist?
 This talk seeks to contribute to the debate and analysis surrounding Jim Morrison’s lyrics. 
 
-- [Joel's slides (Keynote)]({{site.url}}/assets/talks/2022/E%20Joel%20Haddley%20-%20Jim%20Morrison.%20Poet.%20Singer.%20Economist?.key)
-- [Joel's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Joel%20Haddley%20-%20Jim%20Morrison.%20Poet.%20Singer.%20Economist?.pdf)
+- [Joel's slides (Keynote)]({{site.url}}/assets/talks/2022/E%20Joel%20Haddley%20-%20Jim%20Morrison%20Poet%20Singer%20Economist.key)
+- [Joel's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Joel%20Haddley%20-%20Jim%20Morrison%20Poet%20Singer%20Economist.pdf)
 
 #### Katie Steckles: The No-Three-In-Line problem
 Katie explains the no-three-in-line problem, a simple geometrical puzzle which has an unexpectedly difficult solution - and remains an open problem.
 
-- [Katie's slides (Keynote)]({{site.url}}/assets/talks/2022/F%20Katie%20Steckles%20-%20The%20No-Three-In-Line%20problem.key)
-- [Katie's slides (PDF)]({{site.url}}/assets/talks/2022/F%20Katie%20Steckles%20-%20The%20No-Three-In-Line%20problem.pdf)
+- [Katie's slides (Keynote)]({{site.url}}/assets/talks/2022/F%20Katie%20Steckles%20-%20No%20Three%20In%20A%20Line.key)
+- [Katie's slides (PDF)]({{site.url}}/assets/talks/2022/F%20Katie%20Steckles%20-%20No%20Three%20In%20A%20Line.pdf)
