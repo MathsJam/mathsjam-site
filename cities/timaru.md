@@ -22,4 +22,5 @@ hiatus_months:
 changed_dates: 
     - 2020-08-25
 jam_date_rule: last Thursday
+december_jam_date_rule: second-last Thursday
 ---
