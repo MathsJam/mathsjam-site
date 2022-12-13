@@ -18,7 +18,7 @@ location:
     lat: 51.2619764
 hiatus: False
 hiatus_months:
-    - 2022-02
+    - 2022-12
 changed_dates: 
     - 2022-06-20
 jam_date_rule: fourth Monday
