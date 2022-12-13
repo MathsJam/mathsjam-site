@@ -18,5 +18,6 @@ location:
     lat: 56.8785561
 hiatus: False
 jam_date_rule: second-last Thursday
+december_jam_date_rule: third-last Thursday
 start_time: 6.30pm
 ---
