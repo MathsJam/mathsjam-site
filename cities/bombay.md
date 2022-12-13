@@ -17,5 +17,6 @@ location:
     lon: 72.8310403
 hiatus: False
 jam_date_rule: fourth Saturday
+december_jam_date_rule: third Saturday
 start_time: 5pm
 ---
