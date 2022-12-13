@@ -16,6 +16,7 @@ location:
     lon: 2.1843735
     lat: 48.6979677
 hiatus: False
+start_time: 7pm (19h)
 poster_text: |
     Une opportunité mensuelle pour les passionnés
     de mathématiques partageant les mêmes idées de
