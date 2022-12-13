@@ -19,9 +19,13 @@ location:
 hiatus: False
 hiatus_months:
     - 2022-12
+    - 2023-12
+    - 2024-12
+    - 2025-12
 changed_dates: 
     - 2022-06-20
 jam_date_rule: fourth Monday
+december_jam_date_rule: third Monday
 start_time: 7.30pm in the evening
 extra_text: "The pub is generally quiet and there is lots of space between tables, so we are now meeting inside. Meetings will be confirmed by email on MathsJam morning - please let us know if you're planning to come so that we can include you in the email."
 ---
