@@ -17,6 +17,7 @@ location:
     lon: 4.4114405
     lat: 51.2234707
 jam_date_rule: last Wednesday
+december_jam_date_rule: second-last Wednesday
 hiatus: False
 hiatus_months:
     - 2022-12
