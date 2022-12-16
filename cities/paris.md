@@ -1,7 +1,7 @@
 ---
 layout: city                                           
 lockdown: False
-lang: fr
+lang: en
 city_name: Paris                                                         
 jam_name: Paris MathsJam
 email: paris@mathsjam.com
@@ -17,11 +17,4 @@ location:
     lat: 48.6979677
 hiatus: False
 start_time: 7pm (19h)
-poster_text: |
-    Une opportunité mensuelle pour les passionnés
-    de mathématiques partageant les mêmes idées de
-    se réunir dans un pub et de partager des choses
-    qu'ils aiment. Des puzzles, des jeux, des problèmes
-    ou tout ce qu'ils pensent être cool ou intéressant.
-    C'est l'avant-dernier mardi de chaque mois.
 ---
