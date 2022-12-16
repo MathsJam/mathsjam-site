@@ -1,6 +1,6 @@
 ---
 layout: city                                           
-lockdown: false
+lockdown: False
 city_name: Leuven
 twitter: https://twitter.com/dietercastel
 jam_name: Leuven MathsJam
@@ -16,7 +16,7 @@ location:
     url: https://www.opek.be/
     lon: 4.7002493
     lat: 50.8877297
-hiatus: false
+hiatus: False
 hiatus_months:
     - 2022-12
     - 2023-01
