@@ -115,6 +115,7 @@ On-Sets is a game designed in the mid 1960s to teach set theory and has some coo
 #### Paul Kennedy: Clapping Music – a music lesson and some counting
 Steve Reich’s Clapping Music, is a (very simple) cyclic permutation. Using necklace polynomials it is possible to calculate both the number of possible clapping musics and the number of clapping musics of length n. The prime case is trivial. Further, a Lyndon word is hidden in Clapping Music.  
 
+- [Paul's slides (ODP)]({{site.url}}/assets/talks/2022/C%20Paul%20Kennedy%20-%20Clapping%20Music%20a%20music%20lesson%20and%20some%20counting.odp)
 - [Paul's slides (PDF)]({{site.url}}/assets/talks/2022/C%20Paul%20Kennedy%20-%20Clapping%20Music%20a%20music%20lesson%20and%20some%20counting.pdf)
 
 #### Philipp Reinhard: Graphs for divisibility rules
