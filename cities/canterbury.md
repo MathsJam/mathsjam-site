@@ -24,6 +24,7 @@ hiatus_months:
     - 2025-12
 changed_dates: 
     - 2022-06-20
+    - 2023-01-30
 jam_date_rule: fourth Monday
 december_jam_date_rule: third Monday
 start_time: 7.30pm in the evening
