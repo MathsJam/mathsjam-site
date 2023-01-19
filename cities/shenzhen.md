@@ -10,11 +10,11 @@ organiser:
     email: shenzhen@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Jing-A"
-    description: "102-2 G&G Creative Community, NO.9 Liyuan Road, Nanshan District, Shenzhen"
+    pub_name: "Jing-A Taproom"
+    description: ", at 102-2 G&G Creative Community, NO.9 Liyuan Road in Nanshan District"
     url: https://www.facebook.com/jingabrewing/ 
-    lat: 22.491524
-    lon: 113.918566
+    lat: 22.4922051
+    lon: 113.9185642
 hiatus: False
 hiatus_months:
     - 2023-01
