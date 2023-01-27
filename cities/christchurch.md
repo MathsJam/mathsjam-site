@@ -11,7 +11,7 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Viaduct Public House &amp; Restaurant"
+    pub_name: "Viaduct Public House & Restaurant"
     description: " on Level 1 of the Terrace, at 134 Oxford Tce."
     url: https://www.viaductrestaurant.co.nz
     lon: 172.6318525
