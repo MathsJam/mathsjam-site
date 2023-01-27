@@ -10,8 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: Pie & Ale
-    description: ' on Faraday Street (probably on one of the tables outside, under
-        the covered bit)'
+    description: ' on Faraday Street'
     url: https://www.pieandale.com/
     lon: -2.2336635
     lat: 53.4831995
