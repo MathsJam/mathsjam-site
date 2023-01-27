@@ -1,8 +1,8 @@
 ---
-layout: city                                           
+layout: city
 lang: es_PA
-lockdown: False
-city_name: Panamá                                                               
+lockdown: false
+city_name: Panamá
 jam_name: Panamá MathsJam
 email: panama@mathsjam.com
 organiser:
@@ -10,12 +10,12 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "La Rana Dorada"
-    description: ", Condado Del Rey"
+    pub_name: La Rana Dorada
+    description: ', Condado Del Rey'
     url: http://laranadorada.com/
     lon: -79.5312153
     lat: 9.0312775
-hiatus: False
+hiatus: false
 hiatus_months:
     - 2019-07
     - 2019-12
@@ -35,5 +35,8 @@ poster_text: |
     cualquier problema que les parezca interesante.
     Es en el penúltimo martes de cada mes, y se
     realiza en todas partes del mundo.
-extra_text: "<a href=PanamaMathsJamflyer.png>Click here for a flyer with details of the latest event</a>."
+extra_text: <a href=PanamaMathsJamflyer.png>Click here for a flyer with details of
+    the latest event</a>.
+
 ---
+

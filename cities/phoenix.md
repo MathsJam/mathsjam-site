@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: False
+lockdown: false
 city_name: Phoenix AZ
 local_jam_type: MathJam
 jam_name: Phoenix MathJam
@@ -10,8 +10,8 @@ organiser:
     email: phoenix@math-jam.com
 location:
     group: north-america
-    pub_name: "Spokes"
-    description: ", on E Southern Ave in Tempe"
+    pub_name: Spokes
+    description: ', on E Southern Ave in Tempe'
     url: http://www.spokesonsouthern.com/
     lon: -111.9142888
     lat: 33.3940957
@@ -19,5 +19,7 @@ changed_dates:
     - 2017-12-19
     - 2021-12-21
     - 2022-12-20
-hiatus: False
+hiatus: false
+
 ---
+

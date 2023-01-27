@@ -1,24 +1,22 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Antwerp                                                               
+layout: city
+lockdown: false
+city_name: Antwerp
 jam_name: Antwerp MathsJam
 email: antwerp@mathsjam.com
-facebook: https://www.facebook.com/mathsjamantwerpen
-twitter: MathsJamAntwerp
 organiser:
     name: Rudi
     email: antwerp@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Agora"
-    description: ", Grote Kauwenberg 2"
+    pub_name: Agora
+    description: ', Grote Kauwenberg 2'
     url: http://www.goudengids.be/agora-caffee-antwerpen-2000/
     lon: 4.4114405
     lat: 51.2234707
 jam_date_rule: last Wednesday
 december_jam_date_rule: second-last Wednesday
-hiatus: False
+hiatus: false
 hiatus_months:
     - 2022-12
     - 2017-08
@@ -30,4 +28,13 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2018-12-18
+links:
+    twitter:
+        text: '@MathsJamAntwerp'
+        url: https://twitter.com/MathsJamAntwerp
+    facebook:
+        text: Facebook
+        url: https://www.facebook.com/mathsjamantwerpen
+
 ---
+

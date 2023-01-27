@@ -1,17 +1,16 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Newcastle                                                               
+layout: city
+lockdown: false
+city_name: Newcastle
 jam_name: Newcastle MathsJam
 email: newcastle@mathsjam.com
-twitter: NEWCMathsJam
 organiser:
     name: Michael
     email: newcastle@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "The Carriage"
-    description: " in Jesmond"
+    pub_name: The Carriage
+    description: ' in Jesmond'
     url: https://www.facebook.com/thecarriagejesmond/
     lon: -1.6048412
     lat: 54.981942
@@ -23,4 +22,10 @@ hiatus_months:
 changed_dates:
     - 2018-12-18
     - 2022-10-20
+links:
+    twitter:
+        text: '@NEWCMathsJam'
+        url: https://twitter.com/NEWCMathsJam
+
 ---
+

@@ -1,7 +1,7 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Edinburgh                                                               
+layout: city
+lockdown: false
+city_name: Edinburgh
 jam_name: Edinburgh MathsJam
 email: edinburgh@mathsjam.com
 organiser:
@@ -9,12 +9,13 @@ organiser:
     email: edinburgh@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "The Brass Monkey"
-    description: " which is on Drummond Street. Look for the table with a mathematical sheep doing a Rubik's cube puzzle"
+    pub_name: The Brass Monkey
+    description: " which is on Drummond Street. Look for the table with a mathematical\
+        \ sheep doing a Rubik's cube puzzle"
     url: https://www.brassmonkeyedinburgh.co.uk/
     lon: -3.1853463
     lat: 55.9472938
-hiatus: False
+hiatus: false
 hiatus_months:
     - 2018-01
     - 2018-07
@@ -22,4 +23,6 @@ hiatus_months:
     - 2020-03
 changed_dates:
     - 2020-08-19
+
 ---
+
