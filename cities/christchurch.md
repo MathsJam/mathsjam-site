@@ -11,11 +11,11 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Good Home Ferrymead Gastropub"
-    description: " in the Ferrymead Central Complex, just off Ferry Road"
-    url: http://www.thegoodhomeferrymead.co.nz/
-    lon: 172.6976229
-    lat: -43.5559692
+    pub_name: "Viaduct Public House & Restaurant"
+    description: " on Level 1 of the Terrace, at 134 Oxford Tce."
+    url: https://www.viaductrestaurant.co.nz
+    lon: 172.6318525
+    lat: -43.5325493
 hiatus: False
 hiatus_months:
     - 2017-05
