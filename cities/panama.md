@@ -26,7 +26,6 @@ hiatus_months:
     - 2022-12
     - 2022-11
     - 2023-01
-    - 2023-02
 start_time: 7:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
@@ -36,7 +35,7 @@ poster_text: |
     cualquier problema que les parezca interesante.
     Es en el penúltimo martes de cada mes, y se
     realiza en todas partes del mundo.
-extra_text: <a href=PanamaMathsJamflyer.png>Click here for a flyer with details of
+extra_text: The February 2023 event will be a virtual meeting. <a href=PanamaMathsJamflyer.png>Click here for a flyer with details of
     the latest event</a>.
 
 ---
