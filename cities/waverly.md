@@ -3,7 +3,7 @@ layout: city
 lockdown: false
 city_name: Waverly IA
 local_jam_type: MathJam
-jam_name: Windsor MathJam
+jam_name: Waverly MathJam
 email: waverly@math-jam.com
 organiser:
     name: Mariah
