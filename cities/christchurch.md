@@ -24,6 +24,7 @@ changed_dates:
     - 2022-12-20
 jam_date_rule: third Tuesday
 start_time: 7pm in the evening
+extra_text: <a href=http://bit.ly/2foEXbV> Join the Christchurch MathsJam Mailing list.</a>.
 links:
     twitter:
         text: '@ChchMathsJam'
