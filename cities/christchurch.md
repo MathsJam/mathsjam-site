@@ -31,6 +31,8 @@ links:
     facebook:
         text: Facebook
         url: https://www.facebook.com/groups/1619676614738705/
-
+    something_else:
+        text: "Mailing List"
+        url: http://bit.ly/2foEXbV
 ---
 
