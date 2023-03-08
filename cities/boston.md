@@ -1,17 +1,19 @@
 ---
 layout: city
+lockdown: false
 city_name: Boston
 local_jam_type: MathJam
-email: boston@mathsjam.com
-links:
+jam_name: Boston MathJam
+email: boston@math-jam.com
 organizer:
-  name: Jared Davis
-  email: boston@mathsjam.com
+  name: Jared
+  email: boston@math-jam.com
 location:
   group: north-america
-  pub_name: "WeWork | Central Square"
+  pub_name: WeWork
+  description: ' at Central Square'
   url: https://www.wework.com/buildings/625-massachusetts-ave--boston--MA
-jam_date_rule: second-last Tuesday
-start_time: 7pm in the evening
-lang: en_US
+  lon: -71.1031065
+  lat: 42.3657605
+hiatus: false
 ---
