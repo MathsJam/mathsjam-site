@@ -9,7 +9,8 @@ organizer:
   email: boston@mathsjam.com
 location:
   group: north-america
-  pub_name: "TBD"
+  pub_name: "WeWork | Central Square"
+  url: https://www.wework.com/buildings/625-massachusetts-ave--boston--MA
 jam_date_rule: second-last Tuesday
 start_time: 7pm in the evening
 lang: en_US
