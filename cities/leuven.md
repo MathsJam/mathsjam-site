@@ -7,7 +7,7 @@ lang: en
 email: leuven@mathsjam.com
 organiser:
     name: Dieter
-    email: leuvenMJ@gmail.com
+    email: leuven@mathsjam.com
 location:
     group: rest-of-world
     pub_name: Cafe Entrepot
