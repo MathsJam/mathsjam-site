@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Boston
+city_name: Boston MA
 local_jam_type: MathJam
 jam_name: Boston MathJam
 email: boston@math-jam.com
