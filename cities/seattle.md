@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: true
+lockdown: false
 city_name: Seattle WA
 local_jam_type: MathJam
 jam_name: Seattle MathJam
@@ -29,8 +29,6 @@ changed_dates:
     - 2019-02-26
     - 2019-06-19
     - 2019-09-24
-extra_text: We are organising our own local online MathsJam events while we can't
-    meet in person, some with guest speakers - get in touch if you'd like more information.
 links:
     twitter:
         text: '@jam_math'
