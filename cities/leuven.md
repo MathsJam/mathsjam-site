@@ -11,7 +11,7 @@ organiser:
 location:
     group: rest-of-world
     pub_name: Cafe Entrepot
-    description: ', at the Opek Arts Centre at Vaartkom 4 (although we're scouting a new, bigger venue, stay tuned)'
+    description: ', at the Opek Arts Centre at Vaartkom 4 (although we are scouting a new, bigger venue - stay tuned)'
     url: https://www.opek.be/
     lon: 4.7002493
     lat: 50.8877297
