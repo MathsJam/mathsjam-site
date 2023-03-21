@@ -2,8 +2,8 @@
 layout: plain
 ---
 
-city,twitter,next_date
+city,next_date
 {% for city in site.cities %}
-{% if city.twitter and not city.hiatus %}"{{city.city_name}}","{{city.twitter}}","{{city|next_non_hiatus_ymd}}"
+{% if not city.hiatus %}"{{city.city_name}}","{{city|next_non_hiatus_ymd}}"{% for k,v in city.links %},"{{k}}","{{v.text}}"{% endfor %}{{""}}
 {% endif %}
 {% endfor %}
