@@ -21,7 +21,7 @@ links:
     twitter:
         text: '@MCRMathsJam'
         url: https://twitter.com/MCRMathsJam
-    something_else:
+    mailing_list:
         text: "Join mailing list"
         url: http://eepurl.com/dlwxBn
 
