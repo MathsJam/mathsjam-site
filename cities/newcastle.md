@@ -5,7 +5,7 @@ city_name: Newcastle
 jam_name: Newcastle MathsJam
 email: newcastle@mathsjam.com
 organiser:
-    name: Berin
+    name: Michael
     email: newcastle@mathsjam.com
 location:
     group: uk-ireland
@@ -23,7 +23,6 @@ hiatus_months:
 changed_dates:
     - 2018-12-18
     - 2022-10-20
-jam_date_rule: second-last Thursday
 links:
     twitter:
         text: '@NEWCMathsJam'
