@@ -5,7 +5,7 @@ city_name: Newcastle
 jam_name: Newcastle MathsJam
 email: newcastle@mathsjam.com
 organiser:
-    name: Michael
+    name: Michael, Louise and Gurveer
     email: newcastle@mathsjam.com
 location:
     group: uk-ireland
@@ -17,12 +17,10 @@ hiatus_months:
     - 2017-08
     - 2019-02
     - 2019-05
-    - 2023-04
-    - 2023-06
-    - 2023-08
 changed_dates:
     - 2018-12-18
     - 2022-10-20
+    - 2023-04-20
 links:
     twitter:
         text: '@NEWCMathsJam'
