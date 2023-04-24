@@ -8,7 +8,7 @@ organiser:
     name: Chris
     email: plzen@mathsjam.com
 location:
-    group: uk-ireland
+    group: rest-of-world
     pub_name: Lok&aacute;l Pod Divadlem
     description: " on Bezru&#269;ova"
     url: https://lokal-poddivadlem.ambi.cz/cz/
