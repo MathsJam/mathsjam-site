@@ -12,8 +12,8 @@ location:
     pub_name: Lok&aacute;l Pod Divadlem
     description: " on Bezru&#269;ova"
     url: https://lokal-poddivadlem.ambi.cz/cz/
-    lon: 13.3738939
-    lat: 49.7459197
+    lon: 13.3740327
+    lat: 49.7459266
 hiatus: false
 ---
 
