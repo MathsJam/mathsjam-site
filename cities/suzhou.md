@@ -5,7 +5,7 @@ city_name: Suzhou
 jam_name: Suzhou MathsJam
 email: suzhou@mathsjam.com
 organiser:
-    name: Martin Crozier
+    name: Amin Temorian
     email: suzhou@mathsjam.com
 location:
     group: rest-of-world
@@ -23,6 +23,8 @@ hiatus_months:
     - 2018-07
     - 2019-12
     - 2020-02
+changed_dates:
+    - 2023-06-12
 start_time: 7:00pm in the evening
 links:
     twitter:
