@@ -9,11 +9,11 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: Viaduct Public House &amp; Restaurant
-    description: ' on Level 1 of the Terrace, at 134 Oxford Tce.'
-    url: https://www.viaductrestaurant.co.nz
-    lon: 172.6318525
-    lat: -43.5325493
+    pub_name: The Craft Embassy
+    description: 'in the Greenhouse pavilion on Level 1 of the Terrace, at 126 Oxford Tce.'
+    url: https://www.craftembassy.co.nz
+    lon: 172.634268
+    lat: -43.532654
 hiatus: false
 hiatus_months:
     - 2017-05
