@@ -9,7 +9,7 @@ organiser:
     email: shenzhen@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: Jing-A Taproom
+    pub_name: Jing-A Taproom, G&G
     description: ', at 102-2 G&G Creative Community, NO.9 Liyuan Road in Nanshan District'
     url: https://www.facebook.com/jingabrewing/
     lat: 22.4922051
