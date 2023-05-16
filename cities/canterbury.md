@@ -17,6 +17,7 @@ location:
 hiatus: false
 hiatus_months:
     - 2022-12
+    - 2023-05
     - 2023-12
     - 2024-12
     - 2025-12
