@@ -25,10 +25,10 @@ links:
     twitter:
         text: "@dietercastel"
         url: https://twitter.com/dietercastel
-    jamsite:
+    something_else:
         text: "GitHub"
         url: https://github.com/MathsJL/MathsJL.github.io
-    mastodon:
+    something_else:
         text: "Mastodon"
         url: https://mathstodon.xyz/@leuvenMJ
 ---
