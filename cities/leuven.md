@@ -28,7 +28,7 @@ links:
     something_else:
         text: "GitHub"
         url: https://github.com/MathsJL/MathsJL.github.io
-    something_else:
+    mastodon:
         text: "Mastodon"
         url: https://mathstodon.xyz/@leuvenMJ
 ---
