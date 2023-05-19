@@ -19,10 +19,17 @@ hiatus: false
 hiatus_months:
     - 2022-12
     - 2023-01
+    - 2023-06
 start_time: 20:00 - 23:00
 links:
     twitter:
         text: '@dietercastel'
         url: https://twitter.com/dietercastel
+    jamsite:
+        text: find us on github
+        url: https://github.com/MathsJL/MathsJL.github.io
+    mastodon:
+        text: Mastodon
+        url: https://mathstodon.xyz/@leuvenMJ
 ---
 
