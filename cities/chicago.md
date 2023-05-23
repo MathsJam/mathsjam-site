@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Chicago
+city_name: Chicago IL
 jam_name: Chicago MathJam
 lang: en
 email: chicago@math-jam.com
