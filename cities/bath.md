@@ -14,7 +14,7 @@ location:
     url: http://hall-woodhousebath.co.uk/
     lon: -2.362606
     lat: 51.383856
-hiatus: false
+hiatus: true
 hiatus_months:
     - 2020-03
 start_time: 7:30pm onwards
