@@ -5,7 +5,7 @@ title: MathsJam Gathering 2017
 	
 This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There's also a [Cake page here]({{site.url}}/gathering/archive/2017/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2017]({{site.url}}/assets/talks/2017/MathsJamJam-Songbook-2017.pdf).
+There's also a [Cake page here]({{site.url}}/gathering/uk/archive/2017/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2017]({{site.url}}/assets/talks/2017/MathsJamJam-Songbook-2017.pdf).
 
 The gathering took place on 11th-12th November 2017.
 
