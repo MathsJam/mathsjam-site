@@ -57,7 +57,7 @@ jobs:
           # SSH host
           host: ${{ secrets.SSH_HOST }}
           # SSH user
-          user: ${{ secrets.SSH_USER }}
+          username: ${{ secrets.SSH_USER }}
           # SSH port
           port: ${{ secrets.SSH_PORT }}
           # SSH key
