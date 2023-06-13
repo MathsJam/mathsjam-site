@@ -51,6 +51,10 @@ jobs:
       - name: Build the site
         run: ./spress.phar site:build
 
+      - name: Move built files to www
+        run: |
+          mv build www
+          
       - name: Copy the files to mathsjam.com by SSH
         uses: betanzos/scp-upload@v1
         with:
@@ -63,9 +67,9 @@ jobs:
           # SSH key
           key: ${{ secrets.SSH_KEY }}
           # Local file path
-          source: build/*
+          source: www
           # Recursive copy
           recursive: 'true'
           # Remote directory
-          remote_dir: '~/www'
+          remote_dir: '~'
         if: github.ref == 'refs/heads/master'
