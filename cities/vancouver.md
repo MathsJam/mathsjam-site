@@ -10,7 +10,7 @@ organiser:
 location:
     group: north-america
     pub_name: an online format
-    description: '(contact the organiser for more details)'
+    description: ' (contact the organiser for more details)'
     url: http://mathsjam.com/cities/vancouver
     lon: -122.9971944
     lat: 49.2250524
