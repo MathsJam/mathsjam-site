@@ -9,8 +9,8 @@ organiser:
     email: vancouver@math-jam.com
 location:
     group: north-america
-    pub_name: a location TBC
-    description: '.'
+    pub_name: an online format
+    description: '(contact the organiser for more details)'
     url: http://mathsjam.com/cities/vancouver
     lon: -122.9971944
     lat: 49.2250524
