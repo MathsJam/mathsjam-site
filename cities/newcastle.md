@@ -21,6 +21,7 @@ changed_dates:
     - 2018-12-18
     - 2022-10-20
     - 2023-04-20
+    - 2023-06-22
 links:
     twitter:
         text: '@NEWCMathsJam'
