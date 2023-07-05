@@ -19,6 +19,9 @@ links:
     twitter:
         text: '@BletchleyJam'
         url: https://twitter.com/BletchleyJam
+    mailing_list:
+        text: 'Join mailing list'
+        url: https://www.freelists.org/list/bletchleymathsjam
 
 ---
 
