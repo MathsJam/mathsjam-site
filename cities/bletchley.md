@@ -9,7 +9,7 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Brewdog & Kitchen MK
+    pub_name: Brewhouse & Kitchen MK
     description: ' which is in Central Milton Keynes theatre district'
     url: https://www.brewhouseandkitchen.com/venue/milton-keynes/
     lon: -0.749297138643139
