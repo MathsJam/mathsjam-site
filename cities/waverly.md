@@ -15,8 +15,10 @@ location:
     url: https://www.bremerbrewingcompany.com/
     lon: -92.4724187
     lat: 42.7259449
-hiatus: true
+hiatus: false
 jam_date_rule: second-last Monday
 start_time: 7pm in the evening
+hiatus_months:
+    - 2023-07
 ---
 
