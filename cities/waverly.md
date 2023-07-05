@@ -18,5 +18,7 @@ location:
 hiatus: false
 jam_date_rule: second-last Monday
 start_time: 7pm in the evening
+hiatus_months:
+    - 2023-07
 ---
 
