@@ -17,6 +17,7 @@ location:
 hiatus: false
 hiatus_months:
     - 2022-08
+    - 2023-07
 links:
     twitter:
         text: '@KgsLynnMathsJam'
