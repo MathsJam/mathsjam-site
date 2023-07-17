@@ -9,16 +9,15 @@ organiser:
     email: vancouver@math-jam.com
 location:
     group: north-america
-    pub_name: an online format
-    description: ' (contact the organiser for more details)'
+    pub_name: The Wolf and Hound
+    description: ' at 3617 W Broadway'
     url: http://mathsjam.com/cities/vancouver
-    lon: -122.9971944
-    lat: 49.2250524
+    lon: -123.1842189
+    lat: 49.2644817
 start_time: 7pm in the evening
 changed_dates:
     - 2020-01-22
 hiatus: false
-extra_text: We will shortly be restarting in-person meetings - watch this space for information.
 
 ---
 
