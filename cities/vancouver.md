@@ -11,7 +11,7 @@ location:
     group: north-america
     pub_name: The Wolf and Hound
     description: ' at 3617 W Broadway'
-    url: http://mathsjam.com/cities/vancouver
+    url: https://www.wolfandhound.ca/
     lon: -123.1842189
     lat: 49.2644817
 start_time: 7pm in the evening
