@@ -12,8 +12,8 @@ location:
     pub_name: Taps
     description: ', at Plaza Arkadia in Desa Park City'
     url: https://tapsbeerbar.my/plaza-arkadia/
-    lat: 101.6353581
-    lon: 3.185937
+    lat: 3.185937
+    lon: 101.6353581
 hiatus: false
 hiatus_months:
     - 2019-07
