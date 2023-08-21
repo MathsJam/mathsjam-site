@@ -5,7 +5,7 @@ title: MathsJam Gathering 2017
 	
 This is a list of talks given at the 2017 MathsJam Weekend, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There's also a [Cake page here]({{site.url}}/gathering/uk/archive/2017/cake) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2017]({{site.url}}/assets/talks/2017/MathsJamJam-Songbook-2017.pdf).
+There's also a [Cake page here](/cake.html) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2017]({{site.url}}/assets/talks/2017/MathsJamJam-Songbook-2017.pdf).
 
 The gathering took place on 11th-12th November 2017.
 
@@ -41,7 +41,7 @@ Having seen the photo above, Alison wondered if the implied assumption about the
 
 #### TD Dang : The Maths In Mean Girls
 
-[TD](twitter.com/televisionduck) has watched _Mean Girls_ which features a maths competition in the finale. She's put a lot of thought into not only how to approach the questions in it, but also how the wrong answers might have been arrived at.
+[TD](https://twitter.com/televisionduck) has watched _Mean Girls_ which features a maths competition in the finale. She's put a lot of thought into not only how to approach the questions in it, but also how the wrong answers might have been arrived at.
 
 - [All the math scenes in Mean Girls, on YouTube](https://www.youtube.com/watch?v=QIMSC-RWvF8)
 
@@ -155,7 +155,7 @@ Ben talks about the maths behind the PageRank algorithm, and how it can be appli
 
 #### Belgin Seymenoglu : Donald In Mathmagic Land
 
-[Belgin](https://twitter.com/smokyfurby) shows us where some mathematical concepts from Disney's _Donald in Mathmagic Land_ appear in the real world.
+[Belgin](https://twitter.com/drsmokyfurby) shows us where some mathematical concepts from Disney's _Donald in Mathmagic Land_ appear in the real world.
 
 - [Belgin's slides (PPTX)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pptx)
 - [Belgin's slides (PDF)]({{site.url}}/assets/talks/2017/BelginSeymenoglu-Mathemagicland.pdf)
