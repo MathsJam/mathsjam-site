@@ -28,6 +28,8 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2018-12-18
+    - 2023-09-17
+extra_text: "In September 2023 we will be meeting on Sunday 17th, from 1.30pm - 5.30pm at Cozmix in domain Beisbroek, Zeeweg 96 for a special presentation on MathFest - a mathematical festival for a broad audience."
 links:
     twitter:
         text: '@MathsJamAntwerp'
