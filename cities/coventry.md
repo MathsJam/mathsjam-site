@@ -1,4 +1,4 @@
-  ---
+---
 layout: city
 lockdown: false
 city_name: Coventry
@@ -17,4 +17,6 @@ location:
 hiatus: false
 hiatus_months:
     - 2020-03
+    
 ---
+
