@@ -1,7 +1,7 @@
   ---
 layout: city
 lockdown: false
-city_name: Coventry (Warwick)
+city_name: Coventry
 jam_name: Coventry (Warwick) MathsJam
 email: coventry@mathsjam.com
 organiser:
@@ -18,4 +18,3 @@ hiatus: false
 hiatus_months:
     - 2020-03
 ---
-
