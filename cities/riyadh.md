@@ -20,7 +20,7 @@ changed_dates:
 links:
     discord:
         text: 'Discord'
-        url: https://discord.gg/JNPZtFFQ
+        url: https://discord.gg/Kqjc6RkMr2
     tiktok:
         text: 'TikTok'
         url: https://www.tiktok.com/@riyadh.maths.jam
