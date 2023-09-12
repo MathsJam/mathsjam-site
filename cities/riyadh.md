@@ -17,6 +17,13 @@ location:
 hiatus: false
 changed_dates:
     - 2023-09-21
+links:
+    something_else:
+        text: 'Discord'
+        url: https://discord.gg/JNPZtFFQ
+    something_else:
+        text: 'TikTok'
+        url: https://www.tiktok.com/@riyadh.maths.jam
     
 ---
 
