@@ -5,7 +5,7 @@ title: MathsJam Gathering 2019
 	
 This is a list of talks given at the 2019 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2019/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2019](https://drive.google.com/file/d/1bwk49--Y6zT7dJ9dNIE57RIdtzsUsfzW/view).
+There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2019/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2019](https://drive.google.com/file/d/1ZjJR95wlKFq_6Rmbp4QiN_MNZCDY9V3U/view).
 
 The gathering took place on 30th November - 1st December 2019.
 
@@ -111,7 +111,6 @@ James presents one of his favourite mathematical books - and he's written his ow
 #### Tom Button: Is the mathematical mind flat?
 Do we solve mathematical problems subconsciously or is this just a myth?
 
- - [Tom's slides (PPT)]({{site.url}}/assets/talks/2019/TomButton-Isthemathematicalmindflat.pptx)
  - [Tom's slides (PDF)]({{site.url}}/assets/talks/2019/TomButton-Isthemathematicalmindflat.pdf)
  - The book which inspired Tom's talk, [The Mind is Flat by Nick Chater](https://www.waterstones.com/book/the-mind-is-flat/nick-chater/9780241208779)
 
@@ -249,8 +248,8 @@ You can impose on Sudoku puzzles a physical system which works surprisingly well
 #### Miguel Gonçalves: From a new deck to Si Stebbins 
 How to prepare a Si Stebbins stack from a new deck order during a performance.
 
- - [Miguel's slides (PPT)]({{site.url}}/assets/talks/2019/MiguelGonçalves-FromanewdecktoSiStebbins.pptx)
- - [Miguel's slides (PDF)]({{site.url}}/assets/talks/2019/MiguelGonçalves-FromanewdecktoSiStebbins.pdf)
+ - [Miguel's slides (PPT)]({{site.url}}/assets/talks/2019/MiguelGoncalves-FromanewdecktoSiStebbins.pptx)
+ - [Miguel's slides (PDF)]({{site.url}}/assets/talks/2019/MiguelGoncalves-FromanewdecktoSiStebbins.pdf)
 
 #### Stefania Delprete: Why the music staff is not really mathematically correct?
 Last year I started an in-depth course on Jazz Harmony. A lot of new concept for my ears and eyes: major and minor chords, harmonized scales, and so on. 
@@ -276,7 +275,6 @@ Discussing approaches to calculating the permutations of a rubik's cube and othe
 #### Miles Gould: Quantum computing in perspective
 In quantum computers, the state of a qubit (quantum bit) can be something in-between 0 and 1 - but in what sense in-between? They're not elements of the interval \[0, 1\], but it turns out that there is a natural geometry for the state space of qubits: *complex projective space*, closely related to the mathematics of perspective drawing.
 
- - [Miles's slides (PPT)]({{site.url}}/assets/talks/2019/MilesGould-Quantumcomputinginperspective.pptx)
  - [Miles's slides (PDF)]({{site.url}}/assets/talks/2019/MilesGould-Quantumcomputinginperspective.pdf)
  - [Transcript of Miles' talk](https://docs.google.com/document/d/1TTGQ-ukB1hshcs5xemXFcqnmi-13orshku8-7eua2a4/edit?usp=drivesdk)
 
@@ -288,7 +286,7 @@ Zoe performs a mathematical trick that she designed after reminiscing about key 
 #### Luna Kirkby: Cursed Regular Expressions
 We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
 
- - [Luna's slides](http://moonbase.lgbt/talks/mathsjam-2019/)
+ - [Luna's slides](http://moonbase.lgbt/talks/mathsjam-2019/) (link currently broken)
  - [A video of the talk](https://youtu.be/Grc0Ak83Pf8)
  
 #### Lucy Rycroft-Smith: Ten New Maths Jokes
