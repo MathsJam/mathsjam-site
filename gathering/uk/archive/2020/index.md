@@ -100,7 +100,7 @@ Francis shares some hints on how to build a Soma cube, from John Conway et al.'s
 
 ### Saturday night tables
 
-Among the activities people could participate in on Saturday evening were a Jeopardy! quiz run by [the Chalkdust team](http://www.chalkdustmagazine.com), a live version of the [Mathematical Objects podcast](http://www.aperiodical.com/podcasts/mathematical-objects) and a table playing [Fractal tic tac toe](http://www.rimosco.it/tris_frattale/), invented by Cesco Reale.
+Among the activities people could participate in on Saturday evening were a Jeopardy! quiz run by [the Chalkdust team](http://www.chalkdustmagazine.com), a live version of the [Mathematical Objects podcast](https://aperiodical.com/podcasts/mathematical-objects) and a table playing [Fractal tic tac toe](http://www.rimosco.it/tris_frattale/), invented by Cesco Reale.
 
 ## SUNDAY
 
@@ -125,7 +125,7 @@ Johnny shares some of his favourite facts from Euclid, including some geometrica
 
 - [Thales' Theorem](https://en.wikipedia.org/wiki/Thales%27s_theorem)
 - [Intersecting Chords Theorem](https://en.wikipedia.org/wiki/Intersecting_chords_theorem)
-- [Johnny's book Wonders Beyond Numbers](https://www.bloomsbury.com/uk/wonders-beyond-numbers-9781472939999/)
+- [Johnny's book Wonders Beyond Numbers](https://www.bloomsbury.com/uk/wonders-beyond-numbers-9781472939975/)
 
 #### Peter Rowlett - nimsticks: making games with LaTeX and Lua
 Nim is a game that involving picking sticks from piles. This talk briefly covered Nim, representing it in LaTeX and programming game solutions in LuaLaTeX.
