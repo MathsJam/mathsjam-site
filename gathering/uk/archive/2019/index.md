@@ -286,7 +286,7 @@ Zoe performs a mathematical trick that she designed after reminiscing about key 
 #### Luna Kirkby: Cursed Regular Expressions
 We explore the equivalence between regular expressions and finite state machines, and discuss how to reduce any FSM into a regex, culminating in some truly cursed behemoth regular expressions based on sokoban, peg solitaire, and even juggling.
 
- - [Luna's slides](http://moonbase.lgbt/talks/mathsjam-2019/) (link currently broken)
+ - [Luna's slides (PDF)]({{site.url}}/assets/talks/2019/LunaKirkby-CursedRegularExpressions.pdf)
  - [A video of the talk](https://youtu.be/Grc0Ak83Pf8)
  
 #### Lucy Rycroft-Smith: Ten New Maths Jokes
