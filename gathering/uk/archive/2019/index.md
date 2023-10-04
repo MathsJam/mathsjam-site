@@ -5,7 +5,7 @@ title: MathsJam Gathering 2019
 	
 This is a list of talks given at the 2019 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2019/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2019](https://drive.google.com/file/d/1ZjJR95wlKFq_6Rmbp4QiN_MNZCDY9V3U/view).
+Andrew Taylor has produced a [poster of the things that happened at MathsJam 2019](https://www.andrewt.net/img/mathsjam-notes/2019.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2019/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2019](https://drive.google.com/file/d/1ZjJR95wlKFq_6Rmbp4QiN_MNZCDY9V3U/view).
 
 The gathering took place on 30th November - 1st December 2019.
 
