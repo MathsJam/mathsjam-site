@@ -16,6 +16,5 @@ Here are photographs of all the cakes from this year's MathsJam Gathering Bakeof
 [![Mutilated Chessboard Cake](https://mathsjam.com/gathering/uk/archive/2017/cake/cake9.jpg)](https://mathsjam.com/gathering/archive/2017/cake/cake9_lg.jpg)
 [![Pi Spiral Cake](https://mathsjam.com/gathering/uk/archive/2017/cake/cake10.jpg)](https://mathsjam.com/gathering/archive/2017/cake/cake10_lg.jpg)
 [![2048 Cake](https://mathsjam.com/gathering/uk/archive/2017/cake/cake11.jpg)](https://mathsjam.com/gathering/archive/2017/cake/cake11_lg.jpg)
-[![Fibonacci Spiral Cake](https://mathsjam.com/gathering/uk/archive/2017/cake/cake12.jpg)](https://mathsjam.com/gathering/uk/archive/2017/cake/cake12_lg.jpg)
 
 Photographs by Tom [(@teakayb)](http://twitter.com/teakayb).
