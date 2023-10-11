@@ -9,11 +9,11 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Brewhouse & Kitchen MK
-    description: ' which is in Central Milton Keynes theatre district'
-    url: https://www.brewhouseandkitchen.com/venue/milton-keynes/
-    lon: -0.749297138643139
-    lat: 52.04413942845425
+    pub_name: The Crown Inn
+    description: ' in Stony Stratford'
+    url: https://thecrownstonystratford.co.uk/
+    lon: -0.8539893
+    lat: 52.0558095
 hiatus: false
 links:
     twitter:
