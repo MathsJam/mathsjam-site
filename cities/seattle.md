@@ -18,8 +18,9 @@ location:
 hiatus: false
 hiatus_months:
     - 2020-03
-start_time: 7:30pm in the evening
+start_time: 7pm in the evening
 changed_dates:
+    - 2023-10-26
     - 2022-02-18
     - 2018-08-28
     - 2018-09-25
