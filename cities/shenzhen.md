@@ -9,11 +9,11 @@ organiser:
     email: shenzhen@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: Jing-A Taproom, G&G
-    description: ', at 102-2 G&G Creative Community, NO.9 Liyuan Road in Nanshan District'
-    url: https://www.facebook.com/jingabrewing/
-    lat: 22.4922051
-    lon: 113.9185642
+    pub_name: The Boathouse, Shekou
+    description: ', at Coastal Rose Garden, Wanghai Lu, Shekou, Nanshan District (南山区色口望海路南海玫瑰园2期30号商铺) '
+    url: https://www.thatsmags.com/shenzhen/directory/24608/boathouse-1
+    lat: 22.48966
+    lon: 113.919762
 hiatus: false
 hiatus_months:
     - 2023-01
