@@ -135,7 +135,7 @@ Plenty of people have intuitions about the Prisoner's Dilemma. Let's throw a lit
 #### Andrew Taylor: Rotating an image without rotation
 A demonstration of a graphic trick used by some old videogames, which manages to rotate an image using three shears. It's a lot faster than "real" rotation, and while it can look a little fuzzy, it has a couple of nice properties.
 
-### Session 2c 11.20am-12pm: 
+### Session 2c 11.15am-11.55am: 
 
 #### Matt Peperell: Showing off my curves
 Most of us will be familiar with the conic sections and the trigonometric functions. In this talk, I will explain some of the lesser known curves and their uses in the world around us.
@@ -153,7 +153,7 @@ An off-hand comment when playing Heardle led to an investigation into whether 50
 
 #### Competition Results: Competition Competition
 
-### Session 2d 12.30pm-1.10pm: 
+### Session 2d 12.25pm-12.50pm: 
 
 #### Adam Townsend: Differential equations make pretty moving patterns (and now you can too)
 When mathematicians want to talk about things that move and change, we talk about differential equations: heat spreading out in a room, sheep herds moving to fresh fields... Biologists have known for ages that when you have *two* competing populations both trying to spread out, the fun really starts. Modelling this was Alan Turing's day job, and what took him six months to compute, we can now do on our phones in real time. There are so many rich, pretty, dynamic, surprising patterns that you get from relatively straightforward equations and this last year I have been part of a team building a website that instantly solves equations like this in the browser (think Desmos but for partial differential equations). In this talk I'll show you just how cool these solutions are.
