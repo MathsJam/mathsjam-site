@@ -54,10 +54,10 @@ You'll have maybe seen on youtube that pi can be computed by counting the number
 The world is abuzz with talk of new aperiodic monotiles: the hat and the spectre. I particularly like the spectre. The spectre paper explains how to understand the structure of spectre tilings in terms of a system of nine regular hexagons with marked edges. But this system is quite intimidating. It turns out you can actually do it with five: I’ll give a sketch of how that works, with lots of nice pictures.
 
 #### Luna Kirkby: Buz: A Fizz Buzz Story
-"Luna presents a rapid-fire history lesson:
+Luna presents a rapid-fire history lesson:
 - What is Fizz Buzz?
 - Some of Fizz Buzz's weirder variations
-- and Where did this Fizz Buzz thing come from anyway?"
+- and Where did this Fizz Buzz thing come from anyway?
 
 #### Donald Bell: Rectangling Rectangles
 Can you tile a square with several rectangles that have no repeated side lengths?  And can you tile TWO different rectangles with a set of rectangles that have no repeated side lengths?  And can you make a nice multi-solution puzzle from rectangling rectangles?
