@@ -20,7 +20,7 @@ A woman has two children. One of them is a girl. What is the probability that th
 This "apparently simple" probability question has intrigued me for years, and has recently led me to consider a concept I will call "Marmitivity". I will share my thoughts on this with you in this thankfully brief talk. You will either love it or hate it!
 
 #### Fredrik Kirkemo: The Rubik's Dice
-I (or we - I may be collaborating with another of the Norwegians for this) plan to demonstrate a magic trick that uses a Rubik's cube, where all the squares have been assigned a number. The trick is related to magic tricks that uses the fact that opposing sides of dice always sums to seven, allowing us to predict the opposing side of a die. The talk will present the trick in two different varieties - one with a 3x3x3 and one with 2x2x2 Rubik's cube to show some of the mathematics behind the trick. The generalisation of the trick - or at least the 4x4x4 extension, will be presented as a hands-on exercise for people to ponder and fidget with during the rest of the Gathering. 
+There are many magic tricks with Rubik's cubes and there are many magic tricks with dice. But there is a trick that brings the two worlds together. Our Rubik's dice are cubes with carefully numbered sides, that can be twisted and mixed so it's impossible to know anything about the numbers on the sides around the cube. Or so it seems. In this talk we demonstrate this trick with both a 2×2×2 and a 3×3×3 cube.
 
 #### Sam Hartburn: Ten to the Top, but Nine to the What?
 Radio 2's morning music quiz has an interesting scoring system. I've analysed the possible scores to try to work out how fair it is.
@@ -55,9 +55,9 @@ The world is abuzz with talk of new aperiodic monotiles: the hat and the spectre
 
 #### Luna Kirkby: Buz: A Fizz Buzz Story
 Luna presents a rapid-fire history lesson:
-* What is Fizz Buzz?
-* Some of Fizz Buzz's weirder variations
-* and Where did this Fizz Buzz thing come from anyway?
+  - What is Fizz Buzz?
+  - Some of Fizz Buzz's weirder variations
+  - and Where did this Fizz Buzz thing come from anyway?
 
 #### Donald Bell: Rectangling Rectangles
 Can you tile a square with several rectangles that have no repeated side lengths?  And can you tile TWO different rectangles with a set of rectangles that have no repeated side lengths?  And can you make a nice multi-solution puzzle from rectangling rectangles?
@@ -105,7 +105,7 @@ What happens if we apply the rules for Diffy Squares to other Polygons
 In 1937, a mathematician suddenly leapt out of his mineral bath, rushed naked into the adjoining room, and began to scribble figures. We’ll talk about what he wrote, and what it can teach us.
 
 #### Adam Atkinson: DOCTIAL
-Thanks to recentish developments in Misère Games, Adam deduced the existence of and his membership of DOCTIAL and hopes that some people in the audience will discover that they, too, are members even though they've never heard of it.
+Thanks to recentish developments in Misère Games, Adam deduced the existence of and his membership in DOCTIAL and hopes that some people in the audience will discover that they, too, are members even though they've never heard of it.
 
 #### Harlan Connor: Winning the loudness war
 I will show how some simple maths leads to some surprising (and loud!) results in signal processing.
@@ -159,7 +159,7 @@ An off-hand comment when playing Heardle led to an investigation into whether 50
 When mathematicians want to talk about things that move and change, we talk about differential equations: heat spreading out in a room, sheep herds moving to fresh fields... Biologists have known for ages that when you have *two* competing populations both trying to spread out, the fun really starts. Modelling this was Alan Turing's day job, and what took him six months to compute, we can now do on our phones in real time. There are so many rich, pretty, dynamic, surprising patterns that you get from relatively straightforward equations and this last year I have been part of a team building a website that instantly solves equations like this in the browser (think Desmos but for partial differential equations). In this talk I'll show you just how cool these solutions are.
 
 #### Clare Wallace: Skittles: count the rainbow?
- Packaging says all sorts of nonsense: "it's not for girls", "only smarties have the answer", “every packet of Skittles is unique".  They're all different kinds of wrong, but the Skittles one is the worst: it's *mathematically* wrong. Obviously we're going to work out how many different packets of Skittles there are. Obviously I've bought tons of Skittles. Obviously you'll get the chance to eat some. 
+Packaging says all sorts of nonsense: "it's not for girls", "only smarties have the answer", "every packet of Skittles is unique".  They're all different kinds of wrong, but the Skittles one is the worst: it's *mathematically* wrong. Obviously we're going to work out how many different packets of Skittles there are. Obviously I've bought tons of Skittles. Obviously you'll get the chance to eat some. 
 
 #### Colin Wright: The Moebius Rollercoaster
 Some rollercoaster rides are described as "Moebius" ... where's the twist?
