@@ -55,9 +55,12 @@ The world is abuzz with talk of new aperiodic monotiles: the hat and the spectre
 
 #### Luna Kirkby: Buz: A Fizz Buzz Story
 Luna presents a rapid-fire history lesson:
-  - What is Fizz Buzz?
-  - Some of Fizz Buzz's weirder variations
-  - and Where did this Fizz Buzz thing come from anyway?
+
+• What is Fizz Buzz?
+
+• Some of Fizz Buzz's weirder variations
+
+• and Where did this Fizz Buzz thing come from anyway?
 
 #### Donald Bell: Rectangling Rectangles
 Can you tile a square with several rectangles that have no repeated side lengths?  And can you tile TWO different rectangles with a set of rectangles that have no repeated side lengths?  And can you make a nice multi-solution puzzle from rectangling rectangles?
