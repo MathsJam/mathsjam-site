@@ -16,6 +16,10 @@ Adam is bringing equipment to play the Japanese board game Shogi. Here are some 
 ### Games on Chessboards - Alexander Bolton
 
 Alex is bringing some games that should be of interest to maths fans. They all take place on chessboards (or very similar grids). For remote attendees, the games Slime Trail, Lines of Action, Murus Gallicus, Hnefatafl and Tablut can be played online for free at [iggamecenter.com](https://www.iggamecenter.com/en/).
+
+### Drawing Hacks - Katie Steckles and Andrew Taylor
+
+We'll be sharing our favourite tips for how to easily draw mathematical shapes and objects, and adding them to [this padlet](https://padlet.com/stecks4/mathsjam-table-drawing-hacks-9rve9b3p6v5wk2vh) (where you can also contribute your own, which we'll recreate and put up in the room). All the hacks will be collated and used as the basis for a post on [Aperiodical.com](https://aperiodical.com).
  
 ### Your local maths history - Peter Rowlett, Tom Briggs and Katie Steckles
 
