@@ -143,6 +143,8 @@ A demonstration of a graphic trick used by some old videogames, which manages to
 #### Matt Peperell: Showing off my curves
 Most of us will be familiar with the conic sections and the trigonometric functions. In this talk, I will explain some of the lesser known curves and their uses in the world around us.
 
+[Matt's slides](https://slides.com/mattpep/mathsjam-2023-curves)
+
 #### Pedro Freitas: A 19th century lottery - with a deck of cards
 We present a lottery system, conceived by a Portuguese scholar, that uses a deck of cards as a means of implementation (collaboration with Jorge Nuno Silva).
 
