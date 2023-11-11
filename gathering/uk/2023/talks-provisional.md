@@ -151,8 +151,8 @@ We present a lottery system, conceived by a Portuguese scholar, that uses a deck
 #### Ben Handley: How square is a circle?
 Jay Foreman has a video (https://youtu.be/8mrNEVUuZdk) about finding the squarest country. But how can we judge the squareness of a shape? What happens when we try to find the squareness of a simple shape like a circle?
 
-#### Hannah Gray: Gender in the Groove: Are Half Our Tunes Topped by Dudes?
-An off-hand comment when playing Heardle led to an investigation into whether 50% of songs are sung by men.
+#### Clare Wallace: Skittles: count the rainbow?
+Packaging says all sorts of nonsense: "it's not for girls", "only smarties have the answer", "every packet of Skittles is unique".  They're all different kinds of wrong, but the Skittles one is the worst: it's *mathematically* wrong. Obviously we're going to work out how many different packets of Skittles there are. Obviously I've bought tons of Skittles. Obviously you'll get the chance to eat some. 
 
 #### Competition Results: MathsJam Bakeoff
 
@@ -163,8 +163,8 @@ An off-hand comment when playing Heardle led to an investigation into whether 50
 #### Adam Townsend: Differential equations make pretty moving patterns (and now you can too)
 When mathematicians want to talk about things that move and change, we talk about differential equations: heat spreading out in a room, sheep herds moving to fresh fields... Biologists have known for ages that when you have *two* competing populations both trying to spread out, the fun really starts. Modelling this was Alan Turing's day job, and what took him six months to compute, we can now do on our phones in real time. There are so many rich, pretty, dynamic, surprising patterns that you get from relatively straightforward equations and this last year I have been part of a team building a website that instantly solves equations like this in the browser (think Desmos but for partial differential equations). In this talk I'll show you just how cool these solutions are.
 
-#### Clare Wallace: Skittles: count the rainbow?
-Packaging says all sorts of nonsense: "it's not for girls", "only smarties have the answer", "every packet of Skittles is unique".  They're all different kinds of wrong, but the Skittles one is the worst: it's *mathematically* wrong. Obviously we're going to work out how many different packets of Skittles there are. Obviously I've bought tons of Skittles. Obviously you'll get the chance to eat some. 
+#### Hannah Gray: Gender in the Groove: Are Half Our Tunes Topped by Dudes?
+An off-hand comment when playing Heardle led to an investigation into whether 50% of songs are sung by men.
 
 #### Colin Wright: The Moebius Rollercoaster
 Some rollercoaster rides are described as "Moebius" ... where's the twist?
