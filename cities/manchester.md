@@ -23,7 +23,7 @@ links:
         url: https://twitter.com/MCRMathsJam
     mailing_list:
         text: "Join mailing list"
-        url: http://eepurl.com/dlwxBn
+        url: https://c5dd5172.sibforms.com/serve/MUIFAN4oyMW4rvKda65vIs_2-A5bb6_4CyIm5xj2md8cCFX38ug9er0rYXnNjTKUQ1YdR9I8dfoW8x2zS2VjejWXgQ5USa1EUSYiI_98_RMRJsSchjOaf3QPpyb5M9gmGnObc7-a2Wc-LAnhznALxrmiwppc6y7uCkbG3ugcWePQXPLsQu4zj0cvwIZdoD3sGSVDjvF8pUaDW0H5
 
 ---
 
