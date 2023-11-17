@@ -14,7 +14,7 @@ The gathering took place on 11th - 12th November 2023.
 #### Peter Rowlett: Am I related to Henry VIII's Master of the Mint? Are you?
 Peter tried to work out how exponential growth applies to generations of a family, and whether this means he's likely to be related to the Rowlett who was Master of the Mint in Tudor times even though there's no documentary evidence of a family connection - and whether most other people in the UK are too!
 
-- [Peter's slides (PDF)]({{site.url}}/assets/talks/2023/PeterRowlett-AmIrelatedtoHenryVIII'sMasteroftheMintAreyou.pdf)
+- [Peter's slides (PDF)]({{site.url}}/assets/talks/2023/PeterRowlett-AmIRelatedtoHenryVIII'sMasteroftheMintAreyou.pdf)
 
 #### Alyssa Burlton: MathsJam Presentation Presentation
 What makes the perfect MathsJam talk? Armed with an anonymised dataset from last year and some rusty statistics, I attempt to find some answers.
@@ -26,8 +26,8 @@ A woman has two children. One of them is a girl. What is the probability that th
 
 After discussing what assumptions we are making before treating the problem mathematically, I showed some simple pictures to illustrate that the "classical" answers to these questions are 2/3 and 1/2 respectively. I then pointed out that, in answering the second question, we are assuming that girls are randomly allocated the name Susan with equal and independent probability. This ignores the fact that some parents will like the name Susan more than others. In the extreme case of the name Susan being ""like Marmite"", i.e. parents either love it or hate it, the answer returns to 2/3. More generally, the answer will lie somewhere between 1/2 and 2/3 depending on the "marmitivity" of the name Susan!"
 
-- [Michael's slides (PPT)]({{site.url}}/assets/talks/2023/MichaelGibson-ATalkYouWillEitherLoveOrHate.pptx)
-- [Michael's slides (PDF)]({{site.url}}/assets/talks/2023/MichaelGibson-ATalkYouWillEitherLoveOrHate.pdf)
+- [Michael's slides (PPT)]({{site.url}}/assets/talks/2023/MichaelGibson-ATalkYouWillEitherLoveorHate.pptx)
+- [Michael's slides (PDF)]({{site.url}}/assets/talks/2023/MichaelGibson-ATalkYouWillEitherLoveorHate.pdf)
 
 #### Fredrik Kirkemo & Ida Soland Thu: The Rubik's Dice
 We demonstrate a magic trick that uses a Rubik's cube, where all the squares have been assigned a number. The trick is related to magic tricks that us the fact that opposing sides of dice always sums to seven, allowing us to predict the opposing side of a die. We present the trick in two different varieties - one with a 3×3×3 and one with 2×2×2 Rubik's cube to show some of the mathematics behind the trick. The generalisation of the trick - or at least the 4×4×4 extension, will be presented as a hands-on exercise for people to ponder and fidget with during the rest of the Gathering. 
@@ -117,7 +117,7 @@ Chemistry is driven by the release of energy and enthalpy (or chaos... very broa
 #### Colin Graham: Know your place!
 Many of you in England may have been exposed to a perculiary English activity known as "change ringing". This is mostly associated with churches in the Anglican faith, with some Episcopalian churches elsewhere in the world also being participants. There is a good deal of mathematics involved in how bells are rung in order to produce all of the possible combinations/permutations. Could you memorize 49,001,600 different combinations when only two pairs of bells can change position? I will tell you how it can be done!
 
-- [Colin's slides (PPT)]({{site.url}}/assets/talks/2023/ColinGraham-KnowYourPlace!.ppt)
+- [Colin's slides (PPT)]({{site.url}}/assets/talks/2023/ColinGraham-KnowYourPlace!.pptx)
 - [Colin's slides (PDF)]({{site.url}}/assets/talks/2023/ColinGraham-KnowYourPlace!.pdf)
 
 #### Tom Briggs: Secret Histories: Spotting the Hidden Maths in Museums
@@ -128,7 +128,7 @@ The sum total of human mathematical knowledge didn't just pop into being last Th
 #### Alexander Bolton: Abundant Numbers
 Abundant numbers, e.g. 12, 60, 360, are useful as they have many factors. I will show how common these numbers are and how to find them.
 
-- [Alexander's slides (PDF)]({{site.url}}/assets/talks/2023/AlexanderBolton-AbundantNumberTheory.pdf)
+- [Alexander's slides (PDF)]({{site.url}}/assets/talks/2023/AlexBolton-AbundantNumberTheory.pdf)
 
 ## Sunday
 
@@ -237,8 +237,8 @@ Jay Foreman has a video (https://youtu.be/8mrNEVUuZdk) about finding the squares
 #### Clare Wallace: Skittles - Count the Rainbow?
 Packaging says all sorts of nonsense: "it's not for girls", "only smarties have the answer", "every packet of Skittles is unique".  They're all different kinds of wrong, but the Skittles one is the worst: it's *mathematically* wrong. Obviously we're going to work out how many different packets of Skittles there are. Obviously I've bought tons of Skittles. Obviously you'll get the chance to eat some. 
 
-- [Clare's slides (PPT)]({{site.url}}/assets/talks/2023/ClareWallace-SkittlesCountTheRainbow.ppt)
-- [Clare's slides (PDF)]({{site.url}}/assets/talks/2023/ClareWallace-SkittlesCountTheRainbow.pdf)
+- [Clare's slides (PPT)]({{site.url}}/assets/talks/2023/ClareWallace-SkittlesCounttheRainbow.pptx)
+- [Clare's slides (PDF)]({{site.url}}/assets/talks/2023/ClareWallace-SkittlesCounttheRainbow.pdf)
 
 ### Session 2d 12.25pm-12.50pm: 
 
