@@ -92,6 +92,7 @@ Luna presents a rapid-fire history lesson:
 - and Where did this Fizz Buzz thing come from anyway?
   
 - [Luna's slides (online)](https://files.moonbase.lgbt/talks/buz-a-fizz-buzz-story-final/index.htm)
+- [Video of Luna's talk](https://www.youtube.com/watch?v=rwwYmFsiJQM)
 
 #### Donald Bell: Rectangling Squares and Rectangles
 Can you tile a square with several rectangles that have no repeated side lengths?  And can you tile TWO different rectangles with a set of rectangles that have no repeated side lengths?  And can you make a nice multi-solution puzzle from rectangling rectangles?
