@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Sydney
+city_name: Sydney, Australia
 jam_name: Sydney MathsJam
 email: sydney@mathsjam.com
 organiser:
