@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Suzhou
+city_name: Suzhou, China
 jam_name: Suzhou MathsJam
 email: suzhou@mathsjam.com
 organiser:
