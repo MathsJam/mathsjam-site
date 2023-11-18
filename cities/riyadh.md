@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Riyadh
+city_name: Riyadh, Saudi Arabia
 jam_name: Riyadh MathsJam
 email: riyadh@mathsjam.com
 organiser:
