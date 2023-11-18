@@ -5,7 +5,7 @@ title: MathsJam Annual Gathering UK
 
 # [Click here for the UK MathsJam Gathering website](https://www.solipsys.co.uk/cgi-bin/MJ_Wiki.py)
 
-The UK MathsJam Gathering 2023 will take place on **11<sup>th</sup> - 12<sup>th</sup> November**, and [bookings are now open via Eventbrite](https://www.eventbrite.com/e/mathsjam-gathering-2023-tickets-707797349927).  Visit the link above for more details, and follow <strong>@BigMathsJam</strong> [on Twitter](https://www.twitter.com/bigmathsjam) or [on Mastodon](https://mathstodon.xyz/@bigmathsjam) for updates.
+The UK MathsJam Gathering 2023 took place on **11<sup>th</sup> - 12<sup>th</sup> November**, and photos and slides from the event are now available in [the archive](archive). Visit the link above for more details, and follow <strong>@BigMathsJam</strong> [on Twitter](https://www.twitter.com/bigmathsjam) or [on Mastodon](https://mathstodon.xyz/@bigmathsjam) for details of future events.
 
 The MathsJam Annual Gathering takes place annually in central England, organised by Colin Wright and gathering together maths enthusiasts, monthly MathsJam attendees and organisers, and anyone else who wants to join us. We have people of all ages, backgrounds, education and ability. All you need is an interest in and enthusiasm for maths of all types.
 
