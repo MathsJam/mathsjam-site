@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Plze&#328;
+city_name: Plze&#328;, Czech Republic
 jam_name: Plze&#328; MathsJam
 email: plzen@mathsjam.com
 organiser:
