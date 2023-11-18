@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Leuven
+city_name: Leuven, Belgium
 jam_name: Leuven MathsJam
 lang: en
 email: leuven@mathsjam.com
