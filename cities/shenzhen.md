@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Shenzhen
+city_name: Shenzhen, China
 jam_name: Shenzhen MathsJam
 email: shenzhen@mathsjam.com
 organiser:
