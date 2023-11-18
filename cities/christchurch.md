@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Christchurch
+city_name: Christchurch, New Zealand
 jam_name: Christchurch MathsJam
 email: christchurch@mathsjam.com
 organiser:
