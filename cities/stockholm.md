@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Stockholm
+city_name: Stockholm, Sweden
 jam_name: Stockholm MathsJam
 email: stockholm@mathsjam.com
 organiser:
