@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Turin
+city_name: Turin, Italy
 jam_name: Turin MathsJam
 email: turin@mathsjam.com
 organiser:
