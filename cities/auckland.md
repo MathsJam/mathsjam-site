@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: true
-city_name: Auckland
+city_name: Auckland, New Zealand
 jam_name: Auckland MathsJam
 email: auckland@mathsjam.com
 organiser:
