@@ -148,7 +148,7 @@ How does 3.14... relate to the Martian year? Unlike the Earth, the Martian year 
 #### Annette Margolis: Our preferred way of solving a quadratic is
 I will be setting a quadratic to solve in class and each group will argue why their way is the best. The talk will be the results of this informal poll. 
 
-- [Annette's results)](https://pad.education/p/Solving_Quadratics-Our_Preferred_Method)
+- [Annette's results](https://pad.education/p/Solving_Quadratics-Our_Preferred_Method)
 
 #### John Hoskinson: Beyond Diffy Squares
 What happens if we apply the rules for Diffy Squares to other Polygons
