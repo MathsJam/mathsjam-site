@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: true
-city_name: Lisbon
+city_name: Lisbon, Portugal
 lang: pt_PT
 jam_name: Lisbon MathsJam
 email: lisbon@mathsjam.com
