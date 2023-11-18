@@ -2,7 +2,7 @@
 layout: city
 lockdown: false
 lang: en
-city_name: Paris
+city_name: Paris, France
 jam_name: Paris MathsJam
 email: paris@mathsjam.com
 organiser:
