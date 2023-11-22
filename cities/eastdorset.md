@@ -17,15 +17,16 @@ location:
 hiatus: false
 hiatus_months:
     - 2020-03
+    - 2023-12
 changed_dates:
     - 2017-12-19
     - 2021-12-21
-    - 2023-12-19
 start_time: 7pm in the evening
 links:
     twitter:
         text: '@EastDorMathsJam'
         url: https://twitter.com/EastDorMathsJam
+extra_text: "In December 2023, instead of meeting in the pub we're having a private event on 19th December - contact the organisers for more information."
 
 ---
 
