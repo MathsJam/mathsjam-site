@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Timaru
+city_name: Timaru, New Zealand
 jam_name: Timaru MathsJam
 email: timaru@mathsjam.com
 organiser:

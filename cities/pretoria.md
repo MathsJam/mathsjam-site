@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: true
-city_name: Pretoria
+city_name: Pretoria, South Africa
 jam_name: MathsJam Pretoria
 email: pretoria@mathsjam.com
 organiser:

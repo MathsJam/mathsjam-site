@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Dunedin NZ
+city_name: Dunedin, New Zealand
 jam_name: Dunedin MathJam
 email: dunedin@mathsjam.com
 organiser:

@@ -2,7 +2,7 @@
 layout: city
 lang: it_IT
 lockdown: true
-city_name: Pisa
+city_name: Pisa, Italy
 jam_name: MathsJam Pisa
 email: pisa@mathsjam.com
 organiser:

@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Melbourne
+city_name: Melbourne, Australia
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
 organiser:

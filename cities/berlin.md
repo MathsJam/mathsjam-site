@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: true
-city_name: Berlin
+city_name: Berlin, Germany
 jam_name: Berlin MathsJam
 email: berlin@mathsjam.com
 organiser:

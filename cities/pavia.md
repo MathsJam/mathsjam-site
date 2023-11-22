@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Pavia
+city_name: Pavia, Italy
 jam_name: Pavia MathsJam
 email: pavia@mathsjam.com
 organiser:

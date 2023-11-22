@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Växjö
+city_name: Växjö, Sweden
 local_jam_type: MathJam
 jam_name: Växjö MathJam
 email: vaxjo@mathsjam.com

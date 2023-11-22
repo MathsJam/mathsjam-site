@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Wellington
+city_name: Wellington, New Zealand
 jam_name: Wellington MathsJam
 email: wellington@mathsjam.com
 organiser:

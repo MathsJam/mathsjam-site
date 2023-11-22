@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: true
-city_name: Beirut
+city_name: Beirut, Lebanon
 jam_name: Beirut MathsJam
 email: beirut@mathsjam.com
 organiser:

@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Bombay (Mumbai)
+city_name: Bombay (Mumbai), India
 jam_name: MathsJam Bombay (Mumbai)
 email: mumbai@mathsjam.com
 organiser:
