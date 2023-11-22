@@ -20,6 +20,7 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2021-12-21
+    - 2023-12-19
 start_time: 7pm in the evening
 links:
     twitter:
