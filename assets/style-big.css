@@ -47,10 +47,6 @@
         font-size: 3rem;
     }
 
-    .city-list > li {
-        max-width: 16em;
-    }
-
     .city-list li:not(.hiatus) a {
         font-size: 2rem;
     }
