@@ -85,13 +85,9 @@ The world is abuzz with talk of new aperiodic monotiles: the hat and the spectre
 - [Robin's slides (PDF)]({{site.url}}/assets/talks/2023/RobinHouston-SimplerSubstitutionforSpectres.pdf)
 
 #### Luna Kirkby: Buz: A Fizz Buzz Story
-Luna presents a rapid-fire history lesson:
+Luna presents a rapid-fire history lesson: What is Fizz Buzz? Some of Fizz Buzz's weirder variations, and Where did this Fizz Buzz thing come from anyway?
 
-- What is Fizz Buzz?
-- Some of Fizz Buzz's weirder variations
-- and Where did this Fizz Buzz thing come from anyway?
-  
-- [Luna's slides (online)](https://files.moonbase.lgbt/talks/buz-a-fizz-buzz-story-final/index.htm)
+- [Luna's slides (online)](https://files.moonbase.lgbt/talks/buz-a-fizz-buzz-story/index.htm)
 - [Video of Luna's talk](https://www.youtube.com/watch?v=rwwYmFsiJQM)
 
 #### Donald Bell: Rectangling Squares and Rectangles
