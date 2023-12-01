@@ -22,6 +22,7 @@ hiatus_months:
     - 2022-12
     - 2023-06
     - 2023-07
+    - 2023-12
 changed_dates:
     - 2022-05-23
 links:
