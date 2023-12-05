@@ -7,7 +7,7 @@ email: uk.online@mathsjam.com
 jam_date_rule: second Tuesday
 december_jam_date_rule: first Tuesday
 organiser:
-    name: James
+    name: Alex
     email: uk.online@mathsjam.com
 location:
     group: online
