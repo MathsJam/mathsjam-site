@@ -2,18 +2,18 @@
 layout: city
 lockdown: false
 city_name: Bletchley
-jam_name: Bletchley MathsJam
+jam_name: Bletchley & MK MathsJam
 email: bletchley@mathsjam.com
 organiser:
     name: Tom
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Crown Inn
-    description: ' in Stony Stratford'
-    url: https://thecrownstonystratford.co.uk/
-    lon: -0.8539893
-    lat: 52.0558095
+    pub_name: The Ship Ashore
+    description: ' in Willen, Milton Keynes'
+    url: https://www.emberinns.co.uk/nationalsearch/southeast/the-ship-ashore-milton-keynes#/
+    lon: -0.7318633
+    lat: 52.062896
 hiatus: false
 links:
     twitter:
