@@ -9,10 +9,11 @@ organiser:
     email: newcastle@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Ernest
-    url: https://weareernest.com/
-    lon: -1.5959241363046126
-    lat: 54.97695655350106
+    pub_name: Prohibition Bar
+    description: ' on Pink Lane, near the station'
+    url: https://prohibitionbar.co.uk/
+    lon: -1.6187121
+    lat: 54.9696212
 hiatus_months:
     - 2017-08
     - 2019-02
@@ -37,7 +38,7 @@ changed_dates:
     - 2026-08-20
     - 2026-09-24
     - 2026-11-19
-start_time: 7.30pm
+start_time: 7pm
 links:
     twitter:
         text: '@NEWCMathsJam'
