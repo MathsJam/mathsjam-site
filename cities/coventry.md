@@ -9,11 +9,11 @@ organiser:
     email: coventry@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: the Terrace Bar
+    pub_name: the Dirty Duck
     description: ', at Warwick Uni SU'
-    url: https://www.warwicksu.com/terracebar/
-    lon: -1.5608903
-    lat: 52.3787404
+    url: https://www.warwicksu.com/thedirtyduck/
+    lon: -1.5602925
+    lat: 52.3790715
 hiatus: false
 hiatus_months:
     - 2020-03
