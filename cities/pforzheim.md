@@ -15,5 +15,7 @@ location:
     lon: 8.7035113
     lat: 48.8901816
 hiatus: false
+jam_date_rule: second Saturday
+start_time: 10am-12pm
 ---
 
