@@ -18,6 +18,7 @@ hiatus: false
 hiatus_months:
     - 2022-08
     - 2023-07
+    - 2024-02
 links:
     twitter:
         text: '@KgsLynnMathsJam'
