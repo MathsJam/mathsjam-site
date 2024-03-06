@@ -9,11 +9,11 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Ship Ashore
-    description: ' in Willen, Milton Keynes'
-    url: https://www.emberinns.co.uk/nationalsearch/southeast/the-ship-ashore-milton-keynes#/
-    lon: -0.7318633
-    lat: 52.062896
+    pub_name: All Bar One
+    description: ' in Central Milton Keynes, 15 minutes walk from the railway station'
+    url: https://www.allbarone.co.uk/national-search/south-east/all-bar-one-milton-keynes/
+    lon: -0.762622
+    lat: 52.038803
 hiatus: false
 links:
     twitter:
@@ -21,7 +21,7 @@ links:
         url: https://twitter.com/BletchleyJam
     mailing_list:
         text: 'Join mailing list'
-        url: https://www.freelists.org/list/bletchleymathsjam
+        url: https://groups.google.com/g/bletchleymathsjam
 
 ---
 
