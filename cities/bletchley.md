@@ -9,9 +9,9 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: All Bar One Milton Keynes
+    pub_name: All Bar One
     description: ' in Central Milton Keynes, 15 minutes walk from the railway station'
-    url: https://www.allbarone.co.uk/national-search/south-east/all-bar-one-milton-keynes?utm_source=google&utm_medium=organic&utm_campaign=gmb-homepage#/
+    url: https://www.allbarone.co.uk/national-search/south-east/all-bar-one-milton-keynes/
     lon: -0.762622
     lat: 52.038803
 hiatus: false
