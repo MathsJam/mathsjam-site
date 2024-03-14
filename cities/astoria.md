@@ -4,10 +4,10 @@ lockdown: false
 city_name: Astoria OR
 local_jam_type: MathJam
 jam_name: Astoria MathJam
-email: astoria@math-jam.com
+email: astoria@mathsjam.com
 organiser:
     name: Bob
-    email: astoria@math-jam.com
+    email: astoria@mathsjam.com
 location:
     group: north-america
     pub_name: a location TBC

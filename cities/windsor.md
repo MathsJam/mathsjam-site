@@ -4,10 +4,10 @@ lockdown: false
 city_name: Windsor ON
 local_jam_type: MathJam
 jam_name: Windsor MathJam
-email: windsor@math-jam.com
+email: windsor@mathsjam.com
 organiser:
     name: Reg
-    email: windsor@math-jam.com
+    email: windsor@mathsjam.com
 location:
     group: north-america
     pub_name: The Barrel House

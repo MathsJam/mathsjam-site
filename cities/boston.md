@@ -4,10 +4,10 @@ lockdown: false
 city_name: Boston MA
 local_jam_type: MathJam
 jam_name: Boston MathJam
-email: boston@math-jam.com
+email: boston@mathsjam.com
 organiser:
   name: Jared
-  email: boston@math-jam.com
+  email: boston@mathsjam.com
 location:
   group: north-america
   pub_name: WeWork

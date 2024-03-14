@@ -4,10 +4,10 @@ lockdown: false
 city_name: Waverly IA
 local_jam_type: MathJam
 jam_name: Waverly MathJam
-email: waverly@math-jam.com
+email: waverly@mathsjam.com
 organiser:
     name: Mariah
-    email: waverly@math-jam.com
+    email: waverly@mathsjam.com
 location:
     group: north-america
     pub_name: Bremer Brewing Co

@@ -4,10 +4,10 @@ lockdown: true
 city_name: New York NY
 local_jam_type: MathJam
 jam_name: New York MathJam
-email: newyork@math-jam.com
+email: newyork@mathsjam.com
 organiser:
     name: Kaus
-    email: newyork@math-jam.com
+    email: newyork@mathsjam.com
 location:
     group: north-america
     pub_name: West 3rd Common

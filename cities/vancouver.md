@@ -3,10 +3,10 @@ layout: city
 lockdown: false
 city_name: Vancouver BC
 jam_name: Vancouver MathJam
-email: vancouver@math-jam.com
+email: vancouver@mathsjam.com
 organiser:
     name: William
-    email: vancouver@math-jam.com
+    email: vancouver@mathsjam.com
 location:
     group: north-america
     pub_name: The Wolf and Hound

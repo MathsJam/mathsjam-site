@@ -4,10 +4,10 @@ lockdown: false
 city_name: Tacoma WA
 local_jam_type: MathJam
 jam_name: Tacoma MathJam
-email: tacoma@math-jam.com
+email: tacoma@mathsjam.com
 organiser:
     name: Tom
-    email: tacoma@math-jam.com
+    email: tacoma@mathsjam.com
 location:
     group: north-america
     pub_name: 7 Seas Brewing Tacoma Tap Room

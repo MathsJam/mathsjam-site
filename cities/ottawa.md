@@ -3,10 +3,10 @@ layout: city
 lockdown: true
 city_name: Ottawa ON
 jam_name: Ottawa MathJam
-email: ottawa@math-jam.com
+email: ottawa@mathsjam.com
 organiser:
     name: Yuliya
-    email: ottawa@math-jam.com
+    email: ottawa@mathsjam.com
 location:
     group: north-america
     pub_name: ClockTower Brew Pub
