@@ -4,10 +4,10 @@ lockdown: false
 city_name: Spokane WA
 local_jam_type: MathJam
 jam_name: MathJam Spokane
-email: spokane@math-jam.com
+email: spokane@mathsjam.com
 organiser:
     name: Stephanie
-    email: spokane@math-jam.com
+    email: spokane@mathsjam.com
 location:
     group: north-america
     pub_name: Bellwether Brewing Co

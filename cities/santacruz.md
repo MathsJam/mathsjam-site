@@ -4,10 +4,10 @@ lockdown: true
 city_name: Santa Cruz CA
 local_jam_type: MathJam
 jam_name: Santa Cruz MathJam
-email: santacruz@math-jam.com
+email: santacruz@mathsjam.com
 organiser:
     name: Sumita
-    email: santacruz@math-jam.com
+    email: santacruz@mathsjam.com
 location:
     group: north-america
     pub_name: Hindquarter Bar and Grille

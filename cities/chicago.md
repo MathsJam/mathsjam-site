@@ -4,10 +4,10 @@ lockdown: false
 city_name: Chicago IL
 jam_name: Chicago MathJam
 lang: en
-email: chicago@math-jam.com
+email: chicago@mathsjam.com
 organiser:
     name: Erasmo
-    email: chicago@math-jam.com
+    email: chicago@mathsjam.com
 location:
     group: north-america
     pub_name: Fado Irish Pub

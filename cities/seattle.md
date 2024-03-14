@@ -4,10 +4,10 @@ lockdown: false
 city_name: Seattle WA
 local_jam_type: MathJam
 jam_name: Seattle MathJam
-email: seattle@math-jam.com
+email: seattle@mathsjam.com
 organiser:
     name: Ben
-    email: seattle@math-jam.com
+    email: seattle@mathsjam.com
 location:
     group: north-america
     pub_name: the Pub at Third Place

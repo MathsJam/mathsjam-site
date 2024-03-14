@@ -4,10 +4,10 @@ lockdown: true
 city_name: San Francisco CA
 local_jam_type: MathJam
 jam_name: San Francisco MathJam
-email: sanfrancisco@math-jam.com
+email: sanfrancisco@mathsjam.com
 organiser:
     name: Isaac
-    email: sanfrancisco@math-jam.com
+    email: sanfrancisco@mathsjam.com
 location:
     group: north-america
     pub_name: Pi Bar
