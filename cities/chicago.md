@@ -6,7 +6,7 @@ jam_name: Chicago MathJam
 lang: en
 email: chicago@mathsjam.com
 organiser:
-    name: Erasmo
+    name: Ari
     email: chicago@mathsjam.com
 location:
     group: north-america
@@ -19,5 +19,6 @@ hiatus: false
 hiatus_months:
     - 2023-05
     - 2023-12
+    - 2024-03
 ---
 
