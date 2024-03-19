@@ -6,7 +6,7 @@ jam_name: Leuven MathsJam
 lang: en
 email: leuven@mathsjam.com
 organiser:
-    name: Dieter
+    name: Klaas
     email: leuven@mathsjam.com
 location:
     group: rest-of-world
@@ -22,9 +22,6 @@ hiatus_months:
     - 2023-06
 start_time: 20:00 - 23:00
 links:
-    twitter:
-        text: "@dietercastel"
-        url: https://twitter.com/dietercastel
     something_else:
         text: "GitHub"
         url: https://github.com/MathsJL/MathsJL.github.io
