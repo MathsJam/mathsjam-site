@@ -11,7 +11,7 @@ organiser:
 location:
     group: north-america
     pub_name: Fort George Brewery and Public House
-    descrxiption: ' in the pub downstairs'
+    description: ' in the pub downstairs'
     url:  https://fortgeorgebrewery.com/ 
     lon: -123.8273117
     lat: 46.1883892
