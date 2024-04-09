@@ -10,11 +10,11 @@ organiser:
     email: astoria@mathsjam.com
 location:
     group: north-america
-    pub_name: a location TBC
-    description: ' (email the organisers for more info)'
-    url: http://www.mathsjam.com/cities/astoria
-    lon: -123.8330235
-    lat: 46.1880552
+    pub_name: Fort George Brewery and Public House
+    descrxiption: ' in the pub downstairs'
+    url:  https://fortgeorgebrewery.com/ 
+    lon: -123.8273117
+    lat: 46.1883892
 hiatus: false
 start_time: 6:30pm - 8pm
 jam_date_rule: second-last Monday
