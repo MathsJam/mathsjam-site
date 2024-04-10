@@ -11,12 +11,10 @@ location:
     group: rest-of-world
     pub_name: TÈtraedro
     description: ', at Via Accademia Albertina, 25'
-    url: http://www.bagnimunicipali.org
+    url: https://www.instagram.com/tetraedrot4/
     lon: 7.6859265
     lat: 45.0617996
 hiatus: false
-hiatus_months:
-changed_dates:
 links:
     twitter:
         text: '@TRNMathsJam'
