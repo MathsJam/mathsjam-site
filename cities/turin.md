@@ -9,17 +9,12 @@ organiser:
     email: turin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: Bagni Municipali della Casa del Quartiere di San Salvario
-    description: ', at Via Oddino Morgari 14'
-    url: http://www.bagnimunicipali.org/
-    lon: 7.6783148
-    lat: 45.0541213
-hiatus: true
-hiatus_months:
-    - 2022-07
-    - 2022-08
-changed_dates:
-    - 2022-09-26
+    pub_name: TÈtraedro
+    description: ', at Via Accademia Albertina, 25'
+    url: https://www.instagram.com/tetraedrot4/
+    lon: 7.6859265
+    lat: 45.0617996
+hiatus: false
 links:
     twitter:
         text: '@TRNMathsJam'
