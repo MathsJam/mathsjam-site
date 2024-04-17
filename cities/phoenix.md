@@ -6,7 +6,7 @@ local_jam_type: MathJam
 jam_name: Phoenix MathJam
 email: phoenix@mathsjam.com
 organiser:
-    name: Derek
+    name: Chris
     email: phoenix@mathsjam.com
 location:
     group: north-america
