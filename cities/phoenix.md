@@ -10,11 +10,11 @@ organiser:
     email: phoenix@mathsjam.com
 location:
     group: north-america
-    pub_name: Spokes
+    pub_name: Fate Brewing Company
     description: ', on E Southern Ave in Tempe'
-    url: http://www.spokesonsouthern.com/
-    lon: -111.9142888
-    lat: 33.3940957
+    url: https://fatebrewing.com/
+    lon: -111.9364045
+    lat: 33.3923367
 changed_dates:
     - 2017-12-19
     - 2021-12-21
