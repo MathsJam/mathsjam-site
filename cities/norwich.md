@@ -12,8 +12,8 @@ location:
     pub_name: the Coach and Horses
     description: ' on Bethel Street'
     url: https://www.thecoachandhorsesbethelstreet.co.uk
-    lon: 1.2888142
-    lat: 52.6284513
+    lon: 1.2888779
+    lat: 52.6284603
 start_time: 7.30pm
 jam_date_rule: last Monday
 hiatus: false
