@@ -14,7 +14,7 @@ location:
     url: https://www.thecoachandhorsesbethelstreet.co.uk
     lon: 1.2888779
     lat: 52.6284603
-start_time: 7.30pm
+start_time: 7pm
 jam_date_rule: last Monday
 hiatus: false
 hiatus_months:
