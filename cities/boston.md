@@ -15,5 +15,6 @@ location:
   url: https://www.robbinslibrary.org/
   lon: -71.167
   lat: 42.4157
+jam_date_rule: third Thursday
 hiatus: false
 ---
