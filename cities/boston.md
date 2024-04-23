@@ -12,7 +12,7 @@ location:
   group: north-america
   pub_name: Robbins Library (Arlington)
   description: ' in the Conference Room'
-  url: https://www.robbinslibrary.org/
+  url: https://lu.ma/mathjam-boston
   lon: -71.167
   lat: 42.4157
 jam_date_rule: third Thursday
