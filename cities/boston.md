@@ -10,10 +10,10 @@ organiser:
   email: boston@mathsjam.com
 location:
   group: north-america
-  pub_name: WeWork
-  description: ' at Central Square'
-  url: https://www.wework.com/buildings/625-massachusetts-ave--boston--MA
-  lon: -71.1031065
-  lat: 42.3657605
+  pub_name: Robbins Library (Arlington)
+  description: ' in the Conference Room'
+  url: https://www.robbinslibrary.org/
+  lon: -71.167
+  lat: 42.4157
 hiatus: false
 ---
