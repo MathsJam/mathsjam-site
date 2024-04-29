@@ -12,10 +12,3 @@ You can decide what you want at your leisure, but only payment will guarantee yo
 You'll be sent a link to confirm your registration, and to start making your reservation.
 
 You are completely free to change your mind later, but places are limited.
-
-### Links to relevant pages:
-
-* [MathsJam main page ](http://www.mathsjam.com/)
-* [The Gathering ](http://www.mathsjam.com/gathering/)
-* [Who? And Why? Meet the team ...  ](http://www.mathsjam.com/gathering/about/)
-* [See the program ](http://www.mathsjam.com/gathering/programme/)

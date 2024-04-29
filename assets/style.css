@@ -176,6 +176,7 @@ body.resources header h1 {
 }
 body.gathering header {
     background-position: 5% 40%;
+    background-image: url('images/gathering-header.jpg');
 }
 body.gathering header, #sidebar li.gathering {
     background-color: hsl(54, 95%, 57%);
