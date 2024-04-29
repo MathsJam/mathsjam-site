@@ -5,7 +5,11 @@ title: In-person Attendance
 
 ## Venue
 
+![Photo of Yarnfield Park](https://mathsjam.com/assets/images/gathering/yarnfield-park.jpeg)
+
 The venue for the UK MathsJam Gathering is [Yarnfield Park](https://www.yarnfieldpark.com/), which is a large conference centre in central England. Yarnfield has two floors, and the main room we use for MathsJam is on the first floor - the Knighton Suite, which is a large conference room filled with round tables, and a stage at the front with screens.
+
+![Photo of Knighton Suite](https://mathsjam.com/assets/images/gathering/knighton.jpeg)
 
 This [tour video](https://www.youtube.com/watch?v=YQNhWZAWJqg&t=2s) shows various parts of the venue, and while it doesn't include the Knighton Suite, it's a larger version of the Howden Suite shown at 1:04. For a rough idea of the venue layout, our [Virtual Yarnfield gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield) mimics the arrangement of rooms.
 
@@ -23,7 +27,13 @@ MathsJam attendees also organise a voluntary **shuttle service** for people arri
 
 ## Accommodation info
 
-Accommodation is on site within the Yarnfield complex, on three wheelchair accessible floors in multiple blocks. Weekend bookings include accommodation for the Saturday night, and additional nights may be added (see the [booking info page]({{site.url}}/gathering/uk/plan-your-visit/booking) for prices). Rooms are all ensuite, and within a few minutes' walk of the main building, via a covered walkway.
+![Photo of Yarnfield Park Accommodation](https://mathsjam.com/assets/images/gathering/accommodation.jpeg)
+
+Accommodation is on site within the Yarnfield complex, on three wheelchair accessible floors in multiple blocks. Weekend bookings include accommodation for the Saturday night, and additional nights may be added (see the [booking info page]({{site.url}}/gathering/uk/plan-your-visit/booking) for prices). 
+
+![Photo of Yarnfield Park bedroom](https://mathsjam.com/assets/images/gathering/bedrooms.jpeg)
+
+Rooms are all ensuite, and within a few minutes' walk of the main building, via a covered walkway.
 
 ## Accessibility
 
