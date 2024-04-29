@@ -1,23 +1,23 @@
 ---
-layout: city_online                                           
-lockdown: False
-city_name: Vancouver BC                                                           
+layout: city
+lockdown: false
+city_name: Vancouver BC
 jam_name: Vancouver MathJam
-email: vancouver@math-jam.com
+email: vancouver@mathsjam.com
 organiser:
-    name: Sarah and Stephen
-    email: vancouver@math-jam.com
+    name: William
+    email: vancouver@mathsjam.com
 location:
     group: north-america
-    software: Google Meet
-    pub_name: "Firefighters Public House"
-    description: ", at 6515 Bonsor Ave (currently closed)."
-    url: http://firefightersclub.com
-    lon: -122.9971944
-    lat: 49.2250524
-start_time: 6.30pm in the evening
+    pub_name: The Wolf and Hound
+    description: ' at 3617 W Broadway'
+    url: https://www.wolfandhound.ca/
+    lon: -123.1842189
+    lat: 49.2644817
+start_time: 7pm in the evening
 changed_dates:
     - 2020-01-22
-hiatus: False
-extra_text: "We are currently meeting online only - please e-mail if you are interested, and we will send you the link to the video chat the day of the event."
+hiatus: false
+
 ---
+

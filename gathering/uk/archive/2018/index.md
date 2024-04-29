@@ -5,7 +5,7 @@ title: MathsJam Gathering 2018
 	
 This is a list of talks given at the 2018 MathsJam Weekend, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2018/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
+Andrew Taylor has produced a [poster of the things that happened at MathsJam 2018](https://www.andrewt.net/img/mathsjam-notes/2018.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2018/cakes) with the photos of cakes entered in the cake competition, and a PDF of the [MathsJamJam Songbook from 2018]({{site.url}}/assets/talks/2018/MathsJamJam-Songbook-2018.pdf).
 
 The gathering took place on 17th-18th November 2018.
 
@@ -258,7 +258,6 @@ about the third kind: singular distributions.
 - [Adam's slides (PDF)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence.pdf)
 - [Adam's video 1 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-cantor.mp4)
 - [Adam's video 2 (MP4)]({{site.url}}/assets/talks/2018/AdamAtkinson-ConspiracyofSilence-boldplay.mp4)
-  (The videos need to be downloaded to be played.)
 
 #### Will Kirkby : Digital Art And Distance Functions
 
@@ -292,8 +291,8 @@ The truth of the famous 4-colour theorem immediately implies that the 4½-colour
 
 The "well known" Five-Card-Trick involves a volunteer choosing 5 cards and giving them to Magician A who looks at them and arranges them with 4 cards showing and 1 hidden. Based on this Magician B can then say what the hidden card is. Michael describes and performs a new version of this trick in which only 1 card is showing and Magician B has to say what all 4 of the hidden cards are.
 
-- [Martin's slides (PPTX)]({{site.url}}/assets/talks/2018/MichaelGibson-ANewTrickforOldDogs.pptx)
-- [Martin's slides (PDF)]({{site.url}}/assets/talks/2018/MichaelGibson-ANewTrickforOldDogs.pdf)
+- [Michael's slides (PPTX)]({{site.url}}/assets/talks/2018/MichaelGibson-ANewTrickforOldDogs.pptx)
+- [Michael's slides (PDF)]({{site.url}}/assets/talks/2018/MichaelGibson-ANewTrickforOldDogs.pdf)
 
 ### SESSION 2c : 10:50
 

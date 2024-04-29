@@ -1,19 +1,27 @@
 ---
-layout: city                                           
-lockdown: True
+layout: city
+lockdown: false
 city_name: Bletchley
-jam_name: Bletchley MathsJam
+jam_name: Bletchley & MK MathsJam
 email: bletchley@mathsjam.com
-twitter: BletchleyJam
 organiser:
     name: Tom
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "Captain Ridley's Shooting Party"
-    description: " which is on Queensway"
-    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/buckinghamshire/captain-ridleys-shooting-party-milton-keynes
-    lon: -0.7262748
-    lat: 51.9957286
-hiatus: False
+    pub_name: All Bar One
+    description: ' in Central Milton Keynes, 15 minutes walk from the railway station'
+    url: https://www.allbarone.co.uk/national-search/south-east/all-bar-one-milton-keynes/
+    lon: -0.762622
+    lat: 52.038803
+hiatus: false
+links:
+    twitter:
+        text: '@BletchleyJam'
+        url: https://twitter.com/BletchleyJam
+    mailing_list:
+        text: 'Join mailing list'
+        url: https://groups.google.com/g/bletchleymathsjam
+
 ---
+

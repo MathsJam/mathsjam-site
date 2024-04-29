@@ -1,7 +1,7 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Stockholm                                                               
+layout: city
+lockdown: false
+city_name: Stockholm, Sweden
 jam_name: Stockholm MathsJam
 email: stockholm@mathsjam.com
 organiser:
@@ -9,13 +9,15 @@ organiser:
     email: stockholm@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Café Matte"
-    description: ", Kräftriket 5"
+    pub_name: Café Matte
+    description: ', Kräftriket 5'
     url: http://www.foodspotting.com/places/699964-caf-matte-stockholm
     lon: 18.05391
     lat: 59.35833
 start_time: 6pm
-hiatus: False
+hiatus: false
 hiatus_months:
     - 2020-03
+
 ---
+

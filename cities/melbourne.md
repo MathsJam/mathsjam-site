@@ -1,20 +1,25 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Melbourne                                                               
+layout: city
+lockdown: false
+city_name: Melbourne, Australia
 jam_name: Melbourne MathsJam
 email: melbourne@mathsjam.com
-twitter: MelbMathsJam
 organiser:
     name: Robert
     email: melbourne@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Captain Melville bar"
-    description: ", on Franklin Street and near to Central Station"
+    pub_name: Captain Melville bar
+    description: ', on Franklin Street and near to Central Station'
     url: http://www.captainmelville.com.au/
     lon: 144.9595196
     lat: -37.8077339
-hiatus: False
+hiatus: false
 start_time: 7.30pm
+links:
+    twitter:
+        text: '@MelbMathsJam'
+        url: https://twitter.com/MelbMathsJam
+
 ---
+

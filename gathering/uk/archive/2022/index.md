@@ -5,7 +5,7 @@ title: MathsJam Gathering 2022
 	
 This is a list of talks given at the 2022 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
-There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2022/cakes) with the photos of cakes entered in the cake competition.
+Andrew Taylor has produced a [poster of the things that happened at MathsJam 2022](https://www.andrewt.net/img/mathsjam-notes/2022.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2022/cakes) with the photos of cakes entered in the cake competition.
 
 The gathering took place on 19th - 20th November 2022.
 
@@ -104,8 +104,8 @@ Like everything else in life, mathematics is affected by luck. I'll give a examp
 #### Belgin Seymenoglu: The Wi-Fi integral: no integration required
 In 2018, a Chinese university canteen left a tough-looking integral that went viral on the net. Students wanting the Wi-Fi password needed to solve it and enter the first eight digits of the answer. However, it turns out you don't have to do any integration to solve it - just some easy symmetry arguments will do the trick. The final answer looks like a very familiar number...
 
-- [Belgin's slides (PPT)]({{site.url}}/assets/talks/2022/A%20Belgin%20Seymenoglu%20-%20The%20Wi-Fi%20integral:%20no%20integration%20required.pptx)
-- [Belgin's slides (PDF)]({{site.url}}/assets/talks/2022/A%20Belgin%20Seymenoglu%20-%20The%20Wi-Fi%20integral:%20no%20integration%20required.pdf)
+- [Belgin's slides (PPT)]({{site.url}}/assets/talks/2022/A%20Belgin%20Seymenoglu%20-%20The%20Wi-Fi%20integral.pptx)
+- [Belgin's slides (PDF)]({{site.url}}/assets/talks/2022/A%20Belgin%20Seymenoglu%20-%20The%20Wi-Fi%20integral.pdf)
 
 #### Peter Rowlett: On-Sets: a vintage game of set theory
 On-Sets is a game designed in the mid 1960s to teach set theory and has some cool dice. I’ll talk about the game and some puzzles that arise from it, and bring a set you can have a play with. 
@@ -127,9 +127,8 @@ We explore how directed graphs provide divisibility rules, also for the number 7
 #### Hannah Gray: Arithmeum: fun with calculating machines
 I accidentally found another fun and mathematically interesting place to visit so this is a quick guide to the Arithmmeum in Bonn.  
 
-- [Hannah's slides (PPT)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum%20fun%20with%20calculating%20machines.pptx)
 - [Hannah's slides (PDF)]({{site.url}}/assets/talks/2022/E%20Hannah%20Gray%20-%20Arithmeum%20fun%20with%20calculating%20machines.pdf)
-- 
+
 #### Michael Gibson: The Joy of Six
 Assuming everything went to plan... I tackled some problems, the main two of which were apparently very complicated and challenging, very quickly and easily by casting them on grids divided into six. The conclusion is that, due to 2 and 3 cropping up more than any other numbers, basing things around the number 6 will often avoid the need to grapple with fractions.
 

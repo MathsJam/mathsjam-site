@@ -1,21 +1,29 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Manchester                                                               
+layout: city
+lockdown: false
+city_name: Manchester
 jam_name: Manchester MathsJam
 email: manchester@mathsjam.com
-twitter: MCRMathsJam
 organiser:
     name: Katie
     email: manchester@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "Pie & Ale"
-    description: " on Faraday Street (probably on one of the tables outside, under the covered bit)"
+    pub_name: Pie & Ale
+    description: ' on Faraday Street'
     url: https://www.pieandale.com/
     lon: -2.2336635
     lat: 53.4831995
-hiatus: False
+hiatus: false
 hiatus_months:
     - 2020-03
+links:
+    twitter:
+        text: '@MCRMathsJam'
+        url: https://twitter.com/MCRMathsJam
+    mailing_list:
+        text: "Join mailing list"
+        url: https://c5dd5172.sibforms.com/serve/MUIFAN4oyMW4rvKda65vIs_2-A5bb6_4CyIm5xj2md8cCFX38ug9er0rYXnNjTKUQ1YdR9I8dfoW8x2zS2VjejWXgQ5USa1EUSYiI_98_RMRJsSchjOaf3QPpyb5M9gmGnObc7-a2Wc-LAnhznALxrmiwppc6y7uCkbG3ugcWePQXPLsQu4zj0cvwIZdoD3sGSVDjvF8pUaDW0H5
+
 ---
+

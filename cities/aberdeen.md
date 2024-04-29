@@ -1,7 +1,7 @@
 ---
-layout: city                                           
-lockdown: True
-city_name: Aberdeen                                                               
+layout: city
+lockdown: true
+city_name: Aberdeen
 jam_name: Aberdeen MathsJam
 email: aberdeen@mathsjam.com
 organiser:
@@ -9,10 +9,12 @@ organiser:
     email: aberdeen@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "Dr. Noodles"
-    description: " on Union St"
+    pub_name: Dr. Noodles
+    description: ' on Union St'
     url: http://www.drnoodles.co.uk/
     lon: -2.0987015
     lat: 57.1487299
-hiatus: False
+hiatus: false
+
 ---
+

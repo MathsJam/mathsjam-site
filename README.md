@@ -26,8 +26,16 @@ city_name: CityName
 local_jam_type: MathsJam (for jams in the US this is "MathJam")
 jam_name: CityName MathsJam
 email: cityname@mathsjam.com
-twitter: CityNameMathsJam
-facebook: https://www.facebook.com/groups/000000000000/
+links:
+    twitter:
+        text: "@CityNameMathsJam"
+        url: https://twitter.com/CityNameMathsJam
+    facebook:
+        text: "Facebook"
+        url: https://www.facebook.com/groups/000000000000/
+    something_else:
+        text: "Another link"
+        url: https://example.com
 organiser:
     name: Organiser's name
     email: cityname@mathsjam.com

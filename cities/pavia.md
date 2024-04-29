@@ -1,22 +1,20 @@
 ---
-layout: city                                           
-lockdown: False
-city_name: Pavia                                                               
+layout: city
+lockdown: false
+city_name: Pavia, Italy
 jam_name: Pavia MathsJam
 email: pavia@mathsjam.com
-facebook: https://www.facebook.com/PaviaMathsJam
-twitter: PaviaMathsJam
 organiser:
     name: Daniele
     email: pavia@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Valhalla"
-    description: " which is on Lungo Ticino Sforza"
+    pub_name: Valhalla
+    description: ' which is on Lungo Ticino Sforza'
     url: http://www.valhallapv.it/
     lon: 9.1550195
     lat: 45.1812662
-hiatus: False
+hiatus: false
 hiatus_months:
     - 2018-08
     - 2020-03
@@ -28,4 +26,13 @@ changed_dates:
     - 2019-06-19
     - 2019-07-24
     - 2019-08-27
+links:
+    twitter:
+        text: '@PaviaMathsJam'
+        url: https://twitter.com/PaviaMathsJam
+    facebook:
+        text: Facebook
+        url: https://www.facebook.com/PaviaMathsJam
+
 ---
+
