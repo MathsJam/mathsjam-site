@@ -8,6 +8,7 @@ Our annual maths baking competition will test your baking skills! There'll be a 
 *Add photos of cakes*
 
 The rules are:
+
 - You must bake/otherwise create a mathematically interesting cake/baked good/confection, and bring it with you to the gathering. (Please also bring a knife to cut it into portions; we'll provide serving plates.)
 - The judging will be in three categories: best flavour, best presentation, and best maths.
 - The first will reward a well-made, delicious item; the second will reward the item which has been decorated the most beautifully and looks most like what it's supposed to be; and the third will reward the most ingenious mathematical theming.
@@ -45,6 +46,7 @@ The judging panel will be chosen randomly from non-competition-entering MathsJam
 On the Saturday evening we will gather with our instruments and voices for a singalong of popular songs that we've improved by rewriting them to be about maths.
 
 You're welcome to just come along and listen, and you can join in in any or all of these ways:
+
 - submit mathematical lyrics for a song of your choice by sending them to [Sam Hartburn](mailto:sam@samhartburn.co.uk)
 - bring your own guitar/ukulele/grand piano/triangle/whatever and play along - we'll provide chord sheets for all the songs
 - sing along!
