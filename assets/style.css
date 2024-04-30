@@ -56,6 +56,13 @@ header h1, #sidebar h1 {
     font-family: 'Fjalla One',serif;
     font-size: 1.2rem;
 }
+#sidebar > ul a[aria-current="page"] {
+    font-weight: bold;
+    text-decoration: underline 0.2em;
+}
+#sidebar > ul > li:first-child a[aria-current="page"] {
+    text-decoration: none;
+}
 
 #sidebar > ul > li ~ li {
     /* margin-top: 0.2em; */
@@ -193,8 +200,14 @@ body.gathering header h1 {
 #sidebar li.twitter {
     background-color: #0084b4;
 }
+#sidebar li.twitter a {
+    color: black;
+}
 #sidebar li.mathstodon {
     background-color: #6364FF;
+}
+#sidebar li.mathstodon a {
+    color: black;
 }
 #sidebar li.gathering a {
     color: hsl(54, 95%, 8%);
@@ -393,4 +406,7 @@ body.home #next-jam .cities > span:not(:first-child) {
 body.gathering input {
     font-size: 1rem;
     margin: 0.3rem 0;
+}
+body.gathering nav#sidebar .home h1 {
+    font-size: 2em;
 }
