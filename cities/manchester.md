@@ -9,11 +9,11 @@ organiser:
     email: manchester@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Pie & Ale
-    description: ' on Faraday Street'
-    url: https://www.pieandale.com/
-    lon: -2.2336635
-    lat: 53.4831995
+    pub_name: The Abel Heywood
+    description: ' in the Northern Quarter'
+    url: https://www.abelheywood.co.uk/
+    lon: -2.2373298
+    lat: 53.4835429
 hiatus: false
 hiatus_months:
     - 2020-03
