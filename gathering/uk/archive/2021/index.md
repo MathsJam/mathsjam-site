@@ -5,6 +5,9 @@ title: MathsJam Gathering 2021
 
 This is a list of talks given at the 2021 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
+At the 2021 gathering, we had an online version of our [Saturday Night Tables]({{site.url}}/gathering/uk/archive/2021/saturday-night-tables) and the [tables of stuff at the back]({{site.url}}/gathering/uk/archive/2021/table-of-stuff).
+
+
 Andrew Taylor has produced a [poster of the things that happened at MathsJam 2021](https://www.andrewt.net/img/mathsjam-notes/2021.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2021/cakes) with the photos of cakes entered in the cake competition.
 
 The gathering took place on 20th - 21st November 2021.
