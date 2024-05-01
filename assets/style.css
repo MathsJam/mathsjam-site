@@ -10,6 +10,10 @@ body {
     background: hsl(0,0%,97%);
 }
 
+main * {
+    line-height: 1.5em;
+}
+
 .everything {
     display: flex;
     flex-wrap: wrap;
@@ -158,7 +162,9 @@ body.city header h1 {
 body.find-a-jam header {
     background-position: 65% 30%;
 }
-body.find-a-jam header, #sidebar li.find-a-jam {
+body.find-a-jam header, #sidebar li.find-a-jam ,
+body.whats-on header, #sidebar li.whats-on
+{
     background-color: #083a7b;
 }
 body.find-a-jam header h1 {
@@ -185,7 +191,8 @@ body.gathering header {
     background-position: 5% 40%;
     background-image: url('images/gathering-header.jpg');
 }
-body.gathering header, #sidebar li.gathering {
+body.gathering header, #sidebar li.gathering,
+body.plan-your-visit header, #sidebar li.plan-your-visit {
     background-color: hsl(54, 95%, 57%);
     color: black;
 }
@@ -209,10 +216,11 @@ body.gathering header h1 {
 #sidebar li.mathstodon a {
     color: black;
 }
-#sidebar li.gathering a {
+#sidebar li.gathering a, #sidebar li.plan-your-visit a {
     color: hsl(54, 95%, 8%);
 }
-#sidebar li.gathering a .nav-icon {
+#sidebar li.gathering a .nav-icon,
+#sidebar li.plan-your-visit a .nav-icon {
 	fill: black;
 }
 
