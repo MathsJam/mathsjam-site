@@ -2,7 +2,10 @@
 layout: gathering
 title: Activities
 ---
-## Bake off
+
+[Bake-off]({{site.url}}/gathering/uk/whats-on/activities#bakeoff) - [Competition Competition]({{site.url}}/gathering/uk/whats-on/activities#compcomp) - [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities#jamjam) - [Tables at the Back of the Room]({{site.url}}/gathering/uk/whats-on/activities#tables) # can these be to anchor tags on this page
+
+## Bake-off {bakeoff}
 Our annual maths baking competition will test your baking skills! There'll be a cake/baked good/confection contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake or equivalent).
 
 ![Photo of circle reflection and circle cakes](https://mathsjam.com/assets/images/gathering/Cakes1.jpg)
@@ -18,7 +21,8 @@ As with all the competitions, when you submit your entry, please inform an organ
 
 Any food not required for judging purposes will be distributed among the MathsJam gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:katie@mathsjam.com).
 
-## MathsJam Competition Competition
+## MathsJam Competition Competition {compcomp}
+
 We also run an annual competition competition, to which attendees are invited to submit a competition, which the other attendees can enter.
 
 Entries to the Competition Competition must be in the form of an A5 photocopied sheet, single-sided and printed in black and white.
@@ -41,7 +45,8 @@ There will be three prizes for the competition competition:
 
 The judging panel will be chosen randomly from non-competition-entering MathsJam attendees.
 
-## MathsJamJam
+## MathsJamJam {jamjam}
+
 On the Saturday evening we will gather with our instruments and voices for a singalong of popular songs that we've improved by rewriting them to be about maths.
 
 You're welcome to just come along and listen, and you can join in in any or all of these ways:
@@ -54,7 +59,8 @@ Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAO
 
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
 
-## Tables at the back
+## Tables at the back {tables}
+
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
 ![Photo of knitted things on table](https://mathsjam.com/assets/images/gathering/TablesAtBack1.jpg)
