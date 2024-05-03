@@ -66,6 +66,6 @@ At the back of the room, we place two tables - one is for things you're happy fo
 ![Photo of knitted things on table](https://mathsjam.com/assets/images/gathering/TablesAtBack1.jpg)
 ![Photo of Chalkdust magazines on table](https://mathsjam.com/assets/images/gathering/TablesAtBack2.jpg)
 
-2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digit of pi.
+2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
