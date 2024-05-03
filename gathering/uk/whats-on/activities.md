@@ -5,7 +5,8 @@ title: Activities
 ## Bake off
 Our annual maths baking competition will test your baking skills! There'll be a cake/baked good/confection contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake or equivalent).
 
-*Add photos of cakes*
+![Photo of circle reflection and circle cakes](https://mathsjam.com/assets/images/gathering/Cakes1.jpg)
+![Photo of bridges of battenburg cake](https://mathsjam.com/assets/images/gathering/Cakes2.jpg)
 
 The rules are:
 
@@ -19,8 +20,6 @@ Any food not required for judging purposes will be distributed among the MathsJa
 
 ## MathsJam Competition Competition
 We also run an annual competition competition, to which attendees are invited to submit a competition, which the other attendees can enter.
-
-*Pictures of competition competition entries*
 
 Entries to the Competition Competition must be in the form of an A5 photocopied sheet, single-sided and printed in black and white.
 
@@ -53,15 +52,14 @@ You're welcome to just come along and listen, and you can join in in any or all 
 
 Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAOPrPDRhW_ecBByvCqT1GaW13JQ0gj/view?usp=drive_link).
 
-*Embed one of the videos from link below?*
-
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
 
 ## Tables at the back
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
-*Pictures of things from tables*
+![Photo of knitted things on table](https://mathsjam.com/assets/images/gathering/TablesAtBack1.jpg)
+![Photo of Chalkdust magazines on table](https://mathsjam.com/assets/images/gathering/TablesAtBack2.jpg)
 
-*Could embed video https://www.youtube.com/watch?v=LQ1_di1TStc*
+2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digit of pi.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
