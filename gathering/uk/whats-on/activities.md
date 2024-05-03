@@ -19,7 +19,7 @@ The rules are:
 
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
 
-Any food not required for judging purposes will be distributed among the MathsJam gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:katie@mathsjam.com).
+Any food not required for judging purposes will be distributed among the MathsJam gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
 
 ## MathsJam Competition Competition {compcomp}
 
