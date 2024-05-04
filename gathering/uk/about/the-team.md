@@ -16,6 +16,8 @@ Colin has a Ph.D. from Cambridge and has worked as a research mathematician, and
 
 ### Alison Kiddle
 
+### Christian Lawson-Perfect
+
 ### Sophie Maclean
 
 ### Matt Parker
