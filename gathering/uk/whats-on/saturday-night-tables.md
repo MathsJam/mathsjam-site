@@ -5,7 +5,7 @@ title: Saturday Night Tables
 
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
 
-*Photos of Saturday night tables*
+![Photo of a Saturday night table](https://mathsjam.com/assets/images/gathering/SatTables2.jpg)
 
 **Running a table**
 
