@@ -10,7 +10,11 @@ MathsJam Gathering is a fully volunteer-run event, and many people play an impor
 
 Colin has a Ph.D. from Cambridge and has worked as a research mathematician, and done research in computing. His day job is developing systems to do the maritime version of Air Traffic Control, and in his "free time" he travels around the world giving lectures on how and why maths can be interesting, fun, useful and even on occasion, exciting.
 
+### Alex Arthur
+
 ### Sam Hartburn
+
+[Sam's website](http://www.samhartburn.co.uk)
 
 ### Sam Holloway
 
@@ -26,6 +30,8 @@ Colin has a Ph.D. from Cambridge and has worked as a research mathematician, and
 Possibly the only person to hold the prestigious title of London Mathematical Society Popular Lecturer while simultaneously having a sold-out comedy show at the Edinburgh Festival Fringe, Matt is always keen to mix his two passions of mathematics and stand-up. Originally a maths teacher from Australia, Matt now lives in London and works both as a stand-up comedian and a maths communicator. This involves spreading his love of maths via books, radio programmes, TV shows, newspapers, school visits, live comedy shows and occasionally harassing people in the street. Matt is also the Public Engagement in Mathematics Fellow at Queen Mary University of London.
 
 [Matt's website](http://www.standupmaths.com)
+
+### Peter Rowlett
 
 ### Matthew Scroggs
 
