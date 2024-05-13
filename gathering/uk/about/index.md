@@ -24,7 +24,7 @@ If you want to read more about what MathsJam Gathering is like, you can:
 
 - Watch [this 5 minute MathsJam trailer](https://www.youtu.be/ZM465bN_IF8)
 - Read [this article that Peter Rowlett wrote for MSOR Connections about MathJam 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278)
-- Read [Rachel Wright's thoughts about attending MathsJam in 2014 as a non-mathematician](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)
+- Read [Rachel Wright's thoughts about attending MathsJam in 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)
 
 ## Sign up to the mailing list
 If you want us to email you when tickets for MathsJam Gathering go on sale, you can [join our mailing list](TODO: LINK HERE).
