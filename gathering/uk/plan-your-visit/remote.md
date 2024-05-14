@@ -7,7 +7,7 @@ While the MathsJam Gathering takes place primarily in-person, there will be an o
 
 ## Interactive Online Space
 
-![Screenshot of the Virtual Knighton Suite. Tables and chairs arragned in front of a stage, with screens labelled "Sat" and "Sun"](../images/virtual-knighton.png)
+![Screenshot of the Virtual Knighton Suite. Tables and chairs arragned in front of a stage, with screens labelled "Sat" and "Sun"](../../images/virtual-knighton.png)
 
 The interactive part of the event will take place in the [Virtual Yarnfield gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield). Gather allows you to walk around with the arrow keys and talk to others who are nearby, and we've recreated the real venue fairly accurately. For the week of the event itself, this space will be locked using a password, which will be emailed to registered attendees. You can meet other remote attendees, and chat to them between talks.
 

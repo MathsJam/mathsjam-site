@@ -5,11 +5,11 @@ title: In-person Attendance
 
 ## Venue
 
-![Yarnfield Park. A large complex surrounded by countryside.](../images/yarnfield-park.jpeg)
+![Yarnfield Park. A large complex surrounded by countryside.](../../images/yarnfield-park.jpeg)
 
 The venue for the UK MathsJam Gathering is [Yarnfield Park](https://www.yarnfieldpark.com/), which is a large conference centre in central England. Yarnfield has two floors, and the main room we use for MathsJam is on the first floor - the Knighton Suite, which is a large conference room filled with round tables, and a stage at the front with screens.
 
-![The Knighton Suite. A large room with round tables arranged in front of a stage, behind which are two projector screens.](../images/knighton.jpeg)
+![The Knighton Suite. A large room with round tables arranged in front of a stage, behind which are two projector screens.](../../images/knighton.jpeg)
 
 This [tour video](https://www.youtube.com/watch?v=YQNhWZAWJqg&t=2s) shows various parts of the venue, and while it doesn't include the Knighton Suite, it's a larger version of the Howden Suite shown at 1:04. For a rough idea of the venue layout, our [Virtual Yarnfield gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield) mimics the arrangement of rooms.
 
@@ -27,11 +27,11 @@ MathsJam attendees also organise a voluntary **shuttle service** for people arri
 
 ## Accommodation info
 
-![Accommodation buildings at Yarnfield Park.](../images/accommodation.jpeg)
+![Accommodation buildings at Yarnfield Park.](../../images/accommodation.jpeg)
 
 Accommodation is on site within the Yarnfield complex, on three wheelchair accessible floors in multiple blocks. Weekend bookings include accommodation for the Saturday night, and additional nights may be added (see the [booking info page]({{site.url}}/gathering/uk/plan-your-visit/booking) for prices). 
 
-![A Yarnfield Park bedroom. A double bed with fresh sheets and towels on it. Next to the window are a desk and chair, and on the wall is a storage unit.](../images/bedrooms.jpeg)
+![A Yarnfield Park bedroom. A double bed with fresh sheets and towels on it. Next to the window are a desk and chair, and on the wall is a storage unit.](../../images/bedrooms.jpeg)
 
 Rooms are all en-suite, and within a few minutes' walk of the main building, via a covered walkway.
 

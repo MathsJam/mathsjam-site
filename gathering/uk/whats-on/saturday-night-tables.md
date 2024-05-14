@@ -5,7 +5,7 @@ title: Saturday Night Tables
 
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
 
-![A Saturday night table. An Enigma machine sits on the table, surrounded by craft materials and paper. In the background, a person is holding a rotor from the Enigma machine.](../images/SatTables2.jpeg)
+![A Saturday night table. An Enigma machine sits on the table, surrounded by craft materials and paper. In the background, a person is holding a rotor from the Enigma machine.](../../images/SatTables2.jpeg)
 
 **Running a table**
 
