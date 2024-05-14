@@ -19,6 +19,7 @@ main * {
     flex-wrap: wrap;
     min-height: 100vh;
     width: 100%;
+    flex-direction: row-reverse;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -36,6 +37,15 @@ header h1, #sidebar h1 {
 }
 .content-block {
     margin: 1em auto;
+}
+
+.content-block img {
+    max-width: 100%;
+	border: 0.5rem solid #b2bc3a;
+}
+
+#skip-to-sidebar {
+    display: none;
 }
 
 #sidebar ul {
@@ -390,9 +400,9 @@ blockquote > cite {
 	margin-right: 0.1em;
 }
 body.gathering .team-pic {
-	width: 100px;
+	width: 6em;
 	float: right;
-	margin: 0 0 1rem 1rem;
+	margin: -3rem 0 1rem 1rem;
 }
 body.gathering .programme-table td:first-child {
 	padding-right: 1em;

@@ -7,11 +7,11 @@ On Saturday afternoon and Sunday morning we have a schedule of five-minute talks
 
 All talk sessions are livestreamed to remote attendees, and the breaks between sessions include opportunities for both in-person and remote attendees to talk to the speakers from the previous session.
 
-![Photo of person giving talk](https://mathsjam.com/assets/images/gathering/Talk1.jpg)
+![A person giving a talk.](../images/Talk1.jpg)
 
-![Photo of person giving talk](https://mathsjam.com/assets/images/gathering/Talk2.jpg)
+![A person giving a talk.](../images/Talk2.jpg)
 
-You can see a [video of a talk from 2023](https://youtu.be/MwRbr-MjwII?feature=shared)
+You can see a [video of a talk from 2023](https://youtu.be/MwRbr-MjwII?feature=shared).
 
 Provisional timings are as follows (note that these are unconfirmed and subject to change):
 
