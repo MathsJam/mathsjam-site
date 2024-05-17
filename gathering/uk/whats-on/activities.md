@@ -8,8 +8,8 @@ title: Activities
 ## Bake-off {bakeoff}
 Our annual maths baking competition will test your baking skills! There'll be a cake/baked good/confection contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake or equivalent).
 
-![Photo of circle reflection and circle cakes](https://mathsjam.com/assets/images/gathering/Cakes1.jpg)
-![Photo of bridges of battenburg cake](https://mathsjam.com/assets/images/gathering/Cakes2.jpg)
+![Two cakes decorated with icing. One shows a checkerboard pattern and its reflection in a circle. The other shows a geometric diagram.](../../images/Cakes1.jpg)
+![Battenburg cakes arranged to match the Bridges of Königsberg puzzle.](../../images/Cakes2.jpg)
 
 The rules are:
 
@@ -63,8 +63,8 @@ You can also see [videos of four songs from 2018](https://www.youtube.com/playli
 
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
-![Photo of knitted things on table](https://mathsjam.com/assets/images/gathering/TablesAtBack1.jpg)
-![Photo of Chalkdust magazines on table](https://mathsjam.com/assets/images/gathering/TablesAtBack2.jpg)
+![Knitted things, including Napier's rods and Soma cube pieces, on a table.](../../images/TablesAtBack1.jpg)
+![Chalkdust magazines on a table.](../../images/TablesAtBack2.jpg)
 
 2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
 
