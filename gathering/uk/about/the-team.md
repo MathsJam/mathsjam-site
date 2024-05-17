@@ -43,6 +43,7 @@ Possibly the only person to hold the prestigious title of London Mathematical So
 [Scroggs's website](https://mscroggs.co.uk).
 
 ### Ben Sparks
+Ben is working on this paragraph.
 
 ### Katie Steckles
 <img src="../../images/Katie.jpg" class="team-pic">
