@@ -15,7 +15,9 @@ location:
     lon: 7.6859265
     lat: 45.0617996
 hiatus: false
-start_time: 7.30pm
+start_time: 7pm
+changed_dates:
+    - 2024-05-27
 links:
     twitter:
         text: '@TRNMathsJam'
