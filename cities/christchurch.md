@@ -9,7 +9,7 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: Cascade (Stranges Lane)
+    pub_name: Cascade Stranges Lane
     description: ' at 219 High Street, on the mezzanine floor'
     url: https://www.cascadebar.co.nz
     lon: 172.6363786
