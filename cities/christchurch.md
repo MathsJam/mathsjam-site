@@ -12,8 +12,8 @@ location:
     pub_name: Cascade Stranges Lane
     description: ' at 219 High Street, on the mezzanine floor'
     url: https://www.cascadebar.co.nz
-    lon: 172.6363786
-    lat: -43.5339045
+    lon: 172.6389656
+    lat: -43.5338928
 hiatus: false
 hiatus_months:
     - 2017-05
