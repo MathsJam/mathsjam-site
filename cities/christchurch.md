@@ -9,11 +9,11 @@ organiser:
     email: christchurch@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: The Craft Embassy
-    description: ' in the Greenhouse pavilion on Level 1 of the Terrace, at 126 Oxford Tce'
-    url: https://www.craftembassy.co.nz
-    lon: 172.634268
-    lat: -43.532654
+    pub_name: Cascade (Stranges Lane)
+    description: ' at 219 High Street, on the mezzanine floor'
+    url: https://www.cascadebar.co.nz
+    lon: 172.6363786
+    lat: -43.5339045
 hiatus: false
 hiatus_months:
     - 2017-05
