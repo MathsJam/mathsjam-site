@@ -3,7 +3,7 @@ layout: city
 lockdown: false
 city_name: Sheffield
 jam_name: Sheffield MathsJam
-email: sheffieldmanchester@mathsjam.com
+email: sheffield@mathsjam.com
 organiser:
     name: Brad
     email: sheffield@mathsjam.com
@@ -25,6 +25,7 @@ hiatus_months:
     - 2023-12
     - 2024-02
     - 2024-03
+    - 2024-06
 changed_dates:
     - 2022-05-23
 links:
