@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: true
+lockdown: false
 city_name: Cambridge
 jam_name: Cambridge MathsJam
 email: cambridge@mathsjam.com
@@ -19,8 +19,6 @@ hiatus_months:
     - 2020-03
 changed_dates:
     - 2018-12-18
-extra_text: We are organising our own local online MathsJam events while we can't
-    meet in person - get in touch if you'd like more information.
 links:
     twitter:
         text: '@CAMMathsJam'
