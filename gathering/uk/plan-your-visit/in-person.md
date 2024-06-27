@@ -3,7 +3,9 @@ layout: gathering
 title: In-person Attendance
 ---
 
-## Venue
+[Venue]({{site.url}}/gathering/uk/plan-your-visit/in-person#venue) - [Getting There]({{site.url}}/gathering/uk/plan-your-visit/in-person#travel) - [Accommodation]({{site.url}}/gathering/uk/plan-your-visit/in-person#accom) - [Accessibility]({{site.url}}/gathering/uk/plan-your-visit/in-person#access)
+
+## Venue {venue}
 
 ![Yarnfield Park. A large complex surrounded by countryside.](../../images/yarnfield-park.jpeg)
 
@@ -17,7 +19,7 @@ A range of food is served in the restaurant downstairs, and there is also a bar,
 
 The venue is fully wheelchair accessible, with lifts to the first floor and double doorways into all the main areas we will use.
 
-## Getting There
+## Getting There {travel}
 
 Full and up-to-date travel information for Yarnfield is available on the [Yarnfield webite](https://www.yarnfieldpark.com/contact/location-and-travel). Driving is the easiest way to arrive, and there is a large car park onsite.
 
@@ -25,7 +27,7 @@ The nearest train stations are [Stoke-on-Trent](https://www.nationalrail.co.uk/s
 
 MathsJam attendees also organise a voluntary **shuttle service** for people arriving on trains, giving them lifts in private cars to and from the venue - information about this will be circulated to people who have booked close to the event.
 
-## Accommodation info
+## Accommodation info {accom}
 
 ![Accommodation buildings at Yarnfield Park.](../../images/accommodation.jpeg)
 
@@ -35,7 +37,7 @@ Accommodation is on site within the Yarnfield complex, on three wheelchair acces
 
 Rooms are all en-suite, and within a few minutes' walk of the main building, via a covered walkway.
 
-## Accessibility
+## Accessibility {access}
 
 The venue and accommodation are all fully wheelchair accessible, with lifts to the first floor and double doors to all of the main areas we're using. The rooms for the MathsJam Jam (on Sunday evening) and Quiet Room have a single door, but it is wide enough to accommodate a wheelchair. Accessible accommodation is available on request - please indicate on your booking if you need this, and we can pass this on to the venue.
 

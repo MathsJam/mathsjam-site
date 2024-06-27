@@ -12,18 +12,23 @@ Colin has a Ph.D. from Cambridge and has worked as a research mathematician, and
 
 [Colin's website](https://solipsys.co.uk/)
 
-### Alex Arthur
-
 ### Sam Hartburn
+
+Sam is a freelance maths author, editor and animator who also dabbles in music and writes mathematical songs.
 
 [Sam's website](http://www.samhartburn.co.uk)
 
 ### Sam Holloway
 
+Sam is a financial software developer, record collector, local radio DJ and occasional mathematician.
+
 ### Alison Kiddle
 
-### Christian Lawson-Perfect
+Alison is a mathematician, educator and maths communicator based in the East of England.
 
+[Alison's website](https://alisonkiddle.co.uk/)
+
+### Christian Lawson-Perfect
 <img alt="Christian Lawson-Perfect" src="../../images/clp.jpg" class="team-pic">
 
 Christian is a learning software developer who lives in Newcastle upon Tyne.
@@ -31,29 +36,35 @@ He is a prolific maker of online maths things.
 
 He designed the MathsJam website.
 
-[Christian's website](https://somethingorotherwhatever.com).
-
-### Sophie Maclean
+[Christian's website](https://somethingorotherwhatever.com)
 
 ### Matt Parker
 <img alt="Matt Parker" src="../../images/MattParker.jpg" class="team-pic">
  
-Possibly the only person to hold the prestigious title of London Mathematical Society Popular Lecturer while simultaneously having a sold-out comedy show at the Edinburgh Festival Fringe, Matt is always keen to mix his two passions of mathematics and stand-up. Originally a maths teacher from Australia, Matt now lives in London and works both as a stand-up comedian and a maths communicator. This involves spreading his love of maths via books, radio programmes, TV shows, newspapers, school visits, live comedy shows and occasionally harassing people in the street. Matt is also the Public Engagement in Mathematics Fellow at Queen Mary University of London.
+Matt Parker is a stand-up comedian, #1-best-selling maths author and person who makes videos for the internet. Originally a maths teacher from Australia, Matt now lives in the UK but travels more than he probably should.
 
-[Matt's website](http://www.standupmaths.com).
+[Matt's website](http://www.standupmaths.com)
 
 ### Peter Rowlett
 
+Peter Rowlett teaches mathematics at university and is a maths communicator. He is part of the <a href="http://finitegroup.co.uk">Finite Group</a>.
+
+[Peter's website](https://peterrowlett.net)
+
 ### Matthew Scroggs
 
-[Scroggs's website](https://mscroggs.co.uk).
+Matthew is a postdoctoral researcher at University College London and one of the editors of Chalkdust Magazine. He is part of the <a href="http://finitegroup.co.uk">Finite Group</a>.
+
+[Scroggs's website](https://mscroggs.co.uk)
 
 ### Ben Sparks
-Ben is working on this paragraph.
+Ben is a mathematician, musician, and public speaker. He gives maths talks and workshops around the world, to students, teachers, and the general public. He’s part freelance and part time with the Advanced Maths Support Programme (AMSP), and he’s based at the University of Bath.
+
+[Ben's website](https://bensparks.co.uk)
 
 ### Katie Steckles
 <img src="../../images/Katie.jpg" class="team-pic">
 
-Katie Steckles is a mathematician based in Manchester, who gives talks and workshops on different areas of maths. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio, at music festivals, as part of theatre shows and on the internet. She enjoys doing puzzles, solving the Rubik's cube and baking things shaped like maths.
+Katie Steckles is a mathematician based in Manchester, who gives talks and workshops on different areas of maths. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio, at music festivals, as part of theatre shows and on the internet. She is part of the <a href="http://finitegroup.co.uk">Finite Group</a>.
 
-[Katie's website](http://www.katiesteckles.co.uk).
+[Katie's website](http://www.katiesteckles.co.uk)

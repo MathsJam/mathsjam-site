@@ -13,6 +13,6 @@ We’re keen to make sure that our event is great for everyone, so we present a 
 
 Attendees violating these rules may be asked to leave the event and will not be welcome back to our events in future.
 
-If you are subject to, or observe, any harassment, or have any other concerns - please speak to a member of the organising team (specific contacts will make themselves known in the opening sessions) or email conduct@mathsjam.com. Reports will be dealt with discreetly and in confidence
+If you are subject to, or observe, any harassment, or have any other concerns - please speak to a member of the organising team (specific contacts will make themselves known in the opening sessions) or email <a href="mailto:conduct@mathsjam.com">conduct@mathsjam.com</a>. Reports will be dealt with discreetly and in confidence
 
 Please be aware of your surroundings and the effect your words and actions have on the people around you. We want everyone to have a great time, and treat each other with respect. 

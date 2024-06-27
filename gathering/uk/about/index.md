@@ -19,12 +19,14 @@ This is a distinct event from the [monthly MathsJams](/) that take place in vari
 
 **Everyone else**: It should be a fun, stimulating event that let you connect, or re-connect, with your love of maths!
 
+If you have any questions, or need more information about the event you can't find on this website, you can email <a href="mailto:gathering@mathsjam.com">gathering@mathsjam.com</a>.
+
 ## Testimonials
-If you want to read more about what MathsJam Gathering is like, you can:
+If you want to find out more about what MathsJam Gathering is like, you can:
 
 - Watch [this 5 minute MathsJam trailer](https://www.youtu.be/ZM465bN_IF8)
 - Read [this article that Peter Rowlett wrote for MSOR Connections about MathJam 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278)
 - Read [Rachel Wright's thoughts about attending MathsJam in 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)
 
 ## Sign up to the mailing list
-If you want us to email you when tickets for MathsJam Gathering go on sale, you can [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/viewform?usp=sf_link).
+If you're happy for us to contact you about the MathsJam Gathering, you can [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/viewform?usp=sf_link).

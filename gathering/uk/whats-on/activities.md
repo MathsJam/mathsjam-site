@@ -3,7 +3,7 @@ layout: gathering
 title: Activities
 ---
 
-[Bake-off]({{site.url}}/gathering/uk/whats-on/activities#bakeoff) - [Competition Competition]({{site.url}}/gathering/uk/whats-on/activities#compcomp) - [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities#jamjam) - [Tables at the Back of the Room]({{site.url}}/gathering/uk/whats-on/activities#tables) # can these be to anchor tags on this page
+[Bake-off]({{site.url}}/gathering/uk/whats-on/activities#bakeoff) - [Competition Competition]({{site.url}}/gathering/uk/whats-on/activities#compcomp) - [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities#jamjam) - [Tables at the Back of the Room]({{site.url}}/gathering/uk/whats-on/activities#tables)
 
 ## Bake-off {bakeoff}
 Our annual maths baking competition will test your baking skills! There'll be a cake/baked good/confection contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake or equivalent).
@@ -47,6 +47,8 @@ The judging panel will be chosen randomly from non-competition-entering MathsJam
 
 ## MathsJamJam {jamjam}
 
+![A large room is filled with people, mostly facing away from the camera towards the front of the space, where a selection of musicians are playing instruments. The people include a range of ages and genders, and a large double bass is visible in the centre](../../images/Jam.png)
+
 On the Saturday evening we will gather with our instruments and voices for a singalong of popular songs that we've improved by rewriting them to be about maths.
 
 You're welcome to just come along and listen, and you can join in in any or all of these ways:
@@ -63,8 +65,8 @@ You can also see [videos of four songs from 2018](https://www.youtube.com/playli
 
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
-![Knitted things, including Napier's rods and Soma cube pieces, on a table.](../../images/TablesAtBack1.jpg)
-![Chalkdust magazines on a table.](../../images/TablesAtBack2.jpg)
+![Knitted objects, including Napier's rods and Soma cube pieces, on a table.](../../images/TablesAtBack1.jpg)
+![Copies of Chalkdust magazine on a table](../../images/TablesAtBack2.jpg)
 
 2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
 

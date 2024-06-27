@@ -1,5 +1,0 @@
----
-layout: gathering
-title: Contact
----
-
