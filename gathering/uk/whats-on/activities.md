@@ -3,9 +3,10 @@ layout: gathering
 title: Activities
 ---
 
-[Bake-off]({{site.url}}/gathering/uk/whats-on/activities#bakeoff) - [Competition Competition]({{site.url}}/gathering/uk/whats-on/activities#compcomp) - [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities#jamjam) - [Tables at the Back of the Room]({{site.url}}/gathering/uk/whats-on/activities#tables)
+[Bake-off](#bakeoff) - [Competition Competition](#compcomp) - [MathsJam Jam](#jamjam) - [Tables at the Back of the Room](#tables)
 
-## Bake-off {bakeoff}
+<h2 id="bakeoff">Bake-off</h2>
+
 Our annual maths baking competition will test your baking skills! There'll be a cake/baked good/confection contest, judged by a randomly selected panel, and anyone attending the conference is welcome to enter. Entry to the competition is free (well, more strictly, it'll cost you approximately one cake or equivalent).
 
 ![Two cakes decorated with icing. One shows a checkerboard pattern and its reflection in a circle. The other shows a geometric diagram.](../../images/Cakes1.jpg)
@@ -21,7 +22,7 @@ As with all the competitions, when you submit your entry, please inform an organ
 
 Any food not required for judging purposes will be distributed among the MathsJam gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
 
-## MathsJam Competition Competition {compcomp}
+<h2 id="compcomp">MathsJam Competition Competition</h2>
 
 We also run an annual competition competition, to which attendees are invited to submit a competition, which the other attendees can enter.
 
@@ -45,7 +46,7 @@ There will be three prizes for the competition competition:
 
 The judging panel will be chosen randomly from non-competition-entering MathsJam attendees.
 
-## MathsJamJam {jamjam}
+<h2 id="jamjam">MathsJamJam</h2>
 
 ![A large room is filled with people, mostly facing away from the camera towards the front of the space, where a selection of musicians are playing instruments. The people include a range of ages and genders, and a large double bass is visible in the centre](../../images/Jam.png)
 
@@ -61,7 +62,7 @@ Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAO
 
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
 
-## Tables at the back {tables}
+<h2 id="tables">Tables at the back</h2>
 
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
