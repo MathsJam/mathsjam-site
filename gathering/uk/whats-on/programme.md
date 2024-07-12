@@ -17,21 +17,7 @@ All talk sessions are livestreamed to remote attendees, and the breaks between s
 
 You can see a [video of a talk from 2023](https://youtu.be/MwRbr-MjwII?feature=shared).
 
-Provisional timings are as follows (note that these are unconfirmed and subject to change):
-
-**Saturday**
-
-- 14:00-14:40 Session 1a
-- 15:10-15:50 Session 1b
-- 16:20-17:00 Session 1c
-- 17:30-18:10 Session 1d
-
-**Sunday**
-
-- 08:45-9:30 Session 2a
-- 10:00-10:45 Session 2b
-- 11:15-12:00 Session 2c
-- 12:30-12:50 Session 2d
+The programme of talk sessions will be posted here once it's available.
 
 <h2 id="talking">Giving a talk</h2>
 
