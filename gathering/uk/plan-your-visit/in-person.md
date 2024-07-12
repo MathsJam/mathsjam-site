@@ -23,9 +23,11 @@ The venue is fully wheelchair accessible, with lifts to the first floor and doub
 
 Full and up-to-date travel information for Yarnfield is available on the [Yarnfield webite](https://www.yarnfieldpark.com/contact/location-and-travel). Driving is the easiest way to arrive, and there is a large car park onsite.
 
-The nearest train stations are [Stoke-on-Trent](https://www.nationalrail.co.uk/stations/stoke-on-trent/) (10 miles away), which is on some major train routes, and [Stone](https://www.nationalrail.co.uk/stations/stone-staffs/) (3 miles away), a smaller local station which is closer but less frequently served by trains. Both options will require a taxi or other transport to Yarnfield, and while they're usually available on the taxi rank at Stoke-on-Trent, taxis from Stone will need to be pre-booked.
+The nearest train stations are [Stoke-on-Trent](https://www.nationalrail.co.uk/stations/stoke-on-trent/) (10 miles away), which is on some major train routes, and [Stone](https://www.nationalrail.co.uk/stations/stone-staffs/) (3 miles away), a smaller local station which is closer to the venue but less frequently served by trains, and will travelling here will likely involve changing at Stafford. 
 
-MathsJam attendees also organise a voluntary **shuttle service** for people arriving on trains, giving them lifts in private cars to and from the venue - information about this will be circulated to people who have booked close to the event.
+Attendees arriving by train to Stone or Stoke-on-Trent will need a way to get from there to Yarnfield (10/20 minutes drive respectively). MathsJam attendees organise a voluntary **shuttle service** for people arriving on trains, giving them lifts in private cars to and from the venue - information about this will be circulated to people who have booked closer to the event, so if you're coming by train, watch out for that and you can sign up for a lift to/from the station. Otherwise, taxis are usually available on the taxi rank at Stoke-on-Trent, but taxis from Stone will need to be pre-booked.
+
+If you have any questions about travel, or are unfamiliar with UK transport networks and would like some advice, email gathering@mathsjam.com and we can try to help.
 
 <h2 id="accommodation">Accommodation Info</h2>
 
