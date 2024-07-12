@@ -14,17 +14,18 @@ The provisional timings for the weekend are as follows (note that these are unco
 
 **Saturday**
 
-- 12:30 Lunch
-- 14:00-18:10 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
+- 12:00-13:00 Lunch
+- 13:30-18:00 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
 - 19:00 Dinner
 - 20:00-21:00 and onwards [Saturday night tables]({{site.url}}/gathering/uk/whats-on/saturday-night-tables)
-- 21:00 onwards [MathsJamJam]({{site.url}}/gathering/uk/whats-on/activities)
+- 21:00 onwards [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities)
 
 **Sunday**
 
-- 07:30 Breakfast
-- 08:45-12:50 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
-- 12:50 Lunch
+- 07:00-08:30 Breakfast
+- 09:30-12:00 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
+- 12:00-13:00 Lunch
+- 13:00-14:30 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
 - There are no further scheduled activities, but the room stays open until 17:00 and many people stay on the Sunday night.
 
 Throughout Saturday and Sunday we also have [the bakeoff, competition competition and tables at the back of the room]({{site.url}}/gathering/uk/whats-on/activities).
