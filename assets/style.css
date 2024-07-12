@@ -44,6 +44,13 @@ header h1, #sidebar h1 {
 	border: 0.5rem solid #b2bc3a;
 }
 
+.massive {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    margin: 2em 0;
+}
+
 #skip-to-sidebar {
     display: none;
 }

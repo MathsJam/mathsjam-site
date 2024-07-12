@@ -3,26 +3,7 @@ layout: gathering
 title: Booking and prices
 ---
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://mjgathering2024.eventbrite.com" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-870869533217" type="button">Book for the Gathering</button>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '870869533217',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-870869533217',
-        onOrderComplete: exampleCallback
-    });
-</script>
+<p><a class="massive" href="https://mjgathering2024.eventbrite.com" target="_blank">Book for the Gathering</a></p>
 
 Tickets for the MathsJam Gathering include sessions on the Saturday and Sunday, as well as lunches on both days, dinner on Saturday and overnight accommodation onsite for Saturday night.
 
