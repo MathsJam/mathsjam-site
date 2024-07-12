@@ -3,9 +3,9 @@ layout: gathering
 title: Programme
 ---
 
-[Schedule of Talks]({{site.url}}/gathering/uk/whats-on/programme#schedule) - [Giving a Talk]({{site.url}}/gathering/uk/whats-on/programme#talking) - [Saturday Night Tables]({{site.url}}/gathering/uk/whats-on/programme#tables)
+[Schedule of Talks](#schedule) - [Giving a Talk](#talking) - [Saturday Night Tables](#tables)
 
-## Schedule of talks {schedule}
+<h2 id="schedule">Schedule of talks</h2>
 
 On Saturday afternoon and Sunday morning we have a schedule of five-minute talks. Past talks have included everything from people sharing a mathematical phone game they enjoy, to the ways they made their wedding more mathematical, as well as puzzles, weird mathematical concepts and observations of real-world things containing interesting maths.
 
@@ -33,7 +33,7 @@ Provisional timings are as follows (note that these are unconfirmed and subject 
 - 11:15-12:00 Session 2c
 - 12:30-12:50 Session 2d
 
-## Giving a talk {talking}
+<h2 id="talking">Giving a talk</h2>
 
 You can give a talk to show us something you think is interesting. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that you think are neat, cool, weird, surprising, or that simply intrigue you.
 
@@ -46,7 +46,7 @@ Full information on how to submit a talk will be given when you buy your ticket,
 - If you're using slides, you will need to send them in advance.
 - There will also be a visualiser for speakers to use.
 
-## Saturday Night Tables {tables}
+<h2 id="tables">Saturday Night Tables</h2>
 
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
 
