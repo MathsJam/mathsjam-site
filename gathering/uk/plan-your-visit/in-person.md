@@ -3,7 +3,7 @@ layout: gathering
 title: In-person Attendance
 ---
 
-[Venue](#venue) - [Getting There](#travel) - [Accommodation](#accommodation) - [Accessibility](#accessibility)
+[Venue](#venue) - [Getting There](#travel) - [Accommodation](#accommodation) - [COVID Policy](#covid) - [Accessibility](#accessibility)
 
 <h2 id="venue">Venue</h2>
 
@@ -38,6 +38,17 @@ Accommodation is on site within the Yarnfield complex, on three wheelchair acces
 ![A Yarnfield Park bedroom. A double bed with fresh sheets and towels on it. Next to the window are a desk and chair, and on the wall is a storage unit.](../../images/bedrooms.jpeg)
 
 Rooms are all en-suite, and within a few minutes' walk of the main building, via a covered walkway.
+
+<h2 id="covid">COVID Policy</h2>
+
+The event takes place in a large conference building, which may also have other events taking place at the same time. The rooms are reasonably large, and we will aim to keep windows and doors open where possible. We will, unavoidably, still be a large group of people mixing in an indoor space. To try to make the Gathering as safe as we can while still striking a balance with fun and convenience, we have the following policy:
+
+- We ask every attendee to have up-to-date COVID vaccinations to whatever extent is possible for them;
+- We also ask people to do a rapid lateral flow test (RLFT) before coming, and test during the event too if possible.
+
+If a positive COVID test prevents you from attending some or all of the event, we will be happy to refund all or part of your ticket as needed, and Remote Attendance is available if you still want to join in from home. We will not require people to wear masks during the event, but invite people to wear masks if they are more comfortable doing so.
+
+If you have any questions or concerns about any of this, contact us on [gathering@mathsjam.com](mailto:gathering@mathsjam.com).
 
 <h2 id="accessibility">Accessibility</h2>
 
