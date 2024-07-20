@@ -18,6 +18,7 @@ All talk sessions are livestreamed to remote attendees, and the breaks between s
 ![A person giving a talk.](../../images/Talk2.jpg)
 
 Some examples of previous talks can be found on YouTube:
+
 * [Ben's talk from 2023 about interesting street names](https://www.youtube.com/watch?v=MwRbr-MjwII)
 * [Luna's talk from 2023 about the history of Fizz Buzz](https://www.youtube.com/watch?v=rwwYmFsiJQM)
 * [Christian's talk from 2022 about five fun things with trains (including a puzzle)](https://www.youtube.com/watch?v=aNV23fDvq1Y)
