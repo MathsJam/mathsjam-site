@@ -6,7 +6,7 @@ title: In-person Attendance
 <div class='minimenu'>
 <a href='#venue'>Venue</a>
 <a href='#travel'>Getting There</a>
-<a href='#accomodation'>Accommodation</a>
+<a href='#accommodation'>Accommodation</a>
 <a href='#covid'>COVID Policy</a>
 <a href='#accessibility'>Accessibility</a>
 </div>
