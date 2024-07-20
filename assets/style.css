@@ -479,3 +479,7 @@ body.gathering nav#sidebar .home h1 {
     background-color: #3c6b48 !important;
     border: 3px solid black !important;  
 }
+
+html {
+  scroll-behavior: smooth;
+}
