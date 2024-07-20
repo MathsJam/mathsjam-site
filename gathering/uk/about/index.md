@@ -3,6 +3,11 @@ layout: gathering
 title: What is MathsJam Gathering?
 ---
 
+<div class='minimenu'>
+<a href="https://mathsjam.com/gathering/uk/about/code-of-conduct">Code of Conduct</a>
+<a href="https://mathsjam.com/gathering/uk/about/the-team">The Team</a>
+</div>
+
 MathsJam Gathering is a two-day event for mathematically-inclined people with an interest in problem solving and puzzles. The weekend consists of lightning talks, long breaks and plenty of chances to socialise and share your favourite maths.
 
 Inspired by the [Gathering For Gardner](http://www.guardian.co.uk/science/2008/may/31/maths.science) events, MathsJam is a chance to share, discuss, solve or be confounded by a vast array of mathematical puzzles in a friendly, informal and inspirational atmosphere. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that are surprising, unexpected, elegant, neat, cool, or whatever just intrigues you.
