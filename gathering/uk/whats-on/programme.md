@@ -4,7 +4,9 @@ title: Programme
 ---
 
 <div class='minimenu'>
-[Schedule of Talks](#schedule) [Giving a Talk](#talking) [Saturday Night Tables](#tables)
+<a href='#schedule'>Schedule of Talks</a>
+<a href='#talking'>Giving a Talk</a>
+<a href='#tables'>Saturday Night Tables</a>
 </div>
 
 <h2 id="schedule">Schedule of talks</h2>

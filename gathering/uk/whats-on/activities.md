@@ -4,7 +4,10 @@ title: Activities
 ---
 
 <div class='minimenu'>
-[Bake-off](#bakeoff) [Competition Competition](#compcomp) [MathsJam Jam](#jamjam) [Tables at the Back of the Room](#tables)
+<a href='#bakeoff'>Bake-off</a>
+<a href='#compcomp'>Competition Competition</a>
+<a href='#jamjam'>MathsJam Jam</a>
+<a href='#tables'>Tables at the Back of the Room</a>
 </div>
 
 <h2 id="bakeoff">Bake-off</h2>
