@@ -1,5 +1,5 @@
 ---
-layout: defulat
+layout: default
 title: MathsJam Annual Gathering Oceania
 ---
 
