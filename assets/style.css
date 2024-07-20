@@ -435,3 +435,25 @@ body.gathering input {
 body.gathering nav#sidebar .home h1 {
     font-size: 2em;
 }
+
+.call-to-action {
+    font-size: 250%;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px 50px;
+    background-color: #C62748;
+    border-radius: 1cm;
+    color: #FEFAD7;
+    border: 3px solid white;
+    text-align:center;
+    font-family: 'Fjalla One',sans-serif;
+    width: fit-content;
+    text-decoration:none;
+
+}
+.call-to-action:hover {
+    background-color: #3c6b48 !important;
+    border: 3px solid black !important;  
+}
