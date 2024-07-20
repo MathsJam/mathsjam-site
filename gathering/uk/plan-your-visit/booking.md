@@ -3,7 +3,7 @@ layout: gathering
 title: Booking and prices
 ---
 
-<p><a class="massive" href="https://mjgathering2024.eventbrite.com" target="_blank">Book for the Gathering</a></p>
+<a href="https://mjgathering2024.eventbrite.com" class="call-to-action" target="_blank">Book for the Gathering</a>
 
 Tickets for the MathsJam Gathering include sessions on the Saturday and Sunday, as well as lunches on both days, dinner on Saturday and overnight accommodation onsite for Saturday night.
 
