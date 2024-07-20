@@ -25,8 +25,9 @@ If you have any questions, or need more information about the event you can't fi
 If you want to find out more about what MathsJam Gathering is like, you can:
 
 - Watch [this 5 minute MathsJam trailer](https://www.youtu.be/ZM465bN_IF8)
-- Read [this article that Peter Rowlett wrote for MSOR Connections about MathJam 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278)
 - Read [Rachel Wright's thoughts about attending MathsJam in 2014](http://www.solipsys.co.uk/new/ANonMathematicianAtMathsJam.html?TW_20160514)
+- Read [this article that Peter Rowlett wrote for MSOR Connections about MathJam 2015](https://journals.gre.ac.uk/index.php/msor/article/view/278)
+- Read [this writeup from the seventh MathsJam in 2016 by Alison Kiddle](https://plus.maths.org/content/mathsjam-vii-force-awakens)
 
 ## Sign up to the mailing list
 If you're happy for us to contact you about the MathsJam Gathering, you can [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/viewform?usp=sf_link).

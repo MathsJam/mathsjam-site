@@ -29,7 +29,7 @@ The nearest train stations are [Stoke-on-Trent](https://www.nationalrail.co.uk/s
 
 Attendees arriving by train to Stone or Stoke-on-Trent will need a way to get from there to Yarnfield (10/20 minutes drive respectively). MathsJam attendees organise a voluntary **shuttle service** for people arriving on trains into Stone, giving them lifts in private cars to and from the venue - information about this will be circulated to people who have booked closer to the event, so if you're coming by train, watch out for that and you can sign up for a lift to/from the station. Otherwise, taxis are usually available on the taxi rank at Stoke-on-Trent, but taxis from Stone will need to be pre-booked.
 
-If you have any questions about travel, or are unfamiliar with UK transport networks and would like some advice, email gathering@mathsjam.com and we can try to help.
+If you have any questions about travel, or are unfamiliar with UK transport networks and would like some advice, email gathering@mathsjam.com and we can try to help. Information about train tickets can be found on the [National Rail website](https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/).
 
 <h2 id="accommodation">Accommodation Info</h2>
 
