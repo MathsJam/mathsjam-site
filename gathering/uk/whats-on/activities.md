@@ -19,13 +19,13 @@ Our annual maths baking competition will test your baking skills! There'll be a 
 
 The rules are:
 
-- You must bake/otherwise create a mathematically interesting cake/baked good/confection, and bring it with you to the gathering. (Please also bring a knife to cut it into portions; we'll provide serving plates.)
+- You must bake/otherwise create a mathematically interesting cake/baked good/confection, and bring it with you to the Gathering. (Please also bring a knife to cut it into portions; we'll provide serving plates.)
 - The judging will be in three categories: best flavour, best presentation, and best maths.
 - The first will reward a well-made, delicious item; the second will reward the item which has been decorated the most beautifully and looks most like what it's supposed to be; and the third will reward the most ingenious mathematical theming.
 
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
 
-Any food not required for judging purposes will be distributed among the MathsJam gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
+Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
 
 <h2 id="compcomp">MathsJam Competition Competition</h2>
 

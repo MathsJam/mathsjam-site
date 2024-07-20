@@ -15,7 +15,7 @@ title: In-person Attendance
 
 ![Yarnfield Park. A large complex surrounded by countryside.](../../images/yarnfield-park.jpeg)
 
-The venue for the UK MathsJam Gathering is [Yarnfield Park](https://www.yarnfieldpark.com/), which is a large conference centre in central England. Yarnfield has two floors, and the main room we use for MathsJam is on the first floor - the Knighton Suite, which is a large conference room filled with round tables, and a stage at the front with screens.
+The venue for the MathsJam UK Gathering is [Yarnfield Park](https://www.yarnfieldpark.com/), which is a large conference centre in central England. Yarnfield has two floors, and the main room we use for MathsJam is on the first floor - the Knighton Suite, which is a large conference room filled with round tables, and a stage at the front with screens.
 
 ![The Knighton Suite. A large room with round tables arranged in front of a stage, behind which are two projector screens.](../../images/knighton.jpeg)
 
