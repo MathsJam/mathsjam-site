@@ -5,6 +5,8 @@ title: MathsJam Gathering 2023
 	
 This is a list of talks given at the 2023 MathsJam Gathering, along with a brief description, and links to slides or other relevant content where we have them. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
+The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2022/tables) from the 2023 gathering can be found here.
+
 Andrew Taylor has produced a [poster of the things that happened at MathsJam 2023](https://mathsjam.com/gathering/uk/archive/2023/2023.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2023/cakes) with the photos of cakes entered in the cake competition.
 
 The gathering took place on 11th - 12th November 2023.

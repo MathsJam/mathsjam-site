@@ -10,11 +10,16 @@ body {
     background: hsl(0,0%,97%);
 }
 
+main * {
+    line-height: 1.5em;
+}
+
 .everything {
     display: flex;
     flex-wrap: wrap;
     min-height: 100vh;
     width: 100%;
+    flex-direction: row-reverse;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -32,6 +37,22 @@ header h1, #sidebar h1 {
 }
 .content-block {
     margin: 1em auto;
+}
+
+.content-block img {
+    max-width: 100%;
+	border: 0.5rem solid #b2bc3a;
+}
+
+.massive {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    margin: 2em 0;
+}
+
+#skip-to-sidebar {
+    display: none;
 }
 
 #sidebar ul {
@@ -55,6 +76,13 @@ header h1, #sidebar h1 {
     color: #fefad7;
     font-family: 'Fjalla One',serif;
     font-size: 1.2rem;
+}
+#sidebar > ul a[aria-current="page"] {
+    font-weight: bold;
+    text-decoration: underline 0.2em;
+}
+#sidebar > ul > li:first-child a[aria-current="page"] {
+    text-decoration: none;
 }
 
 #sidebar > ul > li ~ li {
@@ -151,7 +179,9 @@ body.city header h1 {
 body.find-a-jam header {
     background-position: 65% 30%;
 }
-body.find-a-jam header, #sidebar li.find-a-jam {
+body.find-a-jam header, #sidebar li.find-a-jam ,
+body.whats-on header, #sidebar li.whats-on
+{
     background-color: #083a7b;
 }
 body.find-a-jam header h1 {
@@ -176,8 +206,10 @@ body.resources header h1 {
 }
 body.gathering header {
     background-position: 5% 40%;
+    background-image: url('images/gathering-header.jpg');
 }
-body.gathering header, #sidebar li.gathering {
+body.gathering header, #sidebar li.gathering,
+body.plan-your-visit header, #sidebar li.plan-your-visit {
     background-color: hsl(54, 95%, 57%);
     color: black;
 }
@@ -192,13 +224,20 @@ body.gathering header h1 {
 #sidebar li.twitter {
     background-color: #0084b4;
 }
+#sidebar li.twitter a {
+    color: black;
+}
 #sidebar li.mathstodon {
     background-color: #6364FF;
 }
-#sidebar li.gathering a {
+#sidebar li.mathstodon a {
+    color: black;
+}
+#sidebar li.gathering a, #sidebar li.plan-your-visit a {
     color: hsl(54, 95%, 8%);
 }
-#sidebar li.gathering a .nav-icon {
+#sidebar li.gathering a .nav-icon,
+#sidebar li.plan-your-visit a .nav-icon {
 	fill: black;
 }
 
@@ -368,9 +407,9 @@ blockquote > cite {
 	margin-right: 0.1em;
 }
 body.gathering .team-pic {
-	width: 100px;
+	width: 6em;
 	float: right;
-	margin: 0 0 1rem 1rem;
+	margin: -3rem 0 1rem 1rem;
 }
 body.gathering .programme-table td:first-child {
 	padding-right: 1em;
@@ -392,4 +431,51 @@ body.home #next-jam .cities > span:not(:first-child) {
 body.gathering input {
     font-size: 1rem;
     margin: 0.3rem 0;
+}
+body.gathering nav#sidebar .home h1 {
+    font-size: 2em;
+}
+
+.call-to-action {
+    font-size: 250%;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px 50px;
+    background-color: #C62748;
+    border-radius: 1cm;
+    color: #FEFAD7;
+    border: 3px solid white;
+    text-align:center;
+    font-family: 'Fjalla One',sans-serif;
+    width: fit-content;
+    text-decoration:none;
+
+}
+
+.minimenu {
+    font-family: 'Fjalla One',sans-serif;
+    padding: 10px;
+    text-align: center;
+    font-size: 130%;
+}
+
+.minimenu a {
+    font-family: 'Fjalla One',sans-serif;
+    display: inline-block;
+    padding: 10px 22px;
+    background-color: #C62748;
+    border-radius: 27px;
+    color: #FEFAD7;
+    border: 3px solid white;
+    text-align: center;
+    width: fit-content;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.call-to-action:hover, .minimenu a:hover {
+    background-color: #3c6b48 !important;
+    border: 3px solid black !important;  
 }

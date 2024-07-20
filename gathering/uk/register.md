@@ -3,19 +3,13 @@ layout: gathering
 title: How to Register
 ---
 
-**[Register now to receive email updates. ](https://www.solipsys.co.uk/MathsJamRegister.html)**
+Booking for the MathsJam Gathering is via Eventbrite, and for more information about tickets, visit the <a href="/plan-your-visit/booking/">Booking and Prices page</a>.
 
-You can decide what you want at your leisure, but only payment will guarantee your place.
+<a href="https://mjgathering2024.eventbrite.com" class="call-to-action" target="_blank">Book for the Gathering</a>
 
-**[Register here ](https://www.solipsys.co.uk/MathsJamRegister.html)**
+If you'd like to be kept updated about upcoming MathsJam Gathering events in the UK, you can give us your email address and we'll send details when they're available. Your address will be stored securely and only used for the purposes of informing you about MathsJam events.
 
-You'll be sent a link to confirm your registration, and to start making your reservation.
+ 
+<div id="ff-compose"></div>
+<script async defer src="https://formfacade.com/include/105649499609316169476/form/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/classic.js?div=ff-compose"></script>
 
-You are completely free to change your mind later, but places are limited.
-
-### Links to relevant pages:
-
-* [MathsJam main page ](http://www.mathsjam.com/)
-* [The Gathering ](http://www.mathsjam.com/gathering/)
-* [Who? And Why? Meet the team ...  ](http://www.mathsjam.com/gathering/about/)
-* [See the program ](http://www.mathsjam.com/gathering/programme/)
