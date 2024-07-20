@@ -453,7 +453,29 @@ body.gathering nav#sidebar .home h1 {
     text-decoration:none;
 
 }
-.call-to-action:hover {
+
+.minimenu {
+    font-family: 'Fjalla One',sans-serif;
+    padding: 10px;
+    text-align: center;
+    font-size: 130%;
+}
+
+.minimenu a {
+    font-family: 'Fjalla One',sans-serif;
+    display: inline-block;
+    padding: 10px 22px;
+    background-color: #C62748;
+    border-radius: 27px;
+    color: #FEFAD7;
+    border: 3px solid white;
+    text-align: center;
+    width: fit-content;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.call-to-action:hover, .minimenu a:hover {
     background-color: #3c6b48 !important;
     border: 3px solid black !important;  
 }

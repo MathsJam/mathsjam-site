@@ -3,7 +3,9 @@ layout: gathering
 title: Programme
 ---
 
-[Schedule of Talks](#schedule) - [Giving a Talk](#talking) - [Saturday Night Tables](#tables)
+<div class='minimenu'>
+[Schedule of Talks](#schedule) [Giving a Talk](#talking) [Saturday Night Tables](#tables)
+</div>
 
 <h2 id="schedule">Schedule of talks</h2>
 
