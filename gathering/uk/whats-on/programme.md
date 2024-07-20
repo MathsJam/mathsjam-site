@@ -17,7 +17,13 @@ All talk sessions are livestreamed to remote attendees, and the breaks between s
 
 ![A person giving a talk.](../../images/Talk2.jpg)
 
-You can see a [video of a talk from 2023](https://youtu.be/MwRbr-MjwII?feature=shared).
+Some examples of previous talks can be found on YouTube:
+* [Ben's talk from 2023 about interesting street names](https://www.youtube.com/watch?v=MwRbr-MjwII)
+* [Luna's talk from 2023 about the history of Fizz Buzz](https://www.youtube.com/watch?v=rwwYmFsiJQM)
+* [Christian's talk from 2022 about five fun things with trains (including a puzzle)](https://www.youtube.com/watch?v=aNV23fDvq1Y)
+* [Luna's talk from 2019 about Cursed Regular Expressions](https://www.youtube.com/watch?v=Grc0Ak83Pf8)
+* [Miles's talk from 2017 about climbing mountains in Kyrgyzstan](https://www.youtube.com/watch?v=0bv6VovSmQ4)
+* [Matt's talk from 2016 about Letterwise Magic Squares](https://www.youtube.com/watch?v=cZ1W1vbuYuQ)
 
 The programme of talk sessions will be posted here once it's available.
 
