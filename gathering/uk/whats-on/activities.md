@@ -3,7 +3,9 @@ layout: gathering
 title: Activities
 ---
 
-[Bake-off](#bakeoff) - [Competition Competition](#compcomp) - [MathsJam Jam](#jamjam) - [Tables at the Back of the Room](#tables)
+<div class='minimenu'>
+[Bake-off](#bakeoff) [Competition Competition](#compcomp) [MathsJam Jam](#jamjam) [Tables at the Back of the Room](#tables)
+</div>
 
 <h2 id="bakeoff">Bake-off</h2>
 
