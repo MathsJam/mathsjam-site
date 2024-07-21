@@ -60,10 +60,6 @@
         display: block;
     }
 
-    #sidebar ul li ul {
-        display: none;
-    }
-
     #sidebar ul li ul.submenu.open {
         display: flex;
         margin-left: 0.3em;
