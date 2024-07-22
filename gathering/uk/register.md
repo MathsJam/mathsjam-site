@@ -3,7 +3,7 @@ layout: gathering
 title: How to Register
 ---
 
-Booking for the MathsJam Gathering is via Eventbrite, and for more information about tickets, visit the <a href="/plan-your-visit/booking/">Booking and Prices page</a>.
+Booking for the MathsJam Gathering is via Eventbrite, and for more information about tickets, visit the <a href="/gathering/uk/plan-your-visit/booking/">Booking and Prices page</a>.
 
 <a href="https://mjgathering2024.eventbrite.com" class="call-to-action" target="_blank">Book for the Gathering</a>
 
