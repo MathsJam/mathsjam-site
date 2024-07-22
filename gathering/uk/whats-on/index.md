@@ -4,9 +4,9 @@ title: What's On
 ---
 
 <div class='minimenu'>
-<a href="https://mathsjam.com/gathering/uk/whats-on/programme">Programme</a>
-<a href="https://mathsjam.com/gathering/uk/whats-on/activities">Activities</a>
-<a href="https://mathsjam.com/gathering/uk/whats-on/volunteer">Volunteer</a>
+<a href="programme">Programme</a>
+<a href="activities">Activities</a>
+<a href="volunteer">Volunteer</a>
 </div>
 
 The MathsJam Gathering is an event for people to get together and play with fun maths, and around the scheduled activities there are long breaks for you to do just that.
