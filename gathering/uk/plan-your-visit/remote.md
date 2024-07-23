@@ -1,6 +1,7 @@
 ---
 layout: gathering
 title: Remote Attendance
+body_class: plan-your-visit
 ---
 
 While the MathsJam Gathering takes place primarily in-person, there will be an online option for those who wish to join remotely. We're hoping to make as much of the conference accessible remotely as possible. The entire event is run by volunteers, and while we'll do our best to make sure the remote experience is good, we may experience technical issues which impact on this experience.

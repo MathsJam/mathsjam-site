@@ -1,6 +1,7 @@
 ---
 layout: gathering
 title: The team
+body_class: about
 ---
 
 MathsJam Gathering is a fully volunteer-run event, and many people play an important role in making the event a success. The people listed on this page form the core orgnisational team and lead the organisation of the event.

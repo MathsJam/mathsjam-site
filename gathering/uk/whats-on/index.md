@@ -1,13 +1,15 @@
 ---
 layout: gathering
 title: What's On
+body_class: whats-on
+minimenu: 
+  - path: 'programme/'
+    label: 'Programme'
+  - path: 'activities/'
+    label: 'Activities'
+  - path: 'volunteer/'
+    label: 'Volunteer'
 ---
-
-<div class='minimenu'>
-<a href="programme">Programme</a>
-<a href="activities">Activities</a>
-<a href="volunteer">Volunteer</a>
-</div>
 
 The MathsJam Gathering is an event for people to get together and play with fun maths, and around the scheduled activities there are long breaks for you to do just that.
 

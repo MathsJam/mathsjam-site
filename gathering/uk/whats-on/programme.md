@@ -1,13 +1,15 @@
 ---
 layout: gathering
 title: Programme
+body_class: whats-on
+minimenu:
+  - path: '#schedule'
+    label: 'Schedule of Talks'
+  - path: '#talking'
+    label: 'Giving a Talk'
+  - path: '#tables'
+    label: 'Saturday Night Tables'
 ---
-
-<div class='minimenu'>
-<a href='#schedule'>Schedule of Talks</a>
-<a href='#talking'>Giving a Talk</a>
-<a href='#tables'>Saturday Night Tables</a>
-</div>
 
 <h2 id="schedule">Schedule of talks</h2>
 

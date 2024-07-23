@@ -1,12 +1,14 @@
 ---
 layout: gathering
 title: Plan your visit
+body_class: plan-your-visit
+minimenu:
+  - path: 'booking/'
+    label: 'Booking info'
+  - path: 'in-person/'
+    label: 'In-Person attendance'
+  - path: 'remote/'
+    label: 'Remote Attendance'
 ---
-
-<div class='minimenu'>
-<a href="{{site.url}}/gathering/uk/plan-your-visit/booking">Booking info</a>
-<a href="{{site.url}}/gathering/uk/plan-your-visit/in-person">In-Person attendance</a>
-<a href="{{site.url}}/gathering/uk/plan-your-visit/remote">Remote Attendance</a>
-</div>
 
 Use the links above to find ticket types and prices, information about our venue, travel and in-person accessibility, and information for remote attendees.

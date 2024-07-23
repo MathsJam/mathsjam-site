@@ -1,12 +1,13 @@
 ---
 layout: gathering
 title: What is MathsJam Gathering?
+body_class: about
+minimenu:
+  - path: 'code-of-conduct/'
+    label: 'Code of Conduct'
+  - path: 'the-team/'
+    label: 'The Team'
 ---
-
-<div class='minimenu'>
-<a href="https://mathsjam.com/gathering/uk/about/code-of-conduct">Code of Conduct</a>
-<a href="https://mathsjam.com/gathering/uk/about/the-team">The Team</a>
-</div>
 
 MathsJam Gathering is a two-day event for mathematically-inclined people with an interest in problem solving and puzzles. The weekend consists of lightning talks, long breaks and plenty of chances to socialise and share your favourite maths.
 

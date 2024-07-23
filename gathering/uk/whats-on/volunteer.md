@@ -1,6 +1,7 @@
 ---
 layout: gathering
 title: Volunteer
+body_class: whats-on
 ---
 
 There are various aspects of the weekend for which volunteer help is needed and appreciated, including:

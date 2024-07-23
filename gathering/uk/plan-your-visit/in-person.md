@@ -1,15 +1,19 @@
 ---
 layout: gathering
 title: In-person Attendance
+body_class: plan-your-visit
+minimenu:
+  - path: '#venue'
+    label: 'Venue'
+  - path: '#travel'
+    label: 'Getting There'
+  - path: '#accommodation'
+    label: 'Accommodation'
+  - path: '#covid'
+    label: 'COVID Policy'
+  - path: '#accessibility'
+    label: 'Accessibility'
 ---
-
-<div class='minimenu'>
-<a href='#venue'>Venue</a>
-<a href='#travel'>Getting There</a>
-<a href='#accommodation'>Accommodation</a>
-<a href='#covid'>COVID Policy</a>
-<a href='#accessibility'>Accessibility</a>
-</div>
 
 <h2 id="venue">Venue</h2>
 

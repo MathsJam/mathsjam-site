@@ -1,6 +1,7 @@
 ---
 layout: gathering
 title: Code of Conduct
+body_class: about
 ---
 
 We’re keen to make sure that our event is great for everyone, so we present a code of conduct for the day, which we hope you can follow.

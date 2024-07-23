@@ -1,6 +1,7 @@
 ---
 layout: gathering
 title: Booking and prices
+body_class: plan-your-visit
 ---
 
 <a href="https://mjgathering2024.eventbrite.com" class="call-to-action" target="_blank">Book for the Gathering</a>
