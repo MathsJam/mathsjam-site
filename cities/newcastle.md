@@ -25,7 +25,7 @@ changed_dates:
 start_time: 7pm
 links:
     facebook:
-        text: 'Newcastle MathsJam'
+        text: 'Facebook Group'
         url: https://www.facebook.com/NEWCMathsJam
 ---
 
