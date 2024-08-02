@@ -10,11 +10,11 @@ organiser:
 location:
     group: uk-ireland
     pub_name: Home Cottage
-    description: ', which is just behind the train station. It is best to come out of the station by the main entrance and walk up the hill, as crossing Redstone Hill without using the lights can be dangerous'
+    description: ', which is just behind the train station'
     url: https://www.homecottageredhill.com/
     lon: -0.1645348
     lat: 51.2389284
-hiatus: false
+hiatus: true
 
 ---
 
