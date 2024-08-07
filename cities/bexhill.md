@@ -20,8 +20,7 @@ changed_dates:
 hiatus_months:
     - 2017-12
     - 2020-03
-extra_text: We are organising our own local online MathsJam events while we can't
-    meet in person - get in touch if you'd like more information.
+extra_text: The Bexhill local MathsJam events are taking place online, rather than in-person - please get in touch if you'd like more information.
 links:
     twitter:
         text: '@BexhillMathsjam'
