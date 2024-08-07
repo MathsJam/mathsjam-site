@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: true
+lockdown: false
 city_name: Greenwich
 jam_name: Greenwich MathsJam
 email: greenwich@mathsjam.com
@@ -20,7 +20,7 @@ hiatus_months:
     - 2019-07
     - 2019-08
     - 2019-11
-hiatus: false
+hiatus: true
 links:
     twitter:
         text: '@GREMathsJam'
