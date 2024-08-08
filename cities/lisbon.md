@@ -20,7 +20,7 @@ hiatus_months:
     - 2018-10
 jam_date_rule: third Friday
 start_time: 6pm
-extra_text: "We do not always meet on a regular date - please contact the organiser to find out when the next Jam will be."
+extra_text: "We do not always meet on a regular date, and the information above may be incorrect - please contact the organiser to find out when the next Jam will be."
 poster_text: |-
     Uma oportunidade mensal para entusiastas de
     matemática confessados se juntarem num bar
