@@ -18,7 +18,7 @@ location:
 hiatus: false
 hiatus_months:
     - 2018-10
-jam_date_rule: third Friday
+jam_date_rule: second-to-last Friday
 start_time: 6pm
 extra_text: "We do not always meet on a regular date, and the information above may be incorrect - please contact the organiser to find out when the next Jam will be."
 poster_text: |-
