@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: true
+lockdown: false
 city_name: Winnipeg MB
 jam_name: Winnipeg MathsJam
 email: winnipeg@mathsjam.com
@@ -14,7 +14,7 @@ location:
     url: https://tonyromas.com/location/pembina/
     lon: -97.149884
     lat: 49.835410
-hiatus: false
+hiatus: true
 jam_date_rule: second-last Monday
 december_jam_date_rule: third-last Monday
 hiatus_months:
