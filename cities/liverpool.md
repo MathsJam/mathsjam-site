@@ -1,6 +1,6 @@
 ---
 layout: city
-lockdown: true
+lockdown: false
 city_name: Liverpool
 jam_name: Liverpool MathsJam
 email: liverpool@mathsjam.com
@@ -14,7 +14,7 @@ location:
     url: http://theblackburneliverpool.com/
     lon: -2.9684911
     lat: 53.3995948
-hiatus: false
+hiatus: true
 links:
     twitter:
         text: '@LPLMathsJam'
