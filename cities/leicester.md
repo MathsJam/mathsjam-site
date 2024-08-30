@@ -16,6 +16,6 @@ location:
     lat: 52.6246321
 hiatus: false
 hiatus_months:
-  - 2024-08
+  - 2024-09
 
 ---
