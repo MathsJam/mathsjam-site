@@ -9,11 +9,11 @@ organiser:
     email: london@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Hamilton Hall
-    description: ', Liverpool Street Station'
-    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/london/hamilton-hall-city-of-london
-    lon: -0.08096713024599711
-    lat: 51.517652339287615
+    pub_name: King's Arms
+    description: ', Bishopsgate'
+    url: https://www.greeneking.co.uk/pubs/greater-london/kings-arms/find-us
+    lon: -0.0960311
+    lat: 51.5122643
 hiatus: false
 hiatus_months:
     - 2020-03
