@@ -9,7 +9,7 @@ organiser:
     email: london@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: King's Arm
+    pub_name: King's Arms
     description: ', Bishopsgate'
     url: https://www.greeneking.co.uk/pubs/greater-london/kings-arms/find-us
     lon: -0.0960311
