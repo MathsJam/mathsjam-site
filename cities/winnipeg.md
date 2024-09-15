@@ -9,17 +9,16 @@ organiser:
     email: winnipeg@mathsjam.com
 location:
     group: north-america
-    pub_name: Tony Roma's
-    description: ', 1500 Pembina Hwy'
-    url: https://tonyromas.com/location/pembina/
-    lon: -97.149884
-    lat: 49.835410
-hiatus: true
-jam_date_rule: second-last Monday
-december_jam_date_rule: third-last Monday
+    pub_name: "Mr Mike's"
+    description: ' on Kenaston Boulevard (meet in the lounge)'
+    url: https://mrmikes.ca/locations/winnipeg-mb/
+    lon: -97.1989828
+    lat: 49.8214607
+hiatus: false
 hiatus_months:
     - 2019-07
     - 2019-08
+start_time: 4pm until about 6/6.30pm
 links:
     twitter:
         text: '@WPGMathJam'
