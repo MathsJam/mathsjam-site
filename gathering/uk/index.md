@@ -13,6 +13,6 @@ The next UK Gathering will take place on **2<sup>nd</sup> - 3<sup>rd</sup> Novem
 
 Note that all participants must be 18 or over.
 
-The UK Gathering in 2023 took place on **11<sup>th</sup> - 12<sup>th</sup> November**, and photos and slides from the event are now available in [the archive](archive). <a href="https://docs.google.com/forms/d/e/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/viewform?usp=sf_link">Join our mailing list</a>, or follow <strong>@BigMathsJam</strong> [on Twitter](https://www.twitter.com/bigmathsjam) or [on Mastodon](https://mathstodon.xyz/@bigmathsjam) for details of future events.
+The UK Gathering in 2023 took place on **11<sup>th</sup> - 12<sup>th</sup> November**, and photos and slides from the event are now available in [the archive](archive). <a href="https://c5dd5172.sibforms.com/serve/MUIFAFZqfKRBZSCzMNrzq3YjcQnPNy3DbFHLPInzBFpsf-mXZvTWzIx6jKMedQbdYDy7xL5jUAyLx7dA0yCzXwrZgGq0SydXFFqKkhppVRksaOJF400-5u3qAenMO1TTebODlo6JLIqSwlwuVuggjBgSkF7EugjHI5EpkVLQtH9aVppq1fHe5hBH4GO1aWwlVnhA2DqWiqShsEbY">Join our mailing list</a>, or follow <strong>@BigMathsJam</strong> [on Twitter](https://www.twitter.com/bigmathsjam) or [on Mastodon](https://mathstodon.xyz/@bigmathsjam) for details of future events.
 
 The talk slides and descriptions from past events are collated in [the archive](archive).
