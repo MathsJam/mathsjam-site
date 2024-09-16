@@ -467,6 +467,15 @@ body.gathering nav#sidebar .home h1 {
     border-color: black;  
 }
 
+#archive-years {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,8em);
+    list-style: none;
+    gap: 1em 2em;
+    padding-left: 0;
+    justify-content: center;
+}
+
 html {
   scroll-behavior: smooth;
 }
