@@ -14,7 +14,7 @@ The cost of a **full weekend ticket** is **£190** (single occupancy) or **£155
 
 **Remote attendance tickets** are available for **£20**, and include online access to the livestream of the event, access to the [Virtual Yarnfield gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield) during the weekend of the event, and any other parts of the event we're able to make accessible remotely. For more information, see the [remote attendance page]({{site.url}}/gathering/uk/plan-your-visit/remote).
 
-On all Gathering tickets, there are discounts of **10% for early-bird booking** (automatically applied until 14th September) and **10% for unwaged or low-income participants**, using the code 'unwaged'. If you would like to attend MathsJam but would be unable to cover all the costs yourself, we may have some funding available to support you. If this is the case, please [complete this form](https://forms.gle/VnwHJLg53P5cJMfy9) and we can contact you about how we can help.
+On all Gathering tickets, there are discounts of ~~10% for early-bird booking~~ (ended 14th September) and **10% for unwaged or low-income participants**, using the code 'unwaged'. If you would like to attend MathsJam but would be unable to cover all the costs yourself, we may have some funding available to support you. If this is the case, please [complete this form](https://forms.gle/VnwHJLg53P5cJMfy9) and we can contact you about how we can help.
 
 Additional nights of accommodation (for Friday and Sunday night) may be added to your booking, at a cost of £70 (single occupancy) or £60 (per person sharing). An additional meal (dinner on Friday or Sunday evening) may be added for £10. Discounts are not available on these additional nights/meals.
 
