@@ -16,4 +16,6 @@ The site has been designed to satisfy the WCAG 2.2 criteria at AA level.
 
 The diagrams in the page header are inspired by [the book _Groups_, by Georges Papy](https://aperiodical.com/2016/02/maths-object-groups-by-georges-papy/).
 
+The photo used in the header of the Annual Gathering pages was taken by Steve Kirkby, used with permission.
+
 Report any issues with this site either to Katie or [on our GitHub repository](https://github.com/MathsJam/mathsjam-site/).
