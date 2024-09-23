@@ -221,7 +221,6 @@ nav--sidebar-link-colour: var(--dark-link-colour);
 }
 #sidebar li.mathstodon {
     --sidebar-background-hsl: var(--hsl-mathstodon);
-    --sidebar-link-colour: var(--dark-link-colour);
 }
 
 .city-list li.hiatus a {
