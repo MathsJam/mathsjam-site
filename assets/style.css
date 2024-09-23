@@ -25,8 +25,8 @@
     --hsl-3: 213, 88%, 26%;
     --hsl-4: 189, 100%, 39%;
     --hsl-5: 54, 95%, 57%;
-    --hsl-twitter: 196, 100%, 35.3%;
-    --hsl-mathstodon: 240, 100%, 69.4%;
+    --hsl-twitter: 0, 0%, 0%;
+    --hsl-mathstodon: 240, 100%, 41.6%;
 }
 
 html {
@@ -218,7 +218,6 @@ nav--sidebar-link-colour: var(--dark-link-colour);
 
 #sidebar li.twitter {
     --sidebar-background-hsl: var(--hsl-twitter);
-    --sidebar-link-colour: var(--dark-link-colour);
 }
 #sidebar li.mathstodon {
     --sidebar-background-hsl: var(--hsl-mathstodon);
