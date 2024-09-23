@@ -16,6 +16,7 @@ location:
     lat: 51.2234707
 jam_date_rule: last Wednesday
 december_jam_date_rule: second-last Wednesday
+extra_text: "For National Science day on 24th November 2024, instead of our usual November Jam we'll be running a MathsJam from 10 am to 2 pm in the Antwerp Zoo. For more information, contact the organisers using the details above."
 hiatus: false
 hiatus_months:
     - 2022-12
@@ -26,6 +27,8 @@ hiatus_months:
     - 2019-08
     - 2020-01
     - 2024-03
+    - 2024-09
+    - 2024-11
 changed_dates:
     - 2017-12-19
     - 2018-12-18
