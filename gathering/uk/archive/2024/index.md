@@ -5,7 +5,7 @@ title: MathsJam Gathering 2024
 	
 This is a list of talks which will be given at the 2024 MathsJam Gathering. This list is subject to change, and will be updated after the event with more links and slides where available.
 
-*Please note:* The timings of the sessions have changed slightly from previous years - the final session on Sunday will take place after lunch and finish at 2.30pm. This is in response to feedback from attendees about the sessions starting too early on the Sunday, and this change allows us to fit in the same number of talks without cramming too much in to each session.
+**Please note:** The timings of the sessions have changed slightly from previous years - **the final session on Sunday will take place after lunch and finish at 2.30pm**. This is in response to feedback from attendees about the sessions starting too early on the Sunday, and this change allows us to fit in the same number of talks without cramming too much in to each session.
 
 The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2024/tables) for the 2024 gathering will be updated here.
 
@@ -17,7 +17,7 @@ The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/
 Introduction and welcome
 
 #### James Grime: Five Dice Torture
-Solve this five dice puzzle to be set free
+Solve this five dice puzzle to be set free!
 
 #### Adam Atkinson: Second differences, and fixing things with your ears.
 Sometimes listening to your customers can help fix their problems. Not to what they _say_, necessarily.
@@ -40,7 +40,7 @@ In 2019 I missed my first ever MathsJam, the reason, an opportunity to travel to
 There are a lot of lines on a standard 400m running track, bounding the lanes and marking the start and finish of different events. The finish line is always the same straight line. The start lines are more interesting. Some of them are staggered to account for the difference in lap length depending on the lane, others are curves. What is the mathematical description of these curves? Do the same curves occur in other places?
 
 #### Nicole Cozens: Would you rather
-Using mechanics to solve a famous student conundrum
+Using mechanics to solve a famous student conundrum.
 
 #### Michael Gibson: And Ninthly
 Having once made the mistake of asking for a pizza to be cut into nine pieces, with hilarious consequences, I have since considered various methods of cutting a pizza equally into ninths. I will share some of these with you in this talk (methods, that is, not slices of pizza).
@@ -70,11 +70,11 @@ The ‘One great man’ theory suggests that history can be explained by the imp
 #### Sam Hansen: A Narrative Structure Game
 In this talk Sam will present a new game where the audience will be asked to match narrative structures to a part of mathematical life
 
-### Katie Steckles: Group Theory and Rubik's Cube
+#### Katie Steckles: Group Theory and Rubik's Cube
 Katie will share some fun things she's been playing with recently to do with the group theory behind Rubik's cube. (Don't worry if you don't know what group theory is - an explanation will be included!)
 
 #### Bruce and Hamish (Edinburgh Mathjam Mathscot): SET Square
-How to make a SET magic square
+How to make a SET magic square.
 
 #### Christian Lawson-Perfect: Please don't overthink this (I already have)
 One of the beautiful aspects of maths is finding unexpected complexity in simple systems. I'll let you decide if this is one of those times.
@@ -98,7 +98,7 @@ There are a number of different ways to compute sines and cosines, but most of t
 An ultra-quick overview of some beautiful, compelling -and gloriously weird- films about maths and mathematicians. And examples of mathematically-themed literature which haven't yet, but should be, made into films...
 
 #### Matthew Scroggs: The Databet
-I made an interesting dataset that resembles the alphabet
+I made an interesting dataset that resembles the alphabet!
 
 ### Session 2b - 10:40-11:20: 
 
@@ -142,7 +142,7 @@ I try to compare packs of tomatoes in a Californian supermarket and get increasi
 The Pythagorean identity a²+b²=c² is almost universally remembered even by those who have left geometry. But there is another more surprising property lurking in a subset of these triangles, those with integer sides.
 
 #### Ben Handley: An irrational question
-A simple, if slightly unsatisfying, answer to a surprisingly hard question
+A simple, if slightly unsatisfying, answer to a surprisingly hard question.
 
 #### Hannah Gray: More Dutch Mathematical Tourism
 Another reason to visit the Netherlands - the Leiden wall equations!
