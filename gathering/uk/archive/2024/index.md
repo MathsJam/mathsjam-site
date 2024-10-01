@@ -39,11 +39,11 @@ In 2019 I missed my first ever MathsJam, the reason, an opportunity to travel to
 #### Mats Vermeeren: Athletics track geometry
 There are a lot of lines on a standard 400m running track, bounding the lanes and marking the start and finish of different events. The finish line is always the same straight line. The start lines are more interesting. Some of them are staggered to account for the difference in lap length depending on the lane, others are curves. What is the mathematical description of these curves? Do the same curves occur in other places?
 
-#### Michael Gibson: And Ninthly
-Having once made the mistake of asking for a pizza to be cut into nine pieces, with hilarious consequences, I have since considered various methods of cutting a pizza equally into ninths. I will share some of these with you in this talk (methods, that is, not slices of pizza).
-
 #### Nicole Cozens: Would you rather
 Using mechanics to solve a famous student conundrum
+
+#### Michael Gibson: And Ninthly
+Having once made the mistake of asking for a pizza to be cut into nine pieces, with hilarious consequences, I have since considered various methods of cutting a pizza equally into ninths. I will share some of these with you in this talk (methods, that is, not slices of pizza).
 
 ### Session 1c - 15:50-16:30: 
 
