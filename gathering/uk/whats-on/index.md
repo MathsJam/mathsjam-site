@@ -31,9 +31,9 @@ The provisional timings for the weekend are as follows (note that these are unco
 **Sunday**
 
 - 07:00-08:30 Breakfast
-- 09:30-12:00 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
-- 12:00-13:00 Lunch
-- 13:00-14:30 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
+- 09:30-12:30 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
+- 12:30-13:30 Lunch
+- 13:30-14:30 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
 - There are no further scheduled activities, but the room stays open until 17:00 and many people stay on the Sunday night.
 
 Throughout Saturday and Sunday we also have [the bakeoff, competition competition and tables at the back of the room]({{site.url}}/gathering/uk/whats-on/activities).
