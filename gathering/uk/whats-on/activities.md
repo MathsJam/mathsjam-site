@@ -28,7 +28,11 @@ The rules are:
 
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
 
-Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
+Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled.
+
+Remote attendees are also welcome to create mathematical baked goods, and your entries can be judged in the second and third categories if you send a photo/video to [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com) for us to show to the judges (by the first coffee break on Sunday).
+
+If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
 
 <h2 id="compcomp">MathsJam Competition Competition</h2>
 
@@ -54,6 +58,10 @@ There will be three prizes for the competition competition:
 
 The judging panel will be chosen randomly from non-competition-entering MathsJam attendees.
 
+Remote attendees will also be able to enter the Competition Competition: email your PDF to [compcomp@mathsjam.com](mailto:compcomp@mathsjam.com) before **30th October** and we can print copies to take along.
+
+Remote attendees can also enter the competitions within the Competition Competition: we'll take photos of each of the competition entry sheets, and place a link in the Gather space (on the appropriate table). There will be a form to submit your entries, and and any remote entries received will be actualised (by a skilled actualiser with a pen) and entered into the competition before they close.
+
 <h2 id="jamjam">MathsJamJam</h2>
 
 ![A large room is filled with people, mostly facing away from the camera towards the front of the space, where a selection of musicians are playing instruments. The people include a range of ages and genders, and a large double bass is visible in the centre](../../images/Jam.png)
@@ -70,6 +78,8 @@ Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAO
 
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
 
+Remote attendees will be able to watch a livestream of the MathsJam Jam (tech permitting) and will also be able to sing along from home (we can't stop you, and wouldn't want to).
+
 <h2 id="tables">Tables at the back</h2>
 
 At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
@@ -78,5 +88,7 @@ At the back of the room, we place two tables - one is for things you're happy fo
 ![Copies of Chalkdust magazine on a table](../../images/TablesAtBack2.jpg)
 
 2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
+
+There will be a remote analogue of the Tables at the Back of the Room in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.

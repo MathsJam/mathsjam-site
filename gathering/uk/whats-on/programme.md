@@ -58,4 +58,5 @@ Tables are run by MathsJam attendees. Full information on how to submit a table 
 - you'll need to bring any necessary instructions, equipment and materials for attendees to learn a new thing, make something or do something fun
 - you'll get a one-minute talk slot during the day in a special lightning session to explain/advertise your activity.
 
+We will add details of the Saturday Night tables to the website, and include (where possible) ways for remote attendees to recreate the activities themselves at home.
 

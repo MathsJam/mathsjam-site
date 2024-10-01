@@ -19,8 +19,8 @@ Introduction and welcome
 #### James Grime: Five Dice Torture
 Solve this five dice puzzle to be set free!
 
-#### Adam Atkinson: Second differences, and fixing things with your ears.
-Sometimes listening to your customers can help fix their problems. Not to what they _say_, necessarily.
+#### Gavan Fantom: So how does your calculator do trigonometry, anyway?
+There are a number of different ways to compute sines and cosines, but most of them are intensive in their use of computational resources. We take a look at an approach that can be done without multiplication or division, as found in many calculators and low power computers.
 
 #### Kirsty Fish: Who wants to be a trillionaire?
 A layperson’s guide to trillionairism and how it’s something we can all achieve. Kind of. 
@@ -91,8 +91,8 @@ An interpretive dance exploration of direction and symmetry.
 #### David Lyford-Tilley: It's a knockout! Stats in single elimination contests 
 From the Olympics to game shows, single-elimination is a common format - but it can lead to some surprising outcomes! I will share my experience running the largest single elimination tournament in history and discuss how mathematics helped make it possible, and what can be learned from it.
 
-#### Gavan Fantom: So how does your calculator do trigonometry, anyway?
-There are a number of different ways to compute sines and cosines, but most of them are intensive in their use of computational resources. We take a look at an approach that can be done without multiplication or division, as found in many calculators and low power computers.
+#### Adam Atkinson: Second differences, and fixing things with your ears.
+Sometimes listening to your customers can help fix their problems. Not to what they _say_, necessarily.
 
 #### Karen Harris : Maths on Film
 An ultra-quick overview of some beautiful, compelling -and gloriously weird- films about maths and mathematicians. And examples of mathematically-themed literature which haven't yet, but should be, made into films...
