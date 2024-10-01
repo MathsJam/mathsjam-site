@@ -59,8 +59,8 @@ Lindenmayer system is a formal grammar that allows you to create realistic 3-D m
 #### Clare Wallace: Statis-skittle Analysis
 Famously, Skittles claim that every packet is unique. We know that's not true - but can we say anthing more? After a year of encouraging people to count and eat their Skittles, I have some statis-skittle claims to make (and some more Skittles to eat)
 
-#### Robin Houston: A smorgasbord of single-angle polyhedra
-A few months ago, Matt Parker made a video where he asked viewers to send in examples of single-angle polyhedra: polyhedra whose adjacent faces meet at right-angles, except on one edge. And they did! This talk is a whistle-stop tour of the examples people sent in (and a call for more).
+#### Robin Houston and John Read - Polyhedra inspired by a Stand-up Maths video
+A few months ago, Matt Parker made a video about Robin's newly-discovered single-angle polyhedron (one whose adjacent faces meet at right-angles, except on one edge). As well as inspiring viewers to send in their own examples of single-angle polyhedra, it also inspired John to play around with generating polyhedra within a unit sphere using some terrible Python code.
 
 ### Session 1d - 17:00-17:45: 
 
