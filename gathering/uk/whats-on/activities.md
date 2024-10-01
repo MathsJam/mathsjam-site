@@ -30,7 +30,9 @@ As with all the competitions, when you submit your entry, please inform an organ
 
 Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled.
 
-Remote attendees are also welcome to create mathematical baked goods, and your entries can be judged in the second and third categories if you send a photo/video to [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com) for us to show to the judges (by the first coffee break on Sunday). If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
+Remote attendees are also welcome to create mathematical baked goods, and your entries can be judged in the second and third categories if you send a photo/video to [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com) for us to show to the judges (by the first coffee break on Sunday).
+
+If you have any questions about the bake-off, please email [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com).
 
 <h2 id="compcomp">MathsJam Competition Competition</h2>
 
@@ -58,7 +60,7 @@ The judging panel will be chosen randomly from non-competition-entering MathsJam
 
 Remote attendees will also be able to enter the Competition Competition: email your PDF to [compcomp@mathsjam.com](mailto:compcomp@mathsjam.com) before **30th October** and we can print copies to take along.
 
-Remote attendees can also enter the competitions with in the Competition Competition: we'll take photos of each of the competition entry sheets, and place a link in the Gather space (on the appropriate table). There will be a form to submit your entries, and and any remote entries received will be actualised (by a skilled actualiser with a pen) and entered into the competition before they close.
+Remote attendees can also enter the competitions within the Competition Competition: we'll take photos of each of the competition entry sheets, and place a link in the Gather space (on the appropriate table). There will be a form to submit your entries, and and any remote entries received will be actualised (by a skilled actualiser with a pen) and entered into the competition before they close.
 
 <h2 id="jamjam">MathsJamJam</h2>
 
@@ -76,7 +78,7 @@ Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAO
 
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
 
-Remote attendees will be able to watch a livestream of the MathsJam Jam (tech permitting) and will also be able to sing along from home (we can't stop you).
+Remote attendees will be able to watch a livestream of the MathsJam Jam (tech permitting) and will also be able to sing along from home (we can't stop you, and wouldn't want to).
 
 <h2 id="tables">Tables at the back</h2>
 
