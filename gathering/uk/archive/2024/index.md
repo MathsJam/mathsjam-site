@@ -5,7 +5,7 @@ title: MathsJam Gathering 2024
 	
 This is a list of talks which will be given at the 2024 MathsJam Gathering. This list is subject to change, and will be updated after the event with more links and slides where available.
 
-**Please note:** The timings of the sessions have changed slightly from previous years - **the final session on Sunday will take place after lunch and finish at 2.30pm**. This is in response to feedback from attendees about the sessions starting too early on the Sunday, and this change allows us to fit in the same number of talks without cramming too much in to each session.
+**PLEASE NOTE:** The timings of the sessions have changed slightly from previous years - **the final session on Sunday will take place after lunch and finish at 2.30pm**. This is in response to feedback from attendees about the sessions starting too early on the Sunday, and this change allows us to fit in the same number of talks without cramming too much in to each session.
 
 The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2024/tables) for the 2024 gathering will be updated here.
 
