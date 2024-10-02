@@ -17,6 +17,8 @@ location:
 hiatus: false
 hiatus_months:
     - 2020-03
+changed_dates:
+    - 2024-11-12
 links:
     twitter:
         text: '@MCRMathsJam'
