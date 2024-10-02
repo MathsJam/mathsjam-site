@@ -19,7 +19,7 @@ hiatus_months:
     - 2020-03
 changed_dates:
     - 2024-11-12
-extra_text: "In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>."
+extra_text: In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>.
 links:
     twitter:
         text: '@MCRMathsJam'
