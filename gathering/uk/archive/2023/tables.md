@@ -19,7 +19,7 @@ Alex is bringing some games that should be of interest to maths fans. They all t
 
 ### Drawing Hacks - Katie Steckles and Andrew Taylor
 
-We'll be sharing our favourite tips for how to easily draw mathematical shapes and objects, and adding them to [this padlet](https://padlet.com/stecks4/mathsjam-table-drawing-hacks-9rve9b3p6v5wk2vh) (where you can also contribute your own, which we'll recreate and put up in the room). All the hacks will be collated and used as the basis for a post on [Aperiodical.com](https://aperiodical.com).
+We'll be sharing our favourite tips for how to easily draw mathematical shapes and objects, and collecting them to and use as the basis for [this post on Aperiodical.com](https://aperiodical.com/2023/11/mathematical-drawing-hacks/).
  
 ### Your local maths history - Peter Rowlett, Tom Briggs and Katie Steckles
 
