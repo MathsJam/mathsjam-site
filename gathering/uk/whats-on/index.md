@@ -17,14 +17,14 @@ The provisional timings for the weekend are as follows (note that these are unco
 
 **Friday**
 
-- 19:00 Dinner
+- 18:30-19:30 Dinner
 - There are no scheduled activities on Friday evening, but the bar will be open and there will be lots of people around to do fun maths with.
 
 **Saturday**
 
 - 12:00-13:00 Lunch
 - 13:30-18:00 [Talk sessions]({{site.url}}/gathering/uk/whats-on/programme)
-- 19:00 Dinner
+- 18:30-19:30 Dinner
 - 20:00-21:00 and onwards [Saturday night tables]({{site.url}}/gathering/uk/whats-on/#tables)
 - 21:00 onwards [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities/#jamjam)
 
