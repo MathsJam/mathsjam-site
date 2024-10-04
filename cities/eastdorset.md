@@ -21,12 +21,13 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2021-12-21
+    - 2024-11-12
 start_time: 7pm in the evening
 links:
     twitter:
         text: '@EastDorMathsJam'
         url: https://twitter.com/EastDorMathsJam
-extra_text: "In December 2023, instead of meeting in the pub we're having a private event on 19th December - contact the organisers for more information."
+extra_text: In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>.
 
 ---
 
