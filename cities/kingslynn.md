@@ -19,6 +19,9 @@ hiatus_months:
     - 2022-08
     - 2023-07
     - 2024-02
+changed_dates:
+    - 2024-11-12
+extra_text: In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>.
 links:
     twitter:
         text: '@KgsLynnMathsJam'
