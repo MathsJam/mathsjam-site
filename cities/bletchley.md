@@ -15,6 +15,9 @@ location:
     lon: -0.762622
     lat: 52.038803
 hiatus: false
+changed_dates:
+    - 2024-11-12
+extra_text: In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>.
 links:
     twitter:
         text: '@BletchleyJam'
