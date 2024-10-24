@@ -29,7 +29,7 @@ Cable ties, duct tape, velcro etc are all great and useful tools to have availab
 This is not a workshop about decorative knotwork, or the mathematics of knot theory. Cordage and things-to-tie-cord-to will be provided, but feel free to bring your own if you like. For anyone joining in remotely, you'll need two 30-100cm lengths of 3-7mm cord, preferably in different colours, plus a stick/pen/karabiner to tie them around. Paracord is ideal, or shoelaces are fine.
 
 [Animated Knots website](https://www.animatedknots.com/)
-[PDF list of knots and videos of how to tie them](https://www.mathsjam.com/gathering/uk/archive/2024/assets/miles-knots.pdf)
+[PDF list of knots and videos of how to tie them]({{site.url}}/gathering/uk/archive/2024/assets/miles-knots.pdf)
 
 ### E Making fun mathematical origami shapes (Francis Hunt)
 
@@ -41,7 +41,7 @@ An opportunity to make fun mathematical origami shapes, with materials and some 
 
 In this table, we will present a collection of problems involving frogs hopping to and fro. Use the PDF below to try the puzzles for yourself!
 
-[Pedro Freitas - Frog Problems](https://www.mathsjam.com/gathering/uk/archive/2024/assets/Pedro%20Freitas%20-%20Frog%20Problems.pdf)
+[Pedro Freitas - Frog Problems]({{site.url}}/gathering/uk/archive/2024/assets/PedroFreitas-FrogProblems.pdf)
 
 ### G Mind Games: Your Brain on Puzzles	(Liam Collins-Jones)
 
