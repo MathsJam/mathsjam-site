@@ -1,0 +1,70 @@
+# Build the site and upload it to mathsjam.com
+
+name: Build development branch
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ '*' ]
+  pull_request_target:
+    branches: [ '*' ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    if: github.repository == 'MathsJam/mathsjam-site'
+
+    steps:
+      - name: Checkout the private source
+        uses: actions/checkout@v3
+        with:
+          repository: katiesteckles/mathsjam-private
+          path: .
+          token: ${{ secrets.PAT_TOKEN }}
+      - name: Checkout the public source
+        uses: actions/checkout@v3
+        with:
+          repository: mathsjam/mathsjam-site
+          path: src/content
+
+      - name: Download spress
+        run: |
+          wget https://github.com/spress/spress/releases/download/v3.0.0/spress.phar
+          chmod +x spress.phar
+
+      - name: Copy extra resources into the src/content folder
+        uses: MadaraUchiha/copy-action@862ab14367a7140df59564b22ef3502e2b163b4a
+        with:
+          # Source file
+          source: resources
+          # Target file
+          target: src/content/resources
+
+      - name: Build the site
+        run: ./spress.phar site:build
+
+      - name: Move built files to www
+        run: |
+          mv build www
+          
+      - name: Copy the files to mathsjam.com by SSH
+        uses: betanzos/scp-upload@v1
+        with:
+          # SSH host
+          host: ${{ secrets.DEV_SSH_HOST }}
+          # SSH user
+          username: ${{ secrets.DEV_SSH_USER }}
+          # SSH port
+          port: ${{ secrets.DEV_SSH_PORT }}
+          # SSH key
+          key: ${{ secrets.SSH_KEY }}
+          # Local file path
+          source: www
+          # Recursive copy
+          recursive: 'true'
+          # Remote directory
+          remote_dir: '${{ secrets.DEV_OUTPUT_PATH }}/${{ github.ref_name }}'
