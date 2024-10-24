@@ -20,13 +20,13 @@ jobs:
 
     steps:
       - name: Checkout the private source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.2
         with:
           repository: katiesteckles/mathsjam-private
           path: .
           token: ${{ secrets.PAT_TOKEN }}
       - name: Checkout the public source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.2
         with:
           repository: mathsjam/mathsjam-site
           path: src/content
@@ -44,12 +44,16 @@ jobs:
           # Target file
           target: src/content/resources
 
+      - name: Set the root URL
+        run: |
+          sed -i "s#url: ''#url: '/secret/mathsjam/${{ github.ref_name }}'#" config.yml
+          
       - name: Build the site
         run: ./spress.phar site:build
 
       - name: Move built files to www
         run: |
-          mv build www
+          mv build ${{ github.ref_name }}
           
       - name: Copy the files to mathsjam.com by SSH
         uses: betanzos/scp-upload@v1
@@ -63,8 +67,8 @@ jobs:
           # SSH key
           key: ${{ secrets.SSH_KEY }}
           # Local file path
-          source: www
+          source: '${{ github.ref_name }}'
           # Recursive copy
           recursive: 'true'
           # Remote directory
-          remote_dir: '${{ secrets.DEV_OUTPUT_PATH }}/${{ github.ref_name }}'
+          remote_dir: '${{ secrets.DEV_OUTPUT_PATH }}'
