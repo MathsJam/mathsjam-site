@@ -3,6 +3,8 @@ layout: gathering
 title: Programme
 body_class: whats-on
 minimenu:
+  - path: '{{site.url}}/gathering/uk/whats-on/'
+    label: 'Timings'
   - path: '#schedule'
     label: 'Schedule of Talks'
   - path: '#talking'
@@ -11,7 +13,10 @@ minimenu:
     label: 'Saturday Night Tables'
 ---
 
+
 <h2 id="schedule">Schedule of talks</h2>
+
+<a href="{{site.url}}/gathering/uk/archive/2024" class="small-to-action">Full programme of talks for 2024</a>
 
 On Saturday afternoon and Sunday morning we have a schedule of five-minute talks. Past talks have included everything from people sharing a mathematical phone game they enjoy, to the ways they made their wedding more mathematical, as well as puzzles, weird mathematical concepts and observations of real-world things containing interesting maths.
 
@@ -30,9 +35,9 @@ Some examples of previous talks can be found on YouTube:
 * [Miles's talk from 2017 about climbing mountains in Kyrgyzstan](https://www.youtube.com/watch?v=0bv6VovSmQ4)
 * [Matt's talk from 2016 about Letterwise Magic Squares](https://www.youtube.com/watch?v=cZ1W1vbuYuQ)
 
-The programme of talk sessions will be posted here once it's available.
-
 <h2 id="talking">Giving a talk</h2>
+
+Submissions for talks for 2024 are now closed, and everyone speaking should have been notified.
 
 You can give a talk to show us something you think is interesting. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that you think are neat, cool, weird, surprising, or that simply intrigue you.
 
@@ -47,6 +52,8 @@ Full information on how to submit a talk will be given when you buy your ticket,
 
 <h2 id="tables">Saturday Night Tables</h2>
 
+<a href="{{site.url}}/gathering/uk/archive/2024/tables" class="small-to-action">Full list of Saturday Night Tables for 2024</a>
+
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
 
 ![A Saturday night table. An Enigma machine sits on the table, surrounded by craft materials and paper. In the background, a person is holding a rotor from the Enigma machine.](../../images/SatTables2.jpeg)
@@ -58,5 +65,4 @@ Tables are run by MathsJam attendees. Full information on how to submit a table 
 - you'll need to bring any necessary instructions, equipment and materials for attendees to learn a new thing, make something or do something fun
 - you'll get a one-minute talk slot during the day in a special lightning session to explain/advertise your activity.
 
-We will add details of the Saturday Night tables to the website, and include (where possible) ways for remote attendees to recreate the activities themselves at home.
 
