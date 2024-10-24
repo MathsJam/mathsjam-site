@@ -3,8 +3,6 @@ layout: gathering
 title: MathsJam UK Gathering
 ---
 
-<a href="https://mjgathering2024.eventbrite.com" class="call-to-action" target="_blank">Book for the Gathering</a>
-
 The MathsJam UK Gathering ('Big MathsJam') is an annual event for maths enthusiasts to get together and share recreational maths, puzzles, games and anything else they think is cool or interesting. It takes place across a weekend, in a conference venue in central England, and is organised by Colin Wright. Attendees include maths fans, [monthly MathsJam](https://mathsjam.com) attendees and organisers, and anyone else who wants to join us. Regardless of your background, education level or ability, all you need is an interest in and enthusiasm for maths of all types.
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZM465bN_IF8?si=gQeDCkQmdjqMhCx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width:100%"></iframe></div>
