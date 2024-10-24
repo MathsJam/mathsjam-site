@@ -9,10 +9,10 @@ For the Saturday evening session at MathsJam, attendees are running activities o
 
 There will be disconcerting objects, to examine and (optionally) enjoy, and you can bring your own favourites to share. We'll also play the Kazakhstani national board game of Togyzkumalak.
 
-[Togyzkumalak, on Wikipedia](https://en.m.wikipedia.org/wiki/Togyzkumalak)
-[Play Togyzkumalak online, on PlayStrategy.org](https://playstrategy.org/variant/togyzkumalak)
-[Play Togyzkumalak, on playok.com](https://www.playok.com/en/togyzkumalak/)
-[Version of Togyzkumalak for the PlayDate console](https://fnc12.itch.io/qumalak-playdate)
+- [Togyzkumalak, on Wikipedia](https://en.m.wikipedia.org/wiki/Togyzkumalak)
+- [Play Togyzkumalak online, on PlayStrategy.org](https://playstrategy.org/variant/togyzkumalak)
+- [Play Togyzkumalak, on playok.com](https://www.playok.com/en/togyzkumalak/)
+- [Version of Togyzkumalak for the PlayDate console](https://fnc12.itch.io/qumalak-playdate)
 
 ### B Circle Theorem Badge Making (Alison Kiddle)
 
@@ -28,20 +28,20 @@ Cable ties, duct tape, velcro etc are all great and useful tools to have availab
 
 This is not a workshop about decorative knotwork, or the mathematics of knot theory. Cordage and things-to-tie-cord-to will be provided, but feel free to bring your own if you like. For anyone joining in remotely, you'll need two 30-100cm lengths of 3-7mm cord, preferably in different colours, plus a stick/pen/karabiner to tie them around. Paracord is ideal, or shoelaces are fine.
 
-[Animated Knots website](https://www.animatedknots.com/)
-[PDF list of knots and videos of how to tie them]({{site.url}}/gathering/uk/archive/2024/assets/miles-knots.pdf)
+- [Animated Knots website](https://www.animatedknots.com/)
+- [PDF list of knots and videos of how to tie them]({{site.url}}/gathering/uk/archive/2024/assets/miles-knots.pdf)
 
 ### E Making fun mathematical origami shapes (Francis Hunt)
 
 An opportunity to make fun mathematical origami shapes, with materials and some ideas provided.
 
-[Sonobe Unit origami instructions](https://gurmeet.net/origami/modular-origami-getting-started-with-sonobe-units/)
+- [Sonobe Unit origami instructions](https://gurmeet.net/origami/modular-origami-getting-started-with-sonobe-units/)
 
 ### F Frog problems (Pedro Freitas)
 
 In this table, we will present a collection of problems involving frogs hopping to and fro. Use the PDF below to try the puzzles for yourself!
 
-[Pedro Freitas - Frog Problems]({{site.url}}/gathering/uk/archive/2024/assets/PedroFreitas-FrogProblems.pdf)
+- [Pedro Freitas - Frog Problems]({{site.url}}/gathering/uk/archive/2024/assets/PedroFreitas-FrogProblems.pdf)
 
 ### G Mind Games: Your Brain on Puzzles	(Liam Collins-Jones)
 
