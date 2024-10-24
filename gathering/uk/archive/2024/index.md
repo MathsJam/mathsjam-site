@@ -104,7 +104,7 @@ I made an interesting dataset that resembles the alphabet!
 ### Session 2b - 10:40-11:20: 
 
 #### Andrew Taylor: In Defence of IEEE Floating Point Arithmetic
-The way computers do arithmetic has some surprising quirks, including a value called "minus zero" and another that's not equal to itself — but as much fun as it is to dunk on this nonsense, it's all there for a reason. Honest. Let's look at how and why compromising on the normal rules of can actually make computers more useful
+The way computers do arithmetic has some surprising quirks, including a value called "minus zero" and another that's not equal to itself — but as much fun as it is to dunk on this nonsense, it's all there for a reason. Honest. Let's look at how and why compromising on the normal rules of arithmetic can actually make computers more useful
 
 #### Sujata B Sharma: The Curious Case of the Missing Digits
 The Digit Files: Uncovering the patterns and deceptions. What can we learn from digit patterns in different types of data?
