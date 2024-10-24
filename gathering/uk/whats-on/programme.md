@@ -3,7 +3,7 @@ layout: gathering
 title: Programme
 body_class: whats-on
 minimenu:
-  - path: '{{site.url}}/gathering/uk/whats-on/'
+  - path: '../'
     label: 'Timings'
   - path: '#schedule'
     label: 'Schedule of Talks'
