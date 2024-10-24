@@ -14,7 +14,7 @@ location:
     url: https://www.instagram.com/tetraedrot4/
     lon: 7.6859265
     lat: 45.0617996
-hiatus: false
+hiatus: true
 start_time: 7pm
 changed_dates:
     - 2024-05-27
