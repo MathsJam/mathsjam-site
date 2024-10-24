@@ -95,7 +95,7 @@ From the Olympics to game shows, single-elimination is a common format - but it 
 #### Adam Atkinson: Second differences, and fixing things with your ears.
 Sometimes listening to your customers can help fix their problems. Not to what they _say_, necessarily.
 
-#### Karen Harris : Maths on Film
+#### Karen Harris: Maths on Film
 An ultra-quick overview of some beautiful, compelling -and gloriously weird- films about maths and mathematicians. And examples of mathematically-themed literature which haven't yet, but should be, made into films...
 
 #### Matthew Scroggs: The Databet

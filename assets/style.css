@@ -20,7 +20,7 @@
 
     --image-border-colour: hsl(64.6, 52.8%, 48.2%);
 
-    --hsl-1: 135,28%,33%;
+    --hsl-1: 135,28%,33%;\n
     --hsl-2: 197, 78%, 52%;
     --hsl-3: 213, 88%, 26%;
     --hsl-4: 189, 100%, 39%;
@@ -440,6 +440,21 @@ body.gathering nav#sidebar .home h1 {
 
 }
 
+.small-to-action {
+    font-size: 1.5em;
+    margin: auto;
+    display: block;
+    margin: 0.5em auto;
+    padding: 0.5em 0.5em;
+    background-color: hsl(var(--sidebar-background-hsl));
+    color: var(--light-link-colour);
+    border: thick solid transparent;
+    text-align: center;
+    font-family: var(--button-font);
+    width: fit-content;
+
+}
+
 .minimenu {
     display: flex;
     text-align: center;
@@ -459,8 +474,8 @@ body.gathering nav#sidebar .home h1 {
     margin: 0.25em;
 }
 
-.call-to-action:hover, .minimenu a:hover,
-.call-to-action:focus, .minimenu a:focus {
+.call-to-action:hover, .small-to-action:hover, .minimenu a:hover,
+.call-to-action:focus, .small-to-action:focus, .minimenu a:focus {
     background-color: #3c6b48;
     border-color: black;  
 }
