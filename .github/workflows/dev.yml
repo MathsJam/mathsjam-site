@@ -1,15 +1,13 @@
 # Build the site and upload it to mathsjam.com
 
-name: Build mathsjam.com
+name: Build development branch
 
 # Controls when the workflow will run
 on:
   push:
-    branches: [ master, build-action ]
-
-  schedule:
-    # Run every day at 07:41[
-    - cron:  '41 7 * * *'
+    branches: [ '*' ]
+  pull_request_target:
+    branches: [ 'master' ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,13 +20,13 @@ jobs:
 
     steps:
       - name: Checkout the private source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.2
         with:
           repository: katiesteckles/mathsjam-private
           path: .
           token: ${{ secrets.PAT_TOKEN }}
       - name: Checkout the public source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.2
         with:
           repository: mathsjam/mathsjam-site
           path: src/content
@@ -46,28 +44,31 @@ jobs:
           # Target file
           target: src/content/resources
 
+      - name: Set the root URL
+        run: |
+          sed -i "s#url: ''#url: '/secret/mathsjam/${{ github.ref_name }}'#" config.yml
+          
       - name: Build the site
         run: ./spress.phar site:build
 
-      - name: Move built files to www
+      - name: Move built files to the branch name
         run: |
-          mv build www
+          mv build ${{ github.ref_name }}
           
       - name: Copy the files to mathsjam.com by SSH
         uses: betanzos/scp-upload@v1
         with:
           # SSH host
-          host: ${{ secrets.SSH_HOST }}
+          host: ${{ secrets.DEV_SSH_HOST }}
           # SSH user
-          username: ${{ secrets.SSH_USER }}
+          username: ${{ secrets.DEV_SSH_USER }}
           # SSH port
-          port: ${{ secrets.SSH_PORT }}
+          port: ${{ secrets.DEV_SSH_PORT }}
           # SSH key
           key: ${{ secrets.SSH_KEY }}
           # Local file path
-          source: www
+          source: '${{ github.ref_name }}'
           # Recursive copy
           recursive: 'true'
           # Remote directory
-          remote_dir: '~'
-        if: github.ref == 'refs/heads/master'
+          remote_dir: '${{ secrets.DEV_OUTPUT_PATH }}'
