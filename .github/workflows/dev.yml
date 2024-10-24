@@ -7,7 +7,7 @@ on:
   push:
     branches: [ '*' ]
   pull_request_target:
-    branches: [ '*' ]
+    branches: [ 'master' ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -51,7 +51,7 @@ jobs:
       - name: Build the site
         run: ./spress.phar site:build
 
-      - name: Move built files to www
+      - name: Move built files to the branch name
         run: |
           mv build ${{ github.ref_name }}
           
