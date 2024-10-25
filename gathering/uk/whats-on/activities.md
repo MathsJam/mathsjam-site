@@ -66,6 +66,9 @@ Remote attendees can also enter the competitions within the Competition Competit
 
 ![A large room is filled with people, mostly facing away from the camera towards the front of the space, where a selection of musicians are playing instruments. The people include a range of ages and genders, and a large double bass is visible in the centre](../../images/Jam.png)
 
+- [Lyrics and chords for 2024](https://drive.google.com/drive/folders/1YbqTUzZTeVDd9iz7txMxtqpM5tpN8Cst?usp=drive_link)
+- [Spotify playlist of the songs being covered in 2024](https://open.spotify.com/playlist/53GM1kbSyyUjpVgsc6x7sc?si=c7c56fae7b724001)
+
 On the Saturday evening we will gather with our instruments and voices for a singalong of popular songs that we've improved by rewriting them to be about maths.
 
 You're welcome to just come along and listen, and you can join in in any or all of these ways:
