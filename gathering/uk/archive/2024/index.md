@@ -17,8 +17,8 @@ The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/
 #### MathsJam Team: Welcome to MathsJam
 Introduction and welcome
 
-#### James Grime: Five Dice Torture
-Solve this five dice puzzle to be set free!
+#### James Grime: A difficult dice game
+A tricky dice game for us to try!
 
 #### Gavan Fantom: So how does your calculator do trigonometry, anyway?
 There are a number of different ways to compute sines and cosines, but most of them are intensive in their use of computational resources. We take a look at an approach that can be done without multiplication or division, as found in many calculators and low power computers.
