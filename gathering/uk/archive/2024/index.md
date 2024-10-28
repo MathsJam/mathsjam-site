@@ -26,6 +26,13 @@ There are a number of different ways to compute sines and cosines, but most of t
 - [Gavan's slides (PPT)]({{site.url}}/assets/talks/2024/GavanFantom-Sohowdoesyourcalculatordotrigonometry,anyway.ppt)
 - [Gavan's slides (PDF)]({{site.url}}/assets/talks/2024/GavanFantom-Sohowdoesyourcalculatordotrigonometry,anyway.pdf)
 
+#### Jonathan Welton: The Infinite Glass Bead Game
+
+The game of Mancala may, or may not, be more than 7,000 years old, but is certainly one of the oldest abstract board games still played. What happens if we take it's move mechanism and apply it to an infinite linear board. Is the eventual result of the game predictable, or can it continue indefinitely without ever settling into a clear pattern?
+
+- [Jonathan's slides (PPT)]({{site.url}}/assets/talks/2023/JonathanWelton-TheInfiniteGlassBeadGame.ppt)
+- [Jonathan's slides (PDF)]({{site.url}}/assets/talks/2023/JonathanWelton-TheInfiniteGlassBeadGame.pdf)
+
 #### Kirsty Fish: Who wants to be a trillionaire?
 
 A layperson’s guide to trillionairism and how it’s something we can all achieve. Kind of. 
