@@ -13,9 +13,9 @@ Andrew Taylor has produced a [poster of the things that happened at MathsJam 202
 
 ### Session 1a - 13:30-14:10
 
-#### James Grime: Five Dice Torture
+#### James Grime: A Difficult Dice Game
 
-Solve this five dice puzzle to be set free!
+A tricky dice game for us to try!
 
 - [James's slides (PPT)]({{site.url}}/assets/talks/2024/JamesGrime-FiveDiceTorture.ppt)
 - [James's slides (PDF)]({{site.url}}/assets/talks/2024/JamesGrime-FiveDiceTorture.pdf)
