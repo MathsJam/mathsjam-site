@@ -23,6 +23,9 @@ Solve this five dice puzzle to be set free!
 #### Gavan Fantom: So how does your calculator do trigonometry, anyway?
 There are a number of different ways to compute sines and cosines, but most of them are intensive in their use of computational resources. We take a look at an approach that can be done without multiplication or division, as found in many calculators and low power computers.
 
+#### Jonathan Welton: The Infinite Glass Bead Game
+What happens if we take the world's oldest board game (possibly) and extend it to an infinite board? Will the game inevitably settle down, or continue chaotically forever?
+
 #### Kirsty Fish: Who wants to be a trillionaire?
 A layperson’s guide to trillionairism and how it’s something we can all achieve. Kind of. 
 
