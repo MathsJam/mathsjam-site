@@ -18,6 +18,8 @@ There will be disconcerting objects, to examine and (optionally) enjoy, and you 
 
 Circle Theorems - everybody’s favourite part of GCSE Mathematics. But how do you prove them? Luckily there are some nice visual proofs that are simple enough to fit on a (circular) badge. Come along, remind yourself of the proofs, and make your very own badge so you’ll never forget how to calculate angles inside circles again.
 
+- [PDF of instructions and templates to join in with badge-making activity remotely]({{site.url}}/gathering/uk/archive/2024/assets/CircleTheoremBadges.pdf)
+
 ### C Task-maths-ter 2 (Chalkdust team)
 
 We're doing it again! Just like the TV show Taskmaster, but maths themed. We'll bring the tasks, you bring the energy.
