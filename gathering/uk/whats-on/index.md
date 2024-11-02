@@ -23,7 +23,7 @@ The provisional timings for the weekend are as follows (note that these are unco
 **Saturday**
 
 - 12:15-13:15 Lunch
-- 13:30-18:00 [Talk sessions]({{site.url}}/gathering/uk.archive/2024)
+- 13:30-18:00 [Talk sessions]({{site.url}}/gathering/uk/archive/2024)
     - Session 1a - 13:30-14:10
     - **Check-in to accommodation is open from 2pm**
     - Session 1b - 14:40-15:20
