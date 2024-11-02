@@ -10,7 +10,7 @@ This is a list of talks which will be given at the 2024 MathsJam Gathering. This
 
 The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2024/tables) for the 2024 gathering will be updated here.
 
-The list of items and pictures of items on the [Tables at the Back]({{site.url}}/gathering/uk/archive/2024/tabt) is here.
+The list of items and pictures of items on the [Tables at the Back]({{site.url}}/gathering/uk/archive/2024/tabt) are here.
 
 ## Saturday
 
