@@ -37,4 +37,4 @@ Click [here](https://forms.gle/gdSbUMeniptz5ajo9) to enter competition 209
 
 Click [here](https://forms.gle/zL1kTDCEhotEHek68) to enter competition 210
 
-Click here (link coming soon) to enter all other competitions
+Click [here](https://forms.gle/oQtjWPjEDxD9Fh5C6) to enter all other competitions
