@@ -14,6 +14,8 @@ The list of items and pictures of items on the [Tables at the Back]({{site.url}}
 
 The details of the [Competition Competition]({{site.url}}/gathering/uk/archive/2024/compcomp) can be found here.
 
+Pictures of the [Cake Competition]({{site.url}}/gathering/uk/archive/2024/cakes) can be found here.
+
 
 ## Saturday
 
