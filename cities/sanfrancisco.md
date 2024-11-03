@@ -6,7 +6,7 @@ local_jam_type: MathJam
 jam_name: San Francisco MathJam
 email: sanfrancisco@mathsjam.com
 organiser:
-    name: Isaac
+    name: Helen
     email: sanfrancisco@mathsjam.com
 location:
     group: north-america
@@ -15,7 +15,7 @@ location:
     url: http://pibarsf.com
     lon: -122.420538
     lat: 37.749959
-hiatus: false
+hiatus: true
 hiatus_months:
     - 2019-11
     - 2020-02
