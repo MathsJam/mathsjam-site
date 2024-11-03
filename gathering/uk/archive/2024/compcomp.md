@@ -33,8 +33,14 @@ Here are pictures of the Competition Competition competitions. Click on the text
 
 [214]({{site.url}}/gathering/uk/archive/2024/assets/compcomp/214.jpg) Ladders
 
-Click [here](https://forms.gle/gdSbUMeniptz5ajo9) to enter competition 209
+Click <a href='https://forms.gle/gdSbUMeniptz5ajo9' target='new'>here</a> to enter competition 209.
+If you're in Gather Town, you may need to copy and paste this link into a new browser tab:
+<b>https://forms.gle/gdSbUMeniptz5ajo9</b>
 
-Click [here](https://forms.gle/zL1kTDCEhotEHek68) to enter competition 210
+Click <a href='https://forms.gle/zL1kTDCEhotEHek68' target='new'>here</a> to enter competition 210
+If you're in Gather Town, you may need to copy and paste this link into a new browser tab:
+<b>https://forms.gle/zL1kTDCEhotEHek68</b>
 
-Click [here](https://forms.gle/oQtjWPjEDxD9Fh5C6) to enter all other competitions
+Click <a href='https://forms.gle/oQtjWPjEDxD9Fh5C6' target='new'>here</a> to enter all other competitions
+If you're in Gather Town, you may need to copy and paste this link into a new browser tab:
+<b>https://forms.gle/oQtjWPjEDxD9Fh5C6</b>
