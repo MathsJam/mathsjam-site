@@ -7,7 +7,7 @@ This is a list of talks which were given at the 2024 MathsJam Gathering, includi
 
 The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2024/tables) which ran at the 2024 gathering can be found here.
 
-Andrew Taylor has produced a [poster of the things that happened at MathsJam 2024](https://mathsjam.com/gathering/uk/archive/2024/2024.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2024/cakes) with the photos of cakes entered in the cake competition.
+Andrew Taylor has produced a [poster of the things that happened at MathsJam 2024]({{site.url}}/gathering/uk/archive/2024/2024.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2024/cakes) with the photos of cakes entered in the cake competition.
 
 ## Saturday
 
