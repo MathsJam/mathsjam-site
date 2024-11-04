@@ -3,7 +3,7 @@ layout: gathering
 title: MathsJam Gathering 2024
 ---
 	
-This is a list of talks which were given at the 2024 MathsJam Gathering, including links to slides where available. 
+This is a list of talks which were given at the 2024 MathsJam Gathering, including links to slides where available. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
 The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2024/tables) which ran at the 2024 gathering can be found here.
 
