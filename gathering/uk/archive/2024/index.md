@@ -3,7 +3,7 @@ layout: gathering
 title: MathsJam Gathering 2024
 ---
 	
-This is a list of talks which were given at the 2024 MathsJam Gathering, including links to slides where available. There is also a page of 
+This is a list of talks which were given at the 2024 MathsJam Gathering, including links to slides where available. 
 
 The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/2024/tables) which ran at the 2024 gathering can be found here.
 
