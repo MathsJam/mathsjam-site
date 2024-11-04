@@ -6,18 +6,25 @@ title: MathsJam Gathering Cakes 2024
 Here are photographs of all the cakes from this year's MathsJam Gathering Bakeoff contest. Click on the images to enlarge.
 
 ## Winner of tastiest cake
-[![Cake description](https://mathsjam.com/assets/cakes/2024/cakes-4_sm.jpg)](https://mathsjam.com/assets/cakes/2023/cakes-4.jpg)
+
+[![Pi Cake]({{site.url}}/gathering/uk/archive/2024/assets/cakes/106-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/106.jpg)
+
 ## Winner of most beautiful cake
-[![Cake description](https://mathsjam.com/assets/cakes/2024/cakes-9_sm.jpg)](https://mathsjam.com/assets/cakes/2023/cakes-9.jpg)
+
+[![Pentominoes]({{site.url}}/gathering/uk/archive/2024/assets/cakes/108-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/108.jpg)
+
 ## Winner of best maths in a cake
-[![Cake description](https://mathsjam.com/assets/cakes/2024/cakes-3_sm.jpg)](https://mathsjam.com/assets/cakes/2023/cakes-3.jpg)
+[![The Game of Logic]({{site.url}}/gathering/uk/archive/2024/assets/cakes/107-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/107.jpg)
 
 ## All other cakes
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-1_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-1.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-2_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-2.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-3_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-3.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-4_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-4.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-5_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-5.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-6_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-6.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-7_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-7.jpg)
-[![Cake Description](https://mathsjam.com/assets/cakes/2024/cakes-8_sm.jpg)](https://mathsjam.com/assets/cakes/2024/cakes-8.jpg)
+[![Iced Gingerbread Dragons]({{site.url}}/gathering/uk/archive/2024/assets/cakes/102-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/102.jpg)
+
+[![Cake-ulating pi]({{site.url}}/gathering/uk/archive/2024/assets/cakes/103-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/103.jpg)
+
+[![Hot Operation Buns]({{site.url}}/gathering/uk/archive/2024/assets/cakes/104-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/104.jpg)
+
+[![Square dissected to Equilateral Triangle]({{site.url}}/gathering/uk/archive/2024/assets/cakes/105-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/105.jpg)
+
+[![A Thorny Ode to Florence]({{site.url}}/gathering/uk/archive/2024/assets/cakes/109-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/109.jpg)
+
+[![Collatz Cup Cakes]({{site.url}}/gathering/uk/archive/2024/assets/cakes/110-sm.jpg)](https://mathsjam.com/assets/cakes/2024/110.jpg)
