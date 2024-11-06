@@ -16,8 +16,6 @@ minimenu:
 
 <h2 id="schedule">Schedule of talks</h2>
 
-<a href="{{site.url}}/gathering/uk/archive/2024" class="small-to-action">Full programme of talks for 2024</a>
-
 On Saturday afternoon and Sunday morning we have a schedule of five-minute talks. Past talks have included everything from people sharing a mathematical phone game they enjoy, to the ways they made their wedding more mathematical, as well as puzzles, weird mathematical concepts and observations of real-world things containing interesting maths.
 
 All talk sessions are livestreamed to remote attendees, and the breaks between sessions include opportunities for both in-person and remote attendees to talk to the speakers from the previous session.
@@ -51,8 +49,6 @@ Full information on how to submit a talk will be given when you buy your ticket,
 - There will also be a visualiser for speakers to use.
 
 <h2 id="tables">Saturday Night Tables</h2>
-
-<a href="{{site.url}}/gathering/uk/archive/2024/tables" class="small-to-action">Full list of Saturday Night Tables for 2024</a>
 
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
 

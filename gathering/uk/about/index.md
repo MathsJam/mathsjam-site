@@ -36,4 +36,4 @@ If you want to find out more about what MathsJam Gathering is like, you can:
 - Read [this writeup from the seventh MathsJam in 2016 by Alison Kiddle](https://plus.maths.org/content/mathsjam-vii-force-awakens)
 
 ## Sign up to the mailing list
-If you're happy for us to contact you about the MathsJam Gathering, you can [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSceb7PpP3qU8OcrCu_g8vHV9DVhDxo85pkP0Cqw7W4Flnkh9A/viewform?usp=sf_link).
+If you're happy for us to contact you about the MathsJam Gathering, you can [join our mailing list](https://c5dd5172.sibforms.com/serve/MUIFAFZqfKRBZSCzMNrzq3YjcQnPNy3DbFHLPInzBFpsf-mXZvTWzIx6jKMedQbdYDy7xL5jUAyLx7dA0yCzXwrZgGq0SydXFFqKkhppVRksaOJF400-5u3qAenMO1TTebODlo6JLIqSwlwuVuggjBgSkF7EugjHI5EpkVLQtH9aVppq1fHe5hBH4GO1aWwlVnhA2DqWiqShsEbY).

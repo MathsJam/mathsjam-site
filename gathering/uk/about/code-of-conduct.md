@@ -6,7 +6,7 @@ body_class: about
 
 We’re keen to make sure that our event is great for everyone, so we present a code of conduct for the day, which we hope you can follow.
 
-- We want to be inclusive; do not engage in exclusionary behaviour or language against anyone based on their race, gender (binary, assigned or otherwise), disability, mental health, sexual orientation, level of education or age. Don't make exclusionary jokes. Don't even make them "ironically".
+- We want to be inclusive; do not engage in exclusionary behaviour or language against anyone based on their race, gender (binary, assigned or otherwise), disability, mental health, religious belief (or lack thereof), sexual orientation, level of education or age. Don't make exclusionary jokes. Don't even make them "ironically".
 - Harassment is unacceptable. Unconsented physical contact or sexual attention can constitute harassment, even if it wasn’t intended to cause upset. Dressing or acting in a certain way is not consent.
 - Aggression and elitism are unwelcome here - it's not a competition.
 - Although the bar will be open, there is no expectation or pressure to drink alcohol. Don't question anyone's choice of drink. Soft drinks will be available.
