@@ -4,7 +4,7 @@ title: Code of Conduct
 body_class: about
 ---
 
-We’re keen to make sure that our event is great for everyone, so we present a code of conduct for the day, which we hope you can follow.
+We’re keen to make sure that our event is great for everyone, so we present a code of conduct for the weekend, which we hope you can follow.
 
 - We want to be inclusive; do not engage in exclusionary behaviour or language against anyone based on their race, gender (binary, assigned or otherwise), disability, mental health, religious belief (or lack thereof), sexual orientation, level of education or age. Don't make exclusionary jokes. Don't even make them "ironically".
 - Harassment is unacceptable. Unconsented physical contact or sexual attention can constitute harassment, even if it wasn’t intended to cause upset. Dressing or acting in a certain way is not consent.
