@@ -1,24 +1,30 @@
 ---
 layout: gathering
-title: MathsJam Gathering 2024 - Cakes
+title: MathsJam Gathering Cakes 2024
 ---
+	
+Here are photographs of all the cakes from this year's MathsJam Gathering Bakeoff contest. Click on the images to enlarge.
 
-Here are pictures of the cakes. Click on the text to view.
+## Winner of tastiest cake
 
-[Iced Gingerbread Dragons]({{site.url}}/gathering/uk/archive/2024/assets/cakes/102.jpg)
+[![Pi Cake]({{site.url}}/gathering/uk/archive/2024/assets/cakes/106-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/106.jpg)
 
-[Cake-ulating pi]({{site.url}}/gathering/uk/archive/2024/assets/cakes/103.jpg)
+## Winner of most beautiful cake
 
-[Hot Operation Buns]({{site.url}}/gathering/uk/archive/2024/assets/cakes/104.jpg)
+[![Pentominoes]({{site.url}}/gathering/uk/archive/2024/assets/cakes/108-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/108.jpg)
 
-[Square dissected to Equilateral Triangle]({{site.url}}/gathering/uk/archive/2024/assets/cakes/105.jpg)
+## Winner of best maths in a cake
+[![The Game of Logic]({{site.url}}/gathering/uk/archive/2024/assets/cakes/107-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/107.jpg)
 
-[Pi Cake]({{site.url}}/gathering/uk/archive/2024/assets/cakes/106.jpg)
+## All other cakes
+[![Iced Gingerbread Dragons]({{site.url}}/gathering/uk/archive/2024/assets/cakes/102-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/102.jpg)
 
-[The Game of Logic]({{site.url}}/gathering/uk/archive/2024/assets/cakes/107.jpg)
+[![Cake-ulating pi]({{site.url}}/gathering/uk/archive/2024/assets/cakes/103-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/103.jpg)
 
-[Pentominoes]({{site.url}}/gathering/uk/archive/2024/assets/cakes/108.jpg)
+[![Hot Operation Buns]({{site.url}}/gathering/uk/archive/2024/assets/cakes/104-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/104.jpg)
 
-[A Thorny Ode to Florence]({{site.url}}/gathering/uk/archive/2024/assets/cakes/109.jpg)
+[![Square dissected to Equilateral Triangle]({{site.url}}/gathering/uk/archive/2024/assets/cakes/105-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/105.jpg)
 
-[Collatz Cup Cakes]({{site.url}}/gathering/uk/archive/2024/assets/cakes/110.jpg)
+[![A Thorny Ode to Florence]({{site.url}}/gathering/uk/archive/2024/assets/cakes/109-sm.jpg)]({{site.url}}/gathering/uk/archive/2024/assets/cakes/109.jpg)
+
+[![Collatz Cup Cakes]({{site.url}}/gathering/uk/archive/2024/assets/cakes/110-sm.jpg)](https://mathsjam.com/assets/cakes/2024/110.jpg)
