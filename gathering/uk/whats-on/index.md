@@ -31,7 +31,6 @@ The timings for the 2024 weekend were as follows (note that future event timings
 **Sunday**
 
 - 07:00-08:30 Breakfast
-- **Check-out of accommodation is by 10am**
 - 09:30-12:30 Talk sessions
 - 12:30-13:30 Lunch
 - 13:30-14:30 Talk session

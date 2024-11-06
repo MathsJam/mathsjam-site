@@ -9,6 +9,13 @@ The list of [Saturday Night Table activities]({{site.url}}/gathering/uk/archive/
 
 Andrew Taylor has produced a [poster of the things that happened at MathsJam 2024]({{site.url}}/gathering/uk/archive/2024/2024.png). There is also a [Cake page here]({{site.url}}/gathering/uk/archive/2024/cakes) with the photos of cakes entered in the cake competition.
 
+The list of items and pictures of items on the [Tables at the Back]({{site.url}}/gathering/uk/archive/2024/tabt) is here.
+
+The details of the [Competition Competition]({{site.url}}/gathering/uk/archive/2024/compcomp) can be found here.
+
+Pictures of the [Cake Competition]({{site.url}}/gathering/uk/archive/2024/cakes) can be found here.
+
+
 ## Saturday
 
 ### Session 1a
@@ -61,19 +68,19 @@ There are a lot of lines on a standard 400m running track, bounding the lanes an
 
 - [Involute curves, which it turns out are the answer](https://en.wikipedia.org/wiki/Involute)
 
-#### Nicole Cozens: Mathematical Modelling
-
-The conversation on students lips for the last 10\<x\<1000 years: would you rather fight 100 duck-sized horses, or 1 horse-sized duck? Rather than randomly arguing, surely maths can help us come to a good conclusion?
-
-- [Nicole's slides (PDF)]({{site.url}}/assets/talks/2024/D%20Nicole%20Cozens%20-%20Mathematical%20Modelling.pdf)
-
 #### Michael Gibson: And Ninthly
 
 Having once made the mistake of asking for a pizza to be cut into nine pieces, with hilarious consequences, I have since considered various methods of cutting a pizza equally into ninths. I will share some of these with you in this talk (methods, that is, not slices of pizza).
 
 - [Michael's slides (PDF)]({{site.url}}/assets/talks/2024/E%20Michael%20Gibson%20-%20And%20Ninthly.pdf)
 
-### Session 1c 
+#### Nicole Cozens: Mathematical Modelling
+
+The conversation on students lips for the last 10\<x\<1000 years: would you rather fight 100 duck-sized horses, or 1 horse-sized duck? Rather than randomly arguing, surely maths can help us come to a good conclusion?
+
+- [Nicole's slides (PDF)]({{site.url}}/assets/talks/2024/D%20Nicole%20Cozens%20-%20Mathematical%20Modelling.pdf)
+
+### Session 1c - 15:50-16:30: 
 
 #### Peter Rowlett: 9999713179999 is prime
 
