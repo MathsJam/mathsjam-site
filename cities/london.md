@@ -18,6 +18,8 @@ hiatus: false
 hiatus_months:
     - 2020-03
     - 2022-06
+changed_dates:
+    - 2024-11-12
 links:
     twitter:
         text: '@LONMathsJam'
