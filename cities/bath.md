@@ -9,12 +9,12 @@ organiser:
     email: bath@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Hall and Woodhouse
-    description: ", on Old King Street just off Queen's Square"
-    url: http://hall-woodhousebath.co.uk/
-    lon: -2.362606
-    lat: 51.383856
-hiatus: true
+    pub_name: The Raven Pub
+    description: ", on the corner of Queen St and Quiet St. Normally in the 'library' room at the top of the pub if available"
+    url: https://theravenofbath.co.uk/
+    lon: -2.3619978456053756
+    lat: 51.38316654380786
+hiatus: false
 hiatus_months:
     - 2020-03
 start_time: 7:30pm onwards
