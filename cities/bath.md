@@ -10,7 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: The Raven Pub
-    description: ", on the corner of Queen St and Quiet St. Normally in the 'library' room at the top of the pub if available."
+    description: ", on the corner of Queen St and Quiet St. Normally in the 'library' room at the top of the pub if available"
     url: https://theravenofbath.co.uk/
     lon: -2.3619978456053756
     lat: 51.38316654380786
