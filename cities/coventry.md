@@ -17,6 +17,8 @@ location:
 hiatus: false
 hiatus_months:
     - 2024-07
-    - 2024-08    
+    - 2024-08
+december_jam_date_rule: second Tuesday
+start_time: 7pm in the evening
 ---
 
