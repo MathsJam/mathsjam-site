@@ -15,7 +15,7 @@ location:
     url: https://www.brassmonkeyedinburgh.co.uk/
     lon: -3.1853463
     lat: 55.9472938
-extra_text: In December 2024 we're holding a special Jam on Saturday 14th, at <a href="https://www.cullachbrewing.co.uk/">Cullach Brewing Taproom</a> on Princess Street in Perth. From January we'll be back at our usual venue in Edinburgh (details below).
+extra_text: In December 2024 we're holding a special Jam on Saturday 14th, at <a href="https://www.cullachbrewing.co.uk/">Cullach Brewing Taproom</a> on Princess Street in Perth. From January we'll be back at our usual venue in Edinburgh.
 hiatus: false
 hiatus_months:
     - 2018-01
