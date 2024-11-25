@@ -27,5 +27,8 @@ links:
     facebook:
         text: 'Facebook Group'
         url: https://www.facebook.com/NEWCMathsJam
+    something_else:
+        text: 'WhatsApp Chat'
+        url: https://chat.whatsapp.com/BnXhicOBZJu9YAcuKDHw2W
 ---
 
