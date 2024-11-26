@@ -20,8 +20,14 @@ hiatus_months:
     - 2023-05
     - 2023-12
     - 2024-03
+    - 2024-12
 changed_dates:
     - 2024-04-30
     - 2024-08-27
+links:
+    discord:
+        text: 'Discord Server'
+        url: https://discord.gg/xTCnVaxrtP
+
 ---
 
