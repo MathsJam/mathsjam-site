@@ -9,7 +9,7 @@ organiser:
     email: uk.online@mathsjam.com
 location:
     group: online
-    software: Gather
+    software: Gather.town and Slack
     lon: -0.1155541
     lat: 51.5179489
 hiatus: false
