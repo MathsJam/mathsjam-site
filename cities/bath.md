@@ -5,7 +5,7 @@ city_name: Bath
 jam_name: Bath MathsJam
 email: bath@mathsjam.com
 organiser:
-    name: Ben
+    name: Will
     email: bath@mathsjam.com
 location:
     group: uk-ireland
