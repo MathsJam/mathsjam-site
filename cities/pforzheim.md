@@ -16,6 +16,8 @@ location:
     lat: 48.8901816
 extra_text: The library closes at 7pm, at which point we'll relocate to continue Jamming and grab a pizza for anyone who wants to.
 hiatus: false
+hiatus_months:
+    - 2024-12
 jam_date_rule: third Friday
 start_time: 6pm
 ---
