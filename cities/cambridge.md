@@ -18,6 +18,7 @@ hiatus: false
 hiatus_months:
     - 2020-03
     - 2024-12
+    - 2025-01
 changed_dates:
     - 2018-12-18
 links:
