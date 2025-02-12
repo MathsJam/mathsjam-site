@@ -12,8 +12,8 @@ location:
     pub_name: Gatto Lounge
     description: ' on Gas Road in Pontypridd'
     url: https://thelounges.co.uk/gatto/
-    lon: -3.3394557
-    lat: 51.604203
+    lon: -3.3389913
+    lat: 51.604043
 hiatus: false
 hiatus_months:
     - 2017-08
