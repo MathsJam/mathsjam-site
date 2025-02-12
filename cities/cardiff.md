@@ -1,21 +1,20 @@
 ---
 layout: city
-lockdown: true
-city_name: Cardiff
-jam_name: Cardiff MathsJam
-email: cardiff@mathsjam.com
-blog: http://cardiffmathsjam.tumblr.com/
+lockdown: false
+city_name: South Wales
+jam_name: South Wales MathsJam
+email: southwales@mathsjam.com
 organiser:
-    name: Elizabeth
-    email: cardiff@mathsjam.com
+    name: Tony
+    email: southwales@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Brewhouse & Kitchen / Bragdy a Chegin
+    pub_name: Gatto Lounge
     description: ' which is on Sophia Close'
-    url: http://www.brewhouseandkitchen.com/venue/cardiff/
-    lon: -3.191378
-    lat: 51.484968
-hiatus: true
+    url: https://thelounges.co.uk/gatto/
+    lon: -3.3394557
+    lat: 51.604203
+hiatus: false
 hiatus_months:
     - 2017-08
     - 2018-01
@@ -25,11 +24,6 @@ hiatus_months:
     - 2020-03
     - 2020-04
     - 2020-05
-start_time: 7:30pm
-links:
-    twitter:
-        text: '@CardiffMathsJam'
-        url: https://twitter.com/CardiffMathsJam
 
 ---
 
