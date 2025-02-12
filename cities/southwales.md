@@ -10,7 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: Gatto Lounge
-    description: ' which is on Sophia Close'
+    description: ' on Gas Road in Pontypridd'
     url: https://thelounges.co.uk/gatto/
     lon: -3.3394557
     lat: 51.604203
