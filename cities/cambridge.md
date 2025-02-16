@@ -14,7 +14,7 @@ location:
     url: https://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1095235-Reviews-The_Tram_Depot-Cambridge_Cambridgeshire_England.html
     lon: 0.132859
     lat: 52.2046371
-hiatus: false
+hiatus: true
 hiatus_months:
     - 2020-03
     - 2024-12
