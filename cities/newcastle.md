@@ -10,7 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: The Redhhouse
-    description: 'Near quayside not far from the swing bridge'
+    description: ' near the quayside, not far from the swing bridge'
     url: https://redhousencl.co.uk/
     lon: -1.6080760
     lat: 54.9687980
