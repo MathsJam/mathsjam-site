@@ -11,10 +11,12 @@ organiser:
 location:
     group: north-america
     pub_name: Bog and Barley
-    description: ', at the Regalia Shopping Center '
+    description: ', at the Regalia Shopping Center (on Poplar Ave) '
     url: https://www.bogandbarley.com/
     lon: -89.8575493
     lat: 35.1027827
 hiatus: false
+hiatus_months:
+    - 2025-03
 ---
 
