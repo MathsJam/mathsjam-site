@@ -9,12 +9,12 @@ organiser:
     email: cambridge@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Tram Depot
-    description: ' in the Tram Yard on Dover Street'
-    url: https://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1095235-Reviews-The_Tram_Depot-Cambridge_Cambridgeshire_England.html
-    lon: 0.132859
-    lat: 52.2046371
-hiatus: true
+    pub_name: The Burleigh Arms
+    description: ' on Newmarket Road'
+    url: https://burleigharmscambridge.co.uk/
+    lon: 0.1302529
+    lat: 52.2082394
+hiatus: false
 hiatus_months:
     - 2020-03
     - 2024-12
