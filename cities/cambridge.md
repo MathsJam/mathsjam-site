@@ -21,6 +21,7 @@ hiatus_months:
     - 2025-01
 changed_dates:
     - 2018-12-18
+    - 2025-05-21
 links:
     twitter:
         text: '@CAMMathsJam'
