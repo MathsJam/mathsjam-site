@@ -23,7 +23,7 @@ changed_dates:
     - 2021-12-21
     - 2022-12-20
     - 2023-12-19
-    - 2025-9-23
+    - 2025-09-23
 jam_date_rule: third Tuesday
 start_time: 7pm in the evening
 links:
