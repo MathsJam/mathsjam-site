@@ -27,6 +27,8 @@ hiatus_months:
     - 2024-02
     - 2024-07
     - 2024-08
+    - 2025-06
+    - 2025-07
 start_time: 7:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
