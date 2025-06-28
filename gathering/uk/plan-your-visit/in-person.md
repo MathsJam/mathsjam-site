@@ -19,7 +19,13 @@ minimenu:
 
 ![Yarnfield Park. A large complex surrounded by countryside.](../../images/yarnfield-park.jpeg)
 
-The venue for the MathsJam UK Gathering is [Yarnfield Park](https://www.yarnfieldpark.com/), which is a large conference centre in central England. Yarnfield has two floors, and the main room we use for MathsJam is on the first floor - the Knighton Suite, which is a large conference room filled with round tables, and a stage at the front with screens.
+The venue for the MathsJam UK Gathering is [Kents Hill Park](https://www.kentshillpark.com/), which is a large conference centre in Milton Keynes, which is halfway between London and Birmingham.
+
+We will be in the Nightingale building, which has two floors, and the main rooms we'll use for MathsJam are on the first floor - rooms 120-130, which will be combined into one large conference room filled with round tables, and projector screens along the long side of the room.
+
+
+
+
 
 ![The Knighton Suite. A large room with round tables arranged in front of a stage, behind which are two projector screens.](../../images/knighton.jpeg)
 
@@ -54,7 +60,7 @@ Rooms are all en-suite, and within a few minutes' walk of the main building, via
 The event takes place in a large conference building, which may also have other events taking place at the same time. The rooms are reasonably large, and we will aim to keep windows and doors open where possible. We will, unavoidably, still be a large group of people mixing in an indoor space. To try to make the Gathering as safe as we can while still striking a balance with fun and convenience, we have the following policy:
 
 - We ask every attendee to have up-to-date COVID vaccinations to whatever extent is possible for them;
-- We also ask people to do a rapid lateral flow test (RLFT) before coming, and test during the event too if possible.
+- We also ask people to do a rapid lateral flow test (RLFT) before coming to the event, and not to attend if it is positibe.
 
 If a positive COVID test prevents you from attending some or all of the event, we will be happy to refund all or part of your ticket as needed, and Remote Attendance is available if you still want to join in from home. We will not require people to wear masks during the event, but invite people to wear masks if they are more comfortable doing so.
 
@@ -66,6 +72,6 @@ The venue and accommodation are all fully wheelchair accessible, with lifts to t
 
 There will be a designated Quiet Room during the event, with armchairs and tables, for people to spend time away from the main event. There are unisex accessible toilets on both floors of the conference venue.
 
-In the Knighton Suite, where we hold our main sessions, an induction loop system is available for hearing aids, and the contents of the main display screens (two large projectors at the front) are repeated on smaller screens further back in the room.
+In the room where we hold our main sessions, an induction loop system is available for hearing aids, and the contents of the main display screens (two large projectors at the front) are repeated on smaller screens further back in the room.
 
-Assistance dogs are welcome at Yarnfield, and there are designated car parking spaces within the main car park for Blue Badge holders. For more information, see [Yarnfield's accessibility information page](https://www.yarnfieldpark.com/about/accessibility)
+Assistance dogs are welcome at the venue, and there are designated car parking spaces within the main car park for Blue Badge holders.

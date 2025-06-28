@@ -7,7 +7,7 @@ The MathsJam UK Gathering ('Big MathsJam') is an annual event for maths enthusia
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZM465bN_IF8?si=gQeDCkQmdjqMhCx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width:100%"></iframe></div>
 
-The 2024 UK Gathering took place on **2<sup>nd</sup> - 3<sup>rd</sup> November 2024**, and you can find out more using the links in the menu.
+The 2025 UK Gathering will take place on **22<sup>nd</sup> - 23<sup>rd</sup> November 2025**, and you can find out more using the links in the menu.
 
 Note that all participants must be 18 or over.
 
