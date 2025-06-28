@@ -17,7 +17,7 @@ minimenu:
 
 <h2 id="venue">Venue</h2>
 
-![Yarnfield Park. A large complex surrounded by countryside.](../../images/yarnfield-park.jpeg)
+![Kents Hill Park. A large complex of square buildings just outside of a city](../../images/kentshillpark.jpg)
 
 The venue for the MathsJam UK Gathering is [Kents Hill Park](https://www.kentshillpark.com/), which is a large conference centre in Milton Keynes, which is halfway between London and Birmingham.
 
@@ -27,7 +27,7 @@ We will be in the Nightingale building, which has two floors, and the main rooms
 
 The talks sessions will take place in the main long room, and we'll have other rooms nearby with tables of things to play with, as well as space for our competitions, and a space for the MathsJam Jam to happen in the evening.
 
-A range of food is served in the restaurant downstairs, and there is also a bar, and a small onsite Costa coffee shop (open on Friday until 10pm but closed on the weekend).
+![A floor plan of the first floor, which will be replaced with a better one](../../images/nightingale1_temp.png)
 
 The entrance to the venue has one step, but level access is available via the central building, with lifts are to the first floor.
 
