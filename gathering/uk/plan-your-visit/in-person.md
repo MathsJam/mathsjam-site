@@ -23,35 +23,31 @@ The venue for the MathsJam UK Gathering is [Kents Hill Park](https://www.kentshi
 
 We will be in the Nightingale building, which has two floors, and the main rooms we'll use for MathsJam are on the first floor - rooms 120-130, which will be combined into one large conference room filled with round tables, and projector screens along the long side of the room.
 
+!['The Meg'. A long room with round tables arranged with chairs around each table, with windows along one side of the room.](../../images/themeg.jpeg)
 
-
-
-
-![The Knighton Suite. A large room with round tables arranged in front of a stage, behind which are two projector screens.](../../images/knighton.jpeg)
-
-This [tour video](https://www.youtube.com/watch?v=YQNhWZAWJqg&t=2s) shows various parts of the venue, and while it doesn't include the Knighton Suite, it's a larger version of the Howden Suite shown at 1:04. For a rough idea of the venue layout, our [Virtual Yarnfield gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield) mimics the arrangement of rooms.
+The talks sessions will take place in the main long room, and we'll have other rooms nearby with tables of things to play with, as well as space for our competitions, and a space for the MathsJam Jam to happen in the evening.
 
 A range of food is served in the restaurant downstairs, and there is also a bar, and a small onsite Costa coffee shop (open on Friday until 10pm but closed on the weekend).
 
-The venue is fully wheelchair accessible, with lifts to the first floor and double doorways into all the main areas we will use.
+The entrance to the venue has one step, but level access is available via the central building, with lifts are to the first floor.
 
 <h2 id="travel">Getting There</h2>
 
-Full and up-to-date travel information for Yarnfield is available on the [Yarnfield webite](https://www.yarnfieldpark.com/contact/location-and-travel). Driving is the easiest way to arrive, and there is a large car park onsite.
+[Click here for Google Maps directions to Kents Hill Park](https://www.google.com/maps/dir//Kents+Hill+Park+Training+and+Conference+Centre,+Swallow+House,+Timbold+Drive,+Kents+Hill,+Milton+Keynes/@52.0301238,-0.7374372,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x4877ab37beef90c9:0x5eef9b75fd026deb!2m2!1d-0.702418!2d52.030129!3e2)
 
-The nearest train stations are [Stoke-on-Trent](https://www.nationalrail.co.uk/stations/stoke-on-trent/) (10 miles away), which is on some major train routes, and [Stone](https://www.nationalrail.co.uk/stations/stone-staffs/) (3 miles away), a smaller local station which is closer to the venue but less frequently served by trains, and will travelling here will likely involve changing at Stafford. 
+The nearest train station is [Milton Keynes Central](https://www.nationalrail.co.uk/stations/milton-keynes-central/) (5 miles away), which is on the main line out of London Euston. Trains between Euston and Manchester, Crewe, Liverpool and Birmingham all stop at Milton Keynes, among others. 
 
-Attendees arriving by train to Stone or Stoke-on-Trent will need a way to get from there to Yarnfield (10/20 minutes drive respectively). MathsJam attendees organise a voluntary **shuttle service** for people arriving on trains into Stone, giving them lifts in private cars to and from the venue - information about this will be circulated to people who have booked closer to the event, so if you're coming by train, watch out for that and you can sign up for a lift to/from the station. Otherwise, taxis are usually available on the taxi rank at Stoke-on-Trent, but taxis from Stone will need to be pre-booked or ordered via Uber, which does cover the area. There is also a [bus number 102](https://apps2.staffordshire.gov.uk/scc/bustimes/display.aspx?Route=102&Sup=0&Line=40102&RN=102#divMainAreaDisplay) which runs between Stone and Yarnfield Park ([the bus stop at Hayeswater Grove](https://maps.app.goo.gl/rGwJrxF6j8Wki3o27) is right outside), with the last departure from Stone at 5.40pm.
+From the station, several buses run to within walking distance of Kents Hill, including services C1, C11, X6, X91, 3 and 8. Taxis from the station to Kents Hill will take about 10 minutes.
 
-If you have any questions about travel, or are unfamiliar with UK transport networks and would like some advice, email gathering@mathsjam.com and we can try to help. Information about train tickets can be found on the [National Rail website](https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/).
+There is free parking at the venue for anyone travelling by car (although you will need to enter your car registration at main reception or in Nightingale House on arrival).
+
+If you have any questions about travel, or are unfamiliar with UK transport networks and would like some advice, email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can try to help. Information about train tickets can be found on the [National Rail website](https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/).
 
 <h2 id="accommodation">Accommodation Info</h2>
 
-![Accommodation buildings at Yarnfield Park.](../../images/accommodation.jpeg)
+Accommodation is on site within the Kents Hill complex. Weekend bookings include accommodation for the Saturday night, and additional nights may be added (see the [booking info page]({{site.url}}/gathering/uk/plan-your-visit/booking) for prices). 
 
-Accommodation is on site within the Yarnfield complex, on three wheelchair accessible floors in multiple blocks. Weekend bookings include accommodation for the Saturday night, and additional nights may be added (see the [booking info page]({{site.url}}/gathering/uk/plan-your-visit/booking) for prices). 
-
-![A Yarnfield Park bedroom. A double bed with fresh sheets and towels on it. Next to the window are a desk and chair, and on the wall is a storage unit.](../../images/bedrooms.jpeg)
+![A Kents Hill Park bedroom. A double bed with purple cushions on it is next to a free-standing wooden wardrobe, and a desk with chair. Two large windows have purple curtains.](../../images/kentshill-accom.jpg)
 
 Rooms are all en-suite, and within a few minutes' walk of the main building, via a covered walkway.
 
@@ -68,7 +64,7 @@ If you have any questions or concerns about any of this, contact us on [gatherin
 
 <h2 id="accessibility">Accessibility</h2>
 
-The venue and accommodation are all fully wheelchair accessible, with lifts to the first floor and double doors to all of the main areas we're using. The rooms for the MathsJam Jam (on Sunday evening) and Quiet Room have a single door, but it is wide enough to accommodate a wheelchair. Accessible accommodation is available on request - please indicate on your booking if you need this, and we can pass this on to the venue.
+The venue and accommodation are all fully wheelchair accessible, with lifts to the first floor, and double doors in all corridors. Entering all the rooms is via a single door, but it is wide enough to accommodate a wheelchair. Accessible accommodation is available on request - please indicate on your booking if you need this, and we can pass this on to the venue.
 
 There will be a designated Quiet Room during the event, with armchairs and tables, for people to spend time away from the main event. There are unisex accessible toilets on both floors of the conference venue.
 

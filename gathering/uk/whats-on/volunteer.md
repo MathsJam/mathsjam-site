@@ -6,7 +6,6 @@ body_class: whats-on
 
 There are various aspects of the weekend for which volunteer help is needed and appreciated, including:
 
-- offering lifts from/to the station
 - fetching coffee for the speakers in the breaks so they can stay and take questions
 - posting from the BigMathsJam social media accounts
 - overseeing the post-talk chat sessions for remote attendees

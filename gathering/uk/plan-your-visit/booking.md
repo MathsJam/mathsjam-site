@@ -10,7 +10,7 @@ The 2024 cost of a **full weekend ticket** was **£190** (single occupancy) or *
 
 **Non-residential tickets**, covering the daytime sessions and meals, but not including overnight accommodation, are available at **£90** for the whole weekend (2024 price).
 
-**Remote attendance tickets** are available for **£20** (2024 price), and include online access to the livestream of the event, access to the [Virtual Yarnfield gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield) during the weekend of the event, and any other parts of the event we're able to make accessible remotely. For more information, see the [remote attendance page]({{site.url}}/gathering/uk/plan-your-visit/remote).
+**Remote attendance tickets** are available for **£20** (2024 price), and include online access to the livestream of the event, access to the [Virtual MathsJam gather.town space](https://app.gather.town/app/MTCdhLpepRbaogJV/virtual-yarnfield) during the weekend of the event, and any other parts of the event we're able to make accessible remotely. For more information, see the [remote attendance page]({{site.url}}/gathering/uk/plan-your-visit/remote).
 
 On all Gathering tickets, there are discounts of **10% for early-bird booking** (ending around September) and **10% for unwaged or low-income participants**, using the code 'unwaged'. If you would like to attend MathsJam but would be unable to cover all the costs yourself, we may have some funding available to support you. We will release details of how to apply for this once booking opens.
 
