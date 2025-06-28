@@ -23,7 +23,7 @@ The venue for the MathsJam UK Gathering is [Kents Hill Park](https://www.kentshi
 
 We will be in the Nightingale building, which has two floors, and the main rooms we'll use for MathsJam are on the first floor - rooms 120-130, which will be combined into one large conference room filled with round tables, and projector screens along the long side of the room.
 
-!['The Meg'. A long room with round tables arranged with chairs around each table, with windows along one side of the room.](../../images/themeg.jpeg)
+!['The Meg'. A long room with round tables arranged with chairs around each table, with windows along one side of the room.](../../images/themeg.jpg)
 
 The talks sessions will take place in the main long room, and we'll have other rooms nearby with tables of things to play with, as well as space for our competitions, and a space for the MathsJam Jam to happen in the evening.
 
