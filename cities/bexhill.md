@@ -9,11 +9,11 @@ organiser:
     email: bexhill@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Traffers Bar
-    description: ', on Egerton Road'
-    url: http://www.beerintheevening.com/pubs/s/30/30913/Traffers_Bar/Bexhill_on_sea
-    lon: 0.4680249
-    lat: 50.8374462
+    pub_name:
+    description:
+    url: 
+    lon: 
+    lat: 
 hiatus: false
 changed_dates:
     - 2018-12-18
