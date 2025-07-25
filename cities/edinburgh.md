@@ -26,6 +26,6 @@ hiatus_months:
 changed_dates:
     - 2020-08-19
     - 2024-12-14
-
+extra_text: In August 2025, instead of meeting as usual on 19th we'll be going to watch <a href="https://www.pleasance.co.uk/via/tickets/33%3A232219">Matt Parker's Fringe Show</a> at the Pleasance, then going for a drink afterwards - contact the organisers if you'd like to join us.
 ---
 
