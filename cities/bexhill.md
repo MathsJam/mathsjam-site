@@ -9,7 +9,7 @@ organiser:
     email: bexhill@mathsjam.com
 location:
     group: uk-ireland
-    software: TBC
+    software: Zoom
     lon: 0.4680249
     lat: 50.8374462
 hiatus: false
@@ -18,7 +18,7 @@ changed_dates:
 hiatus_months:
     - 2017-12
     - 2020-03
-extra_text: The Bexhill local MathsJam events are taking place online, rather than in-person - please get in touch if you'd like more information.
+extra_text: The Bexhill local MathsJam events are taking place online, rather than in-person - please get in touch if you'd like to join.
 links:
     twitter:
         text: '@BexhillMathsjam'
