@@ -1,17 +1,15 @@
 ---
-layout: city
+layout: city_online
 lockdown: false
-city_name: Bexhill
-jam_name: Bexhill MathsJam
+city_name: Bexhill (Virtual)
+jam_name: Bexhill Virtual MathsJam
 email: bexhill@mathsjam.com
 organiser:
     name: Simon
     email: bexhill@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Traffers Bar
-    description: ', on Egerton Road'
-    url: http://www.beerintheevening.com/pubs/s/30/30913/Traffers_Bar/Bexhill_on_sea
+    software: Zoom
     lon: 0.4680249
     lat: 50.8374462
 hiatus: false
@@ -20,7 +18,7 @@ changed_dates:
 hiatus_months:
     - 2017-12
     - 2020-03
-extra_text: The Bexhill local MathsJam events are taking place online, rather than in-person - please get in touch if you'd like more information.
+extra_text: The Bexhill local MathsJam events are taking place online, rather than in-person - please get in touch if you'd like to join.
 links:
     twitter:
         text: '@BexhillMathsjam'
