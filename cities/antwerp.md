@@ -29,6 +29,8 @@ hiatus_months:
     - 2024-09
     - 2024-11
     - 2025-01
+    - 2025-07
+    - 2025-08
 changed_dates:
     - 2017-12-19
     - 2018-12-18
@@ -36,6 +38,7 @@ changed_dates:
     - 2024-02-29
     - 2025-03-27
     - 2025-04-28
+    - 2025-09-21
 links:
     twitter:
         text: '@MathsJamAntwerp'
@@ -43,6 +46,7 @@ links:
     facebook:
         text: Facebook
         url: https://www.facebook.com/mathsjamantwerpen
+extra_text: In September, instead of having a MathsJam we will be at <a href="https://mathfest.be/">MathFest in Bruges</a>, where the whole family is welcome.
 
 ---
 
