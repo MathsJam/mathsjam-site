@@ -4,7 +4,7 @@ title: Booking and prices
 body_class: plan-your-visit
 ---
 
-<a href="https://pretix.eu/mathsjam/uk2025/" class="call-to-action">Click here to book for the MathsJam UK Gathering 2025</a>
+<a href="https://pretix.eu/mathsjam/uk2025/" class="small-to-action">Click here to book for the MathsJam UK Gathering 2025</a>
 
 Tickets for the MathsJam Gathering include sessions on the Saturday and Sunday, as well as lunches on both days, dinner on Saturday and overnight accommodation onsite for Saturday night.
 
