@@ -82,13 +82,13 @@ Remote attendees will be able to watch a livestream of the MathsJam Jam (tech pe
 
 <h2 id="tables">Tables at the back</h2>
 
-At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
+In a separate dedicated room, we will place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
 ![Knitted objects, including Napier's rods and Soma cube pieces, on a table.](../../images/TablesAtBack1.jpg)
 ![Copies of Chalkdust magazine on a table](../../images/TablesAtBack2.jpg)
 
 2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
 
-There will be a remote analogue of the Tables at the Back of the Room in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
+There will be a remote analogue of the Tables of Things in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.

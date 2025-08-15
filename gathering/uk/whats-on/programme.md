@@ -35,11 +35,9 @@ Some examples of previous talks can be found on YouTube:
 
 <h2 id="talking">Giving a talk</h2>
 
-Submissions for talks for 2024 are now closed, and everyone speaking should have been notified.
+If you'd like to give a talk at MathsJam 2025, you'll need to register for a ticket first, and in the booking confirmation email there'll be a link to a form to submit talks. If your attendance is dependent on giving a talk, please contact us by emailing <a href="mailto:gathering@mathsjam.com">gathering@mathsjam.com</a>.
 
 You can give a talk to show us something you think is interesting. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that you think are neat, cool, weird, surprising, or that simply intrigue you.
-
-Full information on how to submit a talk will be given when you buy your ticket, but the following might be useful to know:
 
 - Talk submissions are welcome from both in-person and remote attendees.
 - Talks are strictly limited to five minutes.
