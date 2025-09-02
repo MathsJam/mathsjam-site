@@ -56,7 +56,7 @@ Rooms are all en-suite, and within a few minutes' walk of the main building, via
 The event takes place in a large conference building, which may also have other events taking place at the same time. The rooms are reasonably large, and we will aim to keep windows and doors open where possible. We will, unavoidably, still be a large group of people mixing in an indoor space. To try to make the Gathering as safe as we can while still striking a balance with fun and convenience, we have the following policy:
 
 - We ask every attendee to have up-to-date COVID vaccinations to whatever extent is possible for them;
-- We also ask people to do a rapid lateral flow test (RLFT) before coming to the event, and not to attend if it is positibe.
+- We also ask people to do a rapid lateral flow test (RLFT) before coming to the event, and not to attend if it is positive.
 
 If a positive COVID test prevents you from attending some or all of the event, we will be happy to refund all or part of your ticket as needed, and Remote Attendance is available if you still want to join in from home. We will not require people to wear masks during the event, but invite people to wear masks if they are more comfortable doing so.
 
