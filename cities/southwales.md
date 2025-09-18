@@ -9,11 +9,11 @@ organiser:
     email: southwales@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Gatto Lounge
-    description: ' on Gas Road in Pontypridd'
-    url: https://thelounges.co.uk/gatto/
-    lon: -3.3389913
-    lat: 51.604043
+    pub_name: The Three Arches
+    description: ' on Heathwood Road in Cardiff'
+    url: https://www.threearchespubcardiff.co.uk/
+    lon: -3.1808258
+    lat: 51.5192
 hiatus: false
 hiatus_months:
     - 2017-08
