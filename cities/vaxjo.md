@@ -19,8 +19,6 @@ hiatus: false
 jam_date_rule: second-last Tuesday
 december_jam_date_rule: third-last Tuesday
 start_time: 7pm
-links:
-    
 
 ---
 
