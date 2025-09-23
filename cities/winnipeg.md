@@ -22,6 +22,7 @@ hiatus_months:
     - 2025-06
     - 2025-07
     - 2025-08
+    - 2025-09
 start_time: 4pm until about 6/6.30pm
 links:
     twitter:
