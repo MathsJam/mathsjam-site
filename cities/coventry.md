@@ -5,7 +5,7 @@ city_name: Coventry
 jam_name: Coventry (Warwick) MathsJam
 email: coventry@mathsjam.com
 organiser:
-    name: Kit
+    name: Aris
     email: coventry@mathsjam.com
 location:
     group: uk-ireland
