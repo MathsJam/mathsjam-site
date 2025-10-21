@@ -28,7 +28,7 @@ The rules are:
 
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
 
-Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled.
+Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. Please also consider baking a cake that can be enjoyed by our attendees with dietary requirements such as vegan, gluten free and nut free.
 
 Remote attendees are also welcome to create mathematical baked goods, and your entries can be judged in the second and third categories if you send a photo/video to [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com) for us to show to the judges (by the first coffee break on Sunday).
 
