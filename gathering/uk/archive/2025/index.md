@@ -66,7 +66,7 @@ Our MathsJam group tried asking a large language model to find valid Set solutio
 
 The number one law in physics might surprise you - let's see if you agree by the end of the talk.
 
-#### David Lyford-Tilley: Fair coins, logical induction, and sea monsters
+#### David Lyford-Tilley: Fair coins, logical abduction, and sea monsters
 
 Have we been thinking about logic all wrong? David explores some classic scenarios and common errors - and argues for why we should change how we talk about probability and reasoning.
 
