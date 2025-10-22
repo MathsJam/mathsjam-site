@@ -92,7 +92,7 @@ Then, well, I missed the talks deadline. Turns out I *could* wait! So: a year la
 
 If Nessa from 'Gavin & Stacey' were a mathematician, this talk aims to demonstrate that this would be her favourite formula.
 
-### James (Mr AJ Phillips): A Wikipedia for Open Source Sims & Games
+#### James (Mr AJ Phillips): A Wikipedia for Open Source Sims & Games
 
 Playing a game from WikiSim.org, a new platform for making quirky to serious open source games about complex (usually the non-maths kind) problems we can understand and solve with maths
 
