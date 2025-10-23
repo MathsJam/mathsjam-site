@@ -39,9 +39,9 @@ Some truths vanish when you mix data, others appear when you filter it. Join fou
 
 We discovered some cool maths magic tricks at G4G Europe this year and played around with them. We think at least some of you will enjoy them, and the challenge of figuring them out. This one makes use of rock paper scissors, not as a handgame, but as a tool to predict secrets.
 
-#### Colin Wright: The Algebraic Pentagon
+#### Philipp Reinhard: The Nightking doing some magic
 
-Complex Numbers meet Compass and Straight-Edge
+There are knight tours and king tours, and magic squares. Let's give them a mix.
 
 #### Olov Wilander: Breaking the Ice – Relativistically!?
 
@@ -96,9 +96,9 @@ If Nessa from 'Gavin & Stacey' were a mathematician, this talk aims to demonstra
 
 Playing a game from WikiSim.org, a new platform for making quirky to serious open source games about complex (usually the non-maths kind) problems we can understand and solve with maths
 
-#### Matthew Scroggs: 2025 squares
+#### Bob Huxley: Non-Abelian Jigsaws
 
-2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You could represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. I'll be talking about this arrangement puzzle, whether or not its possible and whether or not its fun.
+How difficult are 3-D jigsaws?
 
 #### Simon Allen: Did the dissection of triangle to a square originate with H. E. Dudeney
 
@@ -150,9 +150,9 @@ Do you want to write a program to play your favourite abstract board game? The A
 
 I will talk through a few of the tricky things I found interesting while writing a program to play the game hex.
 
-#### Bob Huxley: Getting Jiggy
+#### Matthew Scroggs: 2025 squares
 
-How difficult are 3-D jigsaws?
+2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You could represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. I'll be talking about this arrangement puzzle, whether or not its possible and whether or not its fun.
 
 ### Ashleigh Ratcliffe: Odd one out
 
@@ -207,6 +207,6 @@ We present a comprehensive socioeconomic, game theoretic, and microeconomic exam
 
 Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works.
 
-#### Philipp Reinhard: The Nightking doing some magic
+#### Colin Wright: The Algebraic Pentagon
 
-There are knight tours and king tours, and magic squares. Let's give them a mix.
+Complex Numbers meet Compass and Straight-Edge
