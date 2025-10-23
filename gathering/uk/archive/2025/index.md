@@ -25,9 +25,9 @@ I’ll explain how to make a family of nice shapes – the rhombic dodecahedron 
 
 In the early twentieth century, two Nepali translations were published of Lilavati, a classic Sanskrit maths text. Despite the attribution of one text to Chandrakala Dhananjaya and the other to her husband, Tikaram, the books’ contents reveal that both authors contributed to both texts. In the absence of further documentary evidence, we explore why collaboration was needed to translate Sanskrit mathematical poetry into Nepali. 
 
-#### Ben Handley: Multinomial skittles
+#### David Budd: Polyomino Collinearity
 
-Building on Clare Wallace's talks during the previous two MathsJams, I will try to explain why we get more collisions than predicted (and fewer extreme results).
+How a competition from last year called Dots on a Tiling sent me down a joyful rabbit hole
 
 #### Sujata B Sharma: Plot Twist : When data changes its story!
 
@@ -176,9 +176,9 @@ Bikes famously have reflectors to ensure visibility in traffic. My unicycle does
 
 I found a neat way to 3D-print my favourite object
 
-#### David Budd: Polyomino Collinearity
+#### Ben Handley: Multinomial skittles
 
-How a competition from last year called Dots on a Tiling sent me down a joyful rabbit hole
+Building on Clare Wallace's talks during the previous two MathsJams, I will try to explain why we get more collisions than predicted (and fewer extreme results).
 
 #### Competition Results
 
