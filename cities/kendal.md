@@ -14,6 +14,7 @@ location:
     url: https://www.romneyskendal.co.uk/
     lon: -2.7490232
     lat: 54.3149883
+start_time: around 7.15pm
 hiatus: false
 ---
 
