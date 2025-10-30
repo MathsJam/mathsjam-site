@@ -46,6 +46,11 @@ You can give a talk to show us something you think is interesting. We're not loo
 - If you're using slides, you will need to send them in advance.
 - There will also be a visualiser for speakers to use.
 
+<h2 id="posters">Posters</h2>
+
+New this year: we'll have a poster wall at MathsJam. If you have some interesting maths to share that doesn’t have an associated thing to put on a table, but you don’t want to give a talk, you can bring along a poster (maximum size A3) to display. Be sure to include some way for people to find or recognise you if you want people to talk to you about it.
+
+
 <h2 id="tables">Saturday Night Tables</h2>
 
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
