@@ -62,6 +62,10 @@ Remote attendees will also be able to enter the Competition Competition: email y
 
 Remote attendees can also enter the competitions within the Competition Competition: we'll take photos of each of the competition entry sheets, and place a link in the Gather space (on the appropriate table). There will be a form to submit your entries, and and any remote entries received will be actualised (by a skilled actualiser with a pen) and entered into the competition before they close.
 
+<h2 id="posters">Posters</h2>
+
+New this year: we'll have a poster wall at MathsJam. If you have some interesting maths to share that doesn’t have an associated thing to put on a table, but you don’t want to give a talk, you can bring along a poster (maximum size A3) to display. Be sure to include some way for people to find or recognise you if you want people to talk to you about it.
+
 <h2 id="jamjam">MathsJamJam</h2>
 
 ![A large room is filled with people, mostly facing away from the camera towards the front of the space, where a selection of musicians are playing instruments. The people include a range of ages and genders, and a large double bass is visible in the centre](../../images/Jam.png)
