@@ -27,14 +27,11 @@ changed_dates:
 jam_date_rule: third Tuesday
 start_time: 7pm in the evening
 links:
-    twitter:
-        text: '@ChchMathsJam'
-        url: https://twitter.com/ChchMathsJam
     facebook:
         text: Facebook
         url: https://www.facebook.com/groups/1619676614738705/
     mailing_list:
         text: "Mailing List"
-        url: http://bit.ly/2foEXbV
+        url: http://eepurl.com/hiTOJD
 ---
 
