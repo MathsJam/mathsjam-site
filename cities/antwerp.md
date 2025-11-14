@@ -47,7 +47,7 @@ links:
     facebook:
         text: Facebook
         url: https://www.facebook.com/mathsjamantwerpen
-extra_text: In November, we'll be running an all-day MathsJam (10am-6pm) for National Science Day, in building R on the University's City Campus(<a href=\"https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c3f70cb98486e9:0xfbd5847593ddfbb7?sa=X&ved=1t:8290&ictx=111\">Rodestraat 14, 2000 Antwerpen</a>).
+extra_text: In November, we'll be running an all-day MathsJam (10am-6pm) for National Science Day, in building R on the University's City Campus (<a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c3f70cb98486e9:0xfbd5847593ddfbb7?sa=X&ved=1t:8290&ictx=111">Rodestraat 14, 2000 Antwerpen</a>).
 
 ---
 
