@@ -39,6 +39,7 @@ changed_dates:
     - 2025-03-27
     - 2025-04-28
     - 2025-09-21
+    - 2025-11-23
 links:
     twitter:
         text: '@MathsJamAntwerp'
@@ -46,7 +47,7 @@ links:
     facebook:
         text: Facebook
         url: https://www.facebook.com/mathsjamantwerpen
-extra_text: In September, instead of having a MathsJam we will be at <a href="https://mathfest.be/">MathFest in Bruges</a>, where the whole family is welcome.
+extra_text: In November, we'll be running an all-day MathsJam (10am-6pm) for National Science Day, in building R on the University's City Campus(<a href=\"https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c3f70cb98486e9:0xfbd5847593ddfbb7?sa=X&ved=1t:8290&ictx=111\">Rodestraat 14, 2000 Antwerpen</a>).
 
 ---
 
