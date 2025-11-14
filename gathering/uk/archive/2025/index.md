@@ -98,7 +98,7 @@ Playing a game from WikiSim.org, a new platform for making quirky to serious ope
 
 #### Bob Huxley: Non-Abelian Jigsaws
 
-How difficult are 3-D jigsaws?
+Whilst the operations of correctly placing pieces of a 2-D jigsaw are Abelian, things become MUCH trickier with 3-D jigsaws (cut from a solid piece of wood). Within a jigsaw of fewer than 100 pieces, it may take as many as nine operations to isolate an individual, highly-irregular, piece. Conversely, reassembly of the puzzle typically requires multiple partial disassemblies in order to place the innermost pieces.
 
 #### Simon Allen: Did the dissection of triangle to a square originate with H. E. Dudeney
 
