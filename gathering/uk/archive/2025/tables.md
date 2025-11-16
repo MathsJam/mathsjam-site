@@ -17,7 +17,7 @@ If you're joining remotely and would like something to craft, Karen suggests the
 
 ### D 3D Jigsaw Workshop (Bob Huxley)
 
-I will bring a variety of 3-D jigsaws that people can play with. All but one are by Peter Stocken - the acknowledged master cutter of such items.
+I will bring a variety of 3-D jigsaws that people can play with. All but one are by [Peter Stocken](https://puzzleplex.co.uk/puzzles) - the acknowledged master cutter of such items.
 
 ### F Find the Fallacy (Mats Vermeeren)
 
