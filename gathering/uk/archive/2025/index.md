@@ -43,10 +43,6 @@ We discovered some cool maths magic tricks at G4G Europe this year and played ar
 
 There are knight tours and king tours, and magic squares. Let's give them a mix.
 
-#### Paul Taylor - The Surprising Mathematical Depth of Wii Party
-
-We investigate the optimal strategy for one of the minigames in the 2010 Nintendo party game Wii Party.
-
 #### Anindya Sharma: The Shape of Our Notes
 
 Three mathematicians gathered in a room and discussed how they structured their (digital) maths notes. This led to a fun exploration of some pleasing structures, and a couple of nice metaphors for other parts of life.
@@ -131,6 +127,10 @@ Belgin finds a chronological list of formulae on one side of CERN's metallic scu
 #### Ally Stanley: All Lines All Ways
 
 The London Underground is made up of 11 train lines. How quickly can you ride one stop on each of them? How many ways can you even do it? I tried them all so you don't have to.
+
+#### Paul Taylor - The Surprising Mathematical Depth of Wii Party
+
+We investigate the optimal strategy for one of the minigames in the 2010 Nintendo party game Wii Party.
 
 ### Session 2b - 10:40-11:20
 
