@@ -150,7 +150,7 @@ I will talk through a few of the tricky things I found interesting while writing
 
 2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You could represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. I'll be talking about this arrangement puzzle, whether or not its possible and whether or not its fun.
 
-### Ashleigh Ratcliffe: Odd one out
+#### Ashleigh Ratcliffe: Odd one out
 
 This talk is about weighing items where all but one of the items have identical weight. My interest in this puzzle was ignited by one of the questions in the Leiden Math Trail. 
 
