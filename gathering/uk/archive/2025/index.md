@@ -43,9 +43,9 @@ We discovered some cool maths magic tricks at G4G Europe this year and played ar
 
 There are knight tours and king tours, and magic squares. Let's give them a mix.
 
-#### Olov Wilander: Breaking the Ice – Relativistically!?
+#### Paul Taylor - The Surprising Mathematical Depth of Wii Party
 
-How much energy is there in an ice cube? Einstein says: a lot! But can we relate this to some everyday process, like melting some ice? Join me in an attempt to understand mass-energy equivalence by means of some simple, but quite imprecise, calculations.
+We investigate the optimal strategy for one of the minigames in the 2010 Nintendo party game Wii Party.
 
 #### Anindya Sharma: The Shape of Our Notes
 
@@ -132,10 +132,6 @@ Belgin finds a chronological list of formulae on one side of CERN's metallic scu
 
 The London Underground is made up of 11 train lines. How quickly can you ride one stop on each of them? How many ways can you even do it? I tried them all so you don't have to.
 
-#### David Hartburn: Fretting about rockin'
-
-Last year I bought a guitar tool, a fret rocker. The talk goes into why it is the shape it is, and the maths behind a guitar fretboard.
-
 ### Session 2b - 10:40-11:20
 
 #### Fredrik Motland Kirkemo: New advances in the field of clown studies
@@ -199,10 +195,6 @@ Exploring some beautiful and unexpected relationships between triangular & squar
 
 What happens when you pair knitting with Haskell?
 
-#### Harlan Connor: The iterated prisoner's dillemma or: how I learnt to stop worrying and love the bin
-
-We present a comprehensive socioeconomic, game theoretic, and microeconomic examination of a single case study: trying to get a household bin in Liverpool.
-
 #### Nancy Blachman: Mathematical Magic
 
 Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works.
@@ -210,3 +202,5 @@ Mathematical magic has its own curious charm. It delights, confounds, and entice
 #### Colin Wright: The Algebraic Pentagon
 
 Complex Numbers meet Compass and Straight-Edge
+
+#### Final thanks and wrap-up
