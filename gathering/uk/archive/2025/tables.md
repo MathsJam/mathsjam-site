@@ -5,12 +5,48 @@ title: MathsJam Gathering 2025 - Saturday Night Tables
 
 For the Saturday evening session at MathsJam, attendees are running activities on tables in the Gathering main room. Some of them have sent through information so remote attendees can also participate - details are below. Don't forget there's also a board games table and a craft table to meet up with other Jammers during the evening in Gather.town!
 
-More details will be added below shortly.
-
-### Craft Table (Karen Hancock)
-
-Come and craft with us. Usually fibre craft based, but all crafts welcome. We'll also join the Gather.town space from a laptop on the craft table, and sit at the virtual craft table there, so people can chat to those joining remotely.
-
-### I Board Games Table
+### B Board Games Table
 
 This table will not be led by anyone, but if you'd like to bring or play any board games (mathematical or otherwise!), this is a good place to do that.
+
+### C Craft Table (Karen Hancock)
+
+Come and craft with us. Usually fibre craft based, but all crafts welcome. Drop spindles and fibre will be available if you would like to learn to spin. We'll also join the Gather.town space from a laptop on the craft table, and sit at the virtual craft table there, so people can chat to those joining remotely.
+
+If you're joining remotely and would like something to craft, Karen suggests these [Borromean Cubes](http://www.woollythoughts.com/borromeancubes.html) which make nice Christmas baubles.
+
+### D 3D Jigsaw Workshop (Bob Huxley)
+
+I will bring a variety of 3-D jigsaws that people can play with. All but one are by Peter Stocken - the acknowledged master cutter of such items.
+
+### F Find the Fallacy (Mats Vermeeren)
+
+How well can you hide an error in a mathematical argument? I'll share my favourite ways of "proving" statements like "1=0" or "any triangle is isosceles". You can either come by as a puzzle-solver and try to pin-point the fallacies, or be a puzzle-setter and bring along your own examples of a "fools' proof". (Or both!) In either case, be careful not to spoil the solution for other participants.
+
+### G Giant Rhomicosidodecawhatnot Construction (Barney Maunder-Taylor)
+
+Snapping together 12 giant pentagons, 20 enormous triangles and 30 large squares will make an enormous rhombicosisomethingorother. The huge polyhedron could be completed in as little as 10 mins by just a handful of sufficiently determined mathematicians (followed I hope by a discussion of the shape's features).
+
+### K (K)Not String Theory: Scaled Up (Laurence O'Toole)
+
+This "table" will be (K)Not String Theory, this time big and free of the confines of a 5-minute talk. Instead of string we'll have rope, and instead of building blocks we'll have people! If you were suspicious of potential chicanery, then see for yourself, this time with as many random choices as your hearts' desire. 
+
+### L Let's Make a Mini Computer Game! (AJP)
+
+For anyone who wants to hangout and make a mini computer game (probably in Javascript so it's easily web hostable).
+
+### N The Neighbours of Nibbleton (David Fox)
+
+The Certificate of Remarkable Contribution to the Community is awarded to those who have proven themselves true friends to the small village of Nibbleton. Will you be the latest recipient?
+
+### P Logic Puzzles (Izzy Whistlecroft)
+
+Come spend some time solving some logic-puzzles - there will be printouts of a range of puzzle types and difficulties, pencils will also be provided!
+
+### S Skittle Sorting Robot (Ben Handley)
+
+Gavan Fantom has made a skittle sorting robot. Since I'll be continuing the MJ skittle talk series this year, I'll be demonstrating his robot (hopefully) with yet more fun size packs of skittles.
+
+### T Taskmathster (Chalkdust Team)
+
+For the third year running, Chalkdust is bringing Taskmaster to MathsJam! This time, we'll put out a call for participants early on Saturday, with tasks running throughout the day. Then in the evening, we'll gather the team captains for a LIVE "studio recording" with the TaskMathster themself. Keep an eye out for how to join in the tasks, AND come along to see how they went on Saturday evening. Win-win.
