@@ -7,7 +7,7 @@ For the Saturday evening session at MathsJam, attendees are running activities o
 
 ### B Board Games Table
 
-This table will not be led by anyone, but if you'd like to bring or play any board games (mathematical or otherwise!), this is a good place to do that.
+This table will not be led by anyone, but if you'd like to bring or play any board games (mathematical or otherwise!), this is a good place to do that. If you're online, there'll be a Board Games table in Gather where you can meet other remote attendees (or in-person ones!) to play games on [BoardGameArena](https://en.boardgamearena.com/) or similar.
 
 ### C Craft Table (Karen Hancock)
 
