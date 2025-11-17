@@ -162,7 +162,7 @@ Paper comes in standard sizes, mostly irrational.  I'll explore the basis of the
 
 #### Laurence O'Toole: K(Not) String Theory
 
-Rational tangles, now with Lego minifigures. No pre-training required.
+Rational tangles are a way to represent any fraction using two lengths of rope. They were first introduced and studied by John Conway. Every implementation seems to use two standard moves for manipulating the ends of the rope. However, there are an additional nine building blocks for how to move.
 
 #### Kristin Ohlmann: Optimizing the street safety of a unicycle through maths-inspired decorations
 
