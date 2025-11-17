@@ -37,7 +37,9 @@ This "table" will be (K)Not String Theory, this time big and free of the confine
 
 ### L Let's Make a Mini Computer Game! (AJP)
 
-For anyone who wants to hangout and make a mini computer game (probably in Javascript so it's easily web hostable).
+For anyone who wants to hangout and make a mini computer game (probably in Javascript so it's easily web hostable). Bring a laptop if you have one with you, but people should be able to share/work on the same laptop.
+
+We'll also join the Gather.town space from a laptop on the table, and sit at one of the tables in the main room, so people can join in remotely.
 
 ### N The Neighbours of Nibbleton (David Fox)
 
