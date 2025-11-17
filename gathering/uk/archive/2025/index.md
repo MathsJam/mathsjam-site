@@ -43,6 +43,10 @@ We discovered some cool maths magic tricks at G4G Europe this year and played ar
 
 There are knight tours and king tours, and magic squares. Let's give them a mix.
 
+#### Laurence O'Toole: K(Not) String Theory
+
+Rational tangles are a way to represent any fraction using two lengths of rope. They were first introduced and studied by John Conway. Every implementation seems to use two standard moves for manipulating the ends of the rope. However, there are an additional nine building blocks for how to move.
+
 #### Anindya Sharma: The Shape of Our Notes
 
 Three mathematicians gathered in a room and discussed how they structured their (digital) maths notes. This led to a fun exploration of some pleasing structures, and a couple of nice metaphors for other parts of life.
@@ -159,10 +163,6 @@ This talk is about weighing items where all but one of the items have identical 
 Paper comes in standard sizes, mostly irrational.  I'll explore the basis of these and other sizes and what you can do with them.
 
 ### Session 2c - 11:50-12:30
-
-#### Laurence O'Toole: K(Not) String Theory
-
-Rational tangles are a way to represent any fraction using two lengths of rope. They were first introduced and studied by John Conway. Every implementation seems to use two standard moves for manipulating the ends of the rope. However, there are an additional nine building blocks for how to move.
 
 #### Kristin Ohlmann: Optimizing the street safety of a unicycle through maths-inspired decorations
 
