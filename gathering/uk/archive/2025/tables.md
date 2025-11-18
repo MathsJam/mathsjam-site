@@ -5,6 +5,12 @@ title: MathsJam Gathering 2025 - Saturday Night Tables
 
 For the Saturday evening session at MathsJam, attendees are running activities on tables in the Gathering main room. Some of them have sent through information so remote attendees can also participate - details are below. Don't forget there's also a board games table and a craft table to meet up with other Jammers during the evening in Gather.town!
 
+### A Adapting a Fun Party Game into a Maths Version
+
+We will be attempting to crowdsource ideas for a mathematical version of the game Just One, in which players have to give clues to a concept (but if two or more people give the same clue, it's eliminated from the set of clues). Which maths words would it be fun to define this way? We'll play some rounds of regular Just One first, then collect suggestions for maths words (and anyone who wants a copy of the game can give me an address to post one to and I'll get some printed once we have a full list).
+
+Remote attendees can play [Just One on BoardGameArena](https://en.boardgamearena.com/gamepanel?game=justone), and contribute to our word list in [this collaborative spreadsheet](https://docs.google.com/spreadsheets/d/1w5Xg0dCoPX_NDN-ybpk6l1EvO0ZOhgoD7ay-3u0bLmU/edit?usp=sharing).
+
 ### B Board Games Table
 
 This table will not be led by anyone, but if you'd like to bring or play any board games (mathematical or otherwise!), this is a good place to do that. If you're online, there'll be a Board Games table in Gather where you can meet other remote attendees (or in-person ones!) to play games on [BoardGameArena](https://en.boardgamearena.com/) or similar.
