@@ -25,7 +25,7 @@ We will be in the Nightingale building, which has two floors, and the main rooms
 
 !['The Meg'. A long room with round tables arranged with chairs around each table, with windows along one side of the room.](../../images/themeg.jpg)
 
-The talks sessions will take place in the main long room, and we'll have other rooms nearby with tables of things to play with, as well as space for our competitions, and a space for the MathsJam Jam to happen in the evening.
+The talks sessions will take place in the main long room, and we'll have other rooms nearby with space for our competitions, a quiet room, and a space for the MathsJam Jam to happen in the evening.
 
 ![A floor plan of the first floor, showing the rooms we'll be using. The main entrance to the building with stairs and lift is at the bottom of the image, the main talks and tables rooms are across the whole top edge of the building, and the rooms for Cakes/competitions/Jam are on the right, with a quiet room on the left near the top. There are toilets at each corner of the central atrium.](../../images/nightingale1.png)
 
