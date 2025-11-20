@@ -5,6 +5,6 @@ title: MathsJam Gathering 2025 - Competition Competition
 
 Here are pictures of the Competition Competition competitions. Click on the text to view.
 
-To enter the competitions, 
+[Form to enter the competitions](https://docs.google.com/forms/d/e/1FAIpQLSdrdDyRWp3xe6ZTWqsgu_FbQYIDVjSiE1f9GkvYVrFYcCDNHg/viewform?usp=dialog)
 
-[INTEGER]({{site.url}}/gathering/uk/archive/2025/assets/compcomp/FILENAME.jpg) Competition name
+[Mildly Constrained Puzzle Writing Competition]({{site.url}}/gathering/uk/archive/2025/assets/compcomp/mcpwc.jpg) Competition name
