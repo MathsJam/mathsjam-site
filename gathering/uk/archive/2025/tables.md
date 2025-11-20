@@ -5,7 +5,7 @@ title: MathsJam Gathering 2025 - Saturday Night Tables
 
 For the Saturday evening session at MathsJam, attendees are running activities on tables in the Gathering main room from 8-9pm. Some of them have sent through information so remote attendees can also participate - details are below. Don't forget there's also a board games table and a craft table to meet up with other Jammers during the evening in Gather.town!
 
-### A Adapting a Fun Party Game into a Maths Version
+### A Adapting a Fun Party Game into a Maths Version (Katie Steckles)
 
 We will be attempting to crowdsource ideas for a mathematical version of the game Just One, in which players have to give clues to a concept (but if two or more people give the same clue, it's eliminated from the set of clues). Which maths words would it be fun to define this way? We'll play some rounds of regular Just One first, then collect suggestions for maths words (and anyone who wants a copy of the game can give me an address to post one to and I'll get some printed once we have a full list).
 
