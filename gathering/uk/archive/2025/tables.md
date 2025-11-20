@@ -29,7 +29,7 @@ I will bring a variety of 3-D jigsaws that people can play with. All but one are
 
 How well can you hide an error in a mathematical argument? I'll share my favourite ways of "proving" statements like "1=0" or "any triangle is isosceles". You can either come by as a puzzle-solver and try to pin-point the fallacies, or be a puzzle-setter and bring along your own examples of a "fools' proof". (Or both!) In either case, be careful not to spoil the solution for other participants.
 
-For remote participants, Mats has made a [PDF of the fallacies he'll be sharing](https://mathsjam.com/gathering/uk/archive/2025/tables/fallacies.pdf), for you to look at on the night. If online attendees want to contribute their own examples, they can email them to [findthefallacy@mailbox.org](mailto:findthefallacy@mailbox.org).
+For remote participants, Mats has made a [PDF of the fallacies he'll be sharing](https://mathsjam.com/gathering/uk/archive/2025/assets/fallacies.pdf), for you to look at on the night. If online attendees want to contribute their own examples, they can email them to [findthefallacy@mailbox.org](mailto:findthefallacy@mailbox.org).
 
 ### G Giant Rhomicosidodecawhatnot Construction (Barney Maunder-Taylor)
 
