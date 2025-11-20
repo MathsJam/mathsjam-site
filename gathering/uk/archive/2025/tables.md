@@ -51,10 +51,6 @@ We'll also join the Gather.town space from a laptop on the table, and sit at one
 
 The Certificate of Remarkable Contribution to the Community is awarded to those who have proven themselves true friends to the small village of Nibbleton. Will you be the latest recipient?
 
-### P Logic Puzzles (Izzy Whistlecroft)
-
-Come spend some time solving some logic-puzzles - there will be printouts of a range of puzzle types and difficulties, pencils will also be provided!
-
 ### S Skittle Sorting Robot (Ben Handley)
 
 Gavan Fantom has made a skittle sorting robot. Since I'll be continuing the MJ skittle talk series this year, I'll be demonstrating his robot (hopefully) with yet more fun size packs of skittles.
