@@ -80,14 +80,6 @@ Much of the history of maths is intertwined with its use as a language to descri
 
 ### Session 1d - 17:00-18:00
 
-#### Phil Ramsden: Cycling in a Polygonal Rabbit-Hole
-
-Two MathsJams ago, I saw a great talk by John Hoskinson about "diffy polygons", which sent me down a fascinating rabbit-hole. What happens if you put some non-negative integers at the vertices of a square, and then put the mods of their differences at the midpoints of the sides, and use those as a fresh set of vertices, and then continue...? Is the answer to that question always more or less the same? And what if you use a triangle, or a hexagon, or something instead? 
-
-As John was speaking, I started writing code to explore all this, and at first I couldn't work out why it seemed, in certain circumstances, to hang. So over the next few months, I pushed a bit harder and dug a bit deeper, and found out some properly surprising stuff, which I couldn't wait to tell MathsJam about in 2024. 
-
-Then, well, I missed the talks deadline. Turns out I *could* wait! So: a year later than originally planned, here's my report from the "diffy polygons" rabbit hole; I hope you find it as delightful a place as I have.
-
 #### Annette Margolis aka nettie: The Formula for the Derivative of an Inverse Function is 'Tidy' 
 
 If Nessa from 'Gavin & Stacey' were a mathematician, this talk aims to demonstrate that this would be her favourite formula.
