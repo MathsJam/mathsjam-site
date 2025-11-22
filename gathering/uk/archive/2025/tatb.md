@@ -3,6 +3,77 @@ layout: gathering
 title: MathsJam Gathering 2025 - Tables at the back
 ---
 
-Here are pictures of the items on the tables at the back. Click on the text to view.
+Here are pictures of the items on the tables at the back.
 
-[ITEM NAME]({{site.url}}/gathering/uk/archive/2025/assets/tatb/FILE)
+<a href="assets/tatb/IMG_20251122_135858.jpg"><img src="assets/tatb/smaller/IMG_20251122_135858.webp"></a>
+<a href="assets/tatb/IMG_20251122_140052.jpg"><img src="assets/tatb/smaller/IMG_20251122_140052.webp"></a>
+<a href="assets/tatb/IMG_20251122_140024.jpg"><img src="assets/tatb/smaller/IMG_20251122_140024.webp"></a>
+<a href="assets/tatb/IMG_20251122_135738.jpg"><img src="assets/tatb/smaller/IMG_20251122_135738.webp"></a>
+<a href="assets/tatb/IMG_20251122_135821.jpg"><img src="assets/tatb/smaller/IMG_20251122_135821.webp"></a>
+<a href="assets/tatb/IMG_20251122_135452.jpg"><img src="assets/tatb/smaller/IMG_20251122_135452.webp"></a>
+<a href="assets/tatb/IMG_20251122_135657.jpg"><img src="assets/tatb/smaller/IMG_20251122_135657.webp"></a>
+<a href="assets/tatb/IMG_20251122_135935.jpg"><img src="assets/tatb/smaller/IMG_20251122_135935.webp"></a>
+<a href="assets/tatb/IMG_20251122_135545.jpg"><img src="assets/tatb/smaller/IMG_20251122_135545.webp"></a>
+<a href="assets/tatb/IMG_20251122_135945.jpg"><img src="assets/tatb/smaller/IMG_20251122_135945.webp"></a>
+<a href="assets/tatb/IMG_20251122_135922.jpg"><img src="assets/tatb/smaller/IMG_20251122_135922.webp"></a>
+<a href="assets/tatb/IMG_20251122_135458.jpg"><img src="assets/tatb/smaller/IMG_20251122_135458.webp"></a>
+<a href="assets/tatb/IMG_20251122_140002.jpg"><img src="assets/tatb/smaller/IMG_20251122_140002.webp"></a>
+<a href="assets/tatb/IMG_20251122_140057.jpg"><img src="assets/tatb/smaller/IMG_20251122_140057.webp"></a>
+<a href="assets/tatb/IMG_20251122_135746.jpg"><img src="assets/tatb/smaller/IMG_20251122_135746.webp"></a>
+<a href="assets/tatb/IMG_20251122_140039.jpg"><img src="assets/tatb/smaller/IMG_20251122_140039.webp"></a>
+<a href="assets/tatb/IMG_20251122_135718.jpg"><img src="assets/tatb/smaller/IMG_20251122_135718.webp"></a>
+<a href="assets/tatb/IMG_20251122_140055.jpg"><img src="assets/tatb/smaller/IMG_20251122_140055.webp"></a>
+<a href="assets/tatb/IMG_20251122_135556.jpg"><img src="assets/tatb/smaller/IMG_20251122_135556.webp"></a>
+<a href="assets/tatb/IMG_20251122_135553.jpg"><img src="assets/tatb/smaller/IMG_20251122_135553.webp"></a>
+<a href="assets/tatb/IMG_20251122_135339.jpg"><img src="assets/tatb/smaller/IMG_20251122_135339.webp"></a>
+<a href="assets/tatb/IMG_20251122_135446.jpg"><img src="assets/tatb/smaller/IMG_20251122_135446.webp"></a>
+<a href="assets/tatb/IMG_20251122_135840.jpg"><img src="assets/tatb/smaller/IMG_20251122_135840.webp"></a>
+<a href="assets/tatb/IMG_20251122_135837.jpg"><img src="assets/tatb/smaller/IMG_20251122_135837.webp"></a>
+<a href="assets/tatb/IMG_20251122_135345.jpg"><img src="assets/tatb/smaller/IMG_20251122_135345.webp"></a>
+<a href="assets/tatb/IMG_20251122_135829.jpg"><img src="assets/tatb/smaller/IMG_20251122_135829.webp"></a>
+<a href="assets/tatb/IMG_20251122_140015.jpg"><img src="assets/tatb/smaller/IMG_20251122_140015.webp"></a>
+<a href="assets/tatb/IMG_20251122_135448.jpg"><img src="assets/tatb/smaller/IMG_20251122_135448.webp"></a>
+<a href="assets/tatb/IMG_20251122_135843.jpg"><img src="assets/tatb/smaller/IMG_20251122_135843.webp"></a>
+<a href="assets/tatb/IMG_20251122_135403.jpg"><img src="assets/tatb/smaller/IMG_20251122_135403.webp"></a>
+<a href="assets/tatb/IMG_20251122_135358.jpg"><img src="assets/tatb/smaller/IMG_20251122_135358.webp"></a>
+<a href="assets/tatb/IMG_20251122_135601.jpg"><img src="assets/tatb/smaller/IMG_20251122_135601.webp"></a>
+<a href="assets/tatb/IMG_20251122_135759.jpg"><img src="assets/tatb/smaller/IMG_20251122_135759.webp"></a>
+<a href="assets/tatb/IMG_20251122_135434.jpg"><img src="assets/tatb/smaller/IMG_20251122_135434.webp"></a>
+<a href="assets/tatb/IMG_20251122_135911.jpg"><img src="assets/tatb/smaller/IMG_20251122_135911.webp"></a>
+<a href="assets/tatb/IMG_20251122_135952.jpg"><img src="assets/tatb/smaller/IMG_20251122_135952.webp"></a>
+<a href="assets/tatb/IMG_20251122_135819.jpg"><img src="assets/tatb/smaller/IMG_20251122_135819.webp"></a>
+<a href="assets/tatb/IMG_20251122_140119.jpg"><img src="assets/tatb/smaller/IMG_20251122_140119.webp"></a>
+<a href="assets/tatb/IMG_20251122_135709.jpg"><img src="assets/tatb/smaller/IMG_20251122_135709.webp"></a>
+<a href="assets/tatb/IMG_20251122_135431.jpg"><img src="assets/tatb/smaller/IMG_20251122_135431.webp"></a>
+<a href="assets/tatb/IMG_20251122_135527.jpg"><img src="assets/tatb/smaller/IMG_20251122_135527.webp"></a>
+<a href="assets/tatb/IMG_20251122_140111.jpg"><img src="assets/tatb/smaller/IMG_20251122_140111.webp"></a>
+<a href="assets/tatb/IMG_20251122_135500.jpg"><img src="assets/tatb/smaller/IMG_20251122_135500.webp"></a>
+<a href="assets/tatb/IMG_20251122_140041.jpg"><img src="assets/tatb/smaller/IMG_20251122_140041.webp"></a>
+<a href="assets/tatb/IMG_20251122_135947.jpg"><img src="assets/tatb/smaller/IMG_20251122_135947.webp"></a>
+<a href="assets/tatb/IMG_20251122_135724.jpg"><img src="assets/tatb/smaller/IMG_20251122_135724.webp"></a>
+<a href="assets/tatb/IMG_20251122_135927.jpg"><img src="assets/tatb/smaller/IMG_20251122_135927.webp"></a>
+<a href="assets/tatb/IMG_20251122_140101.jpg"><img src="assets/tatb/smaller/IMG_20251122_140101.webp"></a>
+<a href="assets/tatb/IMG_20251122_135353.jpg"><img src="assets/tatb/smaller/IMG_20251122_135353.webp"></a>
+<a href="assets/tatb/IMG_20251122_140030.jpg"><img src="assets/tatb/smaller/IMG_20251122_140030.webp"></a>
+<a href="assets/tatb/IMG_20251122_135812.jpg"><img src="assets/tatb/smaller/IMG_20251122_135812.webp"></a>
+<a href="assets/tatb/IMG_20251122_135420.jpg"><img src="assets/tatb/smaller/IMG_20251122_135420.webp"></a>
+<a href="assets/tatb/IMG_20251122_135441.jpg"><img src="assets/tatb/smaller/IMG_20251122_135441.webp"></a>
+<a href="assets/tatb/IMG_20251122_135904.jpg"><img src="assets/tatb/smaller/IMG_20251122_135904.webp"></a>
+<a href="assets/tatb/IMG_20251122_135732.jpg"><img src="assets/tatb/smaller/IMG_20251122_135732.webp"></a>
+<a href="assets/tatb/IMG_20251122_135437.jpg"><img src="assets/tatb/smaller/IMG_20251122_135437.webp"></a>
+<a href="assets/tatb/IMG_20251122_140020.jpg"><img src="assets/tatb/smaller/IMG_20251122_140020.webp"></a>
+<a href="assets/tatb/IMG_20251122_135808.jpg"><img src="assets/tatb/smaller/IMG_20251122_135808.webp"></a>
+<a href="assets/tatb/IMG_20251122_140115.jpg"><img src="assets/tatb/smaller/IMG_20251122_140115.webp"></a>
+<a href="assets/tatb/IMG_20251122_135444.jpg"><img src="assets/tatb/smaller/IMG_20251122_135444.webp"></a>
+<a href="assets/tatb/IMG_20251122_140044.jpg"><img src="assets/tatb/smaller/IMG_20251122_140044.webp"></a>
+<a href="assets/tatb/IMG_20251122_140109.jpg"><img src="assets/tatb/smaller/IMG_20251122_140109.webp"></a>
+<a href="assets/tatb/IMG_20251122_140106.jpg"><img src="assets/tatb/smaller/IMG_20251122_140106.webp"></a>
+<a href="assets/tatb/IMG_20251122_135409.jpg"><img src="assets/tatb/smaller/IMG_20251122_135409.webp"></a>
+<a href="assets/tatb/IMG_20251122_135540.jpg"><img src="assets/tatb/smaller/IMG_20251122_135540.webp"></a>
+<a href="assets/tatb/IMG_20251122_135407.jpg"><img src="assets/tatb/smaller/IMG_20251122_135407.webp"></a>
+<a href="assets/tatb/IMG_20251122_140036.jpg"><img src="assets/tatb/smaller/IMG_20251122_140036.webp"></a>
+<a href="assets/tatb/IMG_20251122_135536.jpg"><img src="assets/tatb/smaller/IMG_20251122_135536.webp"></a>
+<a href="assets/tatb/IMG_20251122_135833.jpg"><img src="assets/tatb/smaller/IMG_20251122_135833.webp"></a>
+<a href="assets/tatb/IMG_20251122_135741.jpg"><img src="assets/tatb/smaller/IMG_20251122_135741.webp"></a>
+<a href="assets/tatb/IMG_20251122_135846.jpg"><img src="assets/tatb/smaller/IMG_20251122_135846.webp"></a>
+<a href="assets/tatb/IMG_20251122_135825.jpg"><img src="assets/tatb/smaller/IMG_20251122_135825.webp"></a>

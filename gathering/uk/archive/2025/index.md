@@ -3,28 +3,39 @@ layout: gathering
 title: MathsJam Gathering 2025
 ---
 	
-<p>This is a list of talks to be given at the 2025 MathsJam Gathering. This ordering is provisional and subject to change.</p>
-
 <h2>Table of contents</h2>
 <ul>
+    <li><a href="tatb">Tables at the back</a></li>
+    <li><a href="posters">Posters</a></li>
+    <li><a href="compcomp">Competition competition</a></li>
+
     <li>
-        <a href="#saturday">Saturday</a>
+        Programme
         <ul>
-            <li><a href="#session-1a">Session 1a - <time>13:30-14:10</time></a></li>
-            <li><a href="#session-1b">Session 1b - <time>14:40-15:20</time></a></li>
-            <li><a href="#session-1c">Session 1c - <time>15:50-16:30</time></a></li>
-            <li><a href="#session-1d">Session 1d - <time>17:00-18:00</time></a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#sunday">Sunday</a>
-        <ul>
-            <li><a href="#session-2a">Session 2a - <time>09:30-10:10</time></a></li>
-            <li><a href="#session-2b">Session 2b - <time>10:40-11:20</time></a></li>
-            <li><a href="#session-2c">Session 2c - <time>11:50-12:30</time></a></li>
+            <li>
+                <a href="#saturday">Saturday</a>
+                <ul>
+                    <li><a href="#session-1a">Session 1a - <time>13:30-14:10</time></a></li>
+                    <li><a href="#session-1b">Session 1b - <time>14:40-15:20</time></a></li>
+                    <li><a href="#session-1c">Session 1c - <time>15:50-16:30</time></a></li>
+                    <li><a href="#session-1d">Session 1d - <time>17:00-18:00</time></a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#sunday">Sunday</a>
+                <ul>
+                    <li><a href="#session-2a">Session 2a - <time>09:30-10:10</time></a></li>
+                    <li><a href="#session-2b">Session 2b - <time>10:40-11:20</time></a></li>
+                    <li><a href="#session-2c">Session 2c - <time>11:50-12:30</time></a></li>
+                </ul>
+            </li>
         </ul>
     </li>
 </ul>
+
+This is a list of talks to be given at the 2025 MathsJam Gathering. This ordering is provisional and subject to change.
+
+
 
 <section>
 <h2 id="saturday">Saturday</h2>
