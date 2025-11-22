@@ -51,6 +51,10 @@ We'll also join the Gather.town space from a laptop on the table, and sit at one
 
 The Certificate of Remarkable Contribution to the Community is awarded to those who have proven themselves true friends to the small village of Nibbleton. Will you be the latest recipient?
 
+### 3D Printed Puzzles (Mike)
+
+Mike has various 3D printed puzzles to play with!
+
 ### S Skittle Sorting Robot (Ben Handley)
 
 Gavan Fantom has made a skittle sorting robot. Since I'll be continuing the MJ skittle talk series this year, I'll be demonstrating his robot (hopefully) with yet more fun size packs of skittles.
