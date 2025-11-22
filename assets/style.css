@@ -425,6 +425,24 @@ body.gathering nav#sidebar .home h1 {
     font-size: 2em;
 }
 
+
+body.gathering section {
+    margin-bottom: 2lh;
+    padding-left: 1em;
+}
+body.gathering h3 {
+    border-bottom: medium solid;
+}
+body.gathering h3 time {
+    font-weight: normal;
+}
+body.gathering article {
+    padding-left: 1em;
+}
+body.gathering article * ~ * {
+    padding-left: 1em;
+}
+
 .call-to-action {
     font-size: 2.5em;
     margin: auto;
