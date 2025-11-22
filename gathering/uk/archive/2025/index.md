@@ -8,6 +8,7 @@ title: MathsJam Gathering 2025
     <li><a href="tatb">Tables at the back</a></li>
     <li><a href="posters">Posters</a></li>
     <li><a href="compcomp">Competition competition</a></li>
+    <li><a href="cakes">Cake competition</a></li>
 
     <li>
         Programme
