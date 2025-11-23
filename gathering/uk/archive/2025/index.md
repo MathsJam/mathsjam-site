@@ -1,7 +1,7 @@
 ---
 layout: gathering
 title: MathsJam Gathering 2025
---- 
+---
 
 
 The 2025 MathsJam Gathering took place on the weekend of 22-23 November 2025, at Kent's Hill Park in Milton Keynes. Below are links to things people shared at MathsJam. 
