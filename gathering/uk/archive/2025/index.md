@@ -297,7 +297,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Simon's slides (PDF)]({{site.url}}/assets/talks/2025/SimonAllen-DidthedissectionoftriangletoasquareoriginatewithHEDudeney.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/SimonAllen-DidthedissectionoftriangletoasquareoriginatewithHEDudeney.pdf">Simon's slides (PDF)</a></li>
 	</ul>
 </p>
 </article>
@@ -328,7 +328,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		</article>
 		<p>
 			<ul>
-				<li>[Miles's slides (online)](https://docs.google.com/presentation/d/1Y_ZjVf5iuiWHI690SI0QhCdqBm94_Kf-RiQVNtUaZF8/edit?usp=sharing)</li>
+				<li><a href="https://docs.google.com/presentation/d/1Y_ZjVf5iuiWHI690SI0QhCdqBm94_Kf-RiQVNtUaZF8/edit?usp=sharing">Miles's slides (online)</li>
 		
 			</ul>
 		</p>
@@ -350,8 +350,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Belgin's slides (PPT)]({{site.url}}/assets/talks/2025/BelginSeymenoglu-WanderingtheimmeasurableatCERN.pptx)</li>
-		<li>[Belgin's slides (PDF)]({{site.url}}/assets/talks/2025/BelginSeymenoglu-WanderingtheimmeasurableatCERN.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/BelginSeymenoglu-WanderingtheimmeasurableatCERN.pptx">Belgin's slides (PPT)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/BelginSeymenoglu-WanderingtheimmeasurableatCERN.pdf">Belgin's slides (PDF)</li>
 	</ul>
 </p>
 </article>
@@ -364,7 +364,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Ally's slides (online)](https://docs.google.com/presentation/d/1mgm7aThWSoO9Mkv8O2d7zOf7ne2cWCK5lU2XLcc1xYE/edit?usp=sharing)</li>
+		<li><a href="https://docs.google.com/presentation/d/1mgm7aThWSoO9Mkv8O2d7zOf7ne2cWCK5lU2XLcc1xYE/edit?usp=sharing">Ally's slides (online)</li>
 		
 	</ul>
 </p>
@@ -378,7 +378,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Paul's slides (PDF)]({{site.url}}/assets/talks/2025/PaulTaylor-TheSurprisingMathematicalDepthofWiiParty.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/PaulTaylor-TheSurprisingMathematicalDepthofWiiParty.pdf">Paul's slides (PDF)</li>
 	</ul>
 </p>
 </article>
@@ -405,7 +405,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Niall's slides (online)](https://docs.google.com/presentation/d/15rxtPPVm-7m_HznVv1wcgEIr2_R6cJLinWVL3XPfXAw/)</li>
+		<li><a href="https://docs.google.com/presentation/d/15rxtPPVm-7m_HznVv1wcgEIr2_R6cJLinWVL3XPfXAw/">Niall's slides (online)</li>
 	</ul>
 </p>
 </article>
@@ -418,7 +418,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Matthew's slides (online)](https://mscroggs.github.io/mj2025-slides/)</li>
+		<li><a href="https://mscroggs.github.io/mj2025-slides/">Matthew's slides (online)</li>
 		
 	</ul>
 </p>
@@ -441,8 +441,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Martin's slides (PPT)]({{site.url}}/assets/talks/2025/MartinWhitworth-Howlargeisapieceofpaper.pptx)</li>
-		<li>[Martin's slides (PDF)]({{site.url}}/assets/talks/2025/MartinWhitworth-Howlargeisapieceofpaper.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/MartinWhitworth-Howlargeisapieceofpaper.pptx">Martin's slides (PPT)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/MartinWhitworth-Howlargeisapieceofpaper.pdf">Martin's slides (PDF)</li>
 	</ul>
 </p>
 </article>
@@ -460,8 +460,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 			</p>
 <p>
 		<ul>
-			<li>[Kristin's slides (PPT)]({{site.url}}/assets/talks/2025/KristinOhlmann-Optimizingthestreetsafetyofaunicyclethroughmaths-inspireddecorations.pptx)</li>
-			<li>[Kristin's slides (PDF)]({{site.url}}/assets/talks/2025/KristinOhlmann-Optimizingthestreetsafetyofaunicyclethroughmaths-inspireddecorations.pdf)</li>
+			<li><a href="{{site.url}}/assets/talks/2025/KristinOhlmann-Optimizingthestreetsafetyofaunicyclethroughmaths-inspireddecorations.pptx">Kristin's slides (PPT)</li>
+			<li><a href="{{site.url}}/assets/talks/2025/KristinOhlmann-Optimizingthestreetsafetyofaunicyclethroughmaths-inspireddecorations.pdf">Kristin's slides (PDF)</li>
 		</ul>
 	</p>
 </article>
@@ -483,7 +483,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Ben's slides (PDF)]({{site.url}}/assets/talks/2025/BenHandley-Multinomialskittles.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/BenHandley-Multinomialskittles.pdf">Ben's slides (PDF)</li>
 	</ul>
 </p>
 </article>
@@ -502,7 +502,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 			</p>
 <p>
 		<ul>
-			<li>[Vanessa's slides (PDF)]({{site.url}}/assets/talks/2025/VanessaMadu-OnSequencesofSemiprimes.pdf)</li>
+			<li><a href="{{site.url}}/assets/talks/2025/VanessaMadu-OnSequencesofSemiprimes.pdf">Vanessa's slides (PDF)</li>
 		</ul>
 	</p>
 </article>
@@ -515,7 +515,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Barney's slides (PPT)]({{site.url}}/assets/talks/2025/BarneyMaunder-Taylor-PuzzlingPyramids.pptx)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/BarneyMaunder-Taylor-PuzzlingPyramids.pptx">Barney's slides (PPT)</li>
 	</ul>
 </p>
 </article>
@@ -529,8 +529,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 
 <p>
 	<ul>
-		<li>[Raphael's slides (online)](https://docs.google.com/presentation/d/1bQ9lpPsi4SieKgwLa0-lJtsG_cH1ZmRYEv0UMKQqpK0/edit?usp=sharing
-)</li>
+		<li><a href="https://docs.google.com/presentation/d/1bQ9lpPsi4SieKgwLa0-lJtsG_cH1ZmRYEv0UMKQqpK0/edit?usp=sharing">Raphael's slides (online)</li>
 	
 	</ul>
 </p>
@@ -545,7 +544,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 
 <p>
 	<ul>
-		<li>[Nancy's slides (online)](https://docs.google.com/presentation/d/1zgDO8mnnliWPxhTujDPhAN2YGiWMVy087w1A-yO8PKE/edit)</li>
+		<li><a href="https://docs.google.com/presentation/d/1zgDO8mnnliWPxhTujDPhAN2YGiWMVy087w1A-yO8PKE/edit">Nancy's slides (online)</li>
 		
 	</ul>
 </p>
