@@ -90,11 +90,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		<p>
 			In the early twentieth century, two Nepali translations were published of Lilavati, a classic Sanskrit maths text. Despite the attribution of one text to Chandrakala Dhananjaya and the other to her husband, Tikaram, the books’ contents reveal that both authors contributed to both texts. In the absence of further documentary evidence, we explore why collaboration was needed to translate Sanskrit mathematical poetry into Nepali. This talk is based on research by Dr Deepak Basyal. 
 			</p>
-<p>
-		<ul>
-			<li>[Brigitte's slides (PDF)]({{site.url}}/assets/talks/2025/BrigitteStenhouse-FromSanskrittoNepali-ThemathematicalpoetryoftheDhananjayas.pdf)</li>
-		</ul>
-	</p>
+
 </article>
 <article>
 	<h4>
@@ -164,11 +160,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	<p>
 		Rational tangles are a way to represent any fraction using two lengths of rope. They were first introduced and studied by John Conway. Every implementation seems to use two standard moves for manipulating the ends of the rope, while also relying on four helpers who have been pre-trained in how to do these. Here, we will show that with eight Lego mini-figures, pre-training is not necessary, and there are an additional nine building blocks for how to move.
 	</p>
-<p>
-	<ul>
-		<li>[Laurence's slides (PDF)]({{site.url}}/assets/talks/2025/LaurenceOToole-K(Not)StringTheory.pdf)</li>
-	</ul>
-</p>
+
 </article>
 <article>
 	<h4>
@@ -245,12 +237,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	<p>
 		A look into the world of logic puzzles beyond traditional sudoku, with example puzzles of a variety of types. Let's see some cool puzzles! Highlights included: Toketa Magazine, Pulze Magazine, Sudokuvania
 	</p>
-<p>
-	<ul>
-		<li>[Izzy's slides (PPT)]({{site.url}}/assets/talks/2025/IzzyWhistlecroft-TheArtofLogicPuzzles.pptx)</li>
-		<li>[Izzy's slides (PDF)]({{site.url}}/assets/talks/2025/IzzyWhistlecroft-TheArtofLogicPuzzles.pdf)</li>
-	</ul>
-</p>
+
 </article>
 <article>
 	<h4>
@@ -329,11 +316,6 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	<p>
 		A famous 1503 woodcut in the book Margarita Philosophica shows the transition that was taking place in arithmetic. A smiling Boethius shows off the new method of doing arithmetic with Indo Arabic numerals. He appears to be doing a subtraction, but he gets the wrong answer. 
 	</p>
-<p>
-	<ul>
-		<li>[Rob's slides (PDF)]({{site.url}}/assets/talks/2025/RobEastaway-BoethiusBlowsIt.pdf)</li>
-	</ul>
-</p>
 </article>
 </section>
 <section>
