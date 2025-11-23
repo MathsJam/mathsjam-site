@@ -3,7 +3,7 @@ layout: gathering
 title: MathsJam Gathering 2025
 ---
 	
-
+<section>
 The 2025 MathsJam Gathering took place on the weekend of 22-23 November 2025, at Kent's Hill Park in Milton Keynes. Below are links to things people shared at MathsJam.
 
 <ul>
@@ -38,8 +38,7 @@ The 2025 MathsJam Gathering took place on the weekend of 22-23 November 2025, at
 </ul>
 
 This is a list of talks which were given at the 2025 MathsJam Gathering, including links to slides where available. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
-
-
+</section>
 <section>
 	<h2 id="saturday">
 		Saturday
@@ -102,8 +101,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		Sujata B Sharma: Plot Twist : When data changes its story!
 	</h4>
 	<p>
-		When Anscombe, Simpson, Berkson, and Lindley team up, reality bends.
-A fast, funny tour of how graphs, context, selection, and priors all gang up to make statistics weird again.
+		When Anscombe, Simpson, Berkson, and Lindley team up, reality bends. A fast, funny tour of how graphs, context, selection, and priors all gang up to make statistics weird again.
 	</p>
 <p>
 	<ul>
