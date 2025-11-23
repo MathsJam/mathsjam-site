@@ -50,22 +50,14 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		</h3>
 		<article>
 			<h4>
-				MathsJam Team: Welcome to MathsJam
-			</h4>
-			<p>
-				Introduction and welcome
-			</p>
-		</article>
-		<article>
-			<h4>
 				Tiago Hirth: Micro Maths Magic Marvels
 			</h4>
 			<p>
-				This year, 2025, we, Pedro Freitas, Jorge Nuno Silva, Alexandre Silva, and Tiago Hirth, got our book ""Magic, Mathematics, and Playing Cards"" published. In this five minute presentation I aim to share four quick effects to hook the audience in wanting to know more about the mathematics that make them work to promote our work.
+				This year, 2025, we, Pedro Freitas, Jorge Nuno Silva, Alexandre Silva, and Tiago Hirth, got our book "Magic, Mathematics, and Playing Cards" published. In this five minute presentation I aim to share four quick effects to hook the audience in wanting to know more about the mathematics that make them work to promote our work.
 			</p>
 			<p>
 				<ul>
-					<li>[Tiago's slides (online)](https://docs.google.com/presentation/d/1tYGLENz8xkIU7NT55kt9emLWG9_KMKpyJsl9BOS5rWo/edit)</li>
+					<li><a href="https://docs.google.com/presentation/d/1tYGLENz8xkIU7NT55kt9emLWG9_KMKpyJsl9BOS5rWo/edit">Tiago's slides (online)</a></li>
 				</ul>
 			</p>
 		</article>
@@ -79,7 +71,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		</article>
 		<p>
 			<ul>
-				<li>[Robin's slides (PDF)]({{site.url}}/assets/talks/2025/RobinHouston-Coolshapesmadebyintersectingprisms.pdf)</li>
+				<li><a href="{{site.url}}/assets/talks/2025/RobinHouston-Coolshapesmadebyintersectingprisms.pdf">Robin's slides (PDF)</a>"</li>
 			</ul>
 		</p>
 	</article>
@@ -101,7 +93,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 	</p>
 <p>
 	<ul>
-		<li>[Dave's slides (online)](https://docs.google.com/presentation/d/1JSM1qn1JMuH_QsyiBJU-_C87GKdj09-jDKNMyf8Kzyg/edit)</li>
+		<li><a href="https://docs.google.com/presentation/d/1JSM1qn1JMuH_QsyiBJU-_C87GKdj09-jDKNMyf8Kzyg/edit">Dave's slides (online)</a></li>
 	</ul>
 </p>
 </article>
@@ -115,8 +107,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Sujata's slides (PPT)]({{site.url}}/assets/talks/2025/SujataBSharma-PlotTwist-Whendatachangesitsstory.pptx)</li>
-		<li>[Sujata's slides (PDF)]({{site.url}}/assets/talks/2025/SujataBSharma-PlotTwist-Whendatachangesitsstory.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/SujataBSharma-PlotTwist-Whendatachangesitsstory.pptx">Sujata's slides (PPT)</a></li>
+		<li><a href="{{site.url}}/assets/talks/2025/SujataBSharma-PlotTwist-Whendatachangesitsstory.pdf">Sujata's slides (PDF)</a></li>
 	</ul>
 </p>
 </article>
@@ -134,8 +126,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 			</p>
 <p>
 		<ul>
-			<li>[Jørn's slides (PPT)]({{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pptx)</li>
-			<li>[Jørn's slides (PDF)]({{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pdf)</li>
+			<li><a href="{{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pptx">Jørn's slides (PPT)</a></li>
+			<li><a href="{{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pdf">Jørn's slides (PDF)</a></li>
 		</ul>
 	</p>
 </article>
@@ -148,8 +140,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Philipp's slides (PPT)]({{site.url}}/assets/talks/2025/PhilippReinhard-TheNightkingdoingsomemagic.ppt)</li>
-		<li>[Philipp's slides (PDF)]({{site.url}}/assets/talks/2025/PhilippReinhard-TheNightkingdoingsomemagic.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/PhilippReinhard-TheNightkingdoingsomemagic.ppt">Philipp's slides (PPT)</a></li>
+		<li><a href="{{site.url}}/assets/talks/2025/PhilippReinhard-TheNightkingdoingsomemagic.pdf">Philipp's slides (PDF)</a></li>
 	</ul>
 </p>
 </article>
@@ -167,11 +159,11 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Anindya Sharma: The Shape of Our Notes
 	</h4>
 	<p>
-		I was with two mathematician friends of mine, and we started comparing how we structure our maths notes on our computers. Specifically, the directory structures. This got us thinking: could we quantify the shape of our thinking? Could we come up with metrics to see how differently we all approached our work? As we sketched out our own folder structures, a nice pattern emerged. We were all on a spectrum, and the two extremes were always the same two shapes: the Path Graph and the Star Graph. Instantly, we had a new language. ""Oh, you're very path-like in how you approach problem solving,"" or ""That's a very star-like way to organize a course."" Maths is a great place to pick up some good vocabulary and metaphors for life, e.g. ""progress is not monotonic"", ""the tasks on my to-do list do not commute"". I believe ""path-like"" and ""star-like"" can be just as useful, and discuss a few examples.
+		I was with two mathematician friends of mine, and we started comparing how we structure our maths notes on our computers. Specifically, the directory structures. This got us thinking: could we quantify the shape of our thinking? Could we come up with metrics to see how differently we all approached our work? As we sketched out our own folder structures, a nice pattern emerged. We were all on a spectrum, and the two extremes were always the same two shapes: the Path Graph and the Star Graph. Instantly, we had a new language. "Oh, you're very path-like in how you approach problem solving," or "That's a very star-like way to organize a course." Maths is a great place to pick up some good vocabulary and metaphors for life, e.g. "progress is not monotonic", "the tasks on my to-do list do not commute". I believe "path-like" and "star-like" can be just as useful, and discuss a few examples.
 	</p>
 <p>
 	<ul>
-		<li>[Anindya's slides (PDF)]({{site.url}}/assets/talks/2025/AnindyaSharma-TheShapeofOurNotes.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/AnindyaSharma-TheShapeofOurNotes.pdf">Anindya's slides (PDF)</a></li>
 	</ul>
 </p>
 </article>
@@ -199,8 +191,8 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 			</p>
 <p>
 		<ul>
-			<li>[John's slides (PPT)]({{site.url}}/assets/talks/2025/JohnRead-CanAIsplaySet.ppt)</li>
-			<li>[John's slides (PDF)]({{site.url}}/assets/talks/2025/JohnRead-CanAIsplaySet.pdf)</li>
+			<li><a href="{{site.url}}/assets/talks/2025/JohnRead-CanAIsplaySet.ppt">John's slides (PPT)</a></li>
+			<li><a href="{{site.url}}/assets/talks/2025/JohnRead-CanAIsplaySet.pdf">John's slides (PDF)</a></li>
 		</ul>
 	</p>
 </article>
@@ -213,7 +205,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Tarim's slides (HTML)]({{site.url}}/assets/talks/2025/Tarim-TheTop3LawsinPhysics.html)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/Tarim-TheTop3LawsinPhysics.html">Tarim's slides (HTML)</a></li>
 	</ul>
 </p>
 </article>
@@ -226,7 +218,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[David's slides (PDF)]({{site.url}}/assets/talks/2025/DavidLyford-Tilley-Faircoinslogicalabductionandseamonsters.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/DavidLyford-Tilley-Faircoinslogicalabductionandseamonsters.pdf">David's slides (PDF)</a></li>
 	</ul>
 </p>
 </article>
@@ -248,7 +240,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Gavan's slides (MP4)]({{site.url}}/assets/talks/2025/GavanFantom-Usingmathstobendtheworldtoyourwill.mp4)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/GavanFantom-Usingmathstobendtheworldtoyourwill.mp4">Gavan's slides (MP4)</a></li>
 	</ul>
 </p>
 </article>
@@ -279,7 +271,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[James's slides (online)](https://docs.google.com/presentation/d/1NPskbvYM5mV4MXf0jvcbfFTEEkbn41lypBJEnvm4FfI/edit)</li>
+		<li><a href="https://docs.google.com/presentation/d/1NPskbvYM5mV4MXf0jvcbfFTEEkbn41lypBJEnvm4FfI/edit">James's slides (online)</a></li>
 	</ul>
 </p>
 </article>
@@ -292,7 +284,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 	</p>
 <p>
 	<ul>
-		<li>[Bob's slides (PDF)]({{site.url}}/assets/talks/2025/BobHuxley-Non-AbelianJigsaws.pdf)</li>
+		<li><a href="{{site.url}}/assets/talks/2025/BobHuxley-Non-AbelianJigsaws.pdf">Bob's slides (PDF)</a></li>
 	</ul>
 </p>
 </article>
@@ -331,7 +323,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 				Miles Gould: Dual numbers
 			</h4>
 			<p>
-				Like the complex numbers, the dual numbers are 2D vectors of real numbers with a rule that allows you to multiply them together. But the multiplication rule is different - instead of i² = -1, we have ε² = 0. This means that the ""imaginary"" part of a dual number behaves like an infinitesimal difference, and obeys the chain and product rules for derivatives. This is behind the magical-seeming trick of automatic differentiation, which makes training modern deep neural networks feasible.
+				Like the complex numbers, the dual numbers are 2D vectors of real numbers with a rule that allows you to multiply them together. But the multiplication rule is different - instead of i² = -1, we have ε² = 0. This means that the "imaginary" part of a dual number behaves like an infinitesimal difference, and obeys the chain and product rules for derivatives. This is behind the magical-seeming trick of automatic differentiation, which makes training modern deep neural networks feasible.
 			</p>
 		</article>
 		<p>
@@ -354,7 +346,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Belgin Seymenoglu: Wandering the immeasurable at CERN
 	</h4>
 	<p>
-		Belgin finds a chronological list of formulae, theorems and other historical mathematical achievements on one side of CERN's metallic sculpture, ""Wandering the immeasurable"". Timeline includes: - Base 60 calculations, Mesopotamia - Pythagoras' theorems - Chinese/Sanskrit/Arabic calculations & results - Numerous physics equations with famous names attached - Mendeleev and the periodic table - Early estimates of the speed of light - Standard model's Lagrangian
+		Belgin finds a chronological list of formulae, theorems and other historical mathematical achievements on one side of CERN's metallic sculpture, "Wandering the immeasurable". Timeline includes: - Base 60 calculations, Mesopotamia - Pythagoras' theorems - Chinese/Sanskrit/Arabic calculations & results - Numerous physics equations with famous names attached - Mendeleev and the periodic table - Early estimates of the speed of light - Standard model's Lagrangian
 	</p>
 <p>
 	<ul>
@@ -368,7 +360,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Ally Stanley: All Lines All Ways
 	</h4>
 	<p>
-		Look at a map of the London Underground and try to find a path through 12 stations that uses all 11 tube lines. Ally first attempted the London ""all lines"" challenge in 2023, then did it some more until he'd tried every possible route. There are more than you might expect. Here he shares his findings, tips for future challengers, and some fun facts found along the way.
+		Look at a map of the London Underground and try to find a path through 12 stations that uses all 11 tube lines. Ally first attempted the London "all lines" challenge in 2023, then did it some more until he'd tried every possible route. There are more than you might expect. Here he shares his findings, tips for future challengers, and some fun facts found along the way.
 	</p>
 <p>
 	<ul>
@@ -548,7 +540,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Nancy Blachman: Mathematical Magic
 	</h4>
 	<p>
-		Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works. I presented a trick called ""Cat, Dog, and Mouse Magic"" and a variation of it. The beauty of this trick is that it can be accomplished in multiple ways. After I demonstrate my method, spectators are eager to stage it themselves. When they perform the trick, they inadvertently practice and develop their mathematical skills. For the Cat, Dog, and Mouse Magic cards and a video or two of the magic trick, visit jrmf.org/puzzle/cat-dog-mouse-magic/ and for my slides, tinyurl.com/MathsJam2025-Magic.
+		Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works. I presented a trick called "Cat, Dog, and Mouse Magic" and a variation of it. The beauty of this trick is that it can be accomplished in multiple ways. After I demonstrate my method, spectators are eager to stage it themselves. When they perform the trick, they inadvertently practice and develop their mathematical skills. For the Cat, Dog, and Mouse Magic cards and a video or two of the magic trick, visit jrmf.org/puzzle/cat-dog-mouse-magic/ and for my slides, tinyurl.com/MathsJam2025-Magic.
 	</p>
 
 <p>
