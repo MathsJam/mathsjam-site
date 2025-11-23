@@ -374,7 +374,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Paul Taylor: The Surprising Mathematical Depth of Wii Party
 	</h4>
 	<p>
-		Paul found this StackExchange post (https://puzzling.stackexchange.com/questions/134849/1-vs-3-hide-and-seek-challenge) in which people were discussing an interesting maths problem... but further down the thread, discovered that the problem is actually based on one of the minigames from the 2010 Nintendo party game Wii Party. (He brought a Wii so we could play a bit ourselves).
+		Paul found <a href="https://puzzling.stackexchange.com/questions/134849/1-vs-3-hide-and-seek-challenge">this StackExchange post</a> in which people were discussing an interesting maths problem... but further down the thread, discovered that the problem is actually based on one of the minigames from the 2010 Nintendo party game Wii Party. (He brought a Wii so we could play a bit ourselves).
 	</p>
 <p>
 	<ul>
@@ -414,7 +414,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Matthew Scroggs: 2025 squares
 	</h4>
 	<p>
-		2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You can represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. This talk looked at the general puzzle involving the sum of the first n cubes, showing that it's possible to do the arrangement for n=1, n=8 and n=9, but not possible for 2 to 7, and showed off the interactive thing that Scroggs made at https://www.mscroggs.co.uk/squares/.
+		2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You can represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. This talk looked at the general puzzle involving the sum of the first n cubes, showing that it's possible to do the arrangement for n=1, n=8 and n=9, but not possible for 2 to 7, and showed off <a href="https://www.mscroggs.co.uk/squares/">the interactive thing that Scroggs made</a>.
 	</p>
 <p>
 	<ul>
@@ -470,7 +470,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Michael Borcherds: Something I made with my 3D printer
 	</h4>
 	<p>
-		I tried a few different ways to print the 14th Stellation of the Icosahedron. I will show a few ways that I tried. The final way is very neat - it uses 60 identical tetrahedra (plus 240 magnets!). You can try it yourself here https://makerworld.com/en/models/1687802-14th-stellation-of-the-icosahedron-modular-60 This is a similar much bigger project by Bob Hearn which I have started and will also show (and for people to play with afterwards) https://www.instructables.com/The-Magnetic-59-Icosahedra/
+		I tried a few different ways to print the 14th Stellation of the Icosahedron. I will show a few ways that I tried. The final way is very neat - it uses 60 identical tetrahedra (plus 240 magnets!). You can <a href="https://makerworld.com/en/models/1687802-14th-stellation-of-the-icosahedron-modular-60">try it yourself here</a>. This is a <a href="https://www.instructables.com/The-Magnetic-59-Icosahedra/"> similar much bigger project by Bob Hearn</a> which I have started and will also show (and for people to play with afterwards). 
 	</p>
 
 </article>
@@ -539,7 +539,7 @@ A fast, funny tour of how graphs, context, selection, and priors all gang up to 
 		Nancy Blachman: Mathematical Magic
 	</h4>
 	<p>
-		Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works. I presented a trick called "Cat, Dog, and Mouse Magic" and a variation of it. The beauty of this trick is that it can be accomplished in multiple ways. After I demonstrate my method, spectators are eager to stage it themselves. When they perform the trick, they inadvertently practice and develop their mathematical skills. For the Cat, Dog, and Mouse Magic cards and a video or two of the magic trick, visit jrmf.org/puzzle/cat-dog-mouse-magic/ and for my slides, tinyurl.com/MathsJam2025-Magic.
+		Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works. I presented a trick called "Cat, Dog, and Mouse Magic" and a variation of it. The beauty of this trick is that it can be accomplished in multiple ways. After I demonstrate my method, spectators are eager to stage it themselves. When they perform the trick, they inadvertently practice and develop their mathematical skills. For the Cat, Dog, and Mouse Magic cards and a video or two of the magic trick, visit <a href="jrmf.org/puzzle/cat-dog-mouse-magic/">jrmf.org/puzzle/cat-dog-mouse-magic/</a>.
 	</p>
 
 <p>
