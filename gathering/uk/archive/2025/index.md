@@ -62,7 +62,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 				Robin Houston: Cool shapes made by intersecting prisms 
 			</h4>
 			<p>
-				I’m don’t know any overarching theory of such polyhedra; I suspect there are many wonders in this vicinity waiting patiently to be found. 
+				I don't know any overarching theory of such polyhedra; I suspect there are many wonders in this vicinity waiting patiently to be found. 
 			</p>
 		<p>
 			<ul>
@@ -75,7 +75,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 			Brigitte Stenhouse: From Sanskrit to Nepali: The mathematical poetry of the Dhananjayas 
 		</h4>
 		<p>
-			In the early twentieth century, two Nepali translations were published of Lilavati, a classic Sanskrit maths text. Despite the attribution of one text to Chandrakala Dhananjaya and the other to her husband, Tikaram, the books’ contents reveal that both authors contributed to both texts. In the absence of further documentary evidence, we explore why collaboration was needed to translate Sanskrit mathematical poetry into Nepali. This talk is based on research by Dr Deepak Basyal. 
+			In the early twentieth century, two Nepali translations were published of Lilavati, a classic Sanskrit maths text. Despite the attribution of one text to Chandrakala Dhananjaya and the other to her husband, Tikaram, the books' contents reveal that both authors contributed to both texts. In the absence of further documentary evidence, we explore why collaboration was needed to translate Sanskrit mathematical poetry into Nepali. This talk is based on research by Dr Deepak Basyal. 
 		</p>
 	</article>
 	<article>
@@ -112,15 +112,15 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 	</h3>
 	<article>
 		<h4>
-			Jørn Hafver: Rock Rock Paper Rock Scissors Paper 
+			J&oslash;rn Hafver: Rock Rock Paper Rock Scissors Paper 
 		</h4>
 		<p>
-			This is one of a pair of talks about mathematical magic tricks that we saw and fiddled with at this years G4G Europe. This one is a variation of a binary code trick to guess a number, and the result is what happens when someone says “could this be done in base 3?”. Rock paper and scissors are used to encode the numbers, and the challenge is to figure out how it works. 
+			This is one of a pair of talks about mathematical magic tricks that we saw and fiddled with at this years G4G Europe. This one is a variation of a binary code trick to guess a number, and the result is what happens when someone says "could this be done in base 3?". Rock paper and scissors are used to encode the numbers, and the challenge is to figure out how it works. 
 		</p>
 		<p>
 			<ul>
-				<li><a href="{{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pptx">Jørn's slides (PPT)</a></li>
-				<li><a href="{{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pdf">Jørn's slides (PDF)</a></li>
+				<li><a href="{{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pptx">J&oslash;rn's slides (PPT)</a></li>
+				<li><a href="{{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pdf">J&oslash;rn's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>
@@ -176,7 +176,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 	</article>
 	<article>
 		<h4>
-			John Read: Can AI’s play Set ? 
+			John Read: Can AI's play Set ? 
 		</h4>
 		<p>
 			Talk summary : An AI can play set, but at the moment, not honestly or accurately. 
@@ -313,7 +313,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 				Miles Gould: Dual numbers 
 			</h4>
 			<p>
-				Like the complex numbers, the dual numbers are 2D vectors of real numbers with a rule that allows you to multiply them together. But the multiplication rule is different - instead of i² = -1, we have ε² = 0. This means that the "imaginary" part of a dual number behaves like an infinitesimal difference, and obeys the chain and product rules for derivatives. This is behind the magical-seeming trick of automatic differentiation, which makes training modern deep neural networks feasible. 
+				Like the complex numbers, the dual numbers are 2D vectors of real numbers with a rule that allows you to multiply them together. But the multiplication rule is different - instead of i<sup>2</sup> = -1, we have &epsilon;<sup>2</sup> = 0. This means that the "imaginary" part of a dual number behaves like an infinitesimal difference, and obeys the chain and product rules for derivatives. This is behind the magical-seeming trick of automatic differentiation, which makes training modern deep neural networks feasible. 
 			</p>
 		</article>
 		<p>
@@ -481,7 +481,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 			Vanessa Madu: On Sequences of Semiprimes 
 		</h4>
 		<p>
-			I explored sequences of consecutive odd semi-primes: numbers with exactly two (not necessarily distinct) prime factors. While the maximum length of sequences of consecutive semi-primes is a fairly widely known result, I wondered what would happen if we restricted to the odd-only case. By systematically searching, I found chains of lengths 2 through 8, but none longer, and for good reason. In any run of nine or more consecutive odd numbers, one must be divisible by 9, which means it contains the factor 3×3, and so it can’t be semi-prime. Therefore, the longest possible chain of consecutive odd semi-primes is of length eight. The talk also touched on why the smallest example of the longest chain isn’t the largest and posed some questions about generalising to other spacings between semi-primes. 
+			I explored sequences of consecutive odd semi-primes: numbers with exactly two (not necessarily distinct) prime factors. While the maximum length of sequences of consecutive semi-primes is a fairly widely known result, I wondered what would happen if we restricted to the odd-only case. By systematically searching, I found chains of lengths 2 through 8, but none longer, and for good reason. In any run of nine or more consecutive odd numbers, one must be divisible by 9, which means it contains the factor 3&times;3, and so it can't be semi-prime. Therefore, the longest possible chain of consecutive odd semi-primes is of length eight. The talk also touched on why the smallest example of the longest chain isn't the largest and posed some questions about generalising to other spacings between semi-primes. 
 		</p>
 		<p>
 			<ul>
