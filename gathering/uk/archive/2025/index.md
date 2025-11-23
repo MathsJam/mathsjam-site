@@ -3,332 +3,588 @@ layout: gathering
 title: MathsJam Gathering 2025
 ---
 	
-<h2>Table of contents</h2>
-<ul>
-    <li><a href="tatb">Tables at the back</a></li>
-    <li><a href="posters">Posters</a></li>
-    <li><a href="compcomp">Competition competition</a></li>
-    <li><a href="cakes">Cake competition</a></li>
 
+The 2025 MathsJam Gathering took place on the weekend of 22-23 November 2025, at Kent's Hill Park in Milton Keynes. Below are links to things people shared at MathsJam.
+
+<ul>
     <li>
-        Programme
+        Talks Programme
         <ul>
             <li>
                 <a href="#saturday">Saturday</a>
                 <ul>
-                    <li><a href="#session-1a">Session 1a - <time>13:30-14:10</time></a></li>
-                    <li><a href="#session-1b">Session 1b - <time>14:40-15:20</time></a></li>
-                    <li><a href="#session-1c">Session 1c - <time>15:50-16:30</time></a></li>
-                    <li><a href="#session-1d">Session 1d - <time>17:00-18:00</time></a></li>
+                    <li><a href="#session-1a">Session 1a</a></li>
+                    <li><a href="#session-1b">Session 1b</a></li>
+                    <li><a href="#session-1c">Session 1c</a></li>
+                    <li><a href="#session-1d">Session 1d</a></li>
                 </ul>
             </li>
             <li>
                 <a href="#sunday">Sunday</a>
                 <ul>
-                    <li><a href="#session-2a">Session 2a - <time>09:30-10:10</time></a></li>
-                    <li><a href="#session-2b">Session 2b - <time>10:40-11:20</time></a></li>
-                    <li><a href="#session-2c">Session 2c - <time>11:50-12:30</time></a></li>
+                    <li><a href="#session-2a">Session 2a</a></li>
+                    <li><a href="#session-2b">Session 2b</a></li>
+                    <li><a href="#session-2c">Session 2c</a></li>
+                    <li><a href="#session-2d">Session 2d</a></li>
                 </ul>
             </li>
         </ul>
     </li>
+    <li><a href="https://drive.google.com/drive/folders/1YbqTUzZTeVDd9iz7txMxtqpM5tpN8Cst?usp=drive_link">MathsJam Jam Songbook</a></li>
+    <li><a href="2025.png">Andrew's 2025 Doodle</a></li>
+    <li><a href="tatb">Tables at the back</a></li>
+    <li><a href="posters">Posters</a></li>
+    <li><a href="compcomp">Competition Competition</a></li>
 </ul>
 
-This is a list of talks to be given at the 2025 MathsJam Gathering. This ordering is provisional and subject to change.
-
+This is a list of talks which were given at the 2025 MathsJam Gathering, including links to slides where available. If you spot any mistakes on this page, or would like to update the description of your talk, use the 'Edit this page' link at the bottom with a GitHub account to propose changes and make a pull request.
 
 
 <section>
-<h2 id="saturday">Saturday</h2>
-
-<section>
-<h3 id="session-1a">Session 1a - <time>13:30-14:10</time></h3>
-
-<article>
-<h4>MathsJam Team: Welcome to MathsJam</h4>
-
-<p>Introduction and welcome</p>
+	<h2 id="saturday">
+		Saturday
+	</h2>
+	<section>
+		<h3 id="session-1a">
+			Session 1a - <time>13:30-14:10</time>
+		</h3>
+		<article>
+			<h4>
+				MathsJam Team: Welcome to MathsJam
+			</h4>
+			<p>
+				Introduction and welcome
+			</p>
+		</article>
+		<article>
+			<h4>
+				Tiago Hirth: Micro Maths Magic Marvels
+			</h4>
+			<p>
+				This year, 2025, we, Pedro Freitas, Jorge Nuno Silva, Alexandre Silva, and Tiago Hirth, got our book ""Magic, Mathematics, and Playing Cards"" published. In this five minute presentation I aim to share four quick effects to hook the audience in wanting to know more about the mathematics that make them work to promote our work.
+			</p>
+			<p>
+				<ul>
+					<li>[Tiago's slides (online)](https://docs.google.com/presentation/d/1tYGLENz8xkIU7NT55kt9emLWG9_KMKpyJsl9BOS5rWo/edit)</li>
+				</ul>
+			</p>
+		</article>
+		<article>
+			<h4>
+				Robin Houston: Cool shapes made by intersecting prisms
+			</h4>
+			<p>
+				I’m don’t know any overarching theory of such polyhedra; I suspect there are many wonders in this vicinity waiting patiently to be found.
+			</p>
+		</article>
+		<p>
+			<ul>
+				<li>[Robin's slides (PDF)]({{site.url}}/assets/talks/2025/RobinHouston-Coolshapesmadebyintersectingprisms.pdf)</li>
+			</ul>
+		</p>
+	</article>
+	<article>
+		<h4>
+			Brigitte Stenhouse: From Sanskrit to Nepali: The mathematical poetry of the Dhananjayas
+		</h4>
+		<p>
+			In the early twentieth century, two Nepali translations were published of Lilavati, a classic Sanskrit maths text. Despite the attribution of one text to Chandrakala Dhananjaya and the other to her husband, Tikaram, the books’ contents reveal that both authors contributed to both texts. In the absence of further documentary evidence, we explore why collaboration was needed to translate Sanskrit mathematical poetry into Nepali. This talk is based on research by Dr Deepak Basyal. 
+			</p>
+<p>
+		<ul>
+			<li>[Brigitte's slides (PDF)]({{site.url}}/assets/talks/2025/BrigitteStenhouse-FromSanskrittoNepali-ThemathematicalpoetryoftheDhananjayas.pdf)</li>
+		</ul>
+	</p>
 </article>
-
 <article>
-<h4>Tiago Hirth: Micro Maths Magic Marvels</h4>
-
-<p>This year, 2025, we, Pedro Freitas, Jorge Nuno Silva, Alexandre Silva, and Tiago Hirth, got our book "Magic, Mathematics, and Playing Cards" published. In this five minute presentation I aim to share four quick effects to hook the audience in wanting to know more about the mathematics that make them work to promote our work.</p>
+	<h4>
+		Dave Budd: Polyomino Collinearity
+	</h4>
+	<p>
+		An exploration of cell collinearity in polyominoes inspired by a competition from last year called "Dots on a Tiling". OEIS sequences A377756 A378169 A377941 A377942 A378014 A378015 A380990 A380991
+	</p>
+<p>
+	<ul>
+		<li>[Dave's slides (online)](https://docs.google.com/presentation/d/1JSM1qn1JMuH_QsyiBJU-_C87GKdj09-jDKNMyf8Kzyg/edit)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Robin Houston: Cool shapes made by intersecting prisms</h4>
-
-<p>I’ll explain how to make a family of nice shapes – the rhombic dodecahedron and its stellations – by intersecting prisms; and I will invite you the audience to experiment with variations on the theme.</p>
-</article>
-
-<article>
-<h4>Brigitte Stenhouse: From Sanskrit to Nepali: The mathematical poetry of the Dhananjayas</h4>
-
-<p>In the early twentieth century, two Nepali translations were published of Lilavati, a classic Sanskrit maths text. Despite the attribution of one text to Chandrakala Dhananjaya and the other to her husband, Tikaram, the books’ contents reveal that both authors contributed to both texts. In the absence of further documentary evidence, we explore why collaboration was needed to translate Sanskrit mathematical poetry into Nepali. </p>
-</article>
-
-<article>
-<h4>David Budd: Polyomino Collinearity</h4>
-
-<p>How a competition from last year called Dots on a Tiling sent me down a joyful rabbit hole</p>
-</article>
-
-<article>
-<h4>Sujata B Sharma: Plot Twist : When data changes its story!</h4>
-
-<p>Some truths vanish when you mix data, others appear when you filter it. Join four paradoxes that expose the drama between numbers, context, and belief.</p>
+	<h4>
+		Sujata B Sharma: Plot Twist : When data changes its story!
+	</h4>
+	<p>
+		When Anscombe, Simpson, Berkson, and Lindley team up, reality bends.
+A fast, funny tour of how graphs, context, selection, and priors all gang up to make statistics weird again.
+	</p>
+<p>
+	<ul>
+		<li>[Sujata's slides (PPT)]({{site.url}}/assets/talks/2025/SujataBSharma-PlotTwist-Whendatachangesitsstory.pptx)</li>
+		<li>[Sujata's slides (PDF)]({{site.url}}/assets/talks/2025/SujataBSharma-PlotTwist-Whendatachangesitsstory.pdf)</li>
+	</ul>
+</p>
 </article>
 </section>
-
 <section>
-<h3 id="session-1b">Session 1b - <time>14:40-15:20</time></h3>
-
-<article>
-<h4>Jørn Hafver: Rock Rock Paper Rock Scissors Paper</h4>
-
-<p>We discovered some cool maths magic tricks at G4G Europe this year and played around with them. We think at least some of you will enjoy them, and the challenge of figuring them out. This one makes use of rock paper scissors, not as a handgame, but as a tool to predict secrets.</p>
+	<h3 id="session-1b">
+		Session 1b - <time>14:40-15:20</time>
+	</h3>
+	<article>
+		<h4>
+			Jørn Hafver: Rock Rock Paper Rock Scissors Paper
+		</h4>
+		<p>
+			This is one of a pair of talks about mathematical magic tricks that we saw and fiddled with at this years G4G Europe. This one is a variation of a binary code trick to guess a number, and the result is what happens when someone says “could this be done in base 3?”. Rock paper and scissors are used to encode the numbers, and the challenge is to figure out how it works.
+			</p>
+<p>
+		<ul>
+			<li>[Jørn's slides (PPT)]({{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pptx)</li>
+			<li>[Jørn's slides (PDF)]({{site.url}}/assets/talks/2025/JornHafver-RockRockPaperRockScissorsPaper.pdf)</li>
+		</ul>
+	</p>
 </article>
-
 <article>
-<h4>Philipp Reinhard: The Nightking doing some magic</h4>
-
-<p>There are knight tours and king tours, and magic squares. Let's give them a mix.</p>
+	<h4>
+		Philipp Reinhard: The Nightking doing some magic
+	</h4>
+	<p>
+		There is no knight tour, nor a king tour on a 4x4 square that produces a magic square. But there are some magic squares that you can get when combining the knight and the king movement.
+	</p>
+<p>
+	<ul>
+		<li>[Philipp's slides (PPT)]({{site.url}}/assets/talks/2025/PhilippReinhard-TheNightkingdoingsomemagic.ppt)</li>
+		<li>[Philipp's slides (PDF)]({{site.url}}/assets/talks/2025/PhilippReinhard-TheNightkingdoingsomemagic.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Laurence O'Toole: K(Not) String Theory</h4>
-
-<p>Rational tangles are a way to represent any fraction using two lengths of rope. They were first introduced and studied by John Conway. Every implementation seems to use two standard moves for manipulating the ends of the rope. However, there are an additional nine building blocks for how to move.</p>
+	<h4>
+		Laurence O'Toole: K(Not) String Theory
+	</h4>
+	<p>
+		Rational tangles are a way to represent any fraction using two lengths of rope. They were first introduced and studied by John Conway. Every implementation seems to use two standard moves for manipulating the ends of the rope, while also relying on four helpers who have been pre-trained in how to do these. Here, we will show that with eight Lego mini-figures, pre-training is not necessary, and there are an additional nine building blocks for how to move.
+	</p>
+<p>
+	<ul>
+		<li>[Laurence's slides (PDF)]({{site.url}}/assets/talks/2025/LaurenceOToole-K(Not)StringTheory.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Anindya Sharma: The Shape of Our Notes</h4>
-
-<p>Three mathematicians gathered in a room and discussed how they structured their (digital) maths notes. This led to a fun exploration of some pleasing structures, and a couple of nice metaphors for other parts of life.</p>
+	<h4>
+		Anindya Sharma: The Shape of Our Notes
+	</h4>
+	<p>
+		I was with two mathematician friends of mine, and we started comparing how we structure our maths notes on our computers. Specifically, the directory structures. This got us thinking: could we quantify the shape of our thinking? Could we come up with metrics to see how differently we all approached our work? As we sketched out our own folder structures, a nice pattern emerged. We were all on a spectrum, and the two extremes were always the same two shapes: the Path Graph and the Star Graph. Instantly, we had a new language. ""Oh, you're very path-like in how you approach problem solving,"" or ""That's a very star-like way to organize a course."" Maths is a great place to pick up some good vocabulary and metaphors for life, e.g. ""progress is not monotonic"", ""the tasks on my to-do list do not commute"". I believe ""path-like"" and ""star-like"" can be just as useful, and discuss a few examples.
+	</p>
+<p>
+	<ul>
+		<li>[Anindya's slides (PDF)]({{site.url}}/assets/talks/2025/AnindyaSharma-TheShapeofOurNotes.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Katie Steckles: Fridge Magnet Equations</h4>
-
-<p>Katie will share a number of enjoyable equations which can be made using fridge magnets.</p>
-
-</article>
-
-<article>
-<h3 id="session-1c">Session 1c - <time>15:50-16:30</time></h3>
-</article>
-
-<article>
-<h4>John Read: Can AI’s play Set ?</h4>
-
-<p>Our MathsJam group tried asking a large language model to find valid Set solutions. This is what happened.</p>
-</article>
-
-<article>
-<h4>Tarim: The Top 3 Laws in Physics</h4>
-
-<p>The number one law in physics might surprise you - let's see if you agree by the end of the talk.</p>
-</article>
-
-<article>
-<h4>David Lyford-Tilley: Fair coins, logical abduction, and sea monsters</h4>
-
-<p>Have we been thinking about logic all wrong? David explores some classic scenarios and common errors - and argues for why we should change how we talk about probability and reasoning.</p>
-</article>
-
-<article>
-<h4>Izzy Whistlecroft: The Art of Logic Puzzles</h4>
-
-<p>A look into the world of logic puzzles beyond traditional sudoku, with example puzzles of a variety of types. Let's see some cool puzzles!</p>
-</article>
-
-<article>
-<h4>Gavan Fantom: Using maths to bend the world to your will</h4>
-
-<p>Much of the history of maths is intertwined with its use as a language to describe how the real world works. But why stop there, when we can also use maths to define how we want the world to work, and to make it so?</p>
+	<h4>
+		Katie Steckles: Fridge Magnet Equations
+	</h4>
+	<p>
+		Inspired by (a post on Futility Closet)[https://www.futilitycloset.com/2025/07/11/printers-errors/], Katie recreates some of these 'fridge magnet equations' (with thanks to Finite Group member r10pez10 for that name) using real fridge magnets, and demonstrates their equality.
+	</p>
 </article>
 </section>
-
 <section>
-<h3 id="session-1d">Session 1d - <time>17:00-18:00</time></h3>
-
-<article>
-<h4>Annette Margolis aka nettie: The Formula for the Derivative of an Inverse Function is 'Tidy' </h4>
-
-<p>If Nessa from 'Gavin & Stacey' were a mathematician, this talk aims to demonstrate that this would be her favourite formula.</p>
+	<article>
+		<h3 id="session-1c">
+			Session 1c - <time>15:50-16:30</time>
+		</h3>
+	</article>
+	<article>
+		<h4>
+			John Read: Can AI’s play Set ?
+		</h4>
+		<p>
+			Talk summary : An AI can play set, but at the moment, not honestly or accurately. 
+			</p>
+<p>
+		<ul>
+			<li>[John's slides (PPT)]({{site.url}}/assets/talks/2025/JohnRead-CanAIsplaySet.ppt)</li>
+			<li>[John's slides (PDF)]({{site.url}}/assets/talks/2025/JohnRead-CanAIsplaySet.pdf)</li>
+		</ul>
+	</p>
 </article>
-
 <article>
-<h4>James (Mr AJ Phillips): A Wikipedia for Open Source Sims & Games</h4>
-
-<p>Playing a game from WikiSim.org, a new platform for making quirky to serious open source games about complex (usually the non-maths kind) problems we can understand and solve with maths</p>
+	<h4>
+		Tarim : The Top 3 Laws in Physics
+	</h4>
+	<p>
+		The number one law in physics is, of course, Emmy Noether's Law of Conservation - without which - physics wouldn't even be a subject!
+	</p>
+<p>
+	<ul>
+		<li>[Tarim's slides (HTML)]({{site.url}}/assets/talks/2025/Tarim-TheTop3LawsinPhysics.html)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Bob Huxley: Non-Abelian Jigsaws</h4>
-
-<p>Whilst the operations of correctly placing pieces of a 2-D jigsaw are Abelian, things become MUCH trickier with 3-D jigsaws (cut from a solid piece of wood). Within a jigsaw of fewer than 100 pieces, it may take as many as nine operations to isolate an individual, highly-irregular, piece. Conversely, reassembly of the puzzle typically requires multiple partial disassemblies in order to place the innermost pieces.</p>
+	<h4>
+		David Lyford-Tilley: Fair coins, logical abduction, and sea monsters
+	</h4>
+	<p>
+		An examination of fair coins, Sherlock Holmes, and The Return of the Obra Dinn - to show how some of the ways mathematicians sometimes talk about probability, logic, and conclusions fail at understanding how reasoning applies in the real world.
+	</p>
+<p>
+	<ul>
+		<li>[David's slides (PDF)]({{site.url}}/assets/talks/2025/DavidLyford-Tilley-Faircoinslogicalabductionandseamonsters.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Simon Allen: Did the dissection of triangle to a square originate with H. E. Dudeney</h4>
-
-<p>A review of the origin of the dissection of an equilateral triangle into a square, which was publicised by H. E. Dudeney. Was he the originator of this?</p>
+	<h4>
+		Izzy Whistlecroft: The Art of Logic Puzzles
+	</h4>
+	<p>
+		A look into the world of logic puzzles beyond traditional sudoku, with example puzzles of a variety of types. Let's see some cool puzzles! Highlights included: Toketa Magazine, Pulze Magazine, Sudokuvania
+	</p>
+<p>
+	<ul>
+		<li>[Izzy's slides (PPT)]({{site.url}}/assets/talks/2025/IzzyWhistlecroft-TheArtofLogicPuzzles.pptx)</li>
+		<li>[Izzy's slides (PDF)]({{site.url}}/assets/talks/2025/IzzyWhistlecroft-TheArtofLogicPuzzles.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Rob Eastaway: Boethius Blows It</h4>
-
-<p>In a famous woodcut from 1503, Boethius demonstrates the new art of how to do arithmetic with Indo Arabic numerals. It's his big moment on the world stage. But he messes up!</p>
-</article>
-
-<article>
-<h4>Saturday Night Tables: Elevator Pitches</h4>
-
-<p>Find out about the activities taking place this evening. Each person organising a table activity gets 30 seconds to pitch it to you.</p>
+	<h4>
+		Gavan Fantom: Using maths to bend the world to your will
+	</h4>
+	<p>
+		Much of the history of maths is intertwined with its use as a language to describe how the real world works. But why stop there, when we can also use maths to define how we want the world to work, and to make it so? We take a look at the fascinating world of control theory, what it means to be in control, and how to analyse and understand some of the properties of the resulting systems.
+	</p>
+<p>
+	<ul>
+		<li>[Gavan's slides (MP4)]({{site.url}}/assets/talks/2025/GavanFantom-Usingmathstobendtheworldtoyourwill.mp4)</li>
+	</ul>
+</p>
 </article>
 </section>
-</section>
-
 <section>
-<h2 id="sunday">Sunday</h2>
-
-<section>
-<h3 id="session-2a">Session 2a - <time>09:30-10:10</time></h3>
-
-<article>
-<h4>Miles Gould: Dual numbers</h4>
-
-<p>Like the complex numbers, the dual numbers are 2D vectors of real numbers with a rule that allows you to multiply them together. But the multiplication rule is different - instead of i² = -1, we have ε² = 0. Why was this rule chosen? And why are some chip vendors building instructions for dual-number arithmetic into their chips?</p>
+	<h3 id="session-1d">
+		Session 1d - <time>17:00-18:00</time>
+	</h3>
+	<article>
+		<h4>
+			Nettie Margolis: The Formula for the Derivative of an Inverse Function is 'Tidy' 
+		</h4>
+		<p>
+			Mathematics can be rather siloed; this g'(x) =1/(f'(g (x)) brings calculus and functions tidily together. 
+			</p>
+<p>
+		<ul>
+			
+		</ul>
+	</p>
 </article>
-
 <article>
-<h4>Zoe Griffiths : ONS Baby Names </h4>
-
-<p>Zoe summarises mathematical fun that she's has with the ONS Baby Names data. </p>
+	<h4>
+		James (Mr AJ Phillips): A Wikipedia for Open Source Sims & Games
+	</h4>
+	<p>
+		Playing one of the games from WikiSim: a platform for making open source games and calculations of complex problems along with a brief walk through of the platform
+	</p>
+<p>
+	<ul>
+		<li>[James's slides (online)](https://docs.google.com/presentation/d/1NPskbvYM5mV4MXf0jvcbfFTEEkbn41lypBJEnvm4FfI/edit)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Belgin Seymenoglu: Wandering the immeasurable at CERN</h4>
-
-<p>Belgin finds a chronological list of formulae on one side of CERN's metallic sculpture, "Wandering the immeasurable".</p>
+	<h4>
+		Bob Huxley: Non-Abelian Jigsaws
+	</h4>
+	<p>
+		In a 2-D (conventional) jigsaw, all pieces are first-order (can be removed immediately). 3-D jigsaws are much trickier!
+	</p>
+<p>
+	<ul>
+		<li>[Bob's slides (PDF)]({{site.url}}/assets/talks/2025/BobHuxley-Non-AbelianJigsaws.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Ally Stanley: All Lines All Ways</h4>
-
-<p>The London Underground is made up of 11 train lines. How quickly can you ride one stop on each of them? How many ways can you even do it? I tried them all so you don't have to.</p>
+	<h4>
+		Simon Allen: Did the dissection of triangle to a square originate with H. E. Dudeney
+	</h4>
+	<p>
+		The talk looked at the origin of the dissection of a well-known puzzle known as the Haberdashers' problem. It requires the dissection of an equilateral triangle into a square in the fewest number of pieces. It was proposed by H. E. Dudeney and appeared in the Daily Mail in a puzzle column in February 1905. He published the solution, but some years later, he gave credit to another.
+	</p>
+<p>
+	<ul>
+		<li>[Simon's slides (PDF)]({{site.url}}/assets/talks/2025/SimonAllen-DidthedissectionoftriangletoasquareoriginatewithHEDudeney.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Paul Taylor - The Surprising Mathematical Depth of Wii Party</h4>
-
-<p>We investigate the optimal strategy for one of the minigames in the 2010 Nintendo party game Wii Party.</p>
-</article>
-</section>
-
-<section>
-<h3 id="session-2b">Session 2b - <time>10:40-11:20</time></h3>
-
-<article>
-<h4>Fredrik Motland Kirkemo: New advances in the field of clown studies</h4>
-
-<p>We discovered some cool maths magic tricks at G4G Europe this year and played around with them. We think at least some of you will enjoy them, and the challenge of figuring them out.</p>
-
-<p>This one pertains to the study of permutations in clown wear and how to predict the colourings of corydonic garments.</p>
-</article>
-
-<article>
-<h4>Niall Cardin: Getting your own Alpha Go to work</h4>
-
-<p>Do you want to write a program to play your favourite abstract board game? The AlphaGo paper and others tell you how to do it and it's not as hard as you might think! Still, there are many little details to overcome, from network design to efficient MCTS and figuring out generation of your code and models really play better -- if you don't get these right it won't play that well. </p>
-
-<p>I will talk through a few of the tricky things I found interesting while writing a program to play the game hex.</p>
-</article>
-
-<article>
-<h4>Matthew Scroggs: 2025 squares</h4>
-
-<p>2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You could represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. I'll be talking about this arrangement puzzle, whether or not its possible and whether or not its fun.</p>
-</article>
-
-<article>
-<h4>Ashleigh Ratcliffe: Odd one out</h4>
-
-<p>This talk is about weighing items where all but one of the items have identical weight. My interest in this puzzle was ignited by one of the questions in the Leiden Math Trail. </p>
-</article>
-
-<article>
-<h4>Martin Whitworth: How large is a piece of paper?</h4>
-
-<p>Paper comes in standard sizes, mostly irrational.  I'll explore the basis of these and other sizes and what you can do with them.</p>
+	<h4>
+		Rob Eastaway: Boethius Blows It
+	</h4>
+	<p>
+		A famous 1503 woodcut in the book Margarita Philosophica shows the transition that was taking place in arithmetic. A smiling Boethius shows off the new method of doing arithmetic with Indo Arabic numerals. He appears to be doing a subtraction, but he gets the wrong answer. 
+	</p>
+<p>
+	<ul>
+		<li>[Rob's slides (PDF)]({{site.url}}/assets/talks/2025/RobEastaway-BoethiusBlowsIt.pdf)</li>
+	</ul>
+</p>
 </article>
 </section>
-
 <section>
-<h3 id="session-2c">Session 2c - <time>11:50-12:30</time></h3>
-
-<article>
-<h4>Kristin Ohlmann: Optimizing the street safety of a unicycle through maths-inspired decorations</h4>
-
-<p>Bikes famously have reflectors to ensure visibility in traffic. My unicycle doesn't. This talk will be about how I fixed that, what pi and tau have to do with it, and which one wins the little competition I put them through!</p>
+	<h2 id="sunday">
+		Sunday
+	</h2>
+	<section>
+		<h3 id="session-2a">
+			Session 2a - <time>09:30-10:10</time>
+		</h3>
+		<article>
+			<h4>
+				Miles Gould: Dual numbers
+			</h4>
+			<p>
+				Like the complex numbers, the dual numbers are 2D vectors of real numbers with a rule that allows you to multiply them together. But the multiplication rule is different - instead of i² = -1, we have ε² = 0. This means that the ""imaginary"" part of a dual number behaves like an infinitesimal difference, and obeys the chain and product rules for derivatives. This is behind the magical-seeming trick of automatic differentiation, which makes training modern deep neural networks feasible.
+			</p>
+		</article>
+		<p>
+			<ul>
+				<li>[Miles's slides (online)](https://docs.google.com/presentation/d/1Y_ZjVf5iuiWHI690SI0QhCdqBm94_Kf-RiQVNtUaZF8/edit?usp=sharing)</li>
+		
+			</ul>
+		</p>
+	</article>
+	<article>
+		<h4>
+			Zoe Griffiths : ONS Baby Names 
+		</h4>
+		<p>
+			Zoe summarises mathematical fun that she's has with the ONS Baby Names data.
+			</p>
 </article>
-
 <article>
-<h4>Michael Borcherds: Something I made with my 3D printer</h4>
-
-<p>I found a neat way to 3D-print my favourite object</p>
+	<h4>
+		Belgin Seymenoglu: Wandering the immeasurable at CERN
+	</h4>
+	<p>
+		Belgin finds a chronological list of formulae, theorems and other historical mathematical achievements on one side of CERN's metallic sculpture, ""Wandering the immeasurable"". Timeline includes: - Base 60 calculations, Mesopotamia - Pythagoras' theorems - Chinese/Sanskrit/Arabic calculations & results - Numerous physics equations with famous names attached - Mendeleev and the periodic table - Early estimates of the speed of light - Standard model's Lagrangian
+	</p>
+<p>
+	<ul>
+		<li>[Belgin's slides (PPT)]({{site.url}}/assets/talks/2025/BelginSeymenoglu-WanderingtheimmeasurableatCERN.pptx)</li>
+		<li>[Belgin's slides (PDF)]({{site.url}}/assets/talks/2025/BelginSeymenoglu-WanderingtheimmeasurableatCERN.pdf)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Ben Handley: Multinomial skittles</h4>
-
-<p>Building on Clare Wallace's talks during the previous two MathsJams, I will try to explain why we get more collisions than predicted (and fewer extreme results).</p>
+	<h4>
+		Ally Stanley: All Lines All Ways
+	</h4>
+	<p>
+		Look at a map of the London Underground and try to find a path through 12 stations that uses all 11 tube lines. Ally first attempted the London ""all lines"" challenge in 2023, then did it some more until he'd tried every possible route. There are more than you might expect. Here he shares his findings, tips for future challengers, and some fun facts found along the way.
+	</p>
+<p>
+	<ul>
+		<li>[Ally's slides (online)](https://docs.google.com/presentation/d/1mgm7aThWSoO9Mkv8O2d7zOf7ne2cWCK5lU2XLcc1xYE/edit?usp=sharing)</li>
+		
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Competition Results</h4>
-
-<p>Find out who has won the competitions in the Competition Competition, and which competition has won the Competition Competition.</p>
+	<h4>
+		Paul Taylor: The Surprising Mathematical Depth of Wii Party
+	</h4>
+	<p>
+		Paul found this StackExchange post (https://puzzling.stackexchange.com/questions/134849/1-vs-3-hide-and-seek-challenge) in which people were discussing an interesting maths problem... but further down the thread, discovered that the problem is actually based on one of the minigames from the 2010 Nintendo party game Wii Party. (He brought a Wii so we could play a bit ourselves).
+	</p>
+<p>
+	<ul>
+		<li>[Paul's slides (PDF)]({{site.url}}/assets/talks/2025/PaulTaylor-TheSurprisingMathematicalDepthofWiiParty.pdf)</li>
+	</ul>
+</p>
 </article>
 </section>
-
 <section>
-<h3 id="session-2d">Session 2d - <time>13:30-14:30</time></h3>
+	<h3 id="session-2b">
+		Session 2b - <time>10:40-11:20</time>
+	</h3>
+	<article>
+		<h4>
+			Fredrik Motland Kirkemo: New advances in the field of clown studies
+		</h4>
+		<p>
+			This is one of a pair of talks about mathematical magic tricks that we saw and fiddled with at this years G4G Europe. This one is about a set of clown cards where every clown is wearing different coloured clothes. When we first saw this trick the clowns had four different coloured pieces of clothing. We thought it proper to give them a bit more to wear, so we extended the trick, so our clowns have six pieces of clothing. The cards are constructed in such a way that the cards themselves reveal the colours of all the different pieces of clothing a secretly selected clown was wearing.
+			</p>
 
-<article>
-<h4>Vanessa Madu: On Sequences of Semiprimes</h4>
-
-<p>Semi-primes, but not even. What an odd thing to do.</p>
 </article>
-
 <article>
-<h4>Barney Maunder-Taylor: Puzzling Pyramids</h4>
-
-<p>Exploring some beautiful and unexpected relationships between triangular & square based pyramids.</p>
+	<h4>
+		Niall Cardin: Getting your own Alpha Go to work
+	</h4>
+	<p>
+		This talk covered miscellaneous topics in training Alpha Zero style programs to play abstract games at a high level. The talk focused on efficient Monte Carlo Tree Search and pitfalls from getting tricked by randomness when determining which models or algorithms actually play better.
+	</p>
+<p>
+	<ul>
+		<li>[Niall's slides (online)](https://docs.google.com/presentation/d/15rxtPPVm-7m_HznVv1wcgEIr2_R6cJLinWVL3XPfXAw/)</li>
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Raphael Colman: Knitted monads</h4>
-
-<p>What happens when you pair knitting with Haskell?</p>
+	<h4>
+		Matthew Scroggs: 2025 squares
+	</h4>
+	<p>
+		2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You can represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. This talk looked at the general puzzle involving the sum of the first n cubes, showing that it's possible to do the arrangement for n=1, n=8 and n=9, but not possible for 2 to 7, and showed off the interactive thing that Scroggs made at https://www.mscroggs.co.uk/squares/.
+	</p>
+<p>
+	<ul>
+		<li>[Matthew's slides (online)](https://mscroggs.github.io/mj2025-slides/)</li>
+		
+	</ul>
+</p>
 </article>
-
 <article>
-<h4>Nancy Blachman: Mathematical Magic</h4>
+	<h4>
+		Ashleigh Ratcliffe: Odd one out
+	</h4>
+	<p>
+		This talk is about weighing items where all but one of the items have identical weight. My interest in this puzzle was ignited by one of the questions in the Leiden Math Trail. 
+	</p>
 
-<p>Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works.</p>
 </article>
-
 <article>
-<h4>Colin Wright: The Algebraic Pentagon</h4>
-
-<p>Complex Numbers meet Compass and Straight-Edge</p>
+	<h4>
+		Martin Whitworth: How large is a piece of paper?
+	</h4>
+	<p>
+		Paper comes in standard sizes. Most of the world use paper with the irrational aspect ratio of sqrt(2). I explore the reason for that and how to exploit it when folding a piece of paper. Some countries use another rational, but imperial systems and I cover those too. I reveal an amazing coincidence about your credit card.
+	</p>
+<p>
+	<ul>
+		<li>[Martin's slides (PPT)]({{site.url}}/assets/talks/2025/MartinWhitworth-Howlargeisapieceofpaper.pptx)</li>
+		<li>[Martin's slides (PDF)]({{site.url}}/assets/talks/2025/MartinWhitworth-Howlargeisapieceofpaper.pdf)</li>
+	</ul>
+</p>
 </article>
-
+</section>
+<section>
+	<h3 id="session-2c">
+		Session 2c - <time>11:50-12:30</time>
+	</h3>
+	<article>
+		<h4>
+			Kristin Ohlmann: Optimizing the street safety of a unicycle through maths-inspired decorations
+		</h4>
+		<p>
+			As a child, I often decorated my unicycle by threading crepe paper through the spokes. When I recently wanted to increase my unicycle's visibility, I figured that must also work with reflective rope. For decorative purposes, I wanted to alternate between different colours of rope. Given that the wheel is a circle, the obvious choice for the pattern was of course dictated by the digits of the circle constant... but which one? Using slightly questionable python code, I analyzed which constant's digits would give me a higher proportion of reflective rope, depending on wheel size and rope thickness. 
+			</p>
+<p>
+		<ul>
+			<li>[Kristin's slides (PPT)]({{site.url}}/assets/talks/2025/KristinOhlmann-Optimizingthestreetsafetyofaunicyclethroughmaths-inspireddecorations.pptx)</li>
+			<li>[Kristin's slides (PDF)]({{site.url}}/assets/talks/2025/KristinOhlmann-Optimizingthestreetsafetyofaunicyclethroughmaths-inspireddecorations.pdf)</li>
+		</ul>
+	</p>
+</article>
 <article>
-<h4>Final thanks and wrap-up</h4>
+	<h4>
+		Michael Borcherds: Something I made with my 3D printer
+	</h4>
+	<p>
+		I tried a few different ways to print the 14th Stellation of the Icosahedron. I will show a few ways that I tried. The final way is very neat - it uses 60 identical tetrahedra (plus 240 magnets!). You can try it yourself here https://makerworld.com/en/models/1687802-14th-stellation-of-the-icosahedron-modular-60 This is a similar much bigger project by Bob Hearn which I have started and will also show (and for people to play with afterwards) https://www.instructables.com/The-Magnetic-59-Icosahedra/
+	</p>
+
 </article>
+<article>
+	<h4>
+		Ben Handley: Multinomial skittles
+	</h4>
+	<p>
+		Ben tried and failed to get a closed form result for the expected number of draws before a collision. But a computer simulation, assuming independence of skittles, gave the same results as resampling from Clare's dataset, thereby not contradicting independence, and produced a much lower numerical estimate for time until collision than the naive birthday approach. 
+	</p>
+<p>
+	<ul>
+		<li>[Ben's slides (PDF)]({{site.url}}/assets/talks/2025/BenHandley-Multinomialskittles.pdf)</li>
+	</ul>
+</p>
+</article>
+</section>
+<section>
+	<h3 id="session-2d">
+		Session 2d - <time>13:30-14:30</time>
+	</h3>
+	
+	<article>
+		<h4>
+			Vanessa Madu: On Sequences of Semiprimes
+		</h4>
+		<p>
+			I explored sequences of consecutive odd semi-primes: numbers with exactly two (not necessarily distinct) prime factors. While the maximum length of sequences of consecutive semi-primes is a fairly widely known result, I wondered what would happen if we restricted to the odd-only case. By systematically searching, I found chains of lengths 2 through 8, but none longer, and for good reason. In any run of nine or more consecutive odd numbers, one must be divisible by 9, which means it contains the factor 3×3, and so it can’t be semi-prime. Therefore, the longest possible chain of consecutive odd semi-primes is of length eight. The talk also touched on why the smallest example of the longest chain isn’t the largest and posed some questions about generalising to other spacings between semi-primes.
+			</p>
+<p>
+		<ul>
+			<li>[Vanessa's slides (PDF)]({{site.url}}/assets/talks/2025/VanessaMadu-OnSequencesofSemiprimes.pdf)</li>
+		</ul>
+	</p>
+</article>
+<article>
+	<h4>
+		Barney Maunder-Taylor: Puzzling Pyramids
+	</h4>
+	<p>
+		If you glue a Square based pyramid (S) and a Triangular based pyramid (T) together at one of the triangular faces, the resulting shape still has just five faces! How is this possible? What's more, the volume of S is exactly twice that of T. This talk demonstrates two ways to see this result simply and intuitively (no trig!).
+	</p>
+<p>
+	<ul>
+		<li>[Barney's slides (PPT)]({{site.url}}/assets/talks/2025/BarneyMaunder-Taylor-PuzzlingPyramids.pptx)</li>
+	</ul>
+</p>
+</article>
+<article>
+	<h4>
+		Raphael Colman: Knitted monads
+	</h4>
+	<p>
+		A talk on making creating stitch diagrams using Haskell
+	</p>
+
+<p>
+	<ul>
+		<li>[Raphael's slides (online)](https://docs.google.com/presentation/d/1bQ9lpPsi4SieKgwLa0-lJtsG_cH1ZmRYEv0UMKQqpK0/edit?usp=sharing
+)</li>
+	
+	</ul>
+</p>
+</article>
+<article>
+	<h4>
+		Nancy Blachman: Mathematical Magic
+	</h4>
+	<p>
+		Mathematical magic has its own curious charm. It delights, confounds, and entices audiences to think about how the trick works. I presented a trick called ""Cat, Dog, and Mouse Magic"" and a variation of it. The beauty of this trick is that it can be accomplished in multiple ways. After I demonstrate my method, spectators are eager to stage it themselves. When they perform the trick, they inadvertently practice and develop their mathematical skills. For the Cat, Dog, and Mouse Magic cards and a video or two of the magic trick, visit jrmf.org/puzzle/cat-dog-mouse-magic/ and for my slides, tinyurl.com/MathsJam2025-Magic.
+	</p>
+
+<p>
+	<ul>
+		<li>[Nancy's slides (online)](https://docs.google.com/presentation/d/1zgDO8mnnliWPxhTujDPhAN2YGiWMVy087w1A-yO8PKE/edit)</li>
+		
+	</ul>
+</p>
+</article>
+<article>
+	<h4>
+		Colin Wright: The Algebraic Pentagon
+	</h4>
+	<p>
+		We can easily find a compass and straight-edge construction of regular pentagon, but how do you *know* it is exact?
+	</p>
+
+</article>
+ 
 </section>
 </section>

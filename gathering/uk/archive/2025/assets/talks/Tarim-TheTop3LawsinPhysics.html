@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charSet="utf-8" />
+<title>Top 3 Laws In Physics</title>
+
+<script>
+'use strict';
+function UI() {};
+
+UI.keyPress = function(ev) {
+    console.log(`key: ${ev.key}, button: ${ev.button}, shift: ${ev.shiftKey}, ctrl: ${ev.ctrlKey}, alt: ${ev.altKey}, meta: ${ev.metaKey}`);
+    if (ev.button != undefined || ev.key.length == 1 || ev.key.startsWith('Arrow') || ev.key == 'Enter' || ev.key == 'Space') {
+        UI.show(ev.key);
+    }
+    ev.stopPropagation();
+};
+
+UI.show = function(law) {
+    document.querySelectorAll('.screen').forEach ((element) => {
+        element.style.display = 'none';
+    });
+
+    document.getElementById('law' + law).style.display = 'block';
+};
+
+UI.load = function() {
+    UI.show(0);
+};
+
+</script>
+
+<style>
+html, body {
+    height: 90%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 6vw;
+    font-family: sans-serif;
+}
+
+screen {
+    display: none;
+}
+
+.bling {
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+    align-content: center;
+}
+
+.star {
+    width: 100%;
+    font-size: 16vw;
+}
+
+.number { 
+    width: 100%;
+    margin-left: -100%;
+}
+
+.by {
+    font-size: 2vw;
+    text-align: right;
+}
+
+
+
+</style>
+
+</head>
+<!-- glowing star: &#127775; -->
+
+<body onload="UI.load()" onmousedown="UI.keyPress(event)" onkeydown="UI.keyPress(event)">
+
+<div class="screen" id="law0">
+    <div class="law">Top 3 Laws in Physics</div>
+</div>
+
+<div class="screen" id="law3">
+    <div class="bling">
+        <div class="star">&#11088;</div>
+        <div class="number">3</div>
+    </div>
+    <div class="law">Law of Gravity</div>
+    <div class="by">Some Guy</div>
+</div>
+
+<div class="screen" id="law2">
+    <div class="bling">
+        <div class="star">&#11088;</div>
+        <div class="number">2</div>
+    </div>
+    <div class="law">Theory of Relativity</div>
+    <div class="by">Some Other-Guy</div>
+</div>
+
+<div class="screen" id="law1">
+    <div class="bling">
+        <div class="star">&#11088;</div>
+        <div class="number">1</div>
+    </div>
+    <div class="law">Law of Conservation</div>
+    <div class="by">Emmy Noether</div>
+</div>
+
+</body>
+
+</html>
