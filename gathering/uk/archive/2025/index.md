@@ -37,13 +37,9 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 
 
 <section>
-	<h2 id="saturday">
-		Saturday 
-	</h2>
+	<h2 id="saturday">Saturday</h2>
 	<section>
-		<h3 id="session-1a">
-			Session 1a - <time>13:30-14:10</time> 
-		</h3>
+		<h3 id="session-1a">Session 1a - <time>13:30-14:10</time></h3>
 		<article>
 			<h4>
 				Tiago Hirth: Micro Maths Magic Marvels 
@@ -66,7 +62,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 			</p>
 		<p>
 			<ul>
-				<li><a href="{{site.url}}/assets/talks/2025/RobinHouston-Coolshapesmadebyintersectingprisms.pdf">Robin's slides (PDF)</a>"</li>
+				<li><a href="{{site.url}}/assets/talks/2025/RobinHouston-Coolshapesmadebyintersectingprisms.pdf">Robin's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>
@@ -83,7 +79,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 			Dave Budd: Polyomino Collinearity 
 		</h4>
 		<p>
-			An exploration of cell collinearity in polyominoes inspired by a competition from last year called "Dots on a Tiling". OEIS sequences A377756 A378169 A377941 A377942 A378014 A378015 A380990 A380991 
+			An exploration of cell collinearity in polyominoes inspired by a competition from last year called "Dots on a Tiling". Relevant OEIS sequences: A377756 A378169 A377941 A377942 A378014 A378015 A380990 A380991 
 		</p>
 		<p>
 			<ul>
