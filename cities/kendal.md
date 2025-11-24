@@ -16,5 +16,7 @@ location:
     lat: 54.3149883
 start_time: around 7.15pm
 hiatus: false
+hiatus_months:
+    - 2025-12
 ---
 
