@@ -83,7 +83,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
             <p>
                 <ul>
                     <li><a href="https://docs.google.com/presentation/d/1JSM1qn1JMuH_QsyiBJU-_C87GKdj09-jDKNMyf8Kzyg/edit">Dave's slides (online)</a></li>
-					<li><a href="{{site.url}}/assets/talks/2025/DaveBudd-PolyonimoCollinearity.pdf">Tiago's slides (PDF)</a></li>
+					<li><a href="{{site.url}}/assets/talks/2025/DaveBudd-PolyonimoCollinearity.pdf">Dave's slides (PDF)</a></li>
                 </ul>
             </p>
         </article>
@@ -258,6 +258,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
             <p>
                 <ul>
                     <li><a href="https://docs.google.com/presentation/d/1NPskbvYM5mV4MXf0jvcbfFTEEkbn41lypBJEnvm4FfI/edit">James's slides (online)</a></li>
+					<li><a href="{{site.url}}/assets/talks/2025/JamesAJP-WikiSim.pdf">James's slides (PDF)</a></li>
                 </ul>
             </p>
         </article>
@@ -317,6 +318,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		<p>
 			<ul>
 				<li><a href="https://docs.google.com/presentation/d/1Y_ZjVf5iuiWHI690SI0QhCdqBm94_Kf-RiQVNtUaZF8/edit?usp=sharing">Miles's slides (online)</a></li>
+                <li><a href="{{site.url}}/assets/talks/2025/MilesGould-DualNumbers.pdf">Miles's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>
@@ -352,6 +354,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		<p>
 			<ul>
 				<li><a href="https://docs.google.com/presentation/d/1mgm7aThWSoO9Mkv8O2d7zOf7ne2cWCK5lU2XLcc1xYE/edit?usp=sharing">Ally's slides (online)</a></li>
+                <li><a href="{{site.url}}/assets/talks/2025/AllyStanley-AllLinesAllWays.pdf">Ally's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>
@@ -391,6 +394,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		<p>
 			<ul>
 				<li><a href="https://docs.google.com/presentation/d/15rxtPPVm-7m_HznVv1wcgEIr2_R6cJLinWVL3XPfXAw/">Niall's slides (online)</a></li>
+                <li><a href="{{site.url}}/assets/talks/2025/NiallCardin-YourOwnAlphaGo.pdf">Niall's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>
@@ -510,6 +514,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		<p>
 			<ul>
 				<li><a href="https://docs.google.com/presentation/d/1bQ9lpPsi4SieKgwLa0-lJtsG_cH1ZmRYEv0UMKQqpK0/edit?usp=sharing">Raphael's slides (online)</a></li>
+                <li><a href="{{site.url}}/assets/talks/2025/RaphaelColman-KnittedMonads.pdf">Raphael's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>
@@ -523,6 +528,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 		<p>
 			<ul>
 				<li><a href="https://docs.google.com/presentation/d/1zgDO8mnnliWPxhTujDPhAN2YGiWMVy087w1A-yO8PKE/edit">Nancy's slides (online)</a></li>
+                <li><a href="{{site.url}}/assets/talks/2025/NancyBlachman-MathematicalMagic.pdf">Nancy's slides (PDF)</a></li>
 			</ul>
 		</p>
 	</article>

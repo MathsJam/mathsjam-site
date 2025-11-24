@@ -439,7 +439,7 @@ body.gathering h3 time {
 body.gathering article {
     padding-left: 1em;
 }
-body.gathering article * ~ * {
+body.gathering article > * ~ * {
     padding-left: 1em;
 }
 
