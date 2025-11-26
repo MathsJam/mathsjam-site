@@ -17,6 +17,5 @@ location:
 hiatus: false
 hiatus_months:
   - 2024-09
-extra_text: "For November's Jam, Leicester MathsJam will be joined by a delegation from <a href=https://mathsjam.com/cities/nottingham>Nottingham MathsJam</a>, at the usual Leicester MathsJam venue, to meet and combine puzzle power. Do come and join us!"
-
+  
 ---

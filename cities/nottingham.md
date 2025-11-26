@@ -22,7 +22,6 @@ hiatus_months:
     - 2022-06
 changed_dates:
     - 2018-12-18
-extra_text: "For November's Jam, Nottingham and Leicester MathsJammers will get together at the usual <a href=https://mathsjam.com/cities/leicester>Leicester MathsJam venue</a> to meet and combine puzzle power. Do come and join us!"
 links:
     twitter:
         text: '@NOTMathsJam'
