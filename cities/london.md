@@ -10,11 +10,11 @@ organiser:
     email: london@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: "Hamilton Hall"
-    description: ", Liverpool Street Station"
-    url: https://www.jdwetherspoon.com/pubs/all-pubs/england/london/hamilton-hall-city-of-london
-    lon: -0.08096713024599711
-    lat: 51.517652339287615
+    pub_name: "Maths World"
+    description: "not a pub, but Maths World, Bring your own drink and/or food"
+    url: https://mathsworld.com/
+    lon: -0.1029126315885479
+    lat: 51.506392230423515
 hiatus: False
 hiatus_months:
     - 2020-03
