@@ -9,7 +9,7 @@ organiser:
     email: newcastle@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Redhhouse
+    pub_name: The Redhouse
     description: ' near the quayside, not far from the swing bridge'
     url: https://redhousencl.co.uk/
     lon: -1.6080760
