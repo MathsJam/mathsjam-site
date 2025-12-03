@@ -10,7 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: the Taproom (Cullach Brewing)
-    description: " on Princes Street. This is ten minutes' walk in an almost straight line from the train station. Look out for the table with a mathematical sheep doing maths puzzles."
+    description: " on Princes Street. This is ten minutes' walk in an almost straight line from the train station. Look out for the table with a mathematical sheep doing maths puzzles"
     url: https://www.cullachbrewing.co.uk/
     lon: -3.4282981
     lat: 56.3933129
