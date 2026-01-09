@@ -403,7 +403,7 @@ This is a list of talks which were given at the 2025 MathsJam Gathering, includi
 			Matthew Scroggs: 2025 squares 
 		</h4>
 		<p>
-			2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You can represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 2 by 2 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. This talk looked at the general puzzle involving the sum of the first n cubes, showing that it's possible to do the arrangement for n=1, n=8 and n=9, but not possible for 2 to 7, and showed off <a href="https://www.mscroggs.co.uk/squares/">the interactive thing that Scroggs made</a>. 
+			2025 is the sum of the first 9 cube numbers and also the square of the sum of the first nine numbers. You can represent this fact by arranging one 1 by 1 square, two 2 by 2 squares, three 3 by 3 squares, and so on up to nine 9 by 9 squares inside a 45 by 45 square. This talk looked at the general puzzle involving the sum of the first n cubes, showing that it's possible to do the arrangement for n=1, n=8 and n=9, but not possible for 2 to 7, and showed off <a href="https://www.mscroggs.co.uk/squares/">the interactive thing that Scroggs made</a>. 
 		</p>
 		<p>
 			<ul>
