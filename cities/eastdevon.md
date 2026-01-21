@@ -14,7 +14,7 @@ location:
     url: http://www.blackhorsesowton.co.uk/home
     lon: -3.4443986
     lat: 50.7317246
-hiatus: false
+hiatus: true
 hiatus_months:
     - 2018-12
 links:
