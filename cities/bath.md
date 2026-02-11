@@ -9,15 +9,15 @@ organiser:
     email: bath@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Raven Pub
-    description: ", on the corner of Queen St and Quiet St. Normally in the 'library' room at the top of the pub if available"
-    url: https://theravenofbath.co.uk/
-    lon: -2.3619978456053756
-    lat: 51.38316654380786
+    pub_name: The Salamander Pub
+    description: ", on John Street"
+    url: https://www.salamanderbath.co.uk/
+    lon: -2.36213
+    lat: 51.3834592,
 hiatus: false
 hiatus_months:
     - 2020-03
-start_time: 7:30pm onwards
+start_time: 7pm onwards
 changed_dates:
     - 2018-12-18
     - 2019-12-10
