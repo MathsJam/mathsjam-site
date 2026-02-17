@@ -20,7 +20,6 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2024-11-12
-extra_text: If you're Maths curious and want to spend an evening with like minded folks, feel free to come along ; puzzles, games, general chat.
 links:
     twitter:
         text: '@LeedsMathsJam'
