@@ -5,7 +5,7 @@ city_name: Leeds
 jam_name: Leeds MathsJam
 email: leeds@mathsjam.com
 organiser:
-    name: Dave, Max and Phil
+    name: Dave and Phil
     email: leeds@mathsjam.com
 location:
     group: uk-ireland
@@ -20,7 +20,7 @@ hiatus_months:
 changed_dates:
     - 2017-12-19
     - 2024-11-12
-extra_text: In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>.
+extra_text: If you're Maths curious and want to spend an evening with like minded folks, feel free to come along ; puzzles, games, general chat.
 links:
     twitter:
         text: '@LeedsMathsJam'
