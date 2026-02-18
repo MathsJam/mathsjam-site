@@ -33,11 +33,11 @@ changed_dates:
     - 2024-05-20
     - 2025-07-23
     - 2025-12-01
+    - 2026-03-02
 jam_date_rule: fourth Monday
 december_jam_date_rule: third Monday
 start_time: 7.30pm in the evening
-extra_text: Meetings will be confirmed by email on MathsJam
-    morning - please let us know if you're planning to come so that we can include
+extra_text: Meetings will be confirmed by email - please let us know if you're planning to come so that we can include
     you in the email.
 links:
     twitter:
