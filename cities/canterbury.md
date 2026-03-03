@@ -28,6 +28,11 @@ hiatus_months:
     - 2025-08
     - 2025-11
     - 2026-02
+    - 2026-04
+    - 2026-05
+    - 2026-06
+    - 2026-07
+    - 2026-08
 changed_dates:
     - 2022-06-20
     - 2023-01-30
@@ -38,7 +43,7 @@ changed_dates:
 jam_date_rule: fourth Monday
 december_jam_date_rule: third Monday
 start_time: 7.30pm in the evening
-extra_text: Meetings will be confirmed by email - please let us know if you're planning to come so that we can include
+extra_text: We're currently on a break because of work commitments and will restart in September. Meetings will be confirmed by email - please let us know if you're planning to come so that we can include
     you in the email.
 links:
     twitter:
