@@ -5,7 +5,7 @@ city_name: Leicester
 jam_name: Leicester MathsJam
 email: leicester@mathsjam.com
 organiser:
-    name: Alec
+    name: Martin
     email: leicester@mathsjam.com
 location:
     group: uk-ireland
