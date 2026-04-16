@@ -9,15 +9,14 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: All Bar One
-    description: ' in Central Milton Keynes, 15 minutes walk from the railway station'
-    url: https://www.allbarone.co.uk/national-search/south-east/all-bar-one-milton-keynes/
-    lon: -0.762622
-    lat: 52.038803
+    pub_name: Free House - Wetherspoons
+    description: ' in Central Milton Keynes, 10 minutes walk from the railway station towards the City Centre'
+    url: https://www.jdwetherspoon.com/pubs/wetherspoons-milton-keynes
+    lon: -0.7676385
+    lat: 52.0376649
 hiatus: false
 changed_dates:
     - 2024-11-12
-extra_text: In November 2024, we'll be meeting a week earlier (12th Nov) to coincide with <a href="https://mathsweekengland.co.uk/">Maths Week England</a>.
 links:
     twitter:
         text: '@BletchleyJam'
