@@ -11,6 +11,8 @@ minimenu:
     label: 'MathsJam Jam'
   - path: '#tables'
     label: 'Tables at the Back of the Room'
+  - path: '#posters'
+    label: 'Poster Wall'
 ---
 
 <h2 id="bakeoff">Bake-off</h2>
@@ -62,10 +64,6 @@ Remote attendees will also be able to enter the Competition Competition: email y
 
 Remote attendees can also enter the competitions within the Competition Competition: we'll take photos of each of the competition entry sheets, and place a link in the Gather space (on the appropriate table). There will be a form to submit your entries, and and any remote entries received will be actualised (by a skilled actualiser with a pen) and entered into the competition before they close.
 
-<h2 id="posters">Posters</h2>
-
-New this year: we'll have a poster wall at MathsJam. If you have some interesting maths to share that doesn’t have an associated thing to put on a table, but you don’t want to give a talk, you can bring along a poster (maximum size A3) to display. Be sure to include some way for people to find or recognise you if you want people to talk to you about it.
-
 <h2 id="jamjam">MathsJamJam</h2>
 
 ![A large room is filled with people, mostly facing away from the camera towards the front of the space, where a selection of musicians are playing instruments. The people include a range of ages and genders, and a large double bass is visible in the centre](../../images/Jam.png)
@@ -98,3 +96,13 @@ In a separate dedicated room, we will place two tables - one is for things you'r
 There will be a remote analogue of the Tables of Things in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
+
+<h2 id="posters">Poster Wall</h2>
+
+If you have some interesting maths to share that doesn’t have an associated thing to put on a table, but you don’t want to give a talk, you can bring along a poster (maximum size A3) to display. Be sure to include some way for people to find or recognise you if you want people to talk to you about it.
+
+<a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/stereograms.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/stereograms.webp" alt="A poster describing how stereograms work"></a>
+
+<a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/IMG_20251122_135253.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/IMG_20251122_135253.webp" alt="A poster about Schinzel's theorem"></a>
+
+<a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/IMG_20251122_135314.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/IMG_20251122_135314.webp" alt="A poster of an octopus solving a Rubik's cube"></a>
