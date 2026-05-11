@@ -31,7 +31,7 @@ The talks sessions will take place in the main long room, and we'll have other r
 
 The entrance to the venue has one step, but level access is available via the central building, with lifts are to the first floor.
 
-Meals will be served in the canteen on the ground floor of Swallow House. Your ticket includes lunch on Saturday and Sunday, and dinner on Saturday night. For residential tickets, you can also get breakfast in the same place. If you have booked add-on meals for Friday or Sunday night, these will be in the same place. [Menus for all meals - pdf](https://mathsjam.com/gathering/uk/archive/2025/assets/MathsJam_2025_Menu.pdf)
+Meals will be served in the canteen on the ground floor of Swallow House. Your ticket includes lunch on Saturday and Sunday, and dinner on Saturday night. For residential tickets, you can also get breakfast in the same place. If you have booked add-on meals for Friday or Sunday night, these will be in the same place. <!--[Menus for all meals - pdf](https://mathsjam.com/gathering/uk/archive/2025/assets/MathsJam_2025_Menu.pdf)-->
 
 <h2 id="travel">Getting There</h2>
 
