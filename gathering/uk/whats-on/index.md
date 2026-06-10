@@ -13,15 +13,17 @@ minimenu:
 
 The MathsJam Gathering is an event for people to get together and play with fun maths, and around the scheduled activities there are long breaks for you to do just that.
 
-The timings for the 2024 weekend were as follows (note that future event timings are unconfirmed and may differ from the below):
+The timings below are provisional and subject to change.
 
 **Friday**
 
+- Check-in from 14:00
 - 18:30-19:30 Dinner
 - There are no scheduled activities on Friday evening, but the bar will be open and there will be lots of people around to do fun maths with.
 
 **Saturday**
 
+- 11:00 Main room open
 - 12:15-13:15 Lunch
 - 13:30-18:00 Talk sessions
 - 18:15-19:30 Dinner
