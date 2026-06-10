@@ -31,6 +31,7 @@ The 2025 MathsJam Gathering took place on the weekend of 22-23 November 2025, at
     <li><a href="2025.png">Andrew's 2025 Doodle</a></li>
     <li><a href="tatb">Tables at the back</a></li>
     <li><a href="posters">Posters</a></li>
+    <li><a href="cakes">Bakeoff Entries</a></li>
     <li><a href="compcomp">Competition Competition</a></li>
 </ul>
 

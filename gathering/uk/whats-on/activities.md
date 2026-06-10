@@ -102,7 +102,5 @@ Occasionally contribiutors to the 'things to take' table have requested a small 
 If you have some interesting maths to share that doesn’t have an associated thing to put on a table, but you don’t want to give a talk, you can bring along a poster (maximum size A3) to display. Be sure to include some way for people to find or recognise you if you want people to talk to you about it.
 
 <a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/stereograms.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/stereograms.webp" alt="A poster describing how stereograms work"></a>
-
 <a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/IMG_20251122_135253.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/IMG_20251122_135253.webp" alt="A poster about Schinzel's theorem"></a>
-
 <a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/IMG_20251122_135314.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/IMG_20251122_135314.webp" alt="A poster of an octopus solving a Rubik's cube"></a>
