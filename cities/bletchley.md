@@ -9,11 +9,11 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Free House - Wetherspoons
-    description: ' in Central Milton Keynes, 10 minutes walk from the railway station towards the City Centre'
-    url: https://www.jdwetherspoon.com/pubs/wetherspoons-milton-keynes
-    lon: -0.7676385
-    lat: 52.0376649
+    pub_name: The Eight Belles
+    description: ' in Bletchley, around 10 minutes walk from Bletchley station; around the corner from Bletchley Park'
+    url: http://www.eightbellesbletchley.co.uk/
+    lon: -0.7415216
+    lat: 51.9927812
 hiatus: false
 changed_dates:
     - 2024-11-12

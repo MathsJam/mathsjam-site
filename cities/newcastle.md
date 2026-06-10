@@ -18,6 +18,7 @@ hiatus_months:
     - 2017-08
     - 2019-02
     - 2019-05
+    - 2026-05
 jam_date_rule: third Thursday
 changed_dates:
     - 2018-12-18

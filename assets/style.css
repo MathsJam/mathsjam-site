@@ -27,6 +27,7 @@
     --hsl-5: 54, 95%, 57%;
     --hsl-twitter: 0, 0%, 0%;
     --hsl-mathstodon: 240, 100%, 41.6%;
+    --hsl-bluesky: 211, 99%, 53%;
 }
 
 html {
@@ -219,6 +220,10 @@ nav--sidebar-link-colour: var(--dark-link-colour);
 #sidebar li.twitter {
     --sidebar-background-hsl: var(--hsl-twitter);
 }
+#sidebar li.bluesky {
+    --sidebar-background-hsl: var(--hsl-bluesky);
+}
+
 #sidebar li.mathstodon {
     --sidebar-background-hsl: var(--hsl-mathstodon);
 }
