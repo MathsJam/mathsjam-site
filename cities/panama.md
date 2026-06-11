@@ -34,6 +34,8 @@ hiatus_months:
     - 2026-01
     - 2026-02
     - 2026-03
+    - 2026-06
+    - 2026-07
 start_time: 7:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a
