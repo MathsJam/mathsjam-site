@@ -14,7 +14,7 @@ The cost of a **full weekend ticket** is **£210** (single occupancy) or **£350
 
 **Remote attendance tickets** are available for **£20**, and include online access to the livestream of the event, access to the [Virtual MathsJam gather.town space](https://app.gather.town/app/QkXuN8iKS1xHEBrD/My%20Home%20Space) during the weekend of the event, and any other parts of the event we're able to make accessible remotely. For more information, see the [remote attendance page]({{site.url}}/gathering/uk/plan-your-visit/remote).
 
-On all Gathering tickets, there are discounts of **10% for early-bird booking** (for the first 101 people to book) and a further **10% for unwaged or low-income participants**, using the code 'TENOFF'.
+On all Gathering tickets, there are discounts of **10% for early-bird booking** (for the first 101 people to book using the code 'EARLYBIRD') and **10% for unwaged or low-income participants**, using the code 'TENOFF' (using the code 'EARLYOFF' will apply both discounts).
 
 If you would like to attend MathsJam but would be unable to cover all the costs yourself, we may have some funding available to support you. If this is the case, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSetAl-hiW3SdHUGoPXh8FFs_o7afVITT40GZnd__bIJzo3SKA/viewform">complete this form</a> and we will contact you before the early-bird deadline on 30th September to confirm.
 
