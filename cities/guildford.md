@@ -17,6 +17,7 @@ location:
 hiatus: false
 hiatus_months:
     - 2020-03
+    - 2026-06
 links:
     twitter:
         text: '@MathsJamGLD'
