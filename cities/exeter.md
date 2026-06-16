@@ -5,7 +5,7 @@ city_name: Exeter
 jam_name: Exeter MathsJam
 email: exeter@mathsjam.com
 organiser:
-    name: Dan
+    name: Ember
     email: exeter@mathsjam.com
 location:
     group: uk-ireland
