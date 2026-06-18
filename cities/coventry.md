@@ -5,7 +5,7 @@ city_name: Coventry
 jam_name: Coventry (Warwick) MathsJam
 email: coventry@mathsjam.com
 organiser:
-    name: Kit
+    name: Aris
     email: coventry@mathsjam.com
 location:
     group: uk-ireland
@@ -18,6 +18,8 @@ hiatus: false
 hiatus_months:
     - 2024-07
     - 2024-08
+    - 2025-08
+    - 2025-09
 december_jam_date_rule: second Tuesday
 start_time: 7pm in the evening
 ---

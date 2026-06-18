@@ -6,7 +6,7 @@ lang: pt_PT
 jam_name: Lisbon MathsJam
 email: lisbon@mathsjam.com
 organiser:
-    name: Beatriz
+    name: Laura
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world

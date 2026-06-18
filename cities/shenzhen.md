@@ -16,7 +16,7 @@ location:
     lon: 113.919762
 hiatus: false
 hiatus_months:
-    - 2024-07
+    - 2025-07
 start_time: 7pm in the evening
 links:
     twitter:

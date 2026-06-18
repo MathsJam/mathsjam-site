@@ -24,6 +24,7 @@ links:
     twitter:
         text: '@LONMathsJam'
         url: https://twitter.com/LONMathsJam
+extra_text: In December 2025, instead of our usual pub venue we'll be meeting at <a href="https://mathsworld.com">MathsWorld London</a>, which is in the arches at 6 Burrell St, SE1 0UN. Bring your own food/drinks and enjoy the hands-on maths exhibits - we'll have the place to ourselves!
 
 ---
 

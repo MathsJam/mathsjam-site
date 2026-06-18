@@ -10,11 +10,11 @@ organiser:
     email: panama@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: La Rana Dorada
-    description: ', Condado Del Rey'
-    url: http://laranadorada.com/
-    lon: -79.5312153
-    lat: 9.0312775
+    pub_name: Mexico Lindo restaurant & bar
+    description: ' located on the first floor of AltaPlaza Mall in Panama City'
+    url: https://www.instagram.com/mexicolindopanama/
+    lon: -79.5344287
+    lat: 9.0292753
 hiatus: false
 hiatus_months:
     - 2024-11
@@ -27,6 +27,15 @@ hiatus_months:
     - 2024-02
     - 2024-07
     - 2024-08
+    - 2025-06
+    - 2025-07
+    - 2025-11
+    - 2025-12
+    - 2026-01
+    - 2026-02
+    - 2026-03
+    - 2026-06
+    - 2026-07
 start_time: 7:00pm - 9:00pm
 poster_text: |
     Es una oportunidad mensual para que aficionados a

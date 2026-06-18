@@ -11,6 +11,8 @@ minimenu:
     label: 'MathsJam Jam'
   - path: '#tables'
     label: 'Tables at the Back of the Room'
+  - path: '#posters'
+    label: 'Poster Wall'
 ---
 
 <h2 id="bakeoff">Bake-off</h2>
@@ -28,7 +30,7 @@ The rules are:
 
 As with all the competitions, when you submit your entry, please inform an organiser so they can mark down who has submitted what, but please leave your entry anonymous.
 
-Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled.
+Any food not required for judging purposes will be distributed among the MathsJam Gathering attendees, so please bring details of any allergens your entry contains so they can be labelled. Please also consider baking a cake that can be enjoyed by our attendees with dietary requirements such as vegan, gluten free and nut free.
 
 Remote attendees are also welcome to create mathematical baked goods, and your entries can be judged in the second and third categories if you send a photo/video to [bakeoff@mathsjam.com](mailto:bakeoff@mathsjam.com) for us to show to the judges (by the first coffee break on Sunday).
 
@@ -74,6 +76,8 @@ You're welcome to just come along and listen, and you can join in in any or all 
 - bring your own guitar/ukulele/grand piano/triangle/whatever and play along - we'll provide chord sheets for all the songs
 - sing along!
 
+Here's the [2025 MathsJam Jam Songbook](https://drive.google.com/drive/folders/1YbqTUzZTeVDd9iz7txMxtqpM5tpN8Cst?usp=drive_link)!
+
 Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAOPrPDRhW_ecBByvCqT1GaW13JQ0gj/view?usp=drive_link).
 
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
@@ -82,13 +86,21 @@ Remote attendees will be able to watch a livestream of the MathsJam Jam (tech pe
 
 <h2 id="tables">Tables at the back</h2>
 
-At the back of the room, we place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
+In a separate dedicated room, we will place two tables - one is for things you're happy for people to take away with them, and the other is for things you're happy for people to play with and not take away. This means attendees can bring along puzzles, handouts, toys, games, knitted items and anything else they want to share with people.
 
 ![Knitted objects, including Napier's rods and Soma cube pieces, on a table.](../../images/TablesAtBack1.jpg)
 ![Copies of Chalkdust magazine on a table](../../images/TablesAtBack2.jpg)
 
 2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
 
-There will be a remote analogue of the Tables at the Back of the Room in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
+There will be a remote analogue of the Tables of Things in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
+
+<h2 id="posters">Poster Wall</h2>
+
+If you have some interesting maths to share that doesn’t have an associated thing to put on a table, but you don’t want to give a talk, you can bring along a poster (maximum size A3) to display. Be sure to include some way for people to find or recognise you if you want people to talk to you about it.
+
+<a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/stereograms.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/stereograms.webp" alt="A poster describing how stereograms work"></a>
+<a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/IMG_20251122_135253.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/IMG_20251122_135253.webp" alt="A poster about Schinzel's theorem"></a>
+<a href="{{site.url}}/gathering/uk/archive/2025/assets/posters/IMG_20251122_135314.jpg"><img src="{{site.url}}/gathering/uk/archive/2025/assets/posters/smaller/IMG_20251122_135314.webp" alt="A poster of an octopus solving a Rubik's cube"></a>

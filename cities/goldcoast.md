@@ -14,7 +14,7 @@ location:
     url: http://www.benowatavern.com.au/
     lon: 153.398962
     lat: -28.0075365
-hiatus: false
+hiatus: true
 
 ---
 

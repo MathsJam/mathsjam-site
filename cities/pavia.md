@@ -26,6 +26,7 @@ changed_dates:
     - 2019-06-19
     - 2019-07-24
     - 2019-08-27
+    - 2026-06-16
 links:
     twitter:
         text: '@PaviaMathsJam'

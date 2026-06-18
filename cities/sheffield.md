@@ -5,7 +5,7 @@ city_name: Sheffield
 jam_name: Sheffield MathsJam
 email: sheffield@mathsjam.com
 organiser:
-    name: Brad
+    name: (TBC)
     email: sheffield@mathsjam.com
 location:
     group: uk-ireland
@@ -14,7 +14,7 @@ location:
     url: https://www.sheffieldpub.co.uk/pubs/city-centre/bath-hotel/
     lon: -1.4823558
     lat: 53.379192
-hiatus: false
+hiatus: true
 hiatus_months:
     - 2020-03
     - 2022-07
