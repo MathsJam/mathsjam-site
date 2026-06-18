@@ -10,7 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: Moxy Milton Keynes
-    description: ' in Central Milton Keynes, just off The Hub, about 15 minutes walk up the hill from the MK Central Station.'
+    description: ' in Central Milton Keynes, just off The Hub, about 15 minutes walk up the hill from the MK Central Station'
     url: [https://www.marriott.com/en-us/hotels/ltnox-moxy-milton-keynes/dining/](https://www.marriott.com/en-us/hotels/ltnox-moxy-milton-keynes/dining/)
     lon: -0.7617089
     lat: 52.0374496
