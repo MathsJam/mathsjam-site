@@ -9,11 +9,11 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: The Eight Belles
-    description: ' in Bletchley, around 10 minutes walk from Bletchley station; around the corner from Bletchley Park'
-    url: http://www.eightbellesbletchley.co.uk/
-    lon: -0.7415216
-    lat: 51.9927812
+    pub_name: Moxy Milton Keynes
+    description: ' in Central Milton Keynes, just off The Hub, about 15 minutes walk up the hill from the MK Central Station'
+    url: [https://www.marriott.com/en-us/hotels/ltnox-moxy-milton-keynes/dining/](https://www.marriott.com/en-us/hotels/ltnox-moxy-milton-keynes/dining/)
+    lon: -0.7617089
+    lat: 52.0374496
 hiatus: false
 changed_dates:
     - 2024-11-12
