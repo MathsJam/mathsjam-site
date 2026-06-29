@@ -1,7 +1,7 @@
 ---
 layout: city
 lockdown: false
-city_name: Pune), India
+city_name: Pune, India
 jam_name: MathsJam Pune
 email: pune@mathsjam.com
 organiser:
