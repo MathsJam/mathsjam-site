@@ -14,9 +14,11 @@ location:
     url: https://www.oldhorseleicester.co.uk/
     lon: -1.1201293
     lat: 52.627451
-hiatus: false
+hiatus: true
 hiatus_months:
   - 2024-09
   - 2025-12
+  - 2026-07
+  - 2026-08
   
 ---
