@@ -22,7 +22,6 @@ links:
     twitter:
         text: '@MathsJamGLD'
         url: https://twitter.com/MathsJamGLD
-extra_text: "Guildford MathsJam will meet online only in July 2026 - contact the organisers for details."
 
 ---
 
