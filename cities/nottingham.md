@@ -26,6 +26,7 @@ links:
     twitter:
         text: '@NOTMathsJam'
         url: https://twitter.com/NOTMathsJam
+extra_text: "In September 2026, the Nottingham MathsJam will not be running, and instead, the regulars will be joining <a href=https://mathsjam.com/cities/leicester>Leicester MathsJam</a> for the evening."
 
 ---
 
