@@ -60,9 +60,7 @@ There will be three prizes for the competition competition:
 
 The judging panel will be chosen randomly from non-competition-entering MathsJam attendees.
 
-Remote attendees will also be able to enter the Competition Competition: email your PDF to [compcomp@mathsjam.com](mailto:compcomp@mathsjam.com) before **30th October** and we can print copies to take along.
-
-Remote attendees can also enter the competitions within the Competition Competition: we'll take photos of each of the competition entry sheets, and place a link in the Gather space (on the appropriate table). There will be a form to submit your entries, and and any remote entries received will be actualised (by a skilled actualiser with a pen) and entered into the competition before they close.
+Remote attendees will also be able to enter competitions into the Competition Competition: email your PDF to [compcomp@mathsjam.com](mailto:compcomp@mathsjam.com) before **30th October** and we can print copies to take along. Unfortunately, we will not be able to facilitate remote attendees entering the individual competitions within the competition competition.
 
 <h2 id="jamjam">MathsJamJam</h2>
 
@@ -93,7 +91,7 @@ In a separate dedicated room, we will place two tables - one is for things you'r
 
 2022's tables featured the [Spigot Tap](https://youtu.be/LQ1_di1TStc?feature=shared), which dispensed digits of pi.
 
-There will be a remote analogue of the Tables of Things in the Gather space, where we will attempt to add photos of any handouts/relevant links. If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
+If you are a remote attendee and would like to contribute something to the in-person tables (a printout, or something you're happy to post beforehand) please email [gathering@mathsjam.com](mailto:gathering@mathsjam.com) and we can arrange it.
 
 Occasionally contribiutors to the 'things to take' table have requested a small donation in a collection box, either to cover the costs of producing the items, or for charity. This is strictly optional.
 
