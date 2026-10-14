@@ -14,7 +14,7 @@ location:
     url: https://www.drydock.org.uk/
     lon: -2.454368
     lat: 50.610721
-hiatus: false
+hiatus: true
 
 ---
 
