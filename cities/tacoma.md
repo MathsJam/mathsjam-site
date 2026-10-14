@@ -6,15 +6,15 @@ local_jam_type: MathJam
 jam_name: Tacoma MathJam
 email: tacoma@mathsjam.com
 organiser:
-    name: Tom
+    name: Mark
     email: tacoma@mathsjam.com
 location:
     group: north-america
     pub_name: 7 Seas Brewing Tacoma Tap Room
     description: ' which is at 2101 Jefferson Ave'
     url: https://www.7seasbrewing.com/
-    lon: -122.490552
-    lat: 47.264847
+    lon: -122.438993
+    lat: 47.242336
 changed_dates:
     - 2017-12-19
     - 2022-11-01
