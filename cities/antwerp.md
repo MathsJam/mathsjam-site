@@ -43,6 +43,7 @@ changed_dates:
     - 2025-11-23
     - 2025-12-15
     - 2026-09-29
+    - 2026-10-27
 links:
     twitter:
         text: '@MathsJamAntwerp'
