@@ -76,7 +76,7 @@ You're welcome to just come along and listen, and you can join in in any or all 
 
 Here's the [2025 MathsJam Jam Songbook](https://drive.google.com/drive/folders/1YbqTUzZTeVDd9iz7txMxtqpM5tpN8Cst?usp=drive_link)!
 
-Check out the [lyrics from previous years](https://drive.google.com/file/d/11WAOPrPDRhW_ecBByvCqT1GaW13JQ0gj/view?usp=drive_link).
+Check out the [lyrics from previous years](https://drive.google.com/file/d/19lN70Sn51M1wwqCZapVKc8TlOMR4aBUP/view?usp=drive_link).
 
 You can also see [videos of four songs from 2018](https://www.youtube.com/playlist?list=PLRddDv4mCcEXrN_cgWEaiVwtKmyHyfNMn).
 
