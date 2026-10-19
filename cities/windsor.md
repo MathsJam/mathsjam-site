@@ -15,7 +15,7 @@ location:
     url: https://www.facebook.com/barrelhousedraughtco/
     lon: -83.0753000
     lat: 42.3020000
-hiatus: false
+hiatus: true
 changed_dates:
     - 2017-12-19
     - 2019-05-28
