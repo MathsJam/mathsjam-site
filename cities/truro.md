@@ -13,8 +13,8 @@ location:
     pub_name: Vertigo
     description: " which is on St Mary's Street"
     url: https://vertigotruro.co.uk/
-    lon: -5.0504964
-    lat: 50.2638011
+    lon: -5.0502973
+    lat: 50.2638358
 start_time: 7.30pm
 hiatus_months:
 	- 2026-10
