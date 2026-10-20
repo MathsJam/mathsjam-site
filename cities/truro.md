@@ -16,6 +16,8 @@ location:
     lon: -5.0504964
     lat: 50.2638011
 start_time: 7.30pm
+hiatus_months:
+	- 2026-10
 
 ---
 
