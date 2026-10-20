@@ -24,7 +24,6 @@ changed_dates:
     - 2021-12-20
 jam_date_rule: 1 day before the second-last Tuesday
 december_jam_date_rule: 1 day before the third-last Tuesday
-extra_text: Ottawa MathsJam is holding online MathJams via Zoom - contact the organisers for more details.
 links:
     twitter:
         text: '@OttawaMathsJam'
