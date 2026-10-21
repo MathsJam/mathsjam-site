@@ -68,7 +68,7 @@ A question I read in a maths textbook made a claim about pet rocks. I doubted th
 #### Peter Rowlett: Superdominoes
 Dominoes are tiles with two numbers on. Mathematically, we can think of them as 1D line segments with each end labelled with a number. Superdominoes are an extension of this idea to higher dimensions.
 
-#### Session 1d - 17:00-18:00
+### Session 1d - 17:00-18:00
 
 #### Matthew Scroggs: 5 by 5 nonograms
 Inspired by [the collaborative effort to solve every 5 by 5 nonogram puzzle in 2025](https://pixelogic.app/every-5x5-nonogram), Scroggs has been playing with nonograms and made a cool thing...
@@ -76,7 +76,7 @@ Inspired by [the collaborative effort to solve every 5 by 5 nonogram puzzle in 2
 #### Martin Whitworth: Least action
 A simple principle can be used to derive particle trajectories without recourse to Newton's laws of motion.
 
-### Tony Mann: How do we know what is 2+2?
+#### Tony Mann: How do we know what is 2+2?
 We learn basic addition at the beginning of our maths education, but how do we know that what we are told is true?  This talk will resolve any doubts you might have about 2+2 by providing two entertaining arguments establishing its value beyond doubt.
 
 #### Zeno Norris: Discovering Mathematics: The Joy of Understanding
@@ -126,7 +126,7 @@ There's a neat fold to make a 60 degree angle from a rectangular piece of paper.
 #### Tom Briggs : A Year of Maths in Museums
 Quickfire examples of maths that I have found in museums this year, ending with a call to action.
 
-### Professor Hamish McSporran : Sudoku and the Phistomefel Ring
+#### Professor Hamish McSporran : Sudoku and the Phistomefel Ring
 Simple introduction to the Phistomefel Ring, its proof and how it can help you impress your Sudoku-solving friends.
 
 #### Christian Lawson-Perfect: I can't believe it's 1!
@@ -143,12 +143,12 @@ A look at some of the ways mathematics has been used in SF and fantasy to repres
 #### Gavan Fantom: Multiplying Polynomials for Fun and Profit
 We're taught to use the distributive property to multiply polynomials, but it's not the only way to do it. We explore how a different way of representing polynomials reveals some interesting symmetries that we can exploit to speed up the process, and rediscover an algorithm that you may already be familiar with from another context.
 
-#### Session 2d - 13:30-14:30 
-
 #### Matt Peperell: What's wrong with canceling fractions?
 It's sometimes useful to know shortcuts with laborious or tedious processes. Some techniques can be generalised. Here I present a compilation of ideas which cannot be.
 
-### Competition admin
+#### Competition admin
+
+### Session 2d - 13:30-14:30 
 
 #### Clare Wallace: How to make a quilt
 Making a patchwork quilt is a process of cutting fabric into smaller pieces and then joining those pieces together into bigger ones, over and over again. In this talk we ask: what’s the best way to do it? And what’s the worst?!
