@@ -120,8 +120,8 @@ My talk is about 2 things:
 #### Andrew Taylor: This 1998 computer game is topologically impossible
 Populous The Beginning (PC, 1998) allowed players to view, explore, and conquer entire planets. But spheres are confusing to play on and hard to program, so let's talk about how they faked it, and what else we can do using the same trick.
 
-#### Alison Kiddle: Paper folding and platonic solids
-There's a neat fold to make a 60 degree angle from a rectangular piece of paper. Starting with this fold, I'll show a sequence of cool things you can make with the resulting equilateral triangles.
+#### Zoe Griffiths: Quest for the Most Mathematically Sensible Name
+Zoe takes us on a tour of her quest for the most mathematically sensible name (with no overlap with her talk from last year).
 
 #### Tom Briggs : A Year of Maths in Museums
 Quickfire examples of maths that I have found in museums this year, ending with a call to action.
@@ -165,7 +165,7 @@ Take an n-sided polygon. Put non-negative integers on its vertices. Put the abso
 #### Rob Low: Fractions of infinity
 What does it mean to talk about three quarters of a countably infinite set? I'll explain why that's hard, what we can do about it, and why it's a bit subtle.
 
-#### Zoe Griffiths: Quest for the Most Mathematically Sensible Name
-Zoe takes us on a tour of her quest for the most mathematically sensible name (with no overlap with her talk from last year).
+#### Alison Kiddle: Paper folding and platonic solids
+There's a neat fold to make a 60 degree angle from a rectangular piece of paper. Starting with this fold, I'll show a sequence of cool things you can make with the resulting equilateral triangles.
 
 #### MathsJam Team: Wrap-up and thanks
