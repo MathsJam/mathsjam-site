@@ -97,8 +97,8 @@ If you're hosting a round on Threads and Tangents, everyone else gets a score ba
 #### Colin Wright: The Jaunty Squares Theorem
 Sometimes there are results that can be proved by using the powerful techniques that we take for granted, but which have a neat, clean, elegant proof. In this talk we’ll look at one such result that ends up giving an unexpected corollary.
 
-#### Elinor Flavell: Some women in maths history
-(more detail TBC)
+#### Elinor Flavell: How long is a piece of string? Exploring a 216-year-old book of measurements designed for Young Ladies
+Today we use millimetres, centimetres, meters, inches, feet, yards and many other units to measure the world around us - but what were we using 216 years ago? 
 
 #### Mats Vermeeren: Rattleback dynamics
 Rotating bodies often have counterintuitive properties. A rattleback is a prime example of this. It spins very happily in one direction, but emphatically objects to spinning in the other direction. Let's find out why!
