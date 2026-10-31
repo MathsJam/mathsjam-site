@@ -52,10 +52,11 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 - Runs after a speaker to retrieve the microphone if necessary.
 - *Needs training*
 
-#### Sound mixer
+#### Sound and vision mixer
 - Mutes and unmutes mics.
 - Adjusts sound levels to cope with louder and quieter speakers.
 - Adjusts levels for other audio e.g. from laptops.
+- Switches between the camera, slides and visualiser for the projector feed
 - *Needs training*
 
 #### Gopher
