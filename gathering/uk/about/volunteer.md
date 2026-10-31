@@ -69,7 +69,7 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 - The stage laptop is a MacBook, running Powerpoint, Keynote and PDF viewer software.
 - *Needs training*
 
-#### 5-minute Timer operator
+#### 5-minute timer operator
 - Operates the 5 minute countdown timer.
 - This role is sometimes carried out by the compere, but having someone focus on it leads to less forgetting to start the timer!
 
