@@ -87,6 +87,15 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 - This role requires you to have brought a laptop or device that can post in the YouTube stream chat - the links will be shared with attendees in the pre-event email.
 - *This role can be done by the YouTube chat supervisor if they are an in-person attendee.*
 
+#### Compere
+- Hosts a session of talks.
+- Introduces each speaker.
+- Makes announcements for upcoming events.
+- Fills time while speakers set up.
+- Monitor and enforce the five minute talk timer.
+- Is given a clipboard with all the necessary information to read out on it.
+- Note: compere slots are usually filled by invitation, but if you think you'd be great at it you can try suggesting yourself!
+
 ### Saturday evening roles
 
 #### Setting up evening tables
