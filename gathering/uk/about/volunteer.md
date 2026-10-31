@@ -99,8 +99,7 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 - May involve pointing a camera at the right place and checking the sound is coming through ok.
 
 ### Centrally administered roles
-The roles below are usually filled by specifically invited people, but
-if you think you'd be great at any of them you can try suggesting yourself!
+The roles below are usually filled by specifically invited people, and may already be full, but if you think you'd be great at any of them you can email [volunteer@mathsjam.com](volunteer@mathsjam.com) to let us know.
 
 #### Compere
 - Hosts a session of talks.
