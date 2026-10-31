@@ -5,6 +5,8 @@ body_class: about
 minimenu:
   - path: 'code-of-conduct/'
     label: 'Code of Conduct'
+  - path: 'volunteer/'
+    label: 'Volunteering'
   - path: 'the-team/'
     label: 'The Team'
 ---
