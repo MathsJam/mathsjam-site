@@ -16,6 +16,8 @@ minimenu:
 
 <h2 id="schedule">Schedule of talks</h2>
 
+<a href="https://mathsjam.com/gathering/uk/archive/2026" class="small-to-action">Click here to see the 2026 talks schedule</a>
+
 On Saturday afternoon and Sunday morning we have a schedule of five-minute talks. Past talks have included everything from people sharing a mathematical phone game they enjoy, to the ways they made their wedding more mathematical, as well as puzzles, weird mathematical concepts and observations of real-world things containing interesting maths.
 
 All talk sessions are livestreamed to remote attendees, and the breaks between sessions include opportunities for both in-person and remote attendees to talk to the speakers from the previous session.
