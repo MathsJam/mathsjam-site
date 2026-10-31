@@ -87,15 +87,6 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 - This role requires you to have brought a laptop or device that can post in the YouTube stream chat - the links will be shared with attendees in the pre-event email.
 - *This role can be done by the YouTube chat supervisor if they are an in-person attendee.*
 
-#### Compere
-- Hosts a session of talks.
-- Introduces each speaker.
-- Makes announcements for upcoming events.
-- Fills time while speakers set up.
-- Monitor and enforce the five minute talk timer.
-- Is given a clipboard with all the necessary information to read out on it.
-- Note: compere slots are usually filled by invitation, but if you think you'd be great at it you can try suggesting yourself!
-
 ### Saturday evening roles
 
 #### Setting up evening tables
@@ -106,3 +97,18 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 #### MathsJamJam stream assistant
 - Ensures a stream of the MathsJamJam is available for remote attendees.
 - May involve pointing a camera at the right place and checking the sound is coming through ok.
+
+### Centrally administered roles
+The roles below are usually filled by specifically invited people, but
+if you think you'd be great at any of them you can try suggesting yourself!
+
+#### Compere
+- Hosts a session of talks.
+- Introduces each speaker.
+- Makes announcements for upcoming events.
+- Fills time while speakers set up.
+- Monitor and enforce the five minute talk timer.
+- Is given a clipboard with all the necessary information to read out on it.
+
+#### [Code of conduct](https://mathsj.am/coc) point of contact
+- Be available for people to approach you with CoC issues.
