@@ -89,7 +89,7 @@ Where tasks involve any level of technical knowledge, volunteers will be trained
 
 ### Saturday evening roles
 
-##### Setting up evening tables
+#### Setting up evening tables
 - Assisting the Saturday Evening Tables coordinator.
 - Clearing detritus, glasses etc off tables.
 - Putting out signage for tables to match the map.
