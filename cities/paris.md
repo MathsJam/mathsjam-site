@@ -11,12 +11,12 @@ organiser:
 location:
     group: rest-of-world
     pub_name: Le Gramophone
-    description: ', on Bd Dubreil in Orsay'
+    description: ', on 27 Bd Dubreil in Orsay'
     url: https://le-gramophone-restaurant-orsay.eatbu.com/?lang=fr
     lon: 2.1843735
     lat: 48.6979677
-hiatus: true
-start_time: 7pm (19h)
+hiatus: false
+start_time: 8pm (20h)
 
 ---
 
