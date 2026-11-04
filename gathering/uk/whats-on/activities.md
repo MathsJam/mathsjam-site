@@ -74,7 +74,7 @@ You're welcome to just come along and listen, and you can join in in any or all 
 - bring your own guitar/ukulele/grand piano/triangle/whatever and play along - we'll provide chord sheets for all the songs
 - sing along!
 
-Here's the [2025 MathsJam Jam Songbook](https://drive.google.com/drive/folders/1YbqTUzZTeVDd9iz7txMxtqpM5tpN8Cst?usp=drive_link)!
+Here's the [2026 MathsJam Jam Songbook](https://drive.google.com/drive/folders/11b_clbY1IwyiPJrt6dO2u9Zesak1I5cN?usp=drive_link)!
 
 Check out the [lyrics from previous years](https://drive.google.com/file/d/19lN70Sn51M1wwqCZapVKc8TlOMR4aBUP/view?usp=drive_link).
 
