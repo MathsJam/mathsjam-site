@@ -45,7 +45,7 @@ changed_dates:
     - 2026-09-29
     - 2026-10-27
     - 2026-11-22
-extra_text: "In November 2026, Antwerp MathsJam will be at MathFest in Ghent - for more information, visit <a href="https://mathfest.be/">mathfest.be</a>."
+extra_text: "In November 2026, Antwerp MathsJam will be at MathFest in Ghent - for more information, visit <a href='https://mathfest.be/'>mathfest.be</a>."
 links:
     twitter:
         text: '@MathsJamAntwerp'
