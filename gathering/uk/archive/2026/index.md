@@ -143,7 +143,7 @@ A look at some of the ways mathematics has been used in SF and fantasy to repres
 #### Gavan Fantom: Multiplying Polynomials for Fun and Profit
 We're taught to use the distributive property to multiply polynomials, but it's not the only way to do it. We explore how a different way of representing polynomials reveals some interesting symmetries that we can exploit to speed up the process, and rediscover an algorithm that you may already be familiar with from another context.
 
-#### Matt Peperell: What's wrong with canceling fractions?
+#### Matt Peperell: Tricks in Maths
 It's sometimes useful to know shortcuts with laborious or tedious processes. Some techniques can be generalised. Here I present a compilation of ideas which cannot be.
 
 #### Competition admin
