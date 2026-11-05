@@ -1,7 +1,7 @@
 ---
 layout: gathering
 title: Volunteering
-body_class: about
+body_class: whats-on
 ---
 
 MathsJam Gathering is a fully volunteer-run event, and can only run successfully if attendees help out. This page gives details of many of the tasks during the weekend that are carried out by volunteers.
