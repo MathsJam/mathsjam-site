@@ -37,7 +37,7 @@ Some examples of previous talks can be found on YouTube:
 
 <h2 id="talking">Giving a talk</h2>
 
-If you'd like to give a talk at MathsJam 2025, you'll need to register for a ticket first, and in the booking confirmation email there'll be a link to a form to submit talks. If your attendance is dependent on giving a talk, please contact us by emailing <a href="mailto:gathering@mathsjam.com">gathering@mathsjam.com</a>.
+If you'd like to give a talk at MathsJam, you'll need to register for a ticket first, and in the booking confirmation email there'll be a link to a form to submit talks. (If your attendance is dependent on giving a talk, please contact us by emailing <a href="mailto:gathering@mathsjam.com">gathering@mathsjam.com</a>.)
 
 You can give a talk to show us something you think is interesting. We're not looking for Earth-shattering maths, nor new discoveries, nor anything exceptionally deep or meaningful. We're looking for things that you think are neat, cool, weird, surprising, or that simply intrigue you.
 
@@ -45,7 +45,7 @@ You can give a talk to show us something you think is interesting. We're not loo
 - Talks are strictly limited to five minutes.
 - Think of your five minutes as an invitation for people to come and chat with you.
 - A laptop will be made available for presenting, and we will have the capacity to show Powerpoint, Keynote, PDF and online slides, as well as display websites in a browser.
-- If you're using slides, you will need to send them in advance.
+- If you're using slides, you will need to send them in advance and we will run them on our laptop - we usually set a deadline one week before the event, and once the talk submission deadline passes you'll have until then to send in your slides/links.
 - There will also be a visualiser for speakers to use.
 
 <h2 id="tables">Saturday Night Tables</h2>
