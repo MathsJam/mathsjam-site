@@ -156,7 +156,7 @@ Making a patchwork quilt is a process of cutting fabric into smaller pieces and 
 #### Donald Bell: Using AI to design an entry for the Competition Competition
 I consulted various AI systems with the problem "help me design something for the Competition Competition". They all came up with lots of ideas and obscure mathematical theorems.  But they also had one thing in common "use Pick's Theorem".  So I said "OK, help me out" and they did!
 
-#### Bob Huxley: Substantial Damages
+#### Bob Huxley: Hilbert vs Aleph 0
 An exceptional court case...
 
 #### Phil Ramsden: Cycling in a polygonal rabbit-hole
