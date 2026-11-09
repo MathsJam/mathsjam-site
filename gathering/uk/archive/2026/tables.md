@@ -50,5 +50,5 @@ A card net made with three or more strips of triangles can be folded into a surp
 
 ### L Making OEIS sequence A400000: The city-building sequence (Peter Rowlett)
 
-The city-building sequence: a(n) = the height h of the shortest building which can see exactly h earlier buildings. We will build terms of this sequence (buildings) from cubes and draw it on paper.
+The [city-building sequence](https://oeis.org/A400000): a(n) = the height h of the shortest building which can see exactly h earlier buildings. We will build terms of this sequence (buildings) from cubes and draw it on paper.
 
