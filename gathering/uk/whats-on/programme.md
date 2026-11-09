@@ -50,6 +50,8 @@ You can give a talk to show us something you think is interesting. We're not loo
 
 <h2 id="tables">Saturday Night Tables</h2>
 
+<a href="https://mathsjam.com/gathering/uk/archive/2026/tables" class="small-to-action">Click here to see the 2026 list of tables</a>
+
 On Saturday evening a section of the room will be set up with tables, each containing an activity. Activities can range from 'Let's play game X' through to 'I will teach you how to Y', and previous years have included learning how to play Go, playing games of Set, making things with origami, learning to spin/knit/crochet, and more.
 
 ![A Saturday night table. An Enigma machine sits on the table, surrounded by craft materials and paper. In the background, a person is holding a rotor from the Enigma machine.](../../images/SatTables2.jpeg)
