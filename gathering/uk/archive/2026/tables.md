@@ -40,7 +40,15 @@ Let's play some board games. I've got easy, complicated, mathsy, wordy and weird
 A large number of magnetic triangles, squares, pentagons and hexagons will be provided ("Magformers").  You will be able to make polyhedra of many kinds - Platonic solids, Archimedean solids, Johnson solids, Deltahedra, Buckminster fullerenes, Stewart toroids, plane tilings etc.
 The session will be run as a "workshop".  You will be given a deliberately incomplete mathematical introduction and you will be invited to look for patterns and curiosities, make conjectures and try to verify and explain them.
 
-### I Circus Workshop (Rob Woolley)
+### J Circus Workshop (Rob Woolley)
 
 Have a go at some circus or juggling. Will have a range of stuff to have a go at.
+
+### K Making helices with triangles (Tandi Clausen-May)
+
+A card net made with three or more strips of triangles can be folded into a surprising variety of shapes: a sort of long thin tube, with the ribbons twisting round the axis to form a helix made of triangles, or a 'stick' of antiprisms joined face-to-face, or a prism whose faces are composed of straight strips of triangles. Come and explore these intriguing deltahedra, and discover how they morph from one shape to the next as you move the long sides of the net up or down in relation to one another. All materials will be provided, though you might find it useful to bring some coloured pencils or crayons or felt-tips.
+
+### L Making OEIS sequence A400000: The city-building sequence (Peter Rowlett)
+
+The city-building sequence: a(n) = the height h of the shortest building which can see exactly h earlier buildings. We will build terms of this sequence (buildings) from cubes and draw it on paper.
 
