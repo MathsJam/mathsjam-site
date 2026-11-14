@@ -59,8 +59,8 @@ Since the announcement of a solution to the Navier-Stokes Millennium problem, a 
 #### Michael Thompson: Solving a Squared Rectangle Puzzle Using Electricity
 I solve a maths puzzle live using 10 resistors and a multimeter.
 
-#### Louise Mabbs: Mani-fold, a Shape Book Project
-(details TBC)
+#### Phil Ramsden: Cycling in a polygonal rabbit-hole
+Take an n-sided polygon. Put non-negative integers on its vertices. Put the absolute values of their differences at the midpoints. This makes a new n-sided polygon, and you can repeat the process as many times as you like, creating a beautiful numerical dance. What happens if you let the dance go on and on? John Hoskinson posed this question in a great talk three years ago, and this is my third attempt to answer it, at least in part (missed the deadline one year, came down with flu the next). It's SO fascinating. I WILL give this talk. 
 
 #### Sam Hartburn: The Dangers of Being a Pet Rock
 A question I read in a maths textbook made a claim about pet rocks. I doubted the truth of that claim, so I investigated futher. In my talk I will present the results of that investigation.
@@ -159,8 +159,8 @@ I consulted various AI systems with the problem "help me design something for th
 #### Bob Huxley: Hilbert vs Aleph 0
 An exceptional court case...
 
-#### Phil Ramsden: Cycling in a polygonal rabbit-hole
-Take an n-sided polygon. Put non-negative integers on its vertices. Put the absolute values of their differences at the midpoints. This makes a new n-sided polygon, and you can repeat the process as many times as you like, creating a beautiful numerical dance. What happens if you let the dance go on and on? John Hoskinson posed this question in a great talk three years ago, and this is my third attempt to answer it, at least in part (missed the deadline one year, came down with flu the next). It's SO fascinating. I WILL give this talk. 
+#### Louise Mabbs: Mani-fold, a Shape Book Project
+(details TBC)
 
 #### Rob Low: Fractions of infinity
 What does it mean to talk about three quarters of a countably infinite set? I'll explain why that's hard, what we can do about it, and why it's a bit subtle.
