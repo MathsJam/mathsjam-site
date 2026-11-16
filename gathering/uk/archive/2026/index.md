@@ -267,9 +267,6 @@ Here are 3 videos I've made showing some solutions:
       <article>
         <h4>Zoe Griffiths: Quest for the Most Mathematically Sensible Name</h4>
         <p>Zoe takes us on a tour of her quest for the most mathematically sensible name (with no overlap with her talk from last year).</p>
-        <ul>
-          <li><a href="{{site.url}}/assets/talks/2026/ZoeGriffiths-TheMostMathematicallySensibleName.pdf">Zoe's slides (PDF)</a></li>
-        </ul>
       </article>
       <article>
         <h4>Tom Briggs : A Year of Maths in Museums</h4>
