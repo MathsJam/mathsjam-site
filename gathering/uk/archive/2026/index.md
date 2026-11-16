@@ -296,7 +296,13 @@ Here are 3 videos I've made showing some solutions:
       <h3 id="session-2c">Session 2c</h3>
       <article>
         <h4>Jen Sparks: Catching my drift</h4>
-        <p>Jen's flown planes for the RAF, and shares how to calculate the direction you should be flying in if you want to fly in a particular direction despite a crosswind - it uses a bit of trigonometry (which you do using a lookup table when you can't get out a calculator because you're too busy flying a plane!)</p>
+        <p>JAs a former RAF Navigator and now maths teacher, I realised that a lot of the simple calculations and ‘rules of thumb’ I used to use when navigating in a Tornado aircraft have some nice mathematical underpinning. In this talk I show how to adjust an aircraft’s heading to allow for drift caused by a crosswind, to ensure you fly the desired track. This involves using trigonometry to find crosswind components and then again to work out the angle (°) needed to adjust the aircraft heading by. In the aircraft, a ‘Flight Information Handbook’ contains a table of crosswind components, to save doing the trig while flying. Then, instead of using trig again, simply divide the crosswind component by the aircraft’s speed in miles per minute to give the angle needed to adjust by.</p>
+        <p>For example, 420kts groundspeed gives 7 miles per minute (420/60), and a 28kts crosswind component divided by 7 gives 4, so the aircraft heading would need to be adjusted by 4° into wind to ensure the aircraft flies the correct desired track.</p>
+<p>Why this ‘rule of thumb’ works is left as a puzzle to the reader... with the following clues:</p>
+<ul><li>60 &#8773; 57.3</li>
+<li>&Theta; is small</li>
+</ul>
+</p>
         <ul>
           <li><a href="{{site.url}}/assets/talks/2026/JenSparks-Catchingmydrift.pptx">Jen's slides (PPT)</a></li>
           <li><a href="{{site.url}}/assets/talks/2026/JenSparks-Catchingmydrift.pdf">Jen's slides (PDF)</a></li>
