@@ -163,7 +163,7 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
       <h3 id="session-1d">Session 1d</h3>
       <article>
         <h4>Matthew Scroggs: 5 by 5 nonograms</h4>
-        <p>Inspired by the collaborative effort to solve every 5 by 5 nonogram puzzle in 2025<a href="https://pixelogic.app/every-5x5-nonogram), Scroggs has been playing with nonograms and found a set of 5 by 5 nonograms that when solved resemble the alphabet, and when concatenated lead to solvable 5 by 5n nonograms so can be used to make a nonogram for any word or phrase.</p>
+        <p>Inspired by the <a href="https://pixelogic.app/every-5x5-nonogram">collaborative effort to solve every 5 by 5 nonogram puzzle in 2025</a>, Scroggs has been playing with nonograms and found a set of 5 by 5 nonograms that when solved resemble the alphabet, and when concatenated lead to solvable 5 by 5n nonograms so can be used to make a nonogram for any word or phrase.</p>
         <ul>
           <li><a href="https://mscroggs.github.io/mj2026-slides/">Scroggs' slides (online)</a></li>
         </ul>
