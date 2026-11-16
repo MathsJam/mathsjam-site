@@ -300,7 +300,7 @@ Here are 3 videos I've made showing some solutions:
         <p>For example, 420kts groundspeed gives 7 miles per minute (420/60), and a 28kts crosswind component divided by 7 gives 4, so the aircraft heading would need to be adjusted by 4° into wind to ensure the aircraft flies the correct desired track.</p>
 <p>Why this ‘rule of thumb’ works is left as a puzzle to the reader... with the following clues:</p>
 <ul><li>60 &#8773; 57.3</li>
-<li>&Theta; is small</li>
+<li>&theta; is small</li>
 </ul>
 </p>
         <ul>
