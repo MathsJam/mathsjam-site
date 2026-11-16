@@ -226,7 +226,7 @@ Here are 3 videos I've made showing some solutions:
       </article>
       <article>
         <h4>Elinor Flavell: How long is a piece of string? Exploring a 216-year-old book of measurements designed for Young Ladies</h4>
-        <p>Again I can get this to you by the 30th October.</p>
+        <p>Today we use millimetres, centimetres, meters, inches, feet, yards and many other units to measure the world around us - but what were we using 216 years ago? Elinor shares some historical books of 'arithmetical tables for the use of young ladies', to find out how people engaged with maths in the past, and how many nails are in an Ell Flemish.</p>
         <ul>
           <li><a href="{{site.url}}/assets/talks/2026/ElinorFlavell-HowLongisaPieceofString.pptx">Elinor's slides (PPT)</a></li>
           <li><a href="{{site.url}}/assets/talks/2026/ElinorFlavell-HowLongisaPieceofString.pdf">Elinor's slides (PDF)</a></li>
