@@ -6,7 +6,7 @@ title: MathsJam Gathering Cakes 2026
 Here are photographs of all the cakes from this year's MathsJam Gathering Bakeoff contest. Click on the images to enlarge.
 
 ## Winner of Prettiest Bake
-<a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/253bridgesofkonigsberg.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/253bridgesofkonigsberg-sm.jpg"></a>
+<a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/253bridgesofkoningsberg.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/253bridgesofkoningsberg-sm.jpg"></a>
 
 <a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/253bridgesofKonigsbergb.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/253bridgesofKonigsbergb-sm.jpg"></a>
 
@@ -14,9 +14,9 @@ Here are photographs of all the cakes from this year's MathsJam Gathering Bakeof
 <a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/259gingerbreadtetrominoes.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/259gingerbreadtetrominoes-sm.jpg"></a>
 
 ## Winner of Tastiest Bake
-<a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytablet.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytablet.jpg"></a>
+<a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytablet.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytablet-sm.jpg"></a>
 
-<a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytabletb.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytabletb.jpg"></a>
+<a href="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytabletb.jpg"><img src="{{site.url}}/gathering/uk/archive/2026/assets/cakes/254claytabletb-sm.jpg"></a>
 
 ## The rest of the bakes
 
