@@ -26,6 +26,7 @@ hiatus_months:
     - 2026-06
     - 2026-07
     - 2026-08
+    - 2026-12
 start_time: 4pm until about 6/6.30pm
 links:
     twitter:
