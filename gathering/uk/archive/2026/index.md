@@ -47,37 +47,37 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
         <h4>Katie Steckles: Every Day I'm Shuffling</h4>
         <p>Katie has recently acquired a card shuffling machine, which has prompted some questions about how the machine shuffles cards, and the maths behind shuffling in general. The machine performs an imperfect riffle shuffle, and Katie's developed a metric to measure how perfect a shuffle is, and made a YouTube video about it, which is out now!</p>
         <ul>
-          <li>Katie's slides (PDF)<a href="{{site.url}}/assets/talks/2026/KatieSteckles-EveryDayImShuffling.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/KatieSteckles-EveryDayImShuffling.pdf">Katie's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Mike Frost: Real-world control theory</h4>
         <p>In recent MathsJams, we have had some excellent talks about Control Theory. I am a maths graduate who has just retired from a 40-year career in control and systems engineering, so I wanted to share some of my experiences. The systems I controlled were rather larger than the electronic systems which are usually presented as examples. I’d like to tell you about control theory problems - and solutions - in a steel rolling mill. In particular, one of the most widely used modelling techniques can produce positive feedback. Rolling steel 24 / 7 / 52 / 40 requires maths skills as well as engineering skills.</p>
         <ul>
-          <li>Mike's slides (PPT)<a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.ppt"></a></li>
-          <li>Mike's slides (PDF)<a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.pdf"></a></li>
+          <li<a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.ppt">>Mike's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.pdf">Mike's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Claire Cohen: Which times table is best... for amigurumi!?</h4>
         <p>Exploring amigurumi and shaping in crochet, and the effect of different amount of increases on the shape, and the different ways you can affect this by changing where you increase and the maybe surprisingly mathematical way it comes together.</p>
         <ul>
-          <li>Claire's slides (PPT)<a href="{{site.url}}/assets/talks/2026/ClaireCohen-WhatisthebestTimesTableforAmigurumi.pptx"></a></li>
-          <li>Claire's slides (PDF)<a href="{{site.url}}/assets/talks/2026/ClaireCohen-WhatisthebestTimesTableforAmigurumi.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ClaireCohen-WhatisthebestTimesTableforAmigurumi.pptx">Claire's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ClaireCohen-WhatisthebestTimesTableforAmigurumi.pdf">Claire's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Justin Roughley: Something knotty</h4>
         <p>An exploration of filling the plane with Celtic knots with symmettry of the 17 wallpaper groups</p>
         <ul>
-          <li>Justin's slides (online)<a href="https://www.knotworthy.co.uk/knots-bqitii70/"></a></li>
+          <li><a href="https://www.knotworthy.co.uk/knots-bqitii70/">Justin's slides (online)</a></li>
         </ul>
       </article>
       <article>
         <h4>Tarim: What is cheating?</h4>
         <p>An investigation covering the 6 matchsticks, 4 triangles problem; the 3 utilities problem and some balloon modelling</p>
         <ul>
-          <li>Tarim's slides (HTML)<a href="{{site.url}}/assets/talks/2026/Tarim-ToCheatorNotToCheat.html"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/Tarim-ToCheatorNotToCheat.html">Tarim's slides (HTML)</a></li>
         </ul>
       </article>
     </section>
@@ -88,31 +88,31 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
           <h4>Colin Beveridge: The 0th Row of Pascal's Triangle</h4>
           <p>A-level students are happy enough extending Pascal's triangle to rational-indexed rows, but we can go further than that: what if we make it perfectly continuous using the gamma function? It makes the zeroth row especially interesting.</p>
           <ul>
-            <li>Colin's slides (PDF)<a href="{{site.url}}/assets/talks/2026/ColinBeveridge-The0thRowofPascalsTriangle.pdf"></a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/ColinBeveridge-The0thRowofPascalsTriangle.pdf">Colin's slides (PDF)</a></li>
           </ul>
         </article>
         <article>
           <h4>Catherine Flick: Maths and... ethics?</h4>
           <p>The talk covered some basic applied ethics that is useful for mathematicians and went through a few scenarios (e.g. misuse of statistics) that would be of interest to illustrate these. It ended with a call to avoid illusions of exceptionalism in mathematics, in that mathematics has real world implications and impact, and for mathematicians to reflect on their practice from this perspective.</p>
           <ul>
-            <li>Catherine's slides (PPT)<a href="{{site.url}}/assets/talks/2026/CatherineFlick-MathsandEthics.pptx"></a></li>
-            <li>Catherine's slides (PDF)<a href="{{site.url}}/assets/talks/2026/CatherineFlick-MathsandEthics.pdf"></a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/CatherineFlick-MathsandEthics.pptx">Catherine's slides (PPT)</a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/CatherineFlick-MathsandEthics.pdf">Catherine's slides (PDF)</a></li>
           </ul>
         </article>
         <article>
           <h4>Dave Hartburn: Fretting about rockin'</h4>
           <p>A couple of year ago, I bought a guitar tool, a fret rocker. The talk goes into why it is the shape it is, and the maths behind a guitar fretboard.</p>
           <ul>
-            <li>Dave's slides (PPT)<a href="{{site.url}}/assets/talks/2026/DaveHartburn-FrettingaboutRockin.pptx"></a></li>
-            <li>Dave's slides (PDF)<a href="{{site.url}}/assets/talks/2026/DaveHartburn-FrettingaboutRockin.pdf"></a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/DaveHartburn-FrettingaboutRockin.pptx">Dave's slides (PPT)</a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/DaveHartburn-FrettingaboutRockin.pdf">Dave's slides (PDF)</a></li>
           </ul>
         </article>
         <article>
           <h4>David Lyford-Tilley: How to do a Fourier transform in your head</h4>
           <p>How does hearing work? In this talk I explore how the inner ear uses a mechanical process to mimic the process of a Fourier transform - and produces a frequency analysis completely subconsciously.</p>
           <ul>
-            <li>David's slides (PPT)<a href="{{site.url}}/assets/talks/2026/DavidLyford-Tilley-HowtodoaFourierTransforminyourHead.pptx"></a></li>
-            <li>David's slides (PDF)<a href="{{site.url}}/assets/talks/2026/DavidLyford-Tilley-HowtodoaFourierTransforminyourHead.pdf"></a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/DavidLyford-Tilley-HowtodoaFourierTransforminyourHead.pptx">David's slides (PPT)</a></li>
+            <li><a href="{{site.url}}/assets/talks/2026/DavidLyford-Tilley-HowtodoaFourierTransforminyourHead.pdf">David's slides (PDF)</a></li>
           </ul>
         </article>
       </article>
@@ -125,37 +125,37 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
         <h4>Miles Gould: Navier-Stokes and the Murder of the Impossible</h4>
         <p>Miles compared recent AI-assisted maths results to the controversial 1971 "Compressor Route" on Cerro Torre, and suggested that maths, like climbing, would split into several different codes of "ethics" allowing more or less technological assistance.</p>
         <ul>
-          <li>Miles's slides (Google Slides)<a href="https://docs.google.com/presentation/d/1GNX7_zz8tf7mtFBxjjZxUSof411s1l5wqE7_eSwbVzE/edit?slide=id.p#slide=id.p"></a></li>
+          <li><a href="https://docs.google.com/presentation/d/1GNX7_zz8tf7mtFBxjjZxUSof411s1l5wqE7_eSwbVzE/edit?slide=id.p#slide=id.p">Miles's slides (Google Slides)</a></li>
         </ul>
       </article>
       <article>
         <h4>Michael Thompson: Solving a Squared Rectangle Puzzle Using Electricity</h4>
         <p>I present a puzzle involving a rectangle tiled by squares where the side lengths of the squares are to be found. From the tiling of the rectangle I derive a graph of nodes and edges. I made a physical realisation of the graph where the edges are resistors. When a voltage is applied to the network of resistors, the voltage across each individual resistor gives side lengths for the squares solving the puzzle.</p>
         <ul>
-          <li>Michael's slides (PDF)<a href="{{site.url}}/assets/talks/2026/MichaelThompson-MichaelThompson-SolvingaMathsPuzzlewithElectricity.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/MichaelThompson-MichaelThompson-SolvingaMathsPuzzlewithElectricity.pdf">Michael's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Phil Ramsden: Cycling in a polygonal rabbit-hole</h4>
         <p>Take an n-sided polygon. Put non-negative integers on its vertices. Put the absolute values of their differences at the midpoints. This makes a new n-sided polygon, and you can repeat the process as many times as you like, creating a beautiful numerical dance. What happens if you let the dance go on and on? John Hoskinson posed this question in a great talk three years ago, and this is my third attempt to answer it, at least in part (missed the deadline one year, came down with flu the next). It depends on the value of n, is the answer; but how, exactly? Amazingly, this is an unsolved problem, but we do have some results. All such processes are eventually cyclic. Once the cycle's been entered, it's either all zeros or a mixture of zeros and one other integer. The maximum length of the cycle depends on n in a surprising and strange way: for example, if n is 28 then the max cycle length is 28, but if n is 29 then it's 475,107. But what we can say is that the max cycle length is (and here I attempt a MathsJam "proof" of sorts) always a factor of the smallest number of the form 2^s - 1 that n divides.</p>
         <ul>
-          <li>Phil's slides (PPT)<a href="{{site.url}}/assets/talks/2026/PhilRamsden-Cyclinginapolygonalrabbit-hole.pptx"></a></li>
-          <li>Phil's slides (PDF)<a href="{{site.url}}/assets/talks/2026/PhilRamsden-Cyclinginapolygonalrabbit-hole.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/PhilRamsden-Cyclinginapolygonalrabbit-hole.pptx">Phil's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/PhilRamsden-Cyclinginapolygonalrabbit-hole.pdf">Phil's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Sam Hartburn: The Dangers of Being a Pet Rock</h4>
         <p>A question I read in a maths textbook made a claim about pet rocks. I doubted the truth of that claim, so I investigated futher. In my talk I presented the results of that investigation.</p>
         <ul>
-          <li>Sam's slides (PPT)<a href="{{site.url}}/assets/talks/2026/SamHartburn-TheDangersOfBeingAPetRock.pptx"></a></li>
-          <li>Sam's slides (PDF)<a href="{{site.url}}/assets/talks/2026/SamHartburn-TheDangersOfBeingAPetRock.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/SamHartburn-TheDangersOfBeingAPetRock.pptx">Sam's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/SamHartburn-TheDangersOfBeingAPetRock.pdf">Sam's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Peter Rowlett: Superdominoes</h4>
         <p>Dominoes are tiles with two numbers on. Mathematically, we can think of them as 1D line segments with each end labelled with a number. Superdominoes are an extension of this idea to higher dimensions. For example, we can consider one-sided, square tiles in which each edge is labelled using a colour. These are known as MacMahon Squares, published by Percy MacMahon in 1921. One 3D version is called MacMahon's Cubes.</p>
         <ul>
-          <li>Peter's slides (PDF)<a href="{{site.url}}/assets/talks/2026/PeterRowlett-Superdominoes.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/PeterRowlett-Superdominoes.pdf">Peter's slides (PDF)</a></li>
         </ul>
       </article>
     </section>
@@ -165,30 +165,30 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
         <h4>Matthew Scroggs: 5 by 5 nonograms</h4>
         <p>Inspired by the collaborative effort to solve every 5 by 5 nonogram puzzle in 2025<a href="https://pixelogic.app/every-5x5-nonogram), Scroggs has been playing with nonograms and found a set of 5 by 5 nonograms that when solved resemble the alphabet, and when concatenated lead to solvable 5 by 5n nonograms so can be used to make a nonogram for any word or phrase.</p>
         <ul>
-          <li>Scroggs' slides (online)<a href="https://mscroggs.github.io/mj2026-slides/"></a></li>
+          <li><a href="https://mscroggs.github.io/mj2026-slides/">Scroggs' slides (online)</a></li>
         </ul>
       </article>
       <article>
         <h4>Martin Whitworth: Least action</h4>
         <p>Martin presented the principle of Least Action, which states that particle trajectories are those that minimise a particular function. Martin presented approaches due to Lagrange and Maupertuis. Martin used Excel's solver function to do that minimisation and thence derived several particle trajectories. Newton's and Kepler's laws emerge from this simple principle.</p>
         <ul>
-          <li>Martin's slides (PPT)<a href="{{site.url}}/assets/talks/2026/MartinWhitworth-LeastAction.pptx"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/MartinWhitworth-LeastAction.pptx">Martin's slides (PPT)</a></li>
         </ul>
       </article>
       <article>
         <h4>Tony Mann: How do we know what is 2+2?</h4>
         <p>We learn basic addition at the beginning of our maths education, but how do we know that what we are told is true?  This talk will resolve any doubts you might have about 2+2 by providing two entertaining arguments establishing its value beyond doubt.</p>
         <ul>
-          <li>Tony's slides (PPT)<a href="{{site.url}}/assets/talks/2026/TonyMann-Howdoweknowwhatis2plus2.pptx"></a></li>
-          <li>Tony's slides (PDF)<a href="{{site.url}}/assets/talks/2026/TonyMann-Howdoweknowwhatis2plus2.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/TonyMann-Howdoweknowwhatis2plus2.pptx">Tony's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/TonyMann-Howdoweknowwhatis2plus2.pdf">Tony's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Zeno Norris: Discovering Mathematics: The Joy of Understanding</h4>
         <p>A Mathematics university student talks about his experience learning mathematics at a higher level. Mainly a commentary on some interesting new topics and the general process by which he learns it against what it must have been like to discover this.</p>
         <ul>
-          <li>Zeno's slides (PPT)<a href="{{site.url}}/assets/talks/2026/ZenoNorris-DiscoveringMathematics.pptx"></a></li>
-          <li>Zeno's slides (PDF)<a href="{{site.url}}/assets/talks/2026/ZenoNorris-DiscoveringMathematics.pdf"></a></li>
+          msng
+          <li><a href="{{site.url}}/assets/talks/2026/ZenoNorris-DiscoveringMathematics.pdf">Zeno's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
@@ -228,31 +228,31 @@ Here are 3 videos I've made showing some solutions:
         <h4>Elinor Flavell: How long is a piece of string? Exploring a 216-year-old book of measurements designed for Young Ladies</h4>
         <p>Again I can get this to you by the 30th October.</p>
         <ul>
-          <li>Elinor's slides (PPT)<a href="{{site.url}}/assets/talks/2026/ElinorFlavell-HowLongisaPieceofString.pptx"></a></li>
-          <li>Elinor's slides (PDF)<a href="{{site.url}}/assets/talks/2026/ElinorFlavell-HowLongisaPieceofString.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ElinorFlavell-HowLongisaPieceofString.pptx">Elinor's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ElinorFlavell-HowLongisaPieceofString.pdf">Elinor's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Mats Vermeeren: Rattleback dynamics</h4>
         <p>Rotating bodies often have counterintuitive properties. A rattleback is a prime example of this. It spins very happily in one direction, but emphatically objects to spinning in the other direction. We'll observe the rattleback's behaviour under the document camera and consider a simplified mathematical model. The model shows perfect symmetry between the two directions of spin, so there should not be any difference in the rattleback's behaviour when spun clockwise or anti-clockwise. Clearly the rattleback I brought with me is lying about its directional preferences! Not to worry, I'll also bring a second rattleback that tells the truth.</p>
         <ul>
-          <li>Mats's video<a href="https://app-share.mailbox.org/appsuite/api/share/001460fe03bb234003eadba3bb2346728937d4addddff31b/1/8/MzQ/MzQvNjc"></a></li>
+          <li><a href="https://app-share.mailbox.org/appsuite/api/share/001460fe03bb234003eadba3bb2346728937d4addddff31b/1/8/MzQ/MzQvNjc">Mats's video</a></li>
         </ul>
       </article>
       <article>
         <h4>Harlan Connor: Maths in medieval swordfighting pedagogy</h4>
         <p>During the Renaissance, the fencing masters decided there was a deep connection between waving a stick around and constructive geometry, and worked to present their instruction in mathematical terms. The complete lack of any such connection was not going to stop them... Expect crazy diagrams that make even category theorists tremble in fear, and a crazy woman waving a stick around while saying random geometry facts (very safely and with approval from the MathsJam team for each action ofc!)</p>
         <ul>
-          <li>Harlan's slides (PPT)<a href="{{site.url}}/assets/talks/2026/HarlanConnor-Mathsinmedievalswordfightingpedagogy.pptx"></a></li>
-          <li>Harlan's slides (PDF)<a href="{{site.url}}/assets/talks/2026/HarlanConnor-Mathsinmedievalswordfightingpedagogy.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/HarlanConnor-Mathsinmedievalswordfightingpedagogy.pptx">Harlan's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/HarlanConnor-Mathsinmedievalswordfightingpedagogy.pdf">Harlan's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Callum Ilkiw-Jenkins: Recurrence and Solo maths adventures</h4>
         <p>The talk is about the golden ratio, recurrence relationships, and how to still independently explore a mathematical space when everyone around you tells you to rush towards an answer.</p>
         <ul>
-          <li>Callum's slides (PPT)<a href="{{site.url}}/assets/talks/2026/CallumIlkiw-Jenkins-RecurrenceRelations.pptx"></a></li>
-          <li>Callum's slides (PDF)<a href="{{site.url}}/assets/talks/2026/CallumIlkiw-Jenkins-RecurrenceRelations.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/CallumIlkiw-Jenkins-RecurrenceRelations.pptx">Callum's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/CallumIlkiw-Jenkins-RecurrenceRelations.pdf">Callum's slides (PDF)</a></li>
         </ul>
       </article>
     </section>
@@ -262,29 +262,29 @@ Here are 3 videos I've made showing some solutions:
         <h4>Andrew Taylor: This 1998 computer game is topologically impossible</h4>
         <p>Populous The Beginning (PC, 1998) allowed players to view, explore, and conquer entire planets. But spheres confusing to play on and hard to program, so really the game took place on a square which wrapped around like in Asteroids — which MathsJam regulars will know makes it a torus. They made it look like a sphere by projecting the maps onto a sphere, and moving the map to simulate rotating the sphere. We can use this trick to make convincing-looking spheres tiled with any shape, whether or not it can tile a real sphere, including a 3D animated version of a certain controversial UK roadsign…</p>
         <ul>
-          <li>Andrew's slides (online)<a href="https://stuff.andrewt.net/populous-talk/video/index.html"></a></li>
+          <li><a href="https://stuff.andrewt.net/populous-talk/video/index.html">Andrew's slides (online)</a></li>
         </ul>
       </article>
       <article>
         <h4>Zoe Griffiths: Quest for the Most Mathematically Sensible Name</h4>
         <p>Zoe takes us on a tour of her quest for the most mathematically sensible name (with no overlap with her talk from last year).</p>
         <ul>
-          <li>Zoe's slides (PDF)<a href="{{site.url}}/assets/talks/2026/ZoeGriffiths-TheMostMathematicallySensibleName.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ZoeGriffiths-TheMostMathematicallySensibleName.pdf">Zoe's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Tom Briggs : A Year of Maths in Museums</h4>
         <p>Every museum has maths in it, but most don't draw attention to it. Many maths fans are also regular visitors of museums, galleries, libraries, and heritage sites of all varieties; but it's not always obvious that these sites of historical intrigue and creative exploration are also mathematical playgrounds too. This talk fires off some quick examples that I've stumbled upon over the last year in the hope that some other heritage fans will start sharing mathematical museum findings that they've dug up for others to find via the #MathsInMuseums hashtag.</p>
         <ul>
-          <li>Tom's slides (Google Slides)<a href="https://docs.google.com/presentation/d/1DzKrR13HhKKgcxHMZ9H792SIa0fFGMUBRVsvYoGs4Is/edit?usp=sharing"></a></li>
+          <li><a href="https://docs.google.com/presentation/d/1DzKrR13HhKKgcxHMZ9H792SIa0fFGMUBRVsvYoGs4Is/edit?usp=sharing">Tom's slides (Google Slides)</a></li>
         </ul>
       </article>
       <article>
         <h4>Professor Hamish McSporran : Sudoku and the Phistomefel Ring</h4>
         <p>Professor Hamish McSporran (Edinburgh and Perth mathscot) introduces and proves the Phistomefel Ring and shows how it can be used to help solve a Sudoku. Also: Who is Phistomefel and what is his `Lighthouse' Sudoku?</p>
         <ul>
-          <li>Hamish's slides (PPT)<a href="{{site.url}}/assets/talks/2026/HamishMcSporran-PhistomefelRing.pptx"></a></li>
-          <li>Hamish's slides (PDF)<a href="{{site.url}}/assets/talks/2026/HamishMcSporran-PhistomefelRing.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/HamishMcSporran-PhistomefelRing.pptx">Hamish's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/HamishMcSporran-PhistomefelRing.pdf">Hamish's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
@@ -298,28 +298,29 @@ Here are 3 videos I've made showing some solutions:
         <h4>Jen Sparks: Catching my drift</h4>
         <p>Jen's flown planes for the RAF, and shares how to calculate the direction you should be flying in if you want to fly in a particular direction despite a crosswind - it uses a bit of trigonometry (which you do using a lookup table when you can't get out a calculator because you're too busy flying a plane!)</p>
         <ul>
-          <li>Jen's slides (PPT)<a href="{{site.url}}/assets/talks/2026/JenSparks-Catchingmydrift.pptx"></a></li>
-          <li>Jen's slides (PDF)<a href="{{site.url}}/assets/talks/2026/JenSparks-Catchingmydrift.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/JenSparks-Catchingmydrift.pptx">Jen's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/JenSparks-Catchingmydrift.pdf">Jen's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Nicholas Jackson: The Mathematics of Magic</h4>
         <p>A look at some of the ways mathematics has been used in SF and fantasy to represent magic, an esoteric discipline with strange words and arcane symbols, which takes many years of mysterious and dangerous study to perfect. Including block transfer computation, symbolic logic spells, and the Turing-Lovecraft Theorem.</p>
         <ul>
-          <li>Nicholas's slides (PDF)<a href="{{site.url}}/assets/talks/2026/NicholasJackson-TheMathematicsofMagic.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/NicholasJackson-TheMathematicsofMagic.pdf">Nicholas's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Gavan Fantom: Multiplying Polynomials for Fun and Profit</h4>
         <p>We're taught to use the distributive property to multiply polynomials, but it's not the only way to do it. We explore how a different way of representing polynomials reveals some interesting symmetries that we can exploit to speed up the process, and rediscover an algorithm that you may already be familiar with from another context - the Fast Fourier Transform</p>
         <ul>
-          <li>Gavan's video<a href="{{site.url}}/assets/talks/2026/GavanFantom-MultiplyingPolynomialsforFunandProfit.mp4"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/GavanFantom-MultiplyingPolynomialsforFunandProfit.mp4">Gavan's video</a></li>
         </ul>
       </article>
       <article>
         <h4>Matt Peperell: Tricks in Maths</h4>
+        <p>log(1+2+3) = log(1) + log(2) + log(3) works because 1+2+3 = 1*2*3. But this does not generalise to an arbitrary integer triple. This talk will cover that example and other non-generalisable techniques.</p>
         <ul>
-          <li>Matt's slides (online)<a href="https://www.peperell.com/stuff/2026-mathsjam.html"></a></li>
+          <li><a href="https://www.peperell.com/stuff/2026-mathsjam.html">Matt's slides (online)</a></li>
         </ul>
       </article>
     </section>
@@ -329,24 +330,24 @@ Here are 3 videos I've made showing some solutions:
         <h4>Clare Wallace: How to make a quilt</h4>
         <p>Making a patchwork quilt is a process of cutting fabric into smaller pieces and then joining those pieces together into bigger ones, over and over again. In this talk we ask: what’s the best way to do it? And what’s the worst?!</p>
         <ul>
-          <li>Clare's slides (PPT)<a href="{{site.url}}/assets/talks/2026/ClareWallace-HowtoMakeaQuilt.pptx"></a></li>
-          <li>Clare's slides (PDF)<a href="{{site.url}}/assets/talks/2026/ClareWallace-HowtoMakeaQuilt.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ClareWallace-HowtoMakeaQuilt.pptx">Clare's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/ClareWallace-HowtoMakeaQuilt.pdf">Clare's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Donald Bell: Using AI to design an entry for the Competition Competition</h4>
         <p>I had grandiose ideas of making a "shamrock" shape (a polygon) with vertices on a square grid, and inviting participants to divide it exactly into three parts of equal area by choosing the correct internal point and connecting it by straight lines to the three correct points on the perimeter. This turned out to be far too complicated for someone to solve by hand. But the AI systems helped me to simplify my ideas and create somethig more manageable. It also wrote the Python code (using the pygame package) to create all the images I needed. My entry will actually be three puzzles of varying difficulty</p>
         <ul>
-          <li>Donald's slides (PPT)<a href="{{site.url}}/assets/talks/2026/DonaldBell-UsingAItodesignanentryfortheCompetitionCompetition.pptx"></a></li>
-          <li>Donald's slides (PDF)<a href="{{site.url}}/assets/talks/2026/DonaldBell-UsingAItodesignanentryfortheCompetitionCompetition.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/DonaldBell-UsingAItodesignanentryfortheCompetitionCompetition.pptx">Donald's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/DonaldBell-UsingAItodesignanentryfortheCompetitionCompetition.pdf">Donald's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
         <h4>Bob Huxley: Hilbert vs Aleph 0</h4>
         <p>Hilbert's Hotel seeks to recover: (a) costs associated with relocating rooms, and (b) loss of revenue, after accommodating an exceptional influx of guests from a coach company.</p>
         <ul>
-          <li>Bob's slides (ODP)<a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvsAlephZero.odp"></a></li>
-          <li>Bob's slides (PDF)<a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvsAlephZero.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvsAlephZero.odp">Bob's slides (ODP)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvsAlephZero.pdf">Bob's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
@@ -357,7 +358,7 @@ Here are 3 videos I've made showing some solutions:
         <h4>Rob Low: Fractions of infinity</h4>
         <p>There was a (fairly) recent (in a very fast moving world) announcement that AI had shown that (at least) 3/4 of the zeros of the Riemann zeta function have real part -1/2. I'm going to try to explain what the 3/4 bit of that statement means. The problem is that it's difficult to say just what we mean by something like 'three quarters of a countably infinite set', because there's no way of assigning the same weight to each element so that they add up to 1. For the positive integers, the standard way of saying that some fraction of them have a given property is to consider what fraction of the integers less than some N have the property, then look at that fraction in the limit as N grows large. The subtlety is that this depends crucially on the ordering, and we can change the result by changing the ordering. We can see, for example, that the fraction of integers which are prime can be 0 or 1 (which is not the same as none of the integers or all of them), depending on how we order them.</p>
         <ul>
-          <li>Rob's slides (PDF)<a href="{{site.url}}/assets/talks/2026/RobLow-Fractionsofinfinity.pdf"></a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/RobLow-Fractionsofinfinity.pdf">Rob's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
