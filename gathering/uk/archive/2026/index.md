@@ -4,7 +4,7 @@ title: MathsJam Gathering 2026
 ---
   
   
-The 2026 MathsJam Gathering will take place on the weekend of 14-15 November 2026, at Kent's Hill Park in Milton Keynes. Below are links to things people shared at MathsJam.
+The 2026 MathsJam Gathering took place on the weekend of 14-15 November 2026, at Kent's Hill Park in Milton Keynes. Below are links to things people shared at MathsJam.
 
   <ul>
     <li>Talks Programme
@@ -54,7 +54,7 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
         <h4>Mike Frost: Real-world control theory</h4>
         <p>In recent MathsJams, we have had some excellent talks about Control Theory. I am a maths graduate who has just retired from a 40-year career in control and systems engineering, so I wanted to share some of my experiences. The systems I controlled were rather larger than the electronic systems which are usually presented as examples. I’d like to tell you about control theory problems - and solutions - in a steel rolling mill. In particular, one of the most widely used modelling techniques can produce positive feedback. Rolling steel 24 / 7 / 52 / 40 requires maths skills as well as engineering skills.</p>
         <ul>
-          <li<a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.ppt">>Mike's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.ppt">Mike's slides (PPT)</a></li>
           <li><a href="{{site.url}}/assets/talks/2026/MikeFrost-RealWorldControlTheory.pdf">Mike's slides (PDF)</a></li>
         </ul>
       </article>
@@ -68,7 +68,7 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
       </article>
       <article>
         <h4>Justin Roughley: Something knotty</h4>
-        <p>An exploration of filling the plane with Celtic knots with symmettry of the 17 wallpaper groups</p>
+        <p>An exploration of filling the plane with Celtic knots with symmetry of the 17 wallpaper groups</p>
         <ul>
           <li><a href="https://www.knotworthy.co.uk/knots-bqitii70/">Justin's slides (online)</a></li>
         </ul>
@@ -132,7 +132,7 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
         <h4>Michael Thompson: Solving a Squared Rectangle Puzzle Using Electricity</h4>
         <p>I present a puzzle involving a rectangle tiled by squares where the side lengths of the squares are to be found. From the tiling of the rectangle I derive a graph of nodes and edges. I made a physical realisation of the graph where the edges are resistors. When a voltage is applied to the network of resistors, the voltage across each individual resistor gives side lengths for the squares solving the puzzle.</p>
         <ul>
-          <li><a href="{{site.url}}/assets/talks/2026/MichaelThompson-MichaelThompson-SolvingaMathsPuzzlewithElectricity.pdf">Michael's slides (PDF)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/MichaelThompson-SolvingaMathsPuzzlewithElectricity.pdf">Michael's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
@@ -243,7 +243,6 @@ Here are 3 videos I've made showing some solutions:
         <h4>Harlan Connor: Maths in medieval swordfighting pedagogy</h4>
         <p>During the Renaissance, the fencing masters decided there was a deep connection between waving a stick around and constructive geometry, and worked to present their instruction in mathematical terms. The complete lack of any such connection was not going to stop them... Expect crazy diagrams that make even category theorists tremble in fear, and a crazy woman waving a stick around while saying random geometry facts (very safely and with approval from the MathsJam team for each action ofc!)</p>
         <ul>
-          <li><a href="{{site.url}}/assets/talks/2026/HarlanConnor-Mathsinmedievalswordfightingpedagogy.pptx">Harlan's slides (PPT)</a></li>
           <li><a href="{{site.url}}/assets/talks/2026/HarlanConnor-Mathsinmedievalswordfightingpedagogy.pdf">Harlan's slides (PDF)</a></li>
         </ul>
       </article>
@@ -352,8 +351,8 @@ Here are 3 videos I've made showing some solutions:
         <h4>Bob Huxley: Hilbert vs Aleph 0</h4>
         <p>Hilbert's Hotel seeks to recover: (a) costs associated with relocating rooms, and (b) loss of revenue, after accommodating an exceptional influx of guests from a coach company.</p>
         <ul>
-          <li><a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvsAlephZero.odp">Bob's slides (ODP)</a></li>
-          <li><a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvsAlephZero.pdf">Bob's slides (PDF)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvAlephZero.odp">Bob's slides (ODP)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/BobHuxley-HilbertvAlephZero.pdf">Bob's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
@@ -364,7 +363,7 @@ Here are 3 videos I've made showing some solutions:
         <h4>Rob Low: Fractions of infinity</h4>
         <p>There was a (fairly) recent (in a very fast moving world) announcement that AI had shown that (at least) 3/4 of the zeros of the Riemann zeta function have real part -1/2. I'm going to try to explain what the 3/4 bit of that statement means. The problem is that it's difficult to say just what we mean by something like 'three quarters of a countably infinite set', because there's no way of assigning the same weight to each element so that they add up to 1. For the positive integers, the standard way of saying that some fraction of them have a given property is to consider what fraction of the integers less than some N have the property, then look at that fraction in the limit as N grows large. The subtlety is that this depends crucially on the ordering, and we can change the result by changing the ordering. We can see, for example, that the fraction of integers which are prime can be 0 or 1 (which is not the same as none of the integers or all of them), depending on how we order them.</p>
         <ul>
-          <li><a href="{{site.url}}/assets/talks/2026/RobLow-Fractionsofinfinity.pdf">Rob's slides (PDF)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/RobLow-FractionsofInfinity.pdf">Rob's slides (PDF)</a></li>
         </ul>
       </article>
       <article>
