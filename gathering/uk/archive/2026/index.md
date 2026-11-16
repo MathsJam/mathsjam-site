@@ -187,7 +187,7 @@ This is a list of talks which were given at the 2026 MathsJam Gathering, includi
         <h4>Zeno Norris: Discovering Mathematics: The Joy of Understanding</h4>
         <p>A Mathematics university student talks about his experience learning mathematics at a higher level. Mainly a commentary on some interesting new topics and the general process by which he learns it against what it must have been like to discover this.</p>
         <ul>
-          msng
+          <li><a href="{{site.url}}/assets/talks/2026/ZenoNorris-DiscoveringMathematics.pptx">Zeno's slides (PPT)</a></li>
           <li><a href="{{site.url}}/assets/talks/2026/ZenoNorris-DiscoveringMathematics.pdf">Zeno's slides (PDF)</a></li>
         </ul>
       </article>
