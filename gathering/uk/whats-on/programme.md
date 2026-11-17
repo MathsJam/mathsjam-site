@@ -16,8 +16,6 @@ minimenu:
 
 <h2 id="schedule">Schedule of talks</h2>
 
-<a href="https://mathsjam.com/gathering/uk/archive/2026" class="small-to-action">Click here to see the 2026 talks schedule</a>
-
 On Saturday afternoon and Sunday morning we have a schedule of five-minute talks. Past talks have included everything from people sharing a mathematical phone game they enjoy, to the ways they made their wedding more mathematical, as well as puzzles, weird mathematical concepts and observations of real-world things containing interesting maths.
 
 All talk sessions are livestreamed to remote attendees, and the breaks between sessions include opportunities for both in-person and remote attendees to talk to the speakers from the previous session.
@@ -28,6 +26,7 @@ All talk sessions are livestreamed to remote attendees, and the breaks between s
 
 Some examples of previous talks can be found on YouTube:
 
+* [Christian's talk from 2026 about writing the number 1](https://www.youtube.com/watch?v=awi0r7bP_lk)
 * [Ben's talk from 2023 about interesting street names](https://www.youtube.com/watch?v=MwRbr-MjwII)
 * [Luna's talk from 2023 about the history of Fizz Buzz](https://www.youtube.com/watch?v=rwwYmFsiJQM)
 * [Christian's talk from 2022 about five fun things with trains (including a puzzle)](https://www.youtube.com/watch?v=aNV23fDvq1Y)
@@ -64,9 +63,9 @@ Tables are run by MathsJam attendees. Full information on how to submit a table 
 - you'll get a one-minute talk slot during the day in a special lightning session to explain/advertise your activity.
 
 
-<h2 id="bletchley">Bletchley Park Trip</h2>
+<h2 id="bletchley">Bletchley Park Trip on Friday</h2>
 
-Attention, top-secret codebreakers! You didn't hear this from me, but a few MathsJam early-arrivers will be taking the opportunity to visit the home of codebreaking in World War II, [Bletchley Park](https://www.bletchleypark.org.uk/) (which is near to Milton Keynes).
+Attention, top-secret codebreakers! You didn't hear this from me, but a few MathsJam early-arrivers take the opportunity to visit the home of codebreaking in World War II, [Bletchley Park](https://www.bletchleypark.org.uk/) (which is near to Milton Keynes).
 
 If you'd like to join an informal pre-MathsJam Friday meetup, break your cover and let Tom know (email [tom@tkbriggs.co.uk](mailto:tom@tkbriggs.co.uk) or contact [@TeaKayB@Mathstodon.xyz on Mastodon](https://mathstodon.xyz/@TeaKayB) / [@TeaKayB.mathsy.space on BlueSky](https://bsky.app/profile/teakayb.mathsy.space)). You can also find Tom in the MathsJam Gathering Signal chat, which you should get a link to join on signing up for MathsJam.
 
