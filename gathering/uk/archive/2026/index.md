@@ -355,6 +355,10 @@ Here are 3 videos I've made showing some solutions:
       <article>
         <h4>Louise Mabbs: Mani-fold, a Shape Book Project</h4>
         <p>Louise has been working on a mathematical shape book, showing the shapes with all possible numbers of sides from 1 up to 20, including regular and irregular shapes, as a single fabric book which folds out. She's also been building fabric 3D polyhedra using shapes with 1-inch sides, and shares her progress on the project.</p>
+        <ul>
+          <li><a href="{{site.url}}/assets/talks/2026/LouiseMabbs-Mani-fold.pptx">Louise's slides (PPT)</a></li>
+          <li><a href="{{site.url}}/assets/talks/2026/LouiseMabbs-Mani-fold.pdf">Louise's slides (PDF)</a></li>
+        </ul>        
       </article>
       <article>
         <h4>Rob Low: Fractions of infinity</h4>
