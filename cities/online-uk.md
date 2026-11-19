@@ -12,7 +12,7 @@ location:
     software: Gather.town and Slack
     lon: -0.1155541
     lat: 51.5179489
-hiatus: false
+hiatus: true
 hiatus_months:
     - 2020-03
 changed_dates:
