@@ -13,7 +13,7 @@ minimenu:
 
 The MathsJam Gathering is an event for people to get together and play with fun maths, and around the scheduled activities there are long breaks for you to do just that.
 
-The timings below are provisional and subject to change.
+The timings below are from the 2026 event, and for future events may be provisional and subject to change.
 
 **Friday**
 

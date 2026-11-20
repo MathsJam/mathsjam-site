@@ -45,7 +45,7 @@ All materials will be provided, though you might find it useful to bring some co
 
 ### I Making OEIS Sequence A400000: The city-building sequence (Peter Rowlett)
 
-The [city-building sequence]( https://oeis.org/A400000): a(n) = the height h of the shortest building which can see exactly h earlier buildings. We will build terms of this sequence (buildings) from cubes and draw it on paper.
+The [city-building sequence](https://oeis.org/A400000): a(n) = the height h of the shortest building which can see exactly h earlier buildings. We will build terms of this sequence (buildings) from cubes and draw it on paper.
 
 ### J Circus Workshop (Rob Woolley)
 

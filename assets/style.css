@@ -503,7 +503,8 @@ body.gathering article > * ~ * {
     border-color: black;  
 }
 
-#archive-years {
+#archive-years,
+#archive-years-17 {
     display: grid;
     grid-template-columns: repeat(auto-fill,8em);
     list-style: none;
@@ -514,4 +515,111 @@ body.gathering article > * ~ * {
 
 html {
   scroll-behavior: smooth;
+}
+
+@media(min-width:1300px) {
+
+.content-block:has(> ul#archive-years-17) {
+    min-height: 50vw;
+}
+#archive-years-17 {
+    list-style: none;
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+}
+
+#archive-years-17 li {
+    display:inline-block;
+    position: absolute;
+}
+
+#archive-years-17 img {
+    width: 9.693974586623401vw;
+    height: 9.693974586623401vw;
+    border: 0.6vw solid var(--image-border-colour);
+}
+#archive-years-17 li:nth-of-type(17) {
+    left: 39.306025413376645vw;
+    bottom: 0vw;
+}
+#archive-years-17 li:nth-of-type(16) {
+    left: 19.755244747939475vw;
+    bottom: 0vw;
+}
+#archive-years-17 li:nth-of-type(15) {
+    left: 0vw;
+    bottom: 0vw;
+}
+#archive-years-17 li:nth-of-type(14) {
+    left: 29.355748521561548vw;
+    bottom: 8.587649058329589vw;
+    transform-origin: center;
+    transform: rotate(-36.6237863834465deg) ;
+}
+#archive-years-17 li:nth-of-type(13) {
+    left: 39.306025413376645vw;
+    bottom: 16.704736466445517vw;
+}
+#archive-years-17 li:nth-of-type(12) {
+    left: 10.010025336791198vw;
+    bottom: 8.42136233299357vw;
+    transform-origin: center;
+    transform: rotate(39.8049589797677deg) ;
+}
+#archive-years-17 li:nth-of-type(11) {
+    left: 19.12701304134587vw;
+    bottom: 14.744348946061624vw;
+    transform-origin: center;
+    transform: rotate(39.8049589797677deg) ;
+}
+#archive-years-17 li:nth-of-type(10) {
+    left: 27.025040304830632vw;
+    bottom: 22.083113860785485vw;
+    transform-origin: center;
+    transform: rotate(39.8049589797677deg) ;
+}
+#archive-years-17 li:nth-of-type(9) {
+    left: 2.183732663135185vw;
+    bottom: 15.734343576994586vw;
+    transform-origin: center;
+    transform: rotate(39.8049589797677deg) ;
+}
+#archive-years-17 li:nth-of-type(8) {
+    left: 11.300720367689893vw;
+    bottom: 22.057330190062622vw;
+    transform-origin: center;
+    transform: rotate(39.8049589797677deg) ;
+}
+#archive-years-17 li:nth-of-type(7) {
+    left: 19.19874763117465vw;
+    bottom: 29.396095104786475vw;
+    transform-origin: center;
+    transform: rotate(39.8049589797677deg) ;
+}
+#archive-years-17 li:nth-of-type(6) {
+    left: 39.306025413376645vw;
+    bottom: 28.612050826753194vw;
+}
+#archive-years-17 li:nth-of-type(5) {
+    left: 0vw;
+    bottom: 28.612050826753194vw;
+}
+#archive-years-17 li:nth-of-type(4) {
+    left: 39.306025413376645vw;
+    bottom: 39.306025413376645vw;
+}
+#archive-years-17 li:nth-of-type(3) {
+    left: 28.612050826753194vw;
+    bottom: 39.306025413376645vw;
+}
+#archive-years-17 li:nth-of-type(2) {
+    left: 10.693974586623407vw;
+    bottom: 39.306025413376645vw;
+}
+#archive-years-17 li:nth-of-type(1) {
+    left: 0vw;
+    bottom: 39.306025413376645vw;
+}
+
 }
