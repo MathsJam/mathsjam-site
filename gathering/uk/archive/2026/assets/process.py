@@ -5,10 +5,10 @@ dirname = Path().resolve().name
 
 Path('smaller').mkdir(exist_ok=True)
 
-url = '{{site.url}}/gathering/uk/archive/2025/assets/'+dirname
+url = '{{site.url}}/gathering/uk/archive/2026/assets/'+dirname
 
 for f in sorted(Path().iterdir(), key=lambda f: f.name):
-    if f.is_file() and f.suffix == '.jpg':
+    if f.is_file() and f.suffix in ('.jpg', '.png', '.jpeg'):
         spath = (Path('smaller') / f.name).with_suffix('.webp')
         if not spath.exists():
             subprocess.run(['convert','-resize','200',str(f),str(spath)])

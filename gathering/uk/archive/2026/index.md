@@ -32,6 +32,7 @@ The 2026 MathsJam Gathering took place on the weekend of 14-15 November 2026, at
     <li><a href="https://drive.google.com/drive/folders/11b_clbY1IwyiPJrt6dO2u9Zesak1I5cN">MathsJam Jam Songbook</a></li>
     <li><a href="2026.png">Andrew's 2026 Doodle</a></li>
     <li><a href="cakes">Bakeoff Entries</a></li>
+    <li><a href="compcomp">Competition Competition Entries</a></li>
     <li><a href="tables">Saturday Night Table activities</a></li>
   </ul>
   
