@@ -25,5 +25,7 @@ changed_dates:
     - 2027-08-25
     - 2027-11-24
     - 2027-12-16
+extra_text: "In December 2026, Perth MathsJam will be joined by guests from <a href='https://mathsjam.com/cities/edinburgh'>Edinburgh MathsJam</a> and <a href='https://mathsjam.com/cities/edinburgh'>Glasgow MathsJam</a> for the month, and their normal Jams won't be running in December."
+
 ---
 

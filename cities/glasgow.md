@@ -15,6 +15,9 @@ location:
     lon: -4.321713
     lat: 55.8883603
 hiatus: false
+hiatus_months:
+	- 2026-12
+extra_text: "In December 2026, Edinburgh MathsJam will not be meeting as usual but will be joining <a href='https://mathsjam.com/cities/perth'>Perth MathsJam</a> for their meeting on 16th December. We'll be back to normal from January!"
 
 ---
 

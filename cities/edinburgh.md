@@ -25,9 +25,11 @@ hiatus_months:
     - 2023-12
     - 2025-12
     - 2026-08
+    - 2026-12
 changed_dates:
     - 2020-08-19
     - 2024-12-14
-extra_text: "There will be no Edinburgh MathsJam in August, but you're welcome to visit other Scottish Jams for the month!" 
+extra_text: "In December 2026, Edinburgh MathsJam will not be meeting as usual but will be joining <a href='https://mathsjam.com/cities/perth'>Perth MathsJam</a> for their meeting on 16th December. We'll be back to normal from January!" 
+
 ---
 
