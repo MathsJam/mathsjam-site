@@ -29,7 +29,7 @@ hiatus_months:
 changed_dates:
     - 2020-08-19
     - 2024-12-14
-extra_text: "In December 2026, Edinburgh MathsJam will not be meeting as usual but will be joining <a href='https://mathsjam.com/cities/perth'>Perth MathsJam</a> for their meeting on 16th December. We'll be back to normal from January!" 
+extra_text: "In December 2026, Edinburgh MathsJam will not be meeting as usual but will be joining <a href=https://mathsjam.com/cities/perth>Perth MathsJam</a> for their meeting on 16th December. We'll be back to normal from January!" 
 
 ---
 
